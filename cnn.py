@@ -12,6 +12,9 @@ from keras.layers.convolutional import Convolution2D, MaxPooling2D, Convolution1
 from keras.regularizers import l2
 from keras.callbacks import EarlyStopping
 from keras.regularizers import l2
+from VA_prediction import build_keras_input
+import numpy as np
+from sklearn import cross_validation
 
 
 def cnn(W=None):
@@ -49,24 +52,17 @@ def cnn(W=None):
 
 
 if __name__ == '__main__':
-    ((x_train_idx_data, y_train_valence, y_train_arousal,
-      x_test_idx_data, y_test_valence, y_test_arousal), W) = build_keras_input()
+    (data, W) = build_keras_input()
+    (idx_data, valence, arousal) = data
 
     maxlen = 200  # cut texts after this number of words (among top max_features most common words)
     batch_size = 16
 
     option = 'valence'  # or arousal
+    Y = np.array(valence) if option == 'Valence' else np.array(arousal)
 
-    if option == 'valence':
-        (X_train, y_train), (X_test, y_test) = (x_train_idx_data, y_train_valence), (
-            x_test_idx_data, y_test_valence)
-
-    elif option == 'arousal':
-        (X_train, y_train), (X_test, y_test) = (x_train_idx_data, y_train_arousal), (
-            x_test_idx_data, y_test_arousal)
-
-    else:
-        raise Exception('Error input of option, please input valence or arousal only.')
+    X_train, X_test, y_train, y_test = cross_validation.train_test_split(idx_data, Y, test_size=0.2,
+                                                                         random_state=0)
 
     print(len(X_train), 'train sequences')
     print(len(X_test), 'test sequences')

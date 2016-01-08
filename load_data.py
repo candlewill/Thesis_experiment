@@ -64,5 +64,6 @@ if __name__=='__main__':
     for i in texts:
         # print(list(i))
         len_text.append(len(list(i)))
-    print(np.mean(np.array(len_text)), np.sum((np.array(len_text))))
+    print(np.mean(np.array(len_text)), np.sum((np.array(len_text))), np.max(np.array(len_text)),
+          np.min(np.array(len_text)))
     print(len(texts), len(valence), len(arousal))
