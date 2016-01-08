@@ -7,7 +7,7 @@ def draw_scatter(x, y, x_labels, y_labels):
 
     fig = plt.figure()
     ax1 = fig.add_subplot(111)
-    ax1.scatter(x, y, marker='o', picker=True)
+    ax1.scatter(x, y, marker='o')
     plt.axhline(mean(y), color='black')
     plt.axvline(mean(x), color='black')
     plt.xlabel(x_labels)
