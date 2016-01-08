@@ -40,11 +40,11 @@ def cnn(W=None):
 
     # aggregate data in every feature map to scalar using MAX operation
     # model.add(MaxPooling2D(pool_size=(conv_input_height-kernel_size+1, 1), border_mode='valid'))
-    model.add(MaxPooling2D(pool_size=(kernel_size * 5, 1), border_mode='valid'))
-    model.add(Dropout(0.4))
+    model.add(MaxPooling2D(pool_size=(kernel_size, 1), border_mode='valid'))
+    model.add(Dropout(0.5))
     model.add(Flatten())
     model.add(Dense(output_dim=dense_nb, activation='relu'))
-    model.add(Dropout(0.2))
+    model.add(Dropout(0.5))
     # Inner Product layer (as in regular neural network, but without non-linear activation function)
     model.add(Dense(output_dim=1, activation='linear'))
     # SoftMax activation; actually, Dense+SoftMax works as Multinomial Logistic Regression
