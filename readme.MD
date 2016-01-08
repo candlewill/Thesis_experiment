@@ -22,4 +22,4 @@
  
  VA 分布图
  
- <p align="center"> <img src="./images/cvat_va_scatter(small).png" height="200" /> </p>
+ <p align="center"> <img src="./images/cvat_va_scatter(small).png" height="350" /> </p>
