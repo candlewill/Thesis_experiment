@@ -83,13 +83,11 @@ if __name__ == '__main__':
 
     model = cnn(W)
 
-    model.compile(loss='mean_squared_error', optimizer='adagrad')
+    model.compile(loss='mean_squared_error', optimizer='adagrad')  # loss function: mse
 
     print("Train...")
     early_stopping = EarlyStopping(monitor='val_loss', patience=10)
     model.fit(X_train, y_train, batch_size=batch_size, nb_epoch=20, validation_data=(X_test, y_test),
-              show_accuracy=True,
               callbacks=[early_stopping])
-    score, acc = model.evaluate(X_test, y_test, batch_size=batch_size, show_accuracy=True)
+    score = model.evaluate(X_test, y_test, batch_size=batch_size, show_accuracy=True)
     print('Test score:', score)
-    print('Test accuracy:', acc)
