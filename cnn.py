@@ -78,7 +78,7 @@ def imdb_cnn(W=None):
                             ))
     model.add(Dropout(0.5))
     # we use standard max pooling (halving the output of the previous layer):
-    model.add(MaxPooling1D(pool_length=math.floor((maxlen-kernel_size+1)/1)))
+    model.add(MaxPooling1D(pool_length=math.floor((maxlen - kernel_size + 1) / 2)))
 
     # We flatten the output of the conv layer,
     # so that we can add a vanilla dense layer:
@@ -100,7 +100,7 @@ if __name__ == '__main__':
     (idx_data, valence, arousal) = data
 
     maxlen = 100  # cut texts after this number of words (among top max_features most common words)
-    batch_size = 16
+    batch_size = 8
 
     option = 'valence'  # or arousal
     Y = np.array(valence) if option == 'Valence' else np.array(arousal)
@@ -131,7 +131,7 @@ if __name__ == '__main__':
 
     print("Train...")
     early_stopping = EarlyStopping(monitor='val_loss', patience=10)
-    model.fit(X_train, y_train, batch_size=batch_size, nb_epoch=10, validation_data=(X_test, y_test),
+    model.fit(X_train, y_train, batch_size=batch_size, nb_epoch=5, validation_data=(X_test, y_test),
               callbacks=[early_stopping])
     score = model.evaluate(X_test, y_test, batch_size=batch_size)
     print('Test score:', score)
@@ -144,5 +144,8 @@ if __name__ == '__main__':
     continuous_metrics(y_test, predict, 'prediction result:')
 
     # visualization
-    from visualize import draw_scatter
-    draw_scatter(y_test, predict, 'True Value', 'Predicted Value', 'Valence prediction result of CVAT2.0 dataset')
+    from visualize import draw_linear_regression
+
+    X = range(50, 100)  # or range(len(y_test))
+    draw_linear_regression(X, np.array(y_test)[X], np.array(predict)[X], 'Sentence Number', 'Valence',
+                           'Comparison of predicted and true Valence')
