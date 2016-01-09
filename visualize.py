@@ -61,6 +61,34 @@ def plot_keras(result, acc=False, x_labels=None, y_labels=None):
     plt.legend(loc='upper right')
     plt.show()
 
+
+def draw_hist(data):
+    plt.figure
+    import matplotlib.mlab as mlab
+    # example data
+    mu = np.mean(data)  # mean of distribution
+    sigma = np.std((data))  # standard deviation of distribution
+
+    num_bins = 10
+    # the histogram of the data
+    n, bins, patches = plt.hist(data, num_bins, normed=1, facecolor='#78A5A3')
+    # add a 'best fit' line
+    y = mlab.normpdf(bins, mu, sigma)
+    plt.plot(bins, y, '--', color="#CE5A57")
+    plt.xlabel('Absolute Error')
+    plt.ylabel('Frequency')
+    plt.title(r'Histogram of VA prediction: $\mu=%.3f$, $\sigma=%.3f$' % (mu, sigma))
+
+    # Tweak spacing to prevent clipping of ylabel
+    plt.subplots_adjust(left=0.15)
+    plt.grid(True)
+    plt.show()
+
+
+# draw_hist(np.array([2,3,2,3,1,5,4,3,2,3,2,3,2,1,4,2,3,5,2]))
+# exit()
+
+
 if __name__=='__main__':
     from load_data import load_CVAT_2
     texts, valence, arousal = load_CVAT_2('./resources/CVAT2.0.csv')
