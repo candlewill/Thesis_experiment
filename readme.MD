@@ -102,3 +102,19 @@
 
  <p align="center"> <img src="./images/arousal迭代过程.png" height="300" /> </p>
 
+3. 使用随机词向量预测CVAT2.0 VA值
+
+ |Metrics|MSE|MAE|pearson_r|R2|Spearman_r|rMSE|
+ |----|----|----|----|----|----|----|
+ |Valence|1.227|0.896|0.611|0.355|0.636|1.108|
+ |Arousal|1.042|0.827|0.292|-0.190|0.250|1.021|
+
+ Valence
+
+ <p align="center"> <img src="./images/valence_rand.png" height="300" /> </p>
+ <p align="center"> <img src="./images/valence_rand_iter.png" height="300" /> </p>
+
+ Arousal
+
+ <p align="center"> <img src="./images/arousal_rand.png" height="300" /> </p>
+ <p align="center"> <img src="./images/arousal_rand_iter.png" height="300" /> </p>
