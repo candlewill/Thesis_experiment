@@ -6,9 +6,9 @@ from statistics import mean
 def draw_scatter(x, y, x_labels, y_labels, title='CVAT 2.0 VA Scatter'):
     fig = plt.figure()
     ax1 = fig.add_subplot(111)
-    ax1.scatter(x, y, marker='o')
-    plt.axhline(mean(y), color='black')
-    plt.axvline(mean(x), color='black')
+    ax1.scatter(x, y, marker='o', color='#78A5A3')
+    plt.axhline(mean(y), color='#CE5A57')
+    plt.axvline(mean(x), color='#CE5A57')
     plt.xlabel(x_labels)
     plt.ylabel(y_labels)
     plt.title(title)
