@@ -24,7 +24,7 @@
  
  <p align="center"> <img src="./images/cvat_va_scatter(small).png" height="350" /> </p>
  
- 2. 使用CNN、word2vec预测va值
+2. 使用CNN、word2vec预测va值
 
  Hyper-parameters:
 
