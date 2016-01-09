@@ -4,7 +4,6 @@ from statistics import mean
 
 
 def draw_scatter(x, y, x_labels, y_labels, title='CVAT 2.0 VA Scatter'):
-
     fig = plt.figure()
     ax1 = fig.add_subplot(111)
     ax1.scatter(x, y, marker='o')
@@ -62,14 +61,14 @@ def plot_keras(result, acc=False, x_labels=None, y_labels=None):
     plt.show()
 
 
-def draw_hist(data):
+def draw_hist(data, title):
     plt.figure
     import matplotlib.mlab as mlab
     # example data
     mu = np.mean(data)  # mean of distribution
     sigma = np.std((data))  # standard deviation of distribution
 
-    num_bins = 10
+    num_bins = 20
     # the histogram of the data
     n, bins, patches = plt.hist(data, num_bins, normed=1, facecolor='#78A5A3')
     # add a 'best fit' line
@@ -77,7 +76,7 @@ def draw_hist(data):
     plt.plot(bins, y, '--', color="#CE5A57")
     plt.xlabel('Absolute Error')
     plt.ylabel('Frequency')
-    plt.title(r'Histogram of VA prediction: $\mu=%.3f$, $\sigma=%.3f$' % (mu, sigma))
+    plt.title(title + r'$\mu=%.3f$, $\sigma=%.3f$' % (mu, sigma))
 
     # Tweak spacing to prevent clipping of ylabel
     plt.subplots_adjust(left=0.15)
@@ -85,11 +84,12 @@ def draw_hist(data):
     plt.show()
 
 
-# draw_hist(np.array([2,3,2,3,1,5,4,3,2,3,2,3,2,1,4,2,3,5,2]))
+# draw_hist(np.array([2,3,2,3,1,5,4,3,2,3,2,3,2,1,4,2,3,5,2]),'few')
 # exit()
 
 
-if __name__=='__main__':
+if __name__ == '__main__':
     from load_data import load_CVAT_2
+
     texts, valence, arousal = load_CVAT_2('./resources/CVAT2.0.csv')
     draw_scatter(valence, arousal, 'Valence', 'Arousal')

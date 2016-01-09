@@ -29,13 +29,13 @@
  Hyper-parameters:
 
  ```python
- N_fm = 100, kernel_size = 3, maxlen = 100, hidden_dims = 100, dropout_p = 0.5, pool_length = pool_length=math.floor((maxlen-kernel_size+1)/2), batch_size = 8, max_nb_epoch=50
+ N_fm = 100, kernel_size = 5, maxlen = 100, hidden_dims = 100, dropout_p = 0.5, pool_length = pool_length=math.floor((maxlen-kernel_size+1)/2), batch_size = 8, max_nb_epoch=50
  ```
  Experiement result:
 
  |Metrics|MSE|MAE|pearson_r|R2|Spearman_r|rMSE|
  |----|----|----|----|----|----|----|
- |Valence|1.193|0.883|0.623|0.372|0.651|1.092|
+ |Valence|1.189|0.874|0.639|0.374|0.662|1.09|
  |Arousal|0.773|0.716|0.387|0.117|0.359|0.879|
 
 
@@ -85,6 +85,10 @@
  <p align="center"> <img src="./images/valence_iter.png" height="300" /> </p>
 
  提前停止防止过拟合，early_stopping （论文中解释下）
+
+ valence直方图，绝对误差和频率
+
+ <p align="center"> <img src="./images/hist_valence.png" height="300" /> </p>
 
  Arousal迭代过程：
 

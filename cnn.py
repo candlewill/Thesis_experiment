@@ -56,7 +56,7 @@ def imdb_cnn(W=None):
     # Number of feature maps (outputs of convolutional layer)
     N_fm = 100
     # kernel size of convolutional layer
-    kernel_size = 3
+    kernel_size = 5
     dims = 300  # 300 dimension
     maxlen = 100  # maxlen of sentence
     max_features = W.shape[0]
@@ -76,7 +76,7 @@ def imdb_cnn(W=None):
                             border_mode='valid',
                             activation='relu',
                             ))
-    model.add(Dropout(0.5))
+    model.add(Dropout(0.4))
     # we use standard max pooling (halving the output of the previous layer):
     model.add(MaxPooling1D(pool_length=math.floor((maxlen - kernel_size + 1) / 2)))
 
@@ -86,7 +86,7 @@ def imdb_cnn(W=None):
 
     # We add a vanilla hidden layer:
     model.add(Dense(hidden_dims))
-    model.add(Dropout(0.5))
+    model.add(Dropout(0.2))
     model.add(Activation('relu'))
 
     # We project onto a single unit output layer, and squash it with a sigmoid:
@@ -102,7 +102,7 @@ if __name__ == '__main__':
     maxlen = 100  # cut texts after this number of words (among top max_features most common words)
     batch_size = 8
 
-    option = 'Valence'  # or Arousal, Valence
+    option = 'Arousal'  # or Arousal, Valence
     Y = np.array(valence) if option == 'Valence' else np.array(arousal)
 
     X_train, X_test, y_train, y_test = cross_validation.train_test_split(idx_data, Y, test_size=0.2,
@@ -127,7 +127,7 @@ if __name__ == '__main__':
 
     model = imdb_cnn(W)
 
-    model.compile(loss='rmse', optimizer='adagrad')  # loss function: mse
+    model.compile(loss='mse', optimizer='adagrad')  # loss function: mse
 
     print("Train...")
     early_stopping = EarlyStopping(monitor='val_loss', patience=10)
@@ -147,9 +147,10 @@ if __name__ == '__main__':
     from visualize import draw_linear_regression
 
     X = range(50, 100)  # or range(len(y_test))
-    draw_linear_regression(X, np.array(y_test)[X], np.array(predict)[X], 'Sentence Number', 'Valence',
-                           'Comparison of predicted and true Valence')
+    draw_linear_regression(X, np.array(y_test)[X], np.array(predict)[X], 'Sentence Number', option,
+                           'Comparison of predicted and true ' + option)
 
-    from visualize import plot_keras
+    from visualize import plot_keras, draw_hist
 
     plot_keras(result, x_labels='Epoch', y_labels='Loss')
+    draw_hist(np.array(y_test) - np.array(predict), title='Histogram of ' + option + ' prediction: ')
