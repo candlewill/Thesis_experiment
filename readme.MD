@@ -80,3 +80,17 @@
 
  <p align="center"> <img src="./images/arousal_rand.png" height="300" /> </p>
  <p align="center"> <img src="./images/arousal_rand_iter.png" height="300" /> </p>
+
+4. 随机产生词向量，不同维度对实验(Valence)的影响
+
+ **10维**
+
+ ```
+ prediction result:
+ MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+ 1.25836214085 0.910268113036 (0.60011948439809737, 1.0890142012958216e-40) 0.338585582905 SpearmanrResult(correlation=0.63293688023783556, pvalue=2.1862829634462172e-46) 1.1217674183395847
+ ```
+
+ <p align="center"> <img src="./images/dim10_valence_comparison.png" height="300" /> </p>
+ <p align="center"> <img src="./images/dim10_valence_hist.png" height="300" /> </p>
+ <p align="center"> <img src="./images/dim10_valence_iter.png" height="300" /> </p>

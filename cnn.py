@@ -57,7 +57,7 @@ def imdb_cnn(W=None):
     N_fm = 100
     # kernel size of convolutional layer
     kernel_size = 5
-    dims = 300  # 300 dimension
+    dims = 50  # 300 dimension
     maxlen = 100  # maxlen of sentence
     max_features = W.shape[0]
     hidden_dims = 100
@@ -66,7 +66,7 @@ def imdb_cnn(W=None):
 
     # we start off with an efficient embedding layer which maps
     # our vocab indices into embedding_dims dimensions
-    model.add(Embedding(max_features, dims, input_length=maxlen, weights=[W]))
+    model.add(Embedding(max_features, dims, input_length=maxlen, weights=None))
     model.add(Dropout(0.5))
 
     # we add a Convolution1D, which will learn nb_filter
@@ -102,7 +102,7 @@ if __name__ == '__main__':
     maxlen = 100  # cut texts after this number of words (among top max_features most common words)
     batch_size = 8
 
-    option = 'Arousal'  # or Arousal, Valence
+    option = 'Valence'  # or Arousal, Valence
     Y = np.array(valence) if option == 'Valence' else np.array(arousal)
 
     X_train, X_test, y_train, y_test = cross_validation.train_test_split(idx_data, Y, test_size=0.2,
