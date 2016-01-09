@@ -94,3 +94,15 @@
  <p align="center"> <img src="./images/dim10_valence_comparison.png" height="300" /> </p>
  <p align="center"> <img src="./images/dim10_valence_hist.png" height="300" /> </p>
  <p align="center"> <img src="./images/dim10_valence_iter.png" height="300" /> </p>
+
+ **50维**
+
+ ```
+ prediction result:
+ MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+ 1.3131630047 0.931548146482 (0.59641990871786488, 4.3503589427249966e-40) 0.309781409411 SpearmanrResult(correlation=0.63282173346108705, pvalue=2.2956331299069574e-46) 1.1459332461809077
+ ```
+
+ <p align="center"> <img src="./images/dim50_valence_comparison.png" height="300" /> </p>
+ <p align="center"> <img src="./images/dim50_valence_hist.png" height="300" /> </p>
+ <p align="center"> <img src="./images/dim50_valence_iter.png" height="300" /> </p>
