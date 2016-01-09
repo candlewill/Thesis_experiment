@@ -57,7 +57,7 @@ def imdb_cnn(W=None):
     N_fm = 100
     # kernel size of convolutional layer
     kernel_size = 5
-    dims = 100  # 300 dimension
+    dims = 200  # 300 dimension
     maxlen = 100  # maxlen of sentence
     max_features = W.shape[0]
     hidden_dims = 100

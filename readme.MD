@@ -106,3 +106,27 @@
  <p align="center"> <img src="./images/dim50_valence_comparison.png" height="300" /> </p>
  <p align="center"> <img src="./images/dim50_valence_hist.png" height="300" /> </p>
  <p align="center"> <img src="./images/dim50_valence_iter.png" height="300" /> </p>
+
+ **100维**
+
+ ```
+ prediction result:
+ MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+ 1.30339259081 0.917410494447 (0.59833307930982149, 2.1303463971132947e-40) 0.314916888616 SpearmanrResult(correlation=0.61738254682301019, pvalue=1.3300052107696708e-43) 1.1416622052139032
+ ```
+
+ <p align="center"> <img src="./images/dim100_valence_comparison.png" height="300" /> </p>
+ <p align="center"> <img src="./images/dim100_valence_hist.png" height="300" /> </p>
+ <p align="center"> <img src="./images/dim100_valence_iter.png" height="300" /> </p>
+
+ **200维**
+
+ ```
+ prediction result:
+ MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+ 1.30339259081 0.917410494447 (0.59833307930982149, 2.1303463971132947e-40) 0.314916888616 SpearmanrResult(correlation=0.61738254682301019, pvalue=1.3300052107696708e-43) 1.1416622052139032
+ ```
+
+ <p align="center"> <img src="./images/dim200_valence_comparison.png" height="300" /> </p>
+ <p align="center"> <img src="./images/dim200_valence_hist.png" height="300" /> </p>
+ <p align="center"> <img src="./images/dim200_valence_iter.png" height="300" /> </p>
