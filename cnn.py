@@ -15,11 +15,12 @@ from keras.regularizers import l2
 from VA_prediction import build_keras_input
 import numpy as np
 from sklearn import cross_validation
+import math
 
 
 def cnn(W=None):
     # Number of feature maps (outputs of convolutional layer)
-    N_fm = 20
+    N_fm = 100
     dense_nb = 20
     # kernel size of convolutional layer
     kernel_size = 5
@@ -41,7 +42,7 @@ def cnn(W=None):
 
     # aggregate data in every feature map to scalar using MAX operation
     # model.add(MaxPooling2D(pool_size=(conv_input_height-kernel_size+1, 1), border_mode='valid'))
-    model.add(MaxPooling2D(pool_size=(kernel_size, 1), border_mode='valid'))
+    model.add(MaxPooling2D(pool_size=(conv_input_height - kernel_size + 1, 1), border_mode='valid'))
     model.add(Dropout(0.5))
     model.add(Flatten())
     model.add(Dense(output_dim=dense_nb, activation='relu'))
@@ -49,6 +50,48 @@ def cnn(W=None):
     # Inner Product layer (as in regular neural network, but without non-linear activation function)
     model.add(Dense(output_dim=1, activation='linear'))
     # SoftMax activation; actually, Dense+SoftMax works as Multinomial Logistic Regression
+    return model
+
+def imdb_cnn(W=None):
+    # Number of feature maps (outputs of convolutional layer)
+    N_fm = 100
+    # kernel size of convolutional layer
+    kernel_size = 3
+    dims = 300  # 300 dimension
+    maxlen = 100  # maxlen of sentence
+    max_features = W.shape[0]
+    hidden_dims = 100
+    print('Build model...')
+    model = Sequential()
+
+    # we start off with an efficient embedding layer which maps
+    # our vocab indices into embedding_dims dimensions
+    model.add(Embedding(max_features, dims, input_length=maxlen, weights=[W]))
+    model.add(Dropout(0.5))
+
+    # we add a Convolution1D, which will learn nb_filter
+    # word group filters of size filter_length:
+    model.add(Convolution1D(nb_filter=N_fm,
+                            filter_length=kernel_size,
+                            border_mode='valid',
+                            activation='relu',
+                            ))
+    model.add(Dropout(0.5))
+    # we use standard max pooling (halving the output of the previous layer):
+    model.add(MaxPooling1D(pool_length=math.floor((maxlen-kernel_size+1)/1)))
+
+    # We flatten the output of the conv layer,
+    # so that we can add a vanilla dense layer:
+    model.add(Flatten())
+
+    # We add a vanilla hidden layer:
+    model.add(Dense(hidden_dims))
+    model.add(Dropout(0.5))
+    model.add(Activation('relu'))
+
+    # We project onto a single unit output layer, and squash it with a sigmoid:
+    model.add(Dense(1))
+    model.add(Activation('linear'))
     return model
 
 
@@ -63,7 +106,7 @@ if __name__ == '__main__':
     Y = np.array(valence) if option == 'Valence' else np.array(arousal)
 
     X_train, X_test, y_train, y_test = cross_validation.train_test_split(idx_data, Y, test_size=0.2,
-                                                                         random_state=0)
+                                                                         random_state=2)
 
     print(len(X_train), 'train sequences')
     print(len(X_test), 'test sequences')
@@ -82,13 +125,24 @@ if __name__ == '__main__':
     print('X_train shape:', X_train.shape)
     print('X_test shape:', X_test.shape)
 
-    model = cnn(W)
+    model = imdb_cnn(W)
 
-    model.compile(loss='mean_squared_error', optimizer='adagrad')  # loss function: mse
+    model.compile(loss='rmse', optimizer='adagrad')  # loss function: mse
 
     print("Train...")
     early_stopping = EarlyStopping(monitor='val_loss', patience=10)
-    model.fit(X_train, y_train, batch_size=batch_size, nb_epoch=20, validation_data=(X_test, y_test),
+    model.fit(X_train, y_train, batch_size=batch_size, nb_epoch=10, validation_data=(X_test, y_test),
               callbacks=[early_stopping])
     score = model.evaluate(X_test, y_test, batch_size=batch_size)
     print('Test score:', score)
+
+    # experiment evaluated by multiple metrics
+    predict = model.predict(X_test, batch_size=batch_size).reshape((1, len(X_test)))[0]
+    print('Y_test: %s' %str(y_test))
+    print('Predict value: %s' % str(predict))
+    from metrics import continuous_metrics
+    continuous_metrics(y_test, predict, 'prediction result:')
+
+    # visualization
+    from visualize import draw_scatter
+    draw_scatter(y_test, predict, 'True Value', 'Predicted Value', 'Valence prediction result of CVAT2.0 dataset')

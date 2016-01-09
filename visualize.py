@@ -3,7 +3,7 @@ import numpy as np
 from statistics import mean
 
 
-def draw_scatter(x, y, x_labels, y_labels):
+def draw_scatter(x, y, x_labels, y_labels, title='CVAT 2.0 VA Scatter'):
 
     fig = plt.figure()
     ax1 = fig.add_subplot(111)
@@ -12,8 +12,10 @@ def draw_scatter(x, y, x_labels, y_labels):
     plt.axvline(mean(x), color='black')
     plt.xlabel(x_labels)
     plt.ylabel(y_labels)
-    plt.title('CVAT 2.0 VA Scatter')
+    plt.title(title)
     plt.show()
+
+# def draw
 
 
 if __name__=='__main__':
