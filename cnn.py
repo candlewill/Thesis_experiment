@@ -24,7 +24,8 @@ def cnn(W=None):
     # kernel size of convolutional layer
     kernel_size = 5
     conv_input_width = W.shape[1]  # dims=300
-    conv_input_height = 200  # maxlen of sentence
+    global maxlen
+    conv_input_height = maxlen  # maxlen of sentence
 
     model = Sequential()
     # Embedding layer (lookup table of trainable word vectors)
@@ -55,7 +56,7 @@ if __name__ == '__main__':
     (data, W) = build_keras_input()
     (idx_data, valence, arousal) = data
 
-    maxlen = 200  # cut texts after this number of words (among top max_features most common words)
+    maxlen = 100  # cut texts after this number of words (among top max_features most common words)
     batch_size = 16
 
     option = 'valence'  # or arousal
@@ -89,5 +90,5 @@ if __name__ == '__main__':
     early_stopping = EarlyStopping(monitor='val_loss', patience=10)
     model.fit(X_train, y_train, batch_size=batch_size, nb_epoch=20, validation_data=(X_test, y_test),
               callbacks=[early_stopping])
-    score = model.evaluate(X_test, y_test, batch_size=batch_size, show_accuracy=True)
+    score = model.evaluate(X_test, y_test, batch_size=batch_size)
     print('Test score:', score)
