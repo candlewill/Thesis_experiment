@@ -102,7 +102,7 @@ if __name__ == '__main__':
     maxlen = 100  # cut texts after this number of words (among top max_features most common words)
     batch_size = 8
 
-    option = 'valence'  # or arousal
+    option = 'arousal'  # or arousal, Valence
     Y = np.array(valence) if option == 'Valence' else np.array(arousal)
 
     X_train, X_test, y_train, y_test = cross_validation.train_test_split(idx_data, Y, test_size=0.2,
@@ -131,7 +131,7 @@ if __name__ == '__main__':
 
     print("Train...")
     early_stopping = EarlyStopping(monitor='val_loss', patience=10)
-    result = model.fit(X_train, y_train, batch_size=batch_size, nb_epoch=3, validation_data=(X_test, y_test),
+    result = model.fit(X_train, y_train, batch_size=batch_size, nb_epoch=50, validation_data=(X_test, y_test),
               callbacks=[early_stopping])
     score = model.evaluate(X_test, y_test, batch_size=batch_size)
     print('Test score:', score)
@@ -147,8 +147,8 @@ if __name__ == '__main__':
     from visualize import draw_linear_regression
 
     X = range(50, 100)  # or range(len(y_test))
-    draw_linear_regression(X, np.array(y_test)[X], np.array(predict)[X], 'Sentence Number', 'Valence',
-                           'Comparison of predicted and true Valence')
+    draw_linear_regression(X, np.array(y_test)[X], np.array(predict)[X], 'Sentence Number', 'Arousal',
+                           'Comparison of predicted and true Arousal')
 
     from visualize import plot_keras
 
