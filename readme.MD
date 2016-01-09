@@ -54,5 +54,8 @@
 
  迭代过程图
 
+ <p align="center"> <img src="./images/valence_iter.png" height="300" /> </p>
+
+
 
  

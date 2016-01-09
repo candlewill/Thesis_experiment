@@ -131,7 +131,7 @@ if __name__ == '__main__':
 
     print("Train...")
     early_stopping = EarlyStopping(monitor='val_loss', patience=10)
-    model.fit(X_train, y_train, batch_size=batch_size, nb_epoch=5, validation_data=(X_test, y_test),
+    result = model.fit(X_train, y_train, batch_size=batch_size, nb_epoch=3, validation_data=(X_test, y_test),
               callbacks=[early_stopping])
     score = model.evaluate(X_test, y_test, batch_size=batch_size)
     print('Test score:', score)
@@ -149,3 +149,7 @@ if __name__ == '__main__':
     X = range(50, 100)  # or range(len(y_test))
     draw_linear_regression(X, np.array(y_test)[X], np.array(predict)[X], 'Sentence Number', 'Valence',
                            'Comparison of predicted and true Valence')
+
+    from visualize import plot_keras
+
+    plot_keras(result, x_labels='Epoch', y_labels='Loss')
