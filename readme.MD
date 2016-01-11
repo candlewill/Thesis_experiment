@@ -201,7 +201,7 @@
  ```
  prediction result:
  MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
- 0.862190900749 0.756158571479 (0.27546894983520076, 1.9663319818446003e-08) 0.0147035844416 SpearmanrResult(correlation=0.2557304787319743, pvalue=2.0133710378673852e-07) 0.9285423526954456
+ 1.03420569678 0.825181955229 (0.32846545402454846, 1.4433020927882028e-11) -0.181871862839 SpearmanrResult(correlation=0.29679482897748571, pvalue=1.2832242048569735e-09) 1.0169590438083371
  ```
  <p align="center"> <img src="./images/arousal_glove.png" height="300" /> </p>
  <p align="center"> <img src="./images/arousal_glove_iter.png" height="300" /> </p>
