@@ -184,5 +184,51 @@
 7. 使用GloVe词向量
 
  ##### CNN方法
+
+ **Valence**
+
+ ```
+ prediction result:
+ MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+ 1.1164321125 0.867102129429 (0.68690511510825092, 2.0695044715449238e-57) 0.413186179919 SpearmanrResult(correlation=0.70279031194106056, pvalue=3.9585791260288134e-61) 1.056613511412774
+ ```
+ <p align="center"> <img src="./images/valence_glove.png" height="300" /> </p>
+ <p align="center"> <img src="./images/valence_glove_iter.png" height="300" /> </p>
+ <p align="center"> <img src="./images/valence_glove_hist.png" height="300" /> </p>
+
+ **Arousal**
+
+ ```
+ prediction result:
+ MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+ 0.862190900749 0.756158571479 (0.27546894983520076, 1.9663319818446003e-08) 0.0147035844416 SpearmanrResult(correlation=0.2557304787319743, pvalue=2.0133710378673852e-07) 0.9285423526954456
+ ```
+ <p align="center"> <img src="./images/arousal_glove.png" height="300" /> </p>
+ <p align="center"> <img src="./images/arousal_glove_iter.png" height="300" /> </p>
+ <p align="center"> <img src="./images/arousal_glove_hist.png" height="300" /> </p>
+
+ ##### RMV
+
+ **Valence**
+
+ ```
+ prediction result:
+ MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+ 1.2889382787 0.938735591411 (0.57212649720456332, 2.5207511400979108e-36) 0.322514296476 SpearmanrResult(correlation=0.62359280247652293, pvalue=1.074145807226024e-44) 1.1353141762099406
+ ```
+ <p align="center"> <img src="./images/valence_glove_rmv.png" height="300" /> </p>
+ <p align="center"> <img src="./images/valence_glove_rmv_iter.png" height="300" /> </p>
+ <p align="center"> <img src="./images/valence_glove_rmv_hist.png" height="300" /> </p>
+
+ **Arousal**
+
+ ```
+ prediction result:
+ MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+ 0.862190900749 0.756158571479 (0.27546894983520076, 1.9663319818446003e-08) 0.0147035844416 SpearmanrResult(correlation=0.2557304787319743, pvalue=2.0133710378673852e-07) 0.9285423526954456
+ ```
+ <p align="center"> <img src="./images/arousal_glove_rmv.png" height="300" /> </p>
+ <p align="center"> <img src="./images/arousal_glove_rmv_iter.png" height="300" /> </p>
+ <p align="center"> <img src="./images/arousal_glove_rmv_hist.png" height="300" /> </p>
  
  
