@@ -132,3 +132,27 @@
  <p align="center"> <img src="./images/dim200_valence_comparison.png" height="300" /> </p>
  <p align="center"> <img src="./images/dim200_valence_hist.png" height="300" /> </p>
  <p align="center"> <img src="./images/dim200_valence_iter.png" height="300" /> </p>
+
+5. RMV方法实验结果
+
+ **Valence**
+
+ ```
+ prediction result:
+ MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+ 1.2835520318 0.94156873862 (0.57191450528400101, 2.7101874320614917e-36) 0.325345390358 SpearmanrResult(correlation=0.62216714491239822, pvalue=1.9235418374036149e-44) 1.1329395534605917
+ ```
+ <p align="center"> <img src="./images/valence_rmv.png" height="300" /> </p>
+ <p align="center"> <img src="./images/valence_rmv_dist.png" height="300" /> </p>
+ <p align="center"> <img src="./images/valence_rmv_iter.png" height="300" /> </p>
+
+ **Arousal**
+
+ ```
+ prediction result:
+ MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+ 0.853916672335 0.752925855315 (0.275446058880638, 1.971860439753554e-08) 0.0241592254039 SpearmanrResult(correlation=0.25269012595517543, pvalue=2.8334554626819371e-07) 0.9240761182578903
+ ```
+ <p align="center"> <img src="./images/arousal_rmv.png" height="300" /> </p>
+ <p align="center"> <img src="./images/arousal_rmv_dist.png" height="300" /> </p>
+ <p align="center"> <img src="./images/arousal_rmv_iter.png" height="300" /> </p>

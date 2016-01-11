@@ -52,6 +52,23 @@ def cnn(W=None):
     # SoftMax activation; actually, Dense+SoftMax works as Multinomial Logistic Regression
     return model
 
+
+def rmv(W=None):
+    max_features = W.shape[0]  # weights.shape = (vocabulary size, vector dimension)
+    print('Build model...')
+    model = Sequential()
+    model.add(Embedding(input_dim=max_features, output_dim=300, weights=[W], W_regularizer=l2(1e-5)))
+    model.add(Dropout(.5))
+    model.add(TimeDistributedMerge(mode='ave'))
+    # model.add(Dense(input_dim=300, output_dim=300, activation='relu', W_regularizer=l2(1e-5), b_regularizer=l2(1e-5)))
+    # model.add(Dropout(.4))
+    # model.add(Dense(input_dim=300, output_dim=300, activation='relu', W_regularizer=l2(1e-5), b_regularizer=l2(1e-5)))
+    # model.add(Dropout(.2))
+    # # model.add(Dense(input_dim=300, output_dim=300, activation = 'relu', W_regularizer=l2(1e-5), b_regularizer=l2(1e-5)))
+    # # model.add(Dropout(.2))
+    model.add(Dense(input_dim=300, output_dim=1, activation='linear', W_regularizer=l2(1e-5), b_regularizer=l2(1e-5)))
+    return model
+
 def imdb_cnn(W=None):
     # Number of feature maps (outputs of convolutional layer)
     N_fm = 100
@@ -102,7 +119,7 @@ if __name__ == '__main__':
     maxlen = 100  # cut texts after this number of words (among top max_features most common words)
     batch_size = 8
 
-    option = 'Valence'  # or Arousal, Valence
+    option = 'Arousal'  # or Arousal, Valence
     Y = np.array(valence) if option == 'Valence' else np.array(arousal)
 
     X_train, X_test, y_train, y_test = cross_validation.train_test_split(idx_data, Y, test_size=0.2,
@@ -125,7 +142,7 @@ if __name__ == '__main__':
     print('X_train shape:', X_train.shape)
     print('X_test shape:', X_test.shape)
 
-    model = imdb_cnn(W)
+    model = rmv(W)
 
     model.compile(loss='mse', optimizer='adagrad')  # loss function: mse
 
