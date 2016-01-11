@@ -180,3 +180,9 @@
  <p align="center"> <img src="./images/arousal_rmv_rand.png" height="300" /> </p>
  <p align="center"> <img src="./images/arousal_rmv_rand_dist.png" height="300" /> </p>
  <p align="center"> <img src="./images/arousal_rmv_rand_iter.png" height="300" /> </p>
+ 
+7. 使用GloVe词向量
+
+ ##### CNN方法
+ 
+ 

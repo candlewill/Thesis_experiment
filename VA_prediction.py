@@ -127,7 +127,7 @@ def make_idx_data(sentences, word_idx_map):
 
 
 def build_keras_input():
-    filename_data, filename_w = './tmp/indexed_data.p', './tmp/Weight.p'
+    filename_data, filename_w = './tmp/indexed_data_glove.p', './tmp/Weight_glove.p'
 
     if os.path.isfile(filename_data) and os.path.isfile(filename_w):
         data = load_pickle(filename_data)
@@ -140,8 +140,11 @@ def build_keras_input():
 
     vocab = get_vocab(texts)
     # word_vecs = load_embeddings('google_news', '/home/hs/Data/Word_Embeddings/google_news.bin')
-    word_vecs = load_embeddings('zh',
-                                '/home/hs/Data/wikipedia/word2vec_word/traditional_wordvecs/wiki.zh.text.traditional_wordvecs.txt')
+    # word_vecs = load_embeddings('zh',
+    #                             '/home/hs/Data/wikipedia/word2vec_word/traditional_wordvecs/wiki.zh.text.traditional_wordvecs.txt')
+    # load glove vectors
+    word_vecs = load_embeddings(arg='glove')
+
     word_vecs = add_unknown_words(word_vecs, vocab)
     W, word_idx_map = build_embedding_matrix(word_vecs, vocab)
 
