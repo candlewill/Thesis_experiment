@@ -156,3 +156,27 @@
  <p align="center"> <img src="./images/arousal_rmv.png" height="300" /> </p>
  <p align="center"> <img src="./images/arousal_rmv_dist.png" height="300" /> </p>
  <p align="center"> <img src="./images/arousal_rmv_iter.png" height="300" /> </p>
+
+6. RMV-rand实验结果
+
+ **Valence**
+
+ ```
+ prediction result:
+ MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+ 1.2889382787 0.938735591411 (0.57212649720456332, 2.5207511400979108e-36) 0.322514296476 SpearmanrResult(correlation=0.62359280247652293, pvalue=1.074145807226024e-44) 1.1353141762099406
+ ```
+ <p align="center"> <img src="./images/valence_rmv_rand.png" height="300" /> </p>
+ <p align="center"> <img src="./images/valence_rmv_rand_dist.png" height="300" /> </p>
+ <p align="center"> <img src="./images/valence_rmv_rand_iter.png" height="300" /> </p>
+
+ **Arousal**
+
+ ```
+ prediction result:
+ MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+ 0.862190900749 0.756158571479 (0.27546894983520076, 1.9663319818446003e-08) 0.0147035844416 SpearmanrResult(correlation=0.2557304787319743, pvalue=2.0133710378673852e-07) 0.9285423526954456
+ ```
+ <p align="center"> <img src="./images/arousal_rmv_rand.png" height="300" /> </p>
+ <p align="center"> <img src="./images/arousal_rmv_rand_dist.png" height="300" /> </p>
+ <p align="center"> <img src="./images/arousal_rmv_rand_iter.png" height="300" /> </p>

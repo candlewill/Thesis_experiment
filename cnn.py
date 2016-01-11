@@ -57,7 +57,7 @@ def rmv(W=None):
     max_features = W.shape[0]  # weights.shape = (vocabulary size, vector dimension)
     print('Build model...')
     model = Sequential()
-    model.add(Embedding(input_dim=max_features, output_dim=300, weights=[W], W_regularizer=l2(1e-5)))
+    model.add(Embedding(input_dim=max_features, output_dim=300, weights=None, W_regularizer=l2(1e-5)))
     model.add(Dropout(.5))
     model.add(TimeDistributedMerge(mode='ave'))
     # model.add(Dense(input_dim=300, output_dim=300, activation='relu', W_regularizer=l2(1e-5), b_regularizer=l2(1e-5)))
