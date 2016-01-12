@@ -121,6 +121,7 @@ if __name__ == '__main__':
 
     option = 'Arousal'  # or Arousal, Valence
     Y = np.array(valence) if option == 'Valence' else np.array(arousal)
+    print(option + ' prediction.......................')
 
     X_train, X_test, y_train, y_test = cross_validation.train_test_split(idx_data, Y, test_size=0.2,
                                                                          random_state=2)
@@ -142,12 +143,12 @@ if __name__ == '__main__':
     print('X_train shape:', X_train.shape)
     print('X_test shape:', X_test.shape)
 
-    model = rmv(W)
+    model = imdb_cnn(W)
 
     model.compile(loss='mse', optimizer='adagrad')  # loss function: mse
 
     print("Train...")
-    early_stopping = EarlyStopping(monitor='val_loss', patience=10)
+    early_stopping = EarlyStopping(monitor='val_loss', patience=5)
     result = model.fit(X_train, y_train, batch_size=batch_size, nb_epoch=50, validation_data=(X_test, y_test),
               callbacks=[early_stopping])
     score = model.evaluate(X_test, y_test, batch_size=batch_size)

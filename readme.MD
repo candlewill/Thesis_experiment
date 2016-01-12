@@ -233,11 +233,45 @@
 
 8. Additional Experiment
 
-The above experiment use sigma=1 to exclude the outlier. sigma = 1 is the best way? Maybe we can use sigma = 1.5 or 2.0 as the outlier selection mechanism.
+ The above experiment use sigma=1 to exclude the outlier. sigma = 1 is the best way? Maybe we can use sigma = 1.5 or 2.0 as the outlier selection mechanism.
 
-sigma=1.5
+ * sigma=1.5
 
-sigma=2.0
+  **Valence-word2vec**
+
+  ```
+  prediction result:
+  MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+  1.17501734133 0.857153185261 (0.64596081596608124, 7.6401374203288254e-49) 0.389370319799 SpearmanrResult(correlation=0.678238647820257, pvalue=1.7600146928857212e-55) 1.0839821683646538
+  ```
+
+  **Arousal-word2vec**
+
+  ```
+  prediction result:
+  MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+  0.921457808986 0.767747403198 (0.34734165685328955, 7.6746875625596964e-13) -0.115481114959 SpearmanrResult(correlation=0.31769903648833775, pvalue=7.0456692082057659e-11) 0.9599259393233046
+  ```
+
+ * sigma=2.0
+
+  **Valence-word2ve**
+
+  ```
+  prediction result:
+  MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+  1.23509052786 0.88814520616 (0.62644756090465481, 3.3145568313467529e-45) 0.358578117496 SpearmanrResult(correlation=0.65623542877526542, pvalue=7.2243601114955732e-51) 1.1113462682094133
+  ```
+
+  **Arosual-word2ve**
+
+  ```
+  prediction result:
+  MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+  0.816087390281 0.732002397982 (0.33742783810355886, 3.6739148370540297e-12) 0.0124040738807 SpearmanrResult(correlation=0.31302769736912855, pvalue=1.3748173925512652e-10) 0.9033755532896222
+  ```
+
+
 
 ### Contact me
 
