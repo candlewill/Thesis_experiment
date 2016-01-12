@@ -101,7 +101,7 @@ def load_pickle(filename):
 
 
 if __name__ == '__main__':
-    texts, valence, arousal = load_CVAT_2('../resources/CVAT2.0.csv')
+    texts, valence, arousal = load_CVAT_2('../resources/CVAT2.0(sigma=1.5).csv')
     len_text = []
     for i in texts:
         # print(list(i))

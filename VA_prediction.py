@@ -127,7 +127,7 @@ def make_idx_data(sentences, word_idx_map):
 
 
 def build_keras_input():
-    filename_data, filename_w = './tmp/indexed_data_glove.p', './tmp/Weight_glove.p'
+    filename_data, filename_w = './tmp/indexed_data_w2v(sig=1.5).p', './tmp/Weight_w2v(sig=1.5).p'
 
     if os.path.isfile(filename_data) and os.path.isfile(filename_w):
         data = load_pickle(filename_data)
@@ -136,14 +136,17 @@ def build_keras_input():
         return (data, W)
 
     # load data from pickle
-    texts, valence, arousal = load_CVAT_2('./resources/CVAT2.0.csv')
+    texts, valence, arousal = load_CVAT_2('./resources/CVAT2.0(sigma=1.5).csv')
 
     vocab = get_vocab(texts)
+
+    # using word2vec vectors
     # word_vecs = load_embeddings('google_news', '/home/hs/Data/Word_Embeddings/google_news.bin')
-    # word_vecs = load_embeddings('zh',
-    #                             '/home/hs/Data/wikipedia/word2vec_word/traditional_wordvecs/wiki.zh.text.traditional_wordvecs.txt')
+    word_vecs = load_embeddings('zh',
+                                '/home/hs/Data/wikipedia/word2vec_word/traditional_wordvecs/wiki.zh.text.traditional_wordvecs.txt')
+
     # load glove vectors
-    word_vecs = load_embeddings(arg='glove')
+    # word_vecs = load_embeddings(arg='glove')
 
     word_vecs = add_unknown_words(word_vecs, vocab)
     W, word_idx_map = build_embedding_matrix(word_vecs, vocab)

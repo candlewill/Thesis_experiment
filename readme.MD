@@ -231,6 +231,14 @@
  <p align="center"> <img src="./images/arousal_glove_rmv_iter.png" height="300" /> </p>
  <p align="center"> <img src="./images/arousal_glove_rmv_hist.png" height="300" /> </p>
 
+8. Additional Experiment
+
+The above experiment use sigma=1 to exclude the outlier. sigma = 1 is the best way? Maybe we can use sigma = 1.5 or 2.0 as the outlier selection mechanism.
+
+sigma=1.5
+
+sigma=2.0
+
 ### Contact me
 
 * [Yunchao He] (https://plus.google.com/+YunchaoHe)
