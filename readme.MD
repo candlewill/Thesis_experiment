@@ -184,5 +184,60 @@
 7. 使用GloVe词向量
 
  ##### CNN方法
- 
+
+ **Valence**
+
+ ```
+ prediction result:
+ MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+ 1.1164321125 0.867102129429 (0.68690511510825092, 2.0695044715449238e-57) 0.413186179919 SpearmanrResult(correlation=0.70279031194106056, pvalue=3.9585791260288134e-61) 1.056613511412774
+ ```
+ <p align="center"> <img src="./images/valence_glove.png" height="300" /> </p>
+ <p align="center"> <img src="./images/valence_glove_iter.png" height="300" /> </p>
+ <p align="center"> <img src="./images/valence_glove_hist.png" height="300" /> </p>
+
+ **Arousal**
+
+ ```
+ prediction result:
+ MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+ 1.03420569678 0.825181955229 (0.32846545402454846, 1.4433020927882028e-11) -0.181871862839 SpearmanrResult(correlation=0.29679482897748571, pvalue=1.2832242048569735e-09) 1.0169590438083371
+ ```
+ <p align="center"> <img src="./images/arousal_glove.png" height="300" /> </p>
+ <p align="center"> <img src="./images/arousal_glove_iter.png" height="300" /> </p>
+ <p align="center"> <img src="./images/arousal_glove_hist.png" height="300" /> </p>
+
+ ##### RMV
+
+ **Valence**
+
+ ```
+ prediction result:
+ MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+ 1.23910091076 0.924262162726 (0.59081545611658148, 3.4276731557030528e-39) 0.348709580488 SpearmanrResult(correlation=0.64842236586078461, pvalue=2.5424448943081574e-49) 1.113149096373635
+ ```
+ <p align="center"> <img src="./images/valence_glove_rmv.png" height="300" /> </p>
+ <p align="center"> <img src="./images/valence_glove_rmv_iter.png" height="300" /> </p>
+ <p align="center"> <img src="./images/valence_glove_rmv_hist.png" height="300" /> </p>
+
+ **Arousal**
+
+ ```
+ prediction result:
+ MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+ 0.807147009032 0.733752654548 (0.3155619729987712, 9.5800508818236855e-11) 0.0776067641902 SpearmanrResult(correlation=0.28526844931242679, pvalue=5.771686920239029e-09) 0.8984136068826754
+ ```
+ <p align="center"> <img src="./images/arousal_glove_rmv.png" height="300" /> </p>
+ <p align="center"> <img src="./images/arousal_glove_rmv_iter.png" height="300" /> </p>
+ <p align="center"> <img src="./images/arousal_glove_rmv_hist.png" height="300" /> </p>
+
+### Contact me
+
+* [Yunchao He] (https://plus.google.com/+YunchaoHe)
+* yunchaohe@gmail.com
+* [YZU](http://www.yzu.edu.tw/) at Taiwan
+* [Weibo](http://weibo.com/heyunchao)
+* [Facebook](https://www.facebook.com/yunchao.h)
+* [Twitter](https://twitter.com/candlewill)
+* @元智大学资讯工程学系1608B 民105年1月
  

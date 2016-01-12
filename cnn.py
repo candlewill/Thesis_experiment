@@ -57,7 +57,7 @@ def rmv(W=None):
     max_features = W.shape[0]  # weights.shape = (vocabulary size, vector dimension)
     print('Build model...')
     model = Sequential()
-    model.add(Embedding(input_dim=max_features, output_dim=300, weights=None, W_regularizer=l2(1e-5)))
+    model.add(Embedding(input_dim=max_features, output_dim=300, weights=[W]))
     model.add(Dropout(.5))
     model.add(TimeDistributedMerge(mode='ave'))
     # model.add(Dense(input_dim=300, output_dim=300, activation='relu', W_regularizer=l2(1e-5), b_regularizer=l2(1e-5)))
@@ -66,7 +66,7 @@ def rmv(W=None):
     # model.add(Dropout(.2))
     # # model.add(Dense(input_dim=300, output_dim=300, activation = 'relu', W_regularizer=l2(1e-5), b_regularizer=l2(1e-5)))
     # # model.add(Dropout(.2))
-    model.add(Dense(input_dim=300, output_dim=1, activation='linear', W_regularizer=l2(1e-5), b_regularizer=l2(1e-5)))
+    model.add(Dense(input_dim=300, output_dim=1, activation='linear'))
     return model
 
 def imdb_cnn(W=None):
@@ -74,7 +74,7 @@ def imdb_cnn(W=None):
     N_fm = 100
     # kernel size of convolutional layer
     kernel_size = 5
-    dims = 200  # 300 dimension
+    dims = 300  # 300 dimension
     maxlen = 100  # maxlen of sentence
     max_features = W.shape[0]
     hidden_dims = 100
@@ -83,7 +83,7 @@ def imdb_cnn(W=None):
 
     # we start off with an efficient embedding layer which maps
     # our vocab indices into embedding_dims dimensions
-    model.add(Embedding(max_features, dims, input_length=maxlen, weights=None))
+    model.add(Embedding(max_features, dims, input_length=maxlen, weights=[W]))
     model.add(Dropout(0.5))
 
     # we add a Convolution1D, which will learn nb_filter
