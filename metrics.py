@@ -16,5 +16,8 @@ def continuous_metrics(true, pred, msg):
     Spearman_r = spearmanr(np.array(true), np.array(pred))
     print(msg)
     print('MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt')
-    print(MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt)
-    return None
+    ndigit = 3
+    print(round(MSE, ndigit), round(MAE, ndigit), round(Pearson_r[0], ndigit), round(R2, ndigit),
+          round(Spearman_r[0], ndigit), round(MSE_sqrt, ndigit))
+    return (round(MSE, ndigit), round(MAE, ndigit), round(Pearson_r[0], ndigit), round(R2, ndigit),
+            round(Spearman_r[0], ndigit), round(MSE_sqrt, ndigit))

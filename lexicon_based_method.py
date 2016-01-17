@@ -55,19 +55,19 @@ def linear_regression(X_train, X_test, Y_train, Y_test, plot=False):
     # Train the model using the training sets
     regr.fit(X_train, Y_train)
     predict = regr.predict(X_test)
-    regression_evaluate(Y_test, predict)
+    return regression_evaluate(Y_test, predict)
 
 
 def cv(data, target):
     X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(data, target, test_size=0.2, random_state=2)
-    linear_regression(X_train, X_test, Y_train, Y_test, plot=False)
+    return linear_regression(X_train, X_test, Y_train, Y_test, plot=False)
 
 
 if __name__ == '__main__':
 
     ####################### Hyper-parameters #########################
     using_extended_lexicon = False  # 'True' or 'False'
-    option = 'V'  # 'V' or 'A'
+    option = 'A'  # 'V' or 'A'
     mean_method = 'tf_geo'  # values: 'tf_geo', 'tf_mean'
     sigma = 1.0  # values: '1.0', '1.5', '2.0'
     ##################################################################
@@ -82,6 +82,11 @@ if __name__ == '__main__':
     predicted_ratings = mean_ratings(texts, d, mean_method)
     print(predicted_ratings)
     print(valence)
-    regression_evaluate(valence, predicted_ratings)
+    out = regression_evaluate(valence, predicted_ratings)
 
-    cv(predicted_ratings, valence)
+    out2 = cv(predicted_ratings, valence)
+
+    Dims = 'Valence' if option == 'V' else 'Arousal'
+    Mean_Method = 'Geometric' if mean_method == 'tf_geo' else 'Arithmetic'
+    print('|%s|%s|False|%.3f|%.3f|%.3f|' % (Dims, Mean_Method, out[0], out[1], out[2]))
+    print('|%s|%s|True|%.3f|%.3f|%.3f|' % (Dims, Mean_Method, out2[0], out2[1], out2[2]))
