@@ -91,5 +91,5 @@ def draw_hist(data, title):
 if __name__ == '__main__':
     from load_data import load_CVAT_2
 
-    texts, valence, arousal = load_CVAT_2('./resources/CVAT2.0.csv')
+    texts, valence, arousal = load_CVAT_2('./resources/CVAT2.0(sigma=1.0).csv')
     draw_scatter(valence, arousal, 'Valence', 'Arousal')

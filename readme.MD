@@ -337,6 +337,85 @@
 
 10. Tradictional Method
 
+  sigma = 1.0 using CVAW lexicon
+  
+  |Dims|Mean Method|Regression|MSE|MAE|r|
+  |-------|-------|-------|-------|-------|-------|
+  |Valence|Geometric|False||||
+  |Valence|Geometric|True||||
+  |Valence|Arithmetic|False||||
+  |Valence|Arithmetic|True||||
+  |Arousal|Geometric|False||||
+  |Arousal|Geometric|True||||
+  |Arousal|Arithmetic|False||||
+  |Arousal|Arithmetic|True||||
+  
+  sigma = 1.5 using CVAW lexicon
+  
+  |Dims|Mean Method|Regression|MSE|MAE|r|
+  |-------|-------|-------|-------|-------|-------|
+  |Valence|Geometric|False||||
+  |Valence|Geometric|True||||
+  |Valence|Arithmetic|False||||
+  |Valence|Arithmetic|True||||
+  |Arousal|Geometric|False||||
+  |Arousal|Geometric|True||||
+  |Arousal|Arithmetic|False||||
+  |Arousal|Arithmetic|True||||
+  
+  sigma = 2.0 using CVAW lexicon
+  
+  |Dims|Mean Method|Regression|MSE|MAE|r|
+  |-------|-------|-------|-------|-------|-------|
+  |Valence|Geometric|False||||
+  |Valence|Geometric|True||||
+  |Valence|Arithmetic|False||||
+  |Valence|Arithmetic|True||||
+  |Arousal|Geometric|False||||
+  |Arousal|Geometric|True||||
+  |Arousal|Arithmetic|False||||
+  |Arousal|Arithmetic|True||||
+  
+  **Extended Lexicon**
+
+  sigma = 1.0 using extended CVAW lexicon (Neural_cand)
+  
+  |Dims|Mean Method|Regression|MSE|MAE|r|
+  |-------|-------|-------|-------|-------|-------|
+  |Valence|Geometric|False||||
+  |Valence|Geometric|True||||
+  |Valence|Arithmetic|False||||
+  |Valence|Arithmetic|True||||
+  |Arousal|Geometric|False||||
+  |Arousal|Geometric|True||||
+  |Arousal|Arithmetic|False||||
+  |Arousal|Arithmetic|True||||
+
+  sigma = 1.5 using CVAW lexicon
+  
+  |Dims|Mean Method|Regression|MSE|MAE|r|
+  |-------|-------|-------|-------|-------|-------|
+  |Valence|Geometric|False||||
+  |Valence|Geometric|True||||
+  |Valence|Arithmetic|False||||
+  |Valence|Arithmetic|True||||
+  |Arousal|Geometric|False||||
+  |Arousal|Geometric|True||||
+  |Arousal|Arithmetic|False||||
+  |Arousal|Arithmetic|True||||
+  
+  sigma = 2.0 using CVAW lexicon
+  
+  |Dims|Mean Method|Regression|MSE|MAE|r|
+  |-------|-------|-------|-------|-------|-------|
+  |Valence|Geometric|False||||
+  |Valence|Geometric|True||||
+  |Valence|Arithmetic|False||||
+  |Valence|Arithmetic|True||||
+  |Arousal|Geometric|False||||
+  |Arousal|Geometric|True||||
+  |Arousal|Arithmetic|False||||
+  |Arousal|Arithmetic|True||||
 
 
 

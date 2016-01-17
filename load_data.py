@@ -7,6 +7,7 @@ import shutil
 import hashlib
 from sys import platform
 import os
+import codecs
 
 
 def load_CVAT_2(filename):
@@ -98,6 +99,24 @@ def load_GloVe(filename, num_lines, dims):
 def load_pickle(filename):
     out = pickle.load(open(filename, "rb"))
     return out
+
+
+def load_CVAW(extended=False):
+    lexicon_data = []
+    filename = './resources/CVAW.txt'
+    fr = codecs.open(filename, 'r', 'utf-8')
+    for line in fr.readlines():
+        line = line.strip().split(',')
+        lexicon_data.append([line[0], float(line[1]), float(line[2])])
+
+    if extended == True:
+        extended_filename = './resources/neural_cand.txt'
+        for line in codecs.open(extended_filename, 'r', 'utf-8').readlines():
+            line = line.strip().split()
+            lexicon_data.append([line[0], float(line[1]), float(line[2])])
+
+    return lexicon_data
+
 
 
 if __name__ == '__main__':
