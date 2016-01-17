@@ -417,8 +417,20 @@
   |Arousal|Geometric|True|1.911|1.193|0.098|
   |Arousal|Arithmetic|True|1.907|1.191|0.108|
 
+##### Result comparison
 
-
+  从上述实验可以发现：
+  
+    * 使用回归时MSE、MSE结果更好
+    * 不使用回归时的Valence的相关系数更好
+  
+  上述实验在不使用回归时MSE和MAE指标已经超出最坏实验的结果，使用回归总体上会更好，另一方面可以发现几何平均值的方法都比算数平均值在预测Valence结果好，而在预测arousal时算数平均值结果更好，但都比最坏情况还差。
+  
+  |Dims|sigma|Mean Method|Regression|MSE|MAE|r|
+  |-------|-------|-------|-------|-------|-------|-------|
+  |Valence|1.0|Geometric|True|1.434|0.988|0.506|
+  |Valence|1.5|Geometric|True|1.460|0.984|0.503|
+  |Valence|2.0|Geometric|True|1.456|0.979|0.505|
 
 ### Contact me
 
