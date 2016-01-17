@@ -335,6 +335,11 @@
  <p align="center"> <img src="./images/worst_result.png" height="300" /> </p>
  <p align="center"> <img src="./images/worst_result_hist.png" height="300" /> </p>
 
+10. Tradictional Method
+
+
+
+
 
 ### Contact me
 
