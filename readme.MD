@@ -367,14 +367,14 @@
   
   |Dims|Mean Method|Regression|MSE|MAE|r|
   |-------|-------|-------|-------|-------|-------|
-  |Valence|Geometric|False||||
-  |Valence|Arithmetic|False||||
-  |Valence|Geometric|True||||
-  |Valence|Arithmetic|True||||
-  |Arousal|Geometric|False||||
-  |Arousal|Arithmetic|False||||
-  |Arousal|Geometric|True||||
-  |Arousal|Arithmetic|True||||
+  |Valence|Geometric|False|2.143|1.150|0.531|
+  |Valence|Arithmetic|False|2.210|1.172|0.524|
+  |Valence|Geometric|True|1.456|0.979|0.505|
+  |Valence|Arithmetic|True|1.480|0.990|0.492|
+  |Arousal|Geometric|False|3.196|1.444|-0.110|
+  |Arousal|Arithmetic|False|3.256|1.455|-0.118|
+  |Arousal|Geometric|True|1.902|1.189|0.118|
+  |Arousal|Arithmetic|True|1.898|1.187|0.126|
   
   **Extended Lexicon**
 
