@@ -312,12 +312,12 @@
 
   |sigma|MSE|MAE|r|
   |-----|-----|-----|-----|
-  |Valence(sigma=1.0)|1.189|0.874|0.639|
-  |Valence(sigma=1.5)|1.175|0.857|0.646|
-  |Valence(sigma=2.0)|1.235|0.888|0.626|
-  |Arousal(sigma=1.0)|0.773|0.716|0.387|
-  |Arousal(sigma=1.5)|0.921|0.768|0.347|
-  |Arousal(sigma=2.0)|0.816|0.732|0.337|
+  |Valence(sigma=1.0)|1.284|0.942|0.572|
+  |Valence(sigma=1.5)|1.253|0.926|**0.592**|
+  |Valence(sigma=2.0)|1.258|0.926|0.589|
+  |Arousal(sigma=1.0)|0.854|0.753|**0.275**|
+  |Arousal(sigma=1.5)|0.811|0.726|0.273|
+  |Arousal(sigma=2.0)|0.809|0.723|0.272|
 
 ### Contact me
 
