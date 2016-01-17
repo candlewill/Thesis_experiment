@@ -354,14 +354,14 @@
   
   |Dims|Mean Method|Regression|MSE|MAE|r|
   |-------|-------|-------|-------|-------|-------|
-  |Valence|Geometric|False||||
-  |Valence|Arithmetic|False||||
-  |Valence|Geometric|True||||
-  |Valence|Arithmetic|True||||
-  |Arousal|Geometric|False||||
-  |Arousal|Arithmetic|False||||
-  |Arousal|Geometric|True||||
-  |Arousal|Arithmetic|True||||
+  |Valence|Geometric|False|2.162|1.152|0.528|
+  |Valence|Arithmetic|False|2.230|1.175|0.521|
+  |Valence|Geometric|True|1.460|0.984|0.503|
+  |Valence|Arithmetic|True|1.486|0.993|0.489|
+  |Arousal|Geometric|False|3.203|1.448|-0.109|
+  |Arousal|Arithmetic|False|3.262|1.460|-0.116|
+  |Arousal|Geometric|True|1.905|1.186|0.110|
+  |Arousal|Arithmetic|True|1.901|1.185|0.119|
   
   sigma = 2.0 using CVAW lexicon
   

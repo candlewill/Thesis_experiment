@@ -67,9 +67,9 @@ if __name__ == '__main__':
 
     ####################### Hyper-parameters #########################
     using_extended_lexicon = False  # 'True' or 'False'
-    option = 'A'  # 'V' or 'A'
+    option = 'V'  # 'V' or 'A'
     mean_method = 'tf_geo'  # values: 'tf_geo', 'tf_mean'
-    sigma = 1.0  # values: '1.0', '1.5', '2.0'
+    sigma = 2.0  # values: '1.0', '1.5', '2.0'
     ##################################################################
 
     texts, valence, arousal = load_CVAT_2('./resources/CVAT2.0(sigma=' + str(sigma) + ').csv')
