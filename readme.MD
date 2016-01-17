@@ -280,6 +280,45 @@
   |Arousal(sigma=1.5)|0.921|0.768|0.347|
   |Arousal(sigma=2.0)|0.816|0.732|0.337|
 
+
+  RMV method:
+
+  sigma = 1.5
+  ```
+  prediction result:
+  MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+  1.25285167125 0.925782175414 (0.59217695709096529, 2.0836660810940871e-39) 0.348921595928 SpearmanrResult(correlation=0.64716559558699882, pvalue=4.4645167616700477e-49) 1.119308568379042
+  ```
+
+  ```
+  prediction result:
+  MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+  0.811448281476 0.725746071187 (0.27298738031183734, 2.6618926487311099e-08) 0.0176921559236 SpearmanrResult(correlation=0.2505769297144147, pvalue=3.5837527768889621e-07) 0.9008042414840945
+  ```
+
+  sigma = 2.0
+
+  ```
+  prediction result:
+  MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+  1.25824152441 0.925569502635 (0.58972330837386944, 5.1011083732185485e-39) 0.346555066994 SpearmanrResult(correlation=0.64854313773014549, pvalue=2.4082009431610321e-49) 1.1217136552679012
+  ```
+
+  ```
+  prediction result:
+  MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
+  0.80917985945 0.723266230294 (0.27168756180052012, 3.115749106640244e-08) 0.0207632880898 SpearmanrResult(correlation=0.24893271210102805, pvalue=4.2962166603105685e-07) 0.8995442509681696
+  ```
+
+  |sigma|MSE|MAE|r|
+  |-----|-----|-----|-----|
+  |Valence(sigma=1.0)|1.189|0.874|0.639|
+  |Valence(sigma=1.5)|1.175|0.857|0.646|
+  |Valence(sigma=2.0)|1.235|0.888|0.626|
+  |Arousal(sigma=1.0)|0.773|0.716|0.387|
+  |Arousal(sigma=1.5)|0.921|0.768|0.347|
+  |Arousal(sigma=2.0)|0.816|0.732|0.337|
+
 ### Contact me
 
 * [Yunchao He] (https://plus.google.com/+YunchaoHe)

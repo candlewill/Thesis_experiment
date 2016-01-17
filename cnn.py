@@ -143,7 +143,7 @@ if __name__ == '__main__':
     print('X_train shape:', X_train.shape)
     print('X_test shape:', X_test.shape)
 
-    model = imdb_cnn(W)
+    model = rmv(W)
 
     model.compile(loss='mse', optimizer='adagrad')  # loss function: mse
 
