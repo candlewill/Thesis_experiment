@@ -432,7 +432,15 @@
  |Valence|1.5|Geometric|True|1.460|0.984|0.503|
  |Valence|2.0|Geometric|True|1.456|0.979|0.505|
     
-   
+  另外，可以发现不同标准差情况下得到的语料库，Valence结果变化不大，sigma=1时结果总体上较好
+  
+  最后，使用扩展词典情况下，对于非回归方法的MAE、MSE提升较多，而对于回归类方法性能略下降
+  
+ |Dims|sigma|Mean Method|Regression|MSE|MAE|r|
+ |-------|-------|-------|-------|-------|-------|-------|
+ |Valence|1.0|Geometric|True|1.466|0.987|0.486|
+ |Valence|1.5|Geometric|True|1.481|0.991|0.488|
+ |Valence|2.0|Geometric|True|1.483|0.991|0.487|
 
 ### Contact me
 
