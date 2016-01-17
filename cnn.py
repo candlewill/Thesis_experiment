@@ -143,6 +143,8 @@ if __name__ == '__main__':
     print('X_train shape:', X_train.shape)
     print('X_test shape:', X_test.shape)
 
+    '''
+
     model = rmv(W)
 
     model.compile(loss='mse', optimizer='adagrad')  # loss function: mse
@@ -158,6 +160,9 @@ if __name__ == '__main__':
     predict = model.predict(X_test, batch_size=batch_size).reshape((1, len(X_test)))[0]
     print('Y_test: %s' %str(y_test))
     print('Predict value: %s' % str(predict))
+
+    '''
+    predict = np.array([5] * len(y_test))
     from metrics import continuous_metrics
     continuous_metrics(y_test, predict, 'prediction result:')
 
@@ -170,5 +175,5 @@ if __name__ == '__main__':
 
     from visualize import plot_keras, draw_hist
 
-    plot_keras(result, x_labels='Epoch', y_labels='Loss')
+    # plot_keras(result, x_labels='Epoch', y_labels='Loss')
     draw_hist(np.array(y_test) - np.array(predict), title='Histogram of ' + option + ' prediction: ')

@@ -319,6 +319,23 @@
   |Arousal(sigma=1.5)|0.811|0.726|0.273|
   |Arousal(sigma=2.0)|0.809|0.723|0.272|
 
+9. Worst result
+
+ Let all the predicted valence and arousal be 5, and the performance is:
+
+  |sigma|MSE|MAE|r|
+  |-----|-----|-----|-----|
+  |Valence(sigma=1.0)|1.945|1.192|nan|
+  |Valence(sigma=1.5)|1.971|0.204|nan|
+  |Valence(sigma=2.0)|1.968|1.204|nan|
+  |Arousal(sigma=1.0)|0.898|0.776|nan|
+  |Arousal(sigma=1.5)|0.830|0.731|nan|
+  |Arousal(sigma=2.0)|0.831|0.733|nan|
+
+ <p align="center"> <img src="./images/worst_result.png" height="300" /> </p>
+ <p align="center"> <img src="./images/worst_result_hist.png" height="300" /> </p>
+
+
 ### Contact me
 
 * [Yunchao He] (https://plus.google.com/+YunchaoHe)

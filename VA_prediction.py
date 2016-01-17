@@ -127,7 +127,7 @@ def make_idx_data(sentences, word_idx_map):
 
 
 def build_keras_input():
-    filename_data, filename_w = './tmp/indexed_data_w2v(sig=2.0).p', './tmp/Weight_w2v(sig=2.0).p'
+    filename_data, filename_w = './tmp/indexed_data.p', './tmp/Weight.p'
 
     if os.path.isfile(filename_data) and os.path.isfile(filename_w):
         data = load_pickle(filename_data)
