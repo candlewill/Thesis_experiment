@@ -382,40 +382,40 @@
   
   |Dims|Mean Method|Regression|MSE|MAE|r|
   |-------|-------|-------|-------|-------|-------|
-  |Valence|Geometric|False||||
-  |Valence|Arithmetic|False||||
-  |Valence|Geometric|True||||
-  |Valence|Arithmetic|True||||
-  |Arousal|Geometric|False||||
-  |Arousal|Arithmetic|False||||
-  |Arousal|Geometric|True||||
-  |Arousal|Arithmetic|True||||
+  |Valence|Geometric|False|1.630|1.024|0.507|
+  |Valence|Arithmetic|False|1.682|1.039|0.504|
+  |Valence|Geometric|True|1.466|0.987|0.486|
+  |Valence|Arithmetic|True|1.490|0.998|0.474|
+  |Arousal|Geometric|False|2.671|1.345|-0.076|
+  |Arousal|Arithmetic|False|2.722|1.355|-0.084|
+  |Arousal|Geometric|True|1.887|1.189|0.101|
+  |Arousal|Arithmetic|True|1.883|1.188|0.111|
 
   sigma = 1.5 using CVAW lexicon
   
   |Dims|Mean Method|Regression|MSE|MAE|r|
   |-------|-------|-------|-------|-------|-------|
-  |Valence|Geometric|False||||
-  |Valence|Arithmetic|False||||
-  |Valence|Geometric|True||||
-  |Valence|Arithmetic|True||||
-  |Arousal|Geometric|False||||
-  |Arousal|Arithmetic|False||||
-  |Arousal|Geometric|True||||
-  |Arousal|Arithmetic|True||||
+  |Valence|Geometric|False|1.625|1.027|0.511|
+  |Valence|Arithmetic|False|1.678|1.044|0.508|
+  |Valence|Geometric|True|1.481|0.991|0.488|
+  |Valence|Arithmetic|True|1.509|1.002|0.475|
+  |Arousal|Geometric|False|2.684|1.350|-0.078|
+  |Arousal|Arithmetic|False|2.736|1.360|-0.086|
+  |Arousal|Geometric|True|1.911|1.192|0.095|
+  |Arousal|Arithmetic|True|1.908|1.190|0.105|
   
   sigma = 2.0 using CVAW lexicon
   
   |Dims|Mean Method|Regression|MSE|MAE|r|
   |-------|-------|-------|-------|-------|-------|
-  |Valence|Geometric|False||||
-  |Valence|Arithmetic|False||||
-  |Valence|Geometric|True||||
-  |Valence|Arithmetic|True||||
-  |Arousal|Geometric|False||||
-  |Arousal|Arithmetic|False||||
-  |Arousal|Geometric|True||||
-  |Arousal|Arithmetic|True||||
+  |Valence|Geometric|False|1.619|1.026|0.511|
+  |Valence|Arithmetic|False|1.671|1.041|0.508|
+  |Valence|Geometric|True|1.483|0.991|0.487|
+  |Valence|Arithmetic|True|1.510|1.002|0.474|
+  |Arousal|Geometric|False|2.674|1.345|-0.078|
+  |Arousal|Arithmetic|False|2.725|1.355|-0.086|
+  |Arousal|Geometric|True|1.911|1.193|0.098|
+  |Arousal|Arithmetic|True|1.907|1.191|0.108|
 
 
 
