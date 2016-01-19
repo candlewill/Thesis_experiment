@@ -2,6 +2,7 @@
 from load_data import load_CVAT_2
 from load_data import load_CVAW
 from VA_prediction import clean_str_word
+from CKIP_tokenizer import segsentence
 from evaluate import regression_evaluate
 from sklearn import cross_validation
 import numpy as np
@@ -10,6 +11,7 @@ from sklearn import linear_model
 
 def mean_ratings(texts, lexicon, mean_method):
     predicted_ratings = []
+    global tokenizer
 
     def tf_geo(text):  # tf_geo
         sum_valence = 1
@@ -43,7 +45,7 @@ def mean_ratings(texts, lexicon, mean_method):
         raise Exception('Parameters Wrong.')
 
     for text in texts:
-        V = VA_mean(clean_str_word(text))
+        V = VA_mean(tokenizer(text))
         predicted_ratings.append(V)
     print(predicted_ratings[:200])
     return predicted_ratings
@@ -72,7 +74,12 @@ if __name__ == '__main__':
     option = 'A'  # 'V' or 'A'
     mean_method = 'tf_geo'  # values: 'tf_geo', 'tf_mean'
     sigma = 2.0  # values: '1.0', '1.5', '2.0'
+    tokenizer = 'ckip'  # values: 'jieba', 'ckip'
     ##################################################################
+    if tokenizer == 'ckip':
+        tokenizer = segsentence
+    elif tokenizer == 'jieba':
+        tokenizer = clean_str_word
 
     texts, valence, arousal = load_CVAT_2('./resources/CVAT2.0(sigma=' + str(sigma) + ').csv')
     lexicon = load_CVAW(extended=using_extended_lexicon)

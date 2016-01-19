@@ -43,6 +43,7 @@ def clean_str_character(s):
     return " ".join(result)
 
 
+jieba.set_dictionary('./resources/dict.txt.big')
 def clean_str_word(s):
     seg_list = jieba.cut(s, cut_all=False)
     sent = " ".join(seg_list)
