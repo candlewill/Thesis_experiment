@@ -17,9 +17,11 @@ def mean_ratings(texts, lexicon, mean_method):
         word_list = text.split()
         for word in word_list:
             for line in lexicon:
-                if word == line:
+                if word == line:  # original is ==
                     count = count + 1
                     sum_valence = sum_valence * lexicon[line]
+        if count == 0:
+            print(text)
         return 5 if count == 0 else sum_valence ** (1. / count)  # geo
 
     def tf_mean(text):  # tf_mean
@@ -67,7 +69,7 @@ if __name__ == '__main__':
 
     ####################### Hyper-parameters #########################
     using_extended_lexicon = True  # 'True' or 'False'
-    option = 'V'  # 'V' or 'A'
+    option = 'A'  # 'V' or 'A'
     mean_method = 'tf_geo'  # values: 'tf_geo', 'tf_mean'
     sigma = 2.0  # values: '1.0', '1.5', '2.0'
     ##################################################################
