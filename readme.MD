@@ -424,17 +424,22 @@
    * 使用回归时MSE、MSE结果更好
    * 不使用回归时的Valence的相关系数更好
   
-  上述实验在不使用回归时MSE和MAE指标已经超出最坏实验的结果，使用回归总体上会更好，另一方面可以发现几何平均值的方法都比算数平均值在预测Valence结果好，而在预测arousal时算数平均值结果更好，但都比最坏情况还差。
+  上述实验在不使用回归时MSE和MAE指标已经超出最坏实验的结果，使用回归总体上会更好，另一方面可以发现几何平均值的方法都比算数平均值在预测Valence结果好，而在预测arousal时算数平均值结果更好。
   
+ Valence-Arousal 在幾何平均值和算數平均值+迴歸方式下試驗結果
+ 
  |Dims|sigma|Mean Method|Regression|MSE|MAE|r|
  |-------|-------|-------|-------|-------|-------|-------|
  |Valence|1.0|Geometric|True|1.434|0.988|0.506|
  |Valence|1.5|Geometric|True|1.460|0.984|0.503|
  |Valence|2.0|Geometric|True|1.456|0.979|0.505|
+ |Arousal|1.0|Arithmetic|True|0.839|0.751|0.216|
+ |Arousal|1.5|Arithmetic|True|0.793|0.724|0.217|
+ |Arousal|2.0|Arithmetic|True|0.793|0.725|0.216|
     
-  另外，可以发现不同标准差情况下得到的语料库，Valence结果变化不大，sigma=1时结果总体上较好
+  另外，可以发现不同标准差情况下得到的语料库，Valence, Arousal结果变化不大，sigma=1时Valence结果总体上较好，而sigma=1.5時Arousal結果總體上稍好。
   
-  最后，使用扩展词典情况下，对于非回归方法的MAE、MSE提升较多，而对于回归类方法性能略下降
+  最后，使用扩展词典情况下，对于非回归方法的MAE、MSE提升较多，而对于回归类方法相關係數性能略下降。
   
  |Dims|sigma|Mean Method|Regression|MSE|MAE|r|
  |-------|-------|-------|-------|-------|-------|-------|
