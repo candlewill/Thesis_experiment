@@ -345,10 +345,10 @@
   |Valence|Arithmetic|False|2.227|1.169|0.520|
   |Valence|Geometric|True|1.434|0.988|0.506|
   |Valence|Arithmetic|True|1.457|0.997|0.494|
-  |Arousal|Geometric|False|3.189|1.445|-0.107|
-  |Arousal|Arithmetic|False|3.248|1.457|-0.115|
-  |Arousal|Geometric|True|1.878|1.186|0.120|
-  |Arousal|Arithmetic|True|1.874|1.185|0.128|
+  |Arousal|Geometric|False|1.517|0.982|0.134|
+  |Arousal|Arithmetic|False|1.932|1.109|0.147|
+  |Arousal|Geometric|True|0.848|0.753|0.184|
+  |Arousal|Arithmetic|True|0.839|0.751|0.216|
   
   sigma = 1.5 using CVAW lexicon
   
@@ -358,10 +358,10 @@
   |Valence|Arithmetic|False|2.230|1.175|0.521|
   |Valence|Geometric|True|1.460|0.984|0.503|
   |Valence|Arithmetic|True|1.486|0.993|0.489|
-  |Arousal|Geometric|False|3.203|1.448|-0.109|
-  |Arousal|Arithmetic|False|3.262|1.460|-0.116|
-  |Arousal|Geometric|True|1.905|1.186|0.110|
-  |Arousal|Arithmetic|True|1.901|1.185|0.119|
+  |Arousal|Geometric|False|1.647|1.011|0.140|
+  |Arousal|Arithmetic|False|1.656|1.016|0.147|
+  |Arousal|Geometric|True|0.794|0.724|0.213|
+  |Arousal|Arithmetic|True|0.793|0.724|0.217|
   
   sigma = 2.0 using CVAW lexicon
   
@@ -371,10 +371,10 @@
   |Valence|Arithmetic|False|2.210|1.172|0.524|
   |Valence|Geometric|True|1.456|0.979|0.505|
   |Valence|Arithmetic|True|1.480|0.990|0.492|
-  |Arousal|Geometric|False|3.196|1.444|-0.110|
-  |Arousal|Arithmetic|False|3.256|1.455|-0.118|
-  |Arousal|Geometric|True|1.902|1.189|0.118|
-  |Arousal|Arithmetic|True|1.898|1.187|0.126|
+  |Arousal|Geometric|False|1.646|1.012|0.140|
+  |Arousal|Arithmetic|False|1.656|1.016|0.147|
+  |Arousal|Geometric|True|0.795|0.726|0.212|
+  |Arousal|Arithmetic|True|0.793|0.725|0.216|
   
   **Extended Lexicon**
 
@@ -386,10 +386,10 @@
   |Valence|Arithmetic|False|1.682|1.039|0.504|
   |Valence|Geometric|True|1.466|0.987|0.486|
   |Valence|Arithmetic|True|1.490|0.998|0.474|
-  |Arousal|Geometric|False|2.671|1.345|-0.076|
-  |Arousal|Arithmetic|False|2.722|1.355|-0.084|
-  |Arousal|Geometric|True|1.887|1.189|0.101|
-  |Arousal|Arithmetic|True|1.883|1.188|0.111|
+  |Arousal|Geometric|False|1.517|0.982|0.134|
+  |Arousal|Arithmetic|False|1.543|0.990|0.141|
+  |Arousal|Geometric|True|0.848|0.753|0.184|
+  |Arousal|Arithmetic|True|0.845|0.751|0.193|
 
   sigma = 1.5 using CVAW lexicon
   
@@ -399,10 +399,10 @@
   |Valence|Arithmetic|False|1.678|1.044|0.508|
   |Valence|Geometric|True|1.481|0.991|0.488|
   |Valence|Arithmetic|True|1.509|1.002|0.475|
-  |Arousal|Geometric|False|2.684|1.350|-0.078|
-  |Arousal|Arithmetic|False|2.736|1.360|-0.086|
-  |Arousal|Geometric|True|1.911|1.192|0.095|
-  |Arousal|Arithmetic|True|1.908|1.190|0.105|
+  |Arousal|Geometric|False|1.273|0.892|0.136|
+  |Arousal|Arithmetic|False|1.286|0.897|0.143|
+  |Arousal|Geometric|True|0.801|0.726|0.183|
+  |Arousal|Arithmetic|True|0.798|0.726|0.191|
   
   sigma = 2.0 using CVAW lexicon
   
@@ -412,10 +412,10 @@
   |Valence|Arithmetic|False|1.671|1.041|0.508|
   |Valence|Geometric|True|1.483|0.991|0.487|
   |Valence|Arithmetic|True|1.510|1.002|0.474|
-  |Arousal|Geometric|False|2.674|1.345|-0.078|
-  |Arousal|Arithmetic|False|2.725|1.355|-0.086|
-  |Arousal|Geometric|True|1.911|1.193|0.098|
-  |Arousal|Arithmetic|True|1.907|1.191|0.108|
+  |Arousal|Geometric|False|1.274|0.891|0.135|
+  |Arousal|Arithmetic|False|1.287|0.896|0.142|
+  |Arousal|Geometric|True|0.802|0.728|0.180|
+  |Arousal|Arithmetic|True|0.800|0.727|0.188|
 
 ##### Result comparison
 

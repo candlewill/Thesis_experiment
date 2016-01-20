@@ -7,6 +7,7 @@ from evaluate import regression_evaluate
 from sklearn import cross_validation
 import numpy as np
 from sklearn import linear_model
+from visualize import draw_scatter
 
 
 def mean_ratings(texts, lexicon, mean_method):
@@ -73,8 +74,8 @@ if __name__ == '__main__':
     using_extended_lexicon = True  # 'True' or 'False'
     option = 'A'  # 'V' or 'A'
     mean_method = 'tf_geo'  # values: 'tf_geo', 'tf_mean'
-    sigma = 1.0  # values: '1.0', '1.5', '2.0'
-    tokenizer = 'ckip'  # values: 'jieba', 'ckip'
+    sigma = 2.0  # values: '1.0', '1.5', '2.0'
+    tokenizer = 'jieba'  # values: 'jieba', 'ckip'
     ##################################################################
     if tokenizer == 'ckip':
         tokenizer = segsentence
@@ -82,6 +83,14 @@ if __name__ == '__main__':
         tokenizer = clean_str_word
 
     texts, valence, arousal = load_CVAT_2('./resources/CVAT2.0(sigma=' + str(sigma) + ').csv')
+
+    if option == 'V':
+        Y = valence
+    elif option == 'A':
+        Y = arousal
+    else:
+        raise Exception('Wrong parameters!')
+
     lexicon = load_CVAW(extended=using_extended_lexicon)
     d = dict()
     ind = 1 if option == 'V' else 2
@@ -90,10 +99,12 @@ if __name__ == '__main__':
 
     predicted_ratings = mean_ratings(texts, d, mean_method)
     print(predicted_ratings)
-    print(valence)
-    out = regression_evaluate(valence, predicted_ratings)
+    print(Y)
+    out = regression_evaluate(Y, predicted_ratings)
 
-    out2 = cv(predicted_ratings, valence)
+    draw_scatter(Y, predicted_ratings, 'True Values', 'Predicted Values', title='Scatter')
+
+    out2 = cv(predicted_ratings, Y)
 
     Dims = 'Valence' if option == 'V' else 'Arousal'
     Mean_Method = 'Geometric' if mean_method == 'tf_geo' else 'Arithmetic'
