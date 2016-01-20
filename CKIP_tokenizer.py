@@ -191,7 +191,7 @@ def segsentence(sentence):
         print('替換了')
         # print(sentence)
     result = segmenter.process(sentence)
-
+    # print(sentence)
     word = ""
     for term_list in result['result']:
         for term in term_list:
@@ -200,4 +200,9 @@ def segsentence(sentence):
 
 
 if __name__ == '__main__':
-    print(segsentence(' 這 版 開口 就 說 yaris 太 輕 了 的'))  # 元智大學非常好我想去那裏上學你們怎麼看
+    print(segsentence(
+        '臺灣電玩競賽隊伍臺北暗殺星TPA)在電玩大賽英雄聯盟世界錦標賽奪冠，電玩產業引起重視，教育部將在3個月之內提出優秀電競選手升學及獎學金相關辦法，激勵今16)日遊戲股全面大漲，擺脫近期低迷的悶氣，由華義3086-TW)領軍攻頂，其中昱泉6169-TW)、網龍3083-TW)隨後亮燈漲停，智冠、宇峻漲幅超過5%，辣椒也都有3%以上漲幅'))
+
+    # Error Texts
+    # 臺灣電玩競賽隊伍臺北暗殺星TPA)在電玩大賽英雄聯盟世界錦標賽奪冠，電玩產業引起重視，教育部將在3個月之內提出優秀電競選手升學及獎學金相關辦法，激勵今16)日遊戲股全面大漲，擺脫近期低迷的悶氣，由華義3086-TW)領軍攻頂，其中昱泉6169-TW)、網龍3083-TW)隨後亮燈漲停，智冠5478-TW)、宇峻3546-TW)漲幅超過5%，辣椒4946-TW)、樂升3662-TW)、傳奇4994-TW)、歐買尬3687-TW)、鈊象3293-TW)及橘子6180-TW)也都有3%以上漲幅。
+    # 元智大學非常好我想去那裏上學你們怎麼看
