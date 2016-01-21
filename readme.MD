@@ -449,6 +449,7 @@
  
  Note: The segmentation tool used above is Jieba, use jieba for valence and traditional version jieba for arousal.
  
+ 
 11. CKIP
 
  In this experiment, we use CKIP as the segmentation method instead of Jieba for valence and arousal prediction.
