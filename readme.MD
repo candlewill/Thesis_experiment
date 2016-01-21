@@ -446,6 +446,21 @@
  |Valence|1.0|Geometric|True|1.466|0.987|0.486|
  |Valence|1.5|Geometric|True|1.481|0.991|0.488|
  |Valence|2.0|Geometric|True|1.483|0.991|0.487|
+ 
+ Note: The segmentation tool used above is Jieba, use jieba for valence and traditional version jieba for arousal.
+ 
+11. CKIP
+
+ In this experiment, we use CKIP as the segmentation method instead of Jieba for valence and arousal prediction.
+
+ |Dims|sigma|Mean Method|Regression|MSE|MAE|r|
+ |-------|-------|-------|-------|-------|-------|-------|
+ |Valence|1.0|Geometric|True|1.434|0.988|0.506|
+ |Valence|1.5|Geometric|True|1.460|0.984|0.503|
+ |Valence|2.0|Geometric|True|1.456|0.979|0.505|
+ |Arousal|1.0|Arithmetic|True|0.839|0.751|0.216|
+ |Arousal|1.5|Arithmetic|True|0.793|0.724|0.217|
+ |Arousal|2.0|Arithmetic|True|0.793|0.725|0.216|
 
 ### Contact me
 
