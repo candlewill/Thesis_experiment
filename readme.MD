@@ -454,7 +454,29 @@
 
  In this experiment, we use CKIP as the segmentation method instead of Jieba for valence and arousal prediction.
 
+ Valence
+
  |Dims|sigma|Mean Method|Regression|MSE|MAE|r|
+ |-------|-------|-------|-------|-------|-------|-------|
+ |Valence|1.0|Geometric|False|2.213|1.161|0.545|
+ |Valence|1.0|Geometric|True|1.361|0.961|0.540|
+ |Valence|1.5|Geometric|False|2.216|1.164|0.546|
+ |Valence|1.5|Geometric|True|1.378|0.960|0.541|
+ |Valence|2.0|Geometric|False|2.205|1.162|0.546|
+ |Valence|2.0|Geometric|True|1.387|0.952|0.536|
+ 
+ Arousal
+ 
+ |Dims|sigma|Mean Method|Regression|MSE|MAE|r|
+ |-------|-------|-------|-------|-------|-------|-------| 
+ |Arousal|1.0|Arithmetic|True|0.837|0.749|0.222|
+ |Arousal|1.5|Arithmetic|True|0.791|0.723|0.220|
+ |Arousal|2.0|Arithmetic|True|0.792|0.725|0.218|
+ 
+```
+ **Use extended lexicon**
+ 
+  |Dims|sigma|Mean Method|Regression|MSE|MAE|r|
  |-------|-------|-------|-------|-------|-------|-------|
  |Valence|1.0|Geometric|True|1.434|0.988|0.506|
  |Valence|1.5|Geometric|True|1.460|0.984|0.503|
@@ -462,6 +484,7 @@
  |Arousal|1.0|Arithmetic|True|0.839|0.751|0.216|
  |Arousal|1.5|Arithmetic|True|0.793|0.724|0.217|
  |Arousal|2.0|Arithmetic|True|0.793|0.725|0.216|
+```
 
 ### Contact me
 

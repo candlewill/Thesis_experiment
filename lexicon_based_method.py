@@ -73,8 +73,8 @@ if __name__ == '__main__':
     ####################### Hyper-parameters #########################
     using_extended_lexicon = False  # 'True' or 'False'
     option = 'A'  # 'V' or 'A'
-    mean_method = 'tf_geo'  # values: 'tf_geo', 'tf_mean'
-    sigma = 1.0  # values: '1.0', '1.5', '2.0'
+    mean_method = 'tf_mean'  # values: 'tf_geo', 'tf_mean'
+    sigma = 2.0  # values: '1.0', '1.5', '2.0'
     tokenizer = 'ckip'  # values: 'jieba', 'ckip'
     ##################################################################
     if tokenizer == 'ckip':
