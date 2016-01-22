@@ -456,7 +456,8 @@
 
  Valence
 
- |Dims|sigma|Mean Method|Regression|MSE|MAE|r|
+
+  |Dims|sigma|Mean Method|Regression|MSE|MAE|r|
  |-------|-------|-------|-------|-------|-------|-------|
  |Valence|1.0|Geometric|False|2.213|1.161|0.545|
  |Valence|1.0|Geometric|True|1.361|0.961|0.540|
@@ -467,11 +468,13 @@
  
  Arousal
  
- |Dims|sigma|Mean Method|Regression|MSE|MAE|r|
+  |Dims|sigma|Mean Method|Regression|MSE|MAE|r|
  |-------|-------|-------|-------|-------|-------|-------| 
  |Arousal|1.0|Arithmetic|True|0.837|0.749|0.222|
  |Arousal|1.5|Arithmetic|True|0.791|0.723|0.220|
  |Arousal|2.0|Arithmetic|True|0.792|0.725|0.218|
+ 
+ 
  
 ```
  **Use extended lexicon**
@@ -485,6 +488,7 @@
  |Arousal|1.5|Arithmetic|True|0.793|0.724|0.217|
  |Arousal|2.0|Arithmetic|True|0.793|0.725|0.216|
 ```
+
 
 ### Contact me
 
