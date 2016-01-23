@@ -23,7 +23,14 @@ def load_CVAT_2(filename, categorical='all'):
                 texts.append(str(line[text_col]))  # sentence
                 valence.append(float(line[valence_col]))  # valence
                 arousal.append(float(line[arousal_col]))  # arousal
-        elif categorical == '':
+        elif categorical in ["book", "car", "laptop", "hotel", "news", "political"]:
+            for line in reader:
+                if line[label_col] == categorical:
+                    texts.append(str(line[text_col]))  # sentence
+                    valence.append(float(line[valence_col]))  # valence
+                    arousal.append(float(line[arousal_col]))  # arousal
+        else:
+            raise Exception("Parameters Wrong: categorical not exist.")
 
     return texts, valence, arousal
 
@@ -126,7 +133,7 @@ def load_CVAW(extended=False):
 
 
 if __name__ == '__main__':
-    texts, valence, arousal = load_CVAT_2('../resources/CVAT2.0(sigma=1.5).csv')
+    texts, valence, arousal = load_CVAT_2('../resources/valence_arousal(sigma=1.5).csv', categorical="political")
     len_text = []
     for i in texts:
         # print(list(i))
