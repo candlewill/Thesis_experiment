@@ -133,7 +133,7 @@ def load_CVAW(extended=False):
 
 
 if __name__ == '__main__':
-    texts, valence, arousal = load_CVAT_2('../resources/valence_arousal(sigma=1.5).csv', categorical="political")
+    texts, valence, arousal = load_CVAT_2('../resources/valence_arousal(sigma=1.5).csv', categorical="all")
     len_text = []
     for i in texts:
         # print(list(i))
@@ -141,3 +141,4 @@ if __name__ == '__main__':
     print(np.mean(np.array(len_text)), np.sum((np.array(len_text))), np.max(np.array(len_text)),
           np.min(np.array(len_text)))
     print(len(texts), len(valence), len(arousal))
+    print(texts[:20])
