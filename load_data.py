@@ -133,7 +133,7 @@ def load_CVAW(extended=False):
 
 
 if __name__ == '__main__':
-    texts, valence, arousal = load_CVAT_2('../resources/valence_arousal(sigma=1.5).csv', categorical="all")
+    texts, valence, arousal = load_CVAT_2('../resources/valence_arousal(sigma=1.5).csv', categorical="car")
     len_text = []
     for i in texts:
         # print(list(i))

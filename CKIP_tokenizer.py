@@ -182,7 +182,7 @@ class CKIPSegmenter(CKIPClient):
 
 
 def seg(sentence):
-    segmenter = CKIPSegmenter('***', '***')
+    segmenter = CKIPSegmenter('lcyu', 'lcyu')
     result = segmenter.process(sentence)
     word = ""
     for term_list in result['result']:
