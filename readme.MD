@@ -508,13 +508,13 @@ In the following table, we count the word information after CKIP segmentation. A
 ||#texts|#tokens|Avg. tokens|MAE|RMSE|r|MAE|RMSE|r
 |------|------|------|------|------|------|------|------|------|------|
 |ANEW vs Forum|20|15,035|751.75|1.20|1.55|0.77|0.72|0.85|0.27|
-|CVAW vs CVAT|2,009|65,559|32.63|||||||
-|Book Review|266|7,112|26.74|||||||
-|Car Forum|276|12,120|43.91|||||||
-|Computer Review|191|5,054|26.46|||||||
-|Hotel Review|305|7,261|23.81|||||||
-|News Article|567|20,881|36.83|||||||
-|Politics Forum|403|13,115|32.54|||||||
+|CVAW vs CVAT|2,009|65,559|32.63|0.974|1.187|0.525|0.724|0.891|0.212|
+|Book Review|266|7,112|26.74|0.872|1.081|0.251||||
+|Car Forum|276|12,120|43.91|0.892|1.083|0.254||||
+|Computer Review|191|5,054|26.46|0.853|1.067|0.394||||
+|Hotel Review|305|7,261|23.81|1.098|1.328|0.577||||
+|News Article|567|20,881|36.83|0.866|1.070|0.579||||
+|Politics Forum|403|13,115|32.54|0.785|0.954|0.574||||
 
 
 ### Contact me

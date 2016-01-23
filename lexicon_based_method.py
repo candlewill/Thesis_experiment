@@ -73,10 +73,10 @@ if __name__ == '__main__':
     ####################### Hyper-parameters #########################
     using_extended_lexicon = False  # 'True' or 'False'
     option = 'V'  # 'V' or 'A'
-    mean_method = 'tf_geo'  # values: 'tf_geo', 'tf_mean'
+    mean_method = 'tf_mean'  # values: 'tf_geo', 'tf_mean'
     sigma = 1.5  # values: '1.0', '1.5', '2.0'
     tokenizer = 'ckip'  # values: 'jieba', 'ckip'
-    categorical = 'hotel'  # values: 'all', "book", "car", "laptop", "hotel", "news", "political"
+    categorical = 'political'  # values: 'all', "book", "car", "laptop", "hotel", "news", "political"
     ##################################################################
 
     if tokenizer == 'ckip':
