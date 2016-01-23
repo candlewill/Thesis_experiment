@@ -501,6 +501,22 @@ Results of using the CVAW lexicon to predict the VA ratings of the CVAT corpus.
 |News Article|567|37,185|65.58|0.854|1.068|0.582|0.744|0.908|0.176|
 |Politics Forum|403|22,761|56.48|0.770|0.946|0.581|0.733|0.941|0.091|
 
+Note: In this table, tokens mean different characters. and Geometric Mean is used.
+
+In the following table, we count the word information after CKIP segmentation. And we use Arithmetic Mean method.
+
+||#texts|#tokens|Avg. tokens|MAE|RMSE|r|MAE|RMSE|r
+|------|------|------|------|------|------|------|------|------|------|
+|ANEW vs Forum|20|15,035|751.75|1.20|1.55|0.77|0.72|0.85|0.27|
+|CVAW vs CVAT|2,009|||||||||
+|Book Review|266|||||||||
+|Car Forum|276|||||||||
+|Computer Review|191|||||||||
+|Hotel Review|305|||||||||
+|News Article|567|||||||||
+|Politics Forum|403|||||||||
+
+
 ### Contact me
 
 * [Yunchao He] (https://plus.google.com/+YunchaoHe)
