@@ -133,7 +133,7 @@ def load_CVAW(extended=False):
 
 
 if __name__ == '__main__':
-    texts, valence, arousal = load_CVAT_2('../resources/valence_arousal(sigma=1.5).csv', categorical="book")
+    texts, valence, arousal = load_CVAT_2('../resources/valence_arousal(sigma=1.5).csv', categorical="political")
     len_text = []
     from CKIP_tokenizer import segsentence
     for i in texts:

@@ -509,12 +509,12 @@ In the following table, we count the word information after CKIP segmentation. A
 |------|------|------|------|------|------|------|------|------|------|
 |ANEW vs Forum|20|15,035|751.75|1.20|1.55|0.77|0.72|0.85|0.27|
 |CVAW vs CVAT|2,009|||||||||
-|Book Review|266|||||||||
-|Car Forum|276|||||||||
+|Book Review|266|26.74|7,112|||||||
+|Car Forum|276|12,120|43.91|||||||
 |Computer Review|191|5,054|26.46|||||||
-|Hotel Review|305|||||||||
-|News Article|567|||||||||
-|Politics Forum|403|||||||||
+|Hotel Review|305|7,261|23.81|||||||
+|News Article|567|20,881|36.83|||||||
+|Politics Forum|403|13,115|32.54|||||||
 
 
 ### Contact me
