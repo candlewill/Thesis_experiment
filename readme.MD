@@ -488,6 +488,18 @@
  |Arousal|2.0|Arithmetic|True|0.793|0.725|0.216|
 ```
 
+Results of using the CVAW lexicon to predict the VA ratings of the CVAT corpus.
+
+||#texts|#tokens|Avg. tokens|MAE|RMSE|r|MAE|RMSE|r
+|------|------|------|------|------|------|------|------|------|------|
+|ANEW vs Forum|20|15,035|751.75|1.20|1.55|0.77|0.72|0.85|0.27|
+|CVAW vs CVAT|2,009|111,559|55.53|||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
 
 ### Contact me
 
