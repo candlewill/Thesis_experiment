@@ -511,7 +511,7 @@ In the following table, we count the word information after CKIP segmentation. A
 |CVAW vs CVAT|2,009|||||||||
 |Book Review|266|||||||||
 |Car Forum|276|||||||||
-|Computer Review|191|||||||||
+|Computer Review|191|5,054|26.46|||||||
 |Hotel Review|305|||||||||
 |News Article|567|||||||||
 |Politics Forum|403|||||||||
