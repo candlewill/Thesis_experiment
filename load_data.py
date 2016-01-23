@@ -10,14 +10,20 @@ import os
 import codecs
 
 
-def load_CVAT_2(filename):
+def load_CVAT_2(filename, categorical='all'):
     texts, valence, arousal = [], [], []
+    # without texts categorical information
+    # text_col, valence_col, arousal_col = 1, 2, 3
+    # with categorical information
+    text_col, label_col, valence_col, arousal_col, = 1, 2, 3, 4
     with open(filename, 'r', newline='', encoding='utf-8') as f:
         reader = csv.reader(f, delimiter=',')
-        for line in reader:
-            texts.append(str(line[1]))  # sentence
-            valence.append(float(line[2]))  # valence
-            arousal.append(float(line[3]))  # arousal
+        if categorical == 'all':
+            for line in reader:
+                texts.append(str(line[text_col]))  # sentence
+                valence.append(float(line[valence_col]))  # valence
+                arousal.append(float(line[arousal_col]))  # arousal
+        elif categorical == '':
 
     return texts, valence, arousal
 
