@@ -142,8 +142,9 @@ def save_to_foler(ls):
         text_file = open("./tmp/tokenized/"+str(i+1)+".txt", "w", encoding='utf-8')
         text_file.write(text)
         text_file.close()
-save_to_foler(test_tokenized())
-exit()
+# save the tokenized data into a foler
+# save_to_foler(test_tokenized())
+# exit()
 
 def load_CVAT_3(file_name, tokenized_texts_filename, categorical):
     # categorical values: "all", "book", "car", "laptop", "hotel", "news", "political"
