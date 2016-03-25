@@ -85,8 +85,8 @@ if __name__ == '__main__':
         tokenizer = clean_str_word
 
     # texts, valence, arousal = load_CVAT_2('./resources/CVAT2.0(sigma=' + str(sigma) + ').csv', categorical=categorical)
-    texts, valence, arousal = load_CVAT_2("./resources/valence_arousal(sigma=1.5).csv", categorical=categorical)
-
+    # texts, valence, arousal = load_CVAT_2("./resources/valence_arousal(sigma=1.5).csv", categorical=categorical)
+    texts, valence, arousal = load_CVAT_2("./resources/corpus 2009 sigma 1.5.csv", categorical=categorical)
     if option == 'V':
         Y = valence
     elif option == 'A':

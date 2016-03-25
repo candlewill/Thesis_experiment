@@ -133,12 +133,19 @@ def load_CVAW(extended=False):
 
 
 if __name__ == '__main__':
-    texts, valence, arousal = load_CVAT_2('../resources/valence_arousal(sigma=1.5).csv', categorical="all")
+    texts, valence, arousal = load_CVAT_2('./resources/corpus 2009 sigma 1.5.csv', categorical="all")
     len_text = []
     from CKIP_tokenizer import segsentence
-    for i in texts:
+    out = []
+    for idx, i in enumerate(texts):
         # print(list(i))
-        len_text.append(len(segsentence(i).split()))
+        print(idx)
+        out.append(" ".join(segsentence(i)))
+        # len_text.append(len(.split()))
+    from save_data import dump_picle
+    dump_picle(out, "tokenized_texts.p")
+    print("The tokenized text is saved.")
+    exit()
     print(np.mean(np.array(len_text)), np.sum((np.array(len_text))), np.max(np.array(len_text)),
           np.min(np.array(len_text)))
     print(len(texts), len(valence), len(arousal))
