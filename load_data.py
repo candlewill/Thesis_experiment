@@ -137,6 +137,14 @@ def test_tokenized():
         out.append(" ".join([w.replace(" ", "") for w in i.split("   ")]))
     return out
 
+def save_to_foler(ls):
+    for i, text in enumerate(ls):
+        text_file = open("./tmp/tokenized/"+str(i+1)+".txt", "w", encoding='utf-8')
+        text_file.write(text)
+        text_file.close()
+save_to_foler(test_tokenized())
+exit()
+
 def load_CVAT_3(file_name, tokenized_texts_filename, categorical):
     # categorical values: "all", "book", "car", "laptop", "hotel", "news", "political"
     texts, valence, arousal = load_CVAT_2('./resources/corpus 2009 sigma 1.5.csv', categorical="all")

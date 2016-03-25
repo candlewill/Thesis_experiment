@@ -79,7 +79,7 @@ if __name__ == '__main__':
     mean_method = 'tf_geo'  # values: 'tf_geo', 'tf_mean'
     sigma = 1.5  # values: '1.0', '1.5', '2.0'
     tokenizer = 'pre_tokenized'  # values: 'jieba', 'ckip', "pre_tokenized"
-    categorical = 'political'  # values: 'all', "book", "car", "laptop", "hotel", "news", "political"
+    categorical = 'car'  # values: 'all', "book", "car", "laptop", "hotel", "news", "political"
     ##################################################################
 
     if tokenizer == 'ckip':
