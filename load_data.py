@@ -130,22 +130,50 @@ def load_CVAW(extended=False):
 
     return lexicon_data
 
+def test_tokenized():
+    texts = load_pickle("./resources/tokenized_texts.p")
+    out = []
+    for i in texts:
+        out.append(" ".join([w.replace(" ", "") for w in i.split("   ")]))
+    return out
+
+def load_CVAT_3(file_name, tokenized_texts_filename, categorical):
+    # categorical values: "all", "book", "car", "laptop", "hotel", "news", "political"
+    texts, valence, arousal = load_CVAT_2('./resources/corpus 2009 sigma 1.5.csv', categorical="all")
+    tokenized_texts = test_tokenized()
+    if categorical == "all":
+        pass
+    elif categorical in ["book", "car", "laptop", "hotel", "news", "political"]:
+        texts, valence, arousal = [], [], []
+        text_col, label_col, valence_col, arousal_col, = 1, 2, 3, 4
+        with open("./resources/corpus 2009 sigma 1.5.csv", 'r', newline='', encoding='utf-8') as f:
+            reader = csv.reader(f, delimiter=',')
+            for i,line in enumerate(reader):
+                if line[label_col] == categorical:
+                    texts.append(str(tokenized_texts[i]))  # sentence
+                    valence.append(float(line[valence_col]))  # valence
+                    arousal.append(float(line[arousal_col]))  # arousal
+            tokenized_texts = texts
+    else:
+        raise Exception("Parameters Wrong: categorical not exist.")
+    return tokenized_texts, valence, arousal
 
 
 if __name__ == '__main__':
-    texts, valence, arousal = load_CVAT_2('./resources/corpus 2009 sigma 1.5.csv', categorical="all")
+    texts, valence, arousal = load_CVAT_3('./resources/corpus 2009 sigma 1.5.csv','./resources/tokenized_texts.p', categorical="political")
+    # texts = load_pickle("./resources/tokenized_texts.p")
     len_text = []
     from CKIP_tokenizer import segsentence
     out = []
     for idx, i in enumerate(texts):
         # print(list(i))
-        print(idx)
-        out.append(" ".join(segsentence(i)))
-        # len_text.append(len(.split()))
-    from save_data import dump_picle
-    dump_picle(out, "tokenized_texts.p")
-    print("The tokenized text is saved.")
-    exit()
+        # print(idx)
+        # out.append(" ".join(segsentence(i)))
+        len_text.append(len(i.split()))
+    # from save_data import dump_picle
+    # dump_picle(out, "tokenized_texts.p")
+    # print("The tokenized text is saved.")
+    # exit()
     print(np.mean(np.array(len_text)), np.sum((np.array(len_text))), np.max(np.array(len_text)),
           np.min(np.array(len_text)))
     print(len(texts), len(valence), len(arousal))

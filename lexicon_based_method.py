@@ -46,6 +46,7 @@ def mean_ratings(texts, lexicon, mean_method):
         raise Exception('Parameters Wrong.')
 
     for text in texts:
+        # print(text)
         V = VA_mean(tokenizer(text))
         predicted_ratings.append(V)
     print(predicted_ratings[:200])
@@ -67,15 +68,17 @@ def cv(data, target):
     X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(data, target, test_size=0.2, random_state=2)
     return linear_regression(X_train, X_test, Y_train, Y_test, plot=False)
 
+def split(sentence):
+    return sentence
 
 if __name__ == '__main__':
 
     ####################### Hyper-parameters #########################
     using_extended_lexicon = False  # 'True' or 'False'
     option = 'A'  # 'V' or 'A'
-    mean_method = 'tf_mean'  # values: 'tf_geo', 'tf_mean'
+    mean_method = 'tf_geo'  # values: 'tf_geo', 'tf_mean'
     sigma = 1.5  # values: '1.0', '1.5', '2.0'
-    tokenizer = 'ckip'  # values: 'jieba', 'ckip'
+    tokenizer = 'pre_tokenized'  # values: 'jieba', 'ckip', "pre_tokenized"
     categorical = 'political'  # values: 'all', "book", "car", "laptop", "hotel", "news", "political"
     ##################################################################
 
@@ -83,10 +86,13 @@ if __name__ == '__main__':
         tokenizer = segsentence
     elif tokenizer == 'jieba':
         tokenizer = clean_str_word
+    elif tokenizer == "pre_tokenized":
+        tokenizer = split
 
     # texts, valence, arousal = load_CVAT_2('./resources/CVAT2.0(sigma=' + str(sigma) + ').csv', categorical=categorical)
     # texts, valence, arousal = load_CVAT_2("./resources/valence_arousal(sigma=1.5).csv", categorical=categorical)
-    texts, valence, arousal = load_CVAT_2("./resources/corpus 2009 sigma 1.5.csv", categorical=categorical)
+    from load_data import load_CVAT_3
+    texts, valence, arousal = load_CVAT_3('./resources/corpus 2009 sigma 1.5.csv','./resources/tokenized_texts.p', categorical=categorical)
     if option == 'V':
         Y = valence
     elif option == 'A':
