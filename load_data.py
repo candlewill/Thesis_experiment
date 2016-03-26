@@ -130,8 +130,8 @@ def load_CVAW(extended=False):
 
     return lexicon_data
 
-def test_tokenized():
-    texts = load_pickle("./resources/tokenized_texts.p")
+def test_tokenized(tokenized_texts_filename):
+    texts = load_pickle(tokenized_texts_filename)
     out = []
     for i in texts:
         out.append(" ".join([w.replace(" ", "") for w in i.split("   ")]))
@@ -142,20 +142,21 @@ def save_to_foler(ls):
         text_file = open("./tmp/tokenized/"+str(i+1)+".txt", "w", encoding='utf-8')
         text_file.write(text)
         text_file.close()
-# save the tokenized data into a foler
+# save the tokenized data into a folder
 # save_to_foler(test_tokenized())
 # exit()
 
 def load_CVAT_3(file_name, tokenized_texts_filename, categorical):
     # categorical values: "all", "book", "car", "laptop", "hotel", "news", "political"
-    texts, valence, arousal = load_CVAT_2('./resources/corpus 2009 sigma 1.5.csv', categorical="all")
-    tokenized_texts = test_tokenized()
+    # texts, valence, arousal = load_CVAT_2('./resources/corpus 2009 sigma 1.5.csv', categorical="all")
+    texts, valence, arousal = load_CVAT_2(file_name, categorical="all")
+    tokenized_texts = test_tokenized(tokenized_texts_filename)
     if categorical == "all":
         pass
     elif categorical in ["book", "car", "laptop", "hotel", "news", "political"]:
         texts, valence, arousal = [], [], []
         text_col, label_col, valence_col, arousal_col, = 1, 2, 3, 4
-        with open("./resources/corpus 2009 sigma 1.5.csv", 'r', newline='', encoding='utf-8') as f:
+        with open(file_name, 'r', newline='', encoding='utf-8') as f:
             reader = csv.reader(f, delimiter=',')
             for i,line in enumerate(reader):
                 if line[label_col] == categorical:
