@@ -25,7 +25,7 @@ def predict(sentence, lexicon, method):
 
 def va_prediction(sentences, lexicon, true_values):
     arithmetic, geometric =[], []
-    for sentence in sentences:
+    for i,sentence in enumerate(sentences):
         print(sentence)
         predicted_value_a = predict(sentence, lexicon, 'TF_mean')
         arithmetic.append(predicted_value_a)
@@ -33,6 +33,7 @@ def va_prediction(sentences, lexicon, true_values):
         predicted_value_g = predict(sentence, lexicon, 'Geo_mean')
         print('The predicted values is (using Geometric  Average): %s'% predicted_value_g)
         geometric.append(predicted_value_g)
+        print('The true values is: %s' % true_values[i])
     return arithmetic, geometric
 
 if __name__ == '__main__':
