@@ -1,9 +1,9 @@
 ||valence|arousal|
 |------------|------------|------------|
-|all|[log](./logs/all_valence.MD)|[log](./logs/all_arousal.MD)|
-|book|[log](./logs/book_valence.MD)|[log](./logs/book_arousal.MD)|
-|car|[log](./logs/car_valence.MD)|[log](./logs/car_arousal.MD)|
-|laptop|[log](./logs/laptop_valence.MD)|[log](./logs/laptop_arousal.MD)|
-|hotel|[log](./logs/hotel_valence.MD)|[log](./logs/hotel_arousal.MD)|
-|news|[log](./logs/news_valence.MD)|[log](./logs/news_arousal.MD)|
-|political|[log](./logs/political_valence.MD)|[log](./logs/political_arousal.MD)|
+|all|[log](./logs/all_valence.txt)|[log](./logs/all_arousal.txt)|
+|book|[log](./logs/book_valence.txt)|[log](./logs/book_arousal.txt)|
+|car|[log](./logs/car_valence.txt)|[log](./logs/car_arousal.txt)|
+|laptop|[log](./logs/laptop_valence.txt)|[log](./logs/laptop_arousal.txt)|
+|hotel|[log](./logs/hotel_valence.txt)|[log](./logs/hotel_arousal.txt)|
+|news|[log](./logs/news_valence.txt)|[log](./logs/news_arousal.txt)|
+|political|[log](./logs/political_valence.txt)|[log](./logs/political_arousal.txt)|
