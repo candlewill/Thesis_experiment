@@ -10,7 +10,7 @@ from sklearn import linear_model
 from visualize import draw_scatter
 
 
-def mean_ratings(texts, lexicon, mean_method):
+def mean_ratings(texts, lexicon, mean_method, true_values):
     predicted_ratings = []
     global tokenizer
 
@@ -28,15 +28,21 @@ def mean_ratings(texts, lexicon, mean_method):
         return 5 if count == 0 else sum_valence ** (1. / count)  # geo
 
     def tf_mean(text):  # tf_mean
+        print("Sentence:")
+        print(text)
         sum_valence = 0
         count = 0
         word_list = text.split()
         for word in word_list:
             for line in lexicon:
                 if word == line:
+                    print('The sentiment words:')
+                    print("word:%s, arousal: %s." % (word, lexicon[word]))
                     count = count + 1
                     sum_valence = sum_valence + lexicon[line]
-        return 5 if count == 0 else sum_valence / count
+        predicted_value = 5 if count == 0 else sum_valence / count
+        print('Predicted value: %s' % predicted_value)
+        return predicted_value
 
     if mean_method == 'tf_geo':
         VA_mean = tf_geo
@@ -45,9 +51,10 @@ def mean_ratings(texts, lexicon, mean_method):
     else:
         raise Exception('Parameters Wrong.')
 
-    for text in texts:
+    for i, text in enumerate(texts):
         # print(text)
         V = VA_mean(tokenizer(text))
+        print("True value: %s" % true_values[i])
         predicted_ratings.append(V)
     print(predicted_ratings[:200])
     return predicted_ratings
@@ -68,18 +75,20 @@ def cv(data, target):
     X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(data, target, test_size=0.2, random_state=2)
     return linear_regression(X_train, X_test, Y_train, Y_test, plot=False)
 
+
 def split(sentence):
     return sentence
+
 
 if __name__ == '__main__':
 
     ####################### Hyper-parameters #########################
     using_extended_lexicon = False  # 'True' or 'False'
     option = 'A'  # 'V' or 'A'
-    mean_method = 'tf_geo'  # values: 'tf_geo', 'tf_mean'
+    mean_method = 'tf_mean'  # values: 'tf_geo', 'tf_mean'
     sigma = 1.5  # values: '1.0', '1.5', '2.0'
     tokenizer = 'pre_tokenized'  # values: 'jieba', 'ckip', "pre_tokenized"
-    categorical = 'news'  # values: 'all', "book", "car", "laptop", "hotel", "news", "political"
+    categorical = 'laptop'  # values: 'all', "book", "car", "laptop", "hotel", "news", "political"
     ##################################################################
 
     if tokenizer == 'ckip':
@@ -95,6 +104,7 @@ if __name__ == '__main__':
     # texts, valence, arousal = load_CVAT_3('./resources/corpus 2009 sigma 1.5.csv','./resources/tokenized_texts.p', categorical=categorical)
     # texts, valence, arousal = load_CVAT_3('./resources/valence_arousal(sigma=1.5).csv','./resources/tokenized_texts_(old).p', categorical=categorical)
     from mix_data import read_mix_data
+
     texts, valence, arousal = read_mix_data(categorical)
 
     if option == 'V':
@@ -110,7 +120,7 @@ if __name__ == '__main__':
     for l in lexicon:
         d[l[0]] = l[ind]
 
-    predicted_ratings = mean_ratings(texts, d, mean_method)
+    predicted_ratings = mean_ratings(texts, d, mean_method, Y)
     print(predicted_ratings)
     print(Y)
     out = regression_evaluate(Y, predicted_ratings)

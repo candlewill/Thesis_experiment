@@ -1,0 +1,10 @@
+||valence|arousal|
+|------------|------------|------------|
+|all|(log)[./logs/all_valence.MD]|(log)[./logs/all_arousal.MD]|
+|book|(log)[./logs/book_valence.MD]|(log)[./logs/book_arousal.MD]|
+|car|(log)[./logs/car_valence.MD]|(log)[./logs/car_arousal.MD]|
+|laptop|(log)[./logs/laptop_valence.MD]|(log)[./logs/laptop_arousal.MD]|
+|hotel|(log)[./logs/hotel_valence.MD]|(log)[./logs/hotel_arousal.MD]|
+|news|(log)[./logs/news_valence.MD]|(log)[./logs/news_arousal.MD]|
+|political|(log)[./logs/political_valence.MD]|(log)[./logs/political_arousal.MD]|
+
