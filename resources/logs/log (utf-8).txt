@@ -1,0 +1,1941 @@
+﻿2016-03-28 11:04:56,128: INFO: running E:\workspaces\python\naacl_resource\lexicon_avg.py
+sentence_id:202
+　凡(Cbb)　走(VA)　過必(VH)　留(VC)　痕跡(Na)　，(COMMACATEGORY)
+
+　在(P)　T(FW)　版(Na)　大聲(VH)　說(VE)　安全(VH)　才(Da)　重要(VH)　的(T)　，(COMMACATEGORY)
+
+　有(V_2)　些(Nf)　還不是(D)　為了(P)　一些(Neqa)　小(VH)　毛病(Na)　、(PAUSECATEGORY)　小異(Na)　音(Na)　、(PAUSECATEGORY)　小路(Na)　感(VK)　...(ETCCATEGORY)　等(Cab)　，(COMMACATEGORY)
+
+　要求(VF)　原(A)　廠(Nc)　處理(VC)　，(COMMACATEGORY)
+
+　如果(Cbb)　真(D)　這麼(D)　在乎(VK)　安全(VH)　，(COMMACATEGORY)
+
+　又(D)　還(D)　必(D)　在乎(VK)　其它(Neqa)　東西(Na)　
+
+1
+find_word: 安全
+word_valence: 6.4
+word_arousal: 4.4
+2
+find_word: 安全
+word_valence: 6.4
+word_arousal: 4.4
+sentence_result: 
+true_valence: 3.33333333333
+true_arousal: 6.0
+pred_valence: 6.4
+pred_valence: 4.4
+
+sentence_id:203
+　別(D)　跟(P)　政治(Na)　人物(Na)　一樣(VH)　，(COMMACATEGORY)
+
+　為(P)　反對(VE)　而(Cbb)　反對(VE)　，(COMMACATEGORY)
+
+　為何(D)　不(D)　說(VE)　自己(Nh)　經驗(Na)　而(Cbb)　討論(VE)　，(COMMACATEGORY)
+
+　只(Da)　會(D)　發表(VC)　自己(Nh)　喜好(Na)　而(Cbb)　討論(VE)　，(COMMACATEGORY)
+
+　就(D)　像(P)　很多(Neqa)　大大(VH)　說(VE)　的(T)　，(COMMACATEGORY)
+
+　不(D)　喜歡(VK)　不屑(VL)　，(COMMACATEGORY)
+
+　就(D)　別(D)　買(VC)　就(D)　好了(T)　呀(T)　
+
+1
+find_word: 反對
+word_valence: 3.4
+word_arousal: 6.2
+2
+find_word: 反對
+word_valence: 3.4
+word_arousal: 6.2
+3
+find_word: 喜歡
+word_valence: 7.0
+word_arousal: 5.8
+4
+find_word: 不屑
+word_valence: 3.0
+word_arousal: 6.0
+sentence_result: 
+true_valence: 3.5
+true_arousal: 6.22222222222
+pred_valence: 4.2
+pred_valence: 6.05
+
+sentence_id:274
+　疼(VJ)　老婆(Na)　是(SHI)　一(Neu)　件(Nf)　好事(Na)　!(EXCLANATIONCATEGORY)　很(Dfa)　好(VH)　....(ETCCATEGORY)　像(VG)　我(Nh)　也(D)　是(SHI)　剛(D)　結婚(VA)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　雖然(Cbb)　家(Nc)　裡(Ncd)　有(V_2)　車子(Na)　雖然(Cbb)　上班(VA)　公里數(Na)　差不多(D)　要(D)　13(Neu)　k(FW)　不過(Cbb)　能(D)　盡量(D)　不(D)　開車(VA)　還是(D)　不(D)　開車(VA)　!(EXCLANATIONCATEGORY)　說真的(Dk)　開車油(Na)　錢(Na)　好(Dfa)　貴(VH)　唷(T)　....(ETCCATEGORY)　除非(Cbb)　天氣(Na)　真的(D)　很(Dfa)
+
+　糟糕(VH)　才(Da)　會(D)　想要(VE)　開車(VA)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　兩(Neu)　個人(Nh)　的(DE)　收入(Na)　差不多(VH)　不(D)　到(VC)　六萬(Neu)　不過(Cbb)　....(ETCCATEGORY)　沒(VJ)　認真(VH)　算(VG)　過(Di)　不(D)　知道(VK)　有沒有(D)　結餘(VJ)　....(ETCCATEGORY)　騎(VC)　機車(Na)　跟(P)　開車(VA)　的(DE)　開銷(Na)　真的(D)　有(V_2)　差(VH)　....(ETCCATEGORY)　多存(Na)　一點(Neqa)　真的(D)　需要(VK)　的(DE)　時候(Na)　在(P)　買(VC)　吧(T)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　說(VE)
+
+　是(SHI)　這樣子(VH)　說(VE)　!(EXCLANATIONCATEGORY)　我(Nh)　自已(Nh)　也(D)　想(VE)　買(VC)　台(Nc)　車子(Na)　給(VD)　老婆(Na)　開(VC)　....(ETCCATEGORY)
+
+1
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+2
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+3
+find_word: 糟糕
+word_valence: 3.2
+word_arousal: 5.2
+4
+find_word: 認真
+word_valence: 7.0
+word_arousal: 5.0
+5
+find_word: 差
+word_valence: 3.4
+word_arousal: 4.6
+6
+find_word: 想
+word_valence: 5.2
+word_arousal: 3.6
+sentence_result: 
+true_valence: 5.33333333333
+true_arousal: 5.4
+pred_valence: 5.4
+pred_valence: 4.8
+
+sentence_id:275
+　其實(D)　看(VC)　的(DE)　影片(Na)　之後(Ng)　，(COMMACATEGORY)
+
+　相信(VK)　樓主(Na)　只是(D)　想(VE)　反應(VE)　一下(Nd)　原廠(Nc)　處理(VC)　的(DE)　態度(Na)　及(Caa)　消費者(Na)　的(DE)　無奈(Nv)　。(PERIODCATEGORY)
+
+1
+find_word: 相信
+word_valence: 7.2
+word_arousal: 5.4
+2
+find_word: 想
+word_valence: 5.2
+word_arousal: 3.6
+3
+find_word: 無奈
+word_valence: 3.6
+word_arousal: 4.2
+sentence_result: 
+true_valence: 4.11111111111
+true_arousal: 4.71428571429
+pred_valence: 5.33333333333
+pred_valence: 4.4
+
+sentence_id:276
+　或許(D)　今天(Nd)　當事者(Na)　並(D)　不(D)　是(SHI)　你我(Na)　，(COMMACATEGORY)
+
+　我們(Nh)　無法(D)　體會(VK)　樓主(Na)　當時(Nd)　在(P)　高速(VH)　公路(Na)　上(Ncd)　的(DE)　心情(Na)　。(PERIODCATEGORY)
+
+1
+find_word: 體會
+word_valence: 6.4
+word_arousal: 4.4
+2
+find_word: 心情
+word_valence: 5.0
+word_arousal: 3.6
+sentence_result: 
+true_valence: 4.75
+true_arousal: 5.28571428571
+pred_valence: 5.7
+pred_valence: 4.0
+
+sentence_id:277
+　PS(FW)　相信(VK)　沒有(VJ)　任何(Neqa)　一(Neu)　家(Nf)　車廠(Nc)　敢(VL)　保證(VE)　自家(Nc)　的(DE)　車子(Na)　出廠(VA)　都(D)　沒(VJ)　問題(Na)　。(PERIODCATEGORY)
+
+1
+find_word: 相信
+word_valence: 7.2
+word_arousal: 5.4
+2
+find_word: 保證
+word_valence: 6.6
+word_arousal: 6.2
+sentence_result: 
+true_valence: 5.0
+true_arousal: 4.85714285714
+pred_valence: 6.9
+pred_valence: 5.8
+
+sentence_id:278
+　相信(VK)　這(Nep)　才(Da)　是(SHI)　車廠(Nc)　需要(VK)　思考(VE)　的(DE)　方向(Na)　。(PERIODCATEGORY)
+
+1
+find_word: 相信
+word_valence: 7.2
+word_arousal: 5.4
+sentence_result: 
+true_valence: 5.75
+true_arousal: 4.71428571429
+pred_valence: 7.2
+pred_valence: 5.4
+
+sentence_id:279
+　確實(D)　越(D)　改(VC)　越(D)　難看(VH)　目前(Nd)　這(Nep)　一(Neu)　代(Na)　還(D)　比較(Dfa)　帥氣(VH)　好看(VH)　多(VH)　了(Di)　東抄西抄(VC)　快(VH)　變(VH)　四不像(Na)　了(T)　但(Cbb)　反正(D)　toyota(FW)　本來(D)　就(D)　不(D)　太(Dfa)　會(VL)　造車(Na)　都(D)　是(SHI)　看(VC)　對手(Na)　出(VC)　什麼(Nep)　車(Na)　賣(VD)　得(DE)　好(VH)　的(DE)　話(Na)　再(D)　出(VC)　同(Nes)　款(Nf)　的(DE)　車(Na)　來(D)　把(P)　外觀(Na)　跟(P)　設備(Na)　改良(VC)　賣(VD)　得(DE)　好(VH)　　的(DE)　話(Na)　還(VD)　一(Neu)　堆(Nf)　擁護(VC)　車主(Na)　覺得(VK)　他們(Nh)　買(VC)　的(DE)　車(Na)　是(SHI)　比(P)　別(Nes)　家(Nf)　還(D)　棒(VH)　的(DE)　車(Na)　還(D)　真(D)　不(D)　知道(VK)　有(V_2)　啥(Nep)　車(Na)　是(SHI)　他們(Nh)　自己(Nh)　完全(D)　設計(VC)　製造(Nv)　而(Cbb)　不(D)　是(SHI)　拿(VC)　人家(Nh)　的(DE)　車(Na)　做(VC)　範本(Na)　去(D)　做(VC)　改良(Nv)　設計(Na)　在(P)　拿出來(VB)　賣(VD)　的(DE)　
+
+1
+find_word: 帥氣
+word_valence: 7.0
+word_arousal: 6.0
+2
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+3
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+4
+find_word: 擁護
+word_valence: 6.4
+word_arousal: 6.0
+5
+find_word: 棒
+word_valence: 6.8
+word_arousal: 5.8
+sentence_result: 
+true_valence: 3.25
+true_arousal: 5.875
+pred_valence: 6.76
+pred_valence: 5.64
+
+sentence_id:280
+　關於(P)　你(Nh)　的(DE)　疑問(Na)　，(COMMACATEGORY)
+
+　確實(D)　沒(VJ)　人(Na)　保證(VE)　開雙(Na)　B(FW)　就(D)　不會(D)　死(VH)　，(COMMACATEGORY)
+
+　開(VC)　T(FW)　就(D)　穩(VH)　死(VH)　，(COMMACATEGORY)
+
+　但(Cbb)　發生(VJ)　車禍(Na)　時(Ng)　的(DE)　存活率(Na)　確實(D)　有(V_2)　差(VH)　，(COMMACATEGORY)
+
+　單單(Da)　為了(P)　出門(VA)　時(Ng)　可能(D)　有(V_2)　十萬分之一(Neqa)　發生(VJ)　事故(Na)　，(COMMACATEGORY)
+
+　發生(VJ)　事故(Na)　時(Ng)　的(DE)　存活率(Na)　差(VH)　10(Neu)　%(Nf)　，(COMMACATEGORY)
+
+　這樣(VH)　算起來(D)　只(Da)　增加(VHC)　百萬分之一(Neqa)　的(DE)　存活率(Na)　，(COMMACATEGORY)
+
+　有(V_2)　需要(VK)　選購(VC)　較(Dfa)　安全(VH)　的(DE)　車款(Na)　嗎(T)　?(QUESTIONCATEGORY)
+
+1
+find_word: 保證
+word_valence: 6.6
+word_arousal: 6.2
+2
+find_word: 死
+word_valence: 1.2
+word_arousal: 5.0
+3
+find_word: 死
+word_valence: 1.2
+word_arousal: 5.0
+4
+find_word: 差
+word_valence: 3.4
+word_arousal: 4.6
+5
+find_word: 差
+word_valence: 3.4
+word_arousal: 4.6
+6
+find_word: 安全
+word_valence: 6.4
+word_arousal: 4.4
+sentence_result: 
+true_valence: 3.875
+true_arousal: 5.375
+pred_valence: 3.7
+pred_valence: 4.96666666667
+
+sentence_id:281
+　如果(Cbb)　只(Da)　有(V_2)　HYBRID(FW)　的(DE)　差別(Na)　，(COMMACATEGORY)
+
+　動(VAC)　則(D)　數十萬(Neu)　的(DE)　價差(Na)　，(COMMACATEGORY)
+
+　卻(D)　要(VC)　消費者(Na)　買單(VA)　，(COMMACATEGORY)
+
+　銷售量(Na)　肯定(VK)　不會(D)　太(Dfa)　好看(VH)　這(Nep)　年頭(Nd)　環保(Na)　跟(P)　銀子(Na)　，(COMMACATEGORY)
+
+　大概(D)　還是(D)　銀子(Na)　重要(VH)　些(Dfb)　)(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+
+　HYBRID(FW)　車款(Na)　將(D)　會(D)　是(SHI)　CAMRY(FW)　的(DE)　重要(VH)　戰略(Na)　車款(Na)　，(COMMACATEGORY)
+
+　希望(VK)　借(VD)　此(Nep)　再(D)　拉大(VC)　與(Caa)　同級(Na)　對手(Na)　的(DE)　差距(Na)　，(COMMACATEGORY)
+
+　如果(Cbb)　銷量(Na)　不(D)　好(VH)　，(COMMACATEGORY)
+
+　總代理(Na)　面子(Na)　肯定(VK)　掛不住(VH)　，(COMMACATEGORY)
+
+　因此(Cbb)　在(P)　配備(Na)　上(Ncd)　預留(VC)　了(Di)　一些(Neqa)　頂級(A)　的(DE)　空間(Na)　，(COMMACATEGORY)
+
+　讓(VL)　準(VC)　CAMRY(FW)　車主(Na)　能(D)　多(D)　掏(VC)　一些(Neqa)　銀子(Na)　，(COMMACATEGORY)
+
+　購買(VC)　HYBRID(FW)　車型(Na)　。(PERIODCATEGORY)
+
+1
+find_word: 肯定
+word_valence: 6.8
+word_arousal: 6.0
+2
+find_word: 希望
+word_valence: 7.0
+word_arousal: 5.2
+3
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+4
+find_word: 肯定
+word_valence: 6.8
+word_arousal: 6.0
+sentence_result: 
+true_valence: 4.125
+true_arousal: 2.66666666667
+pred_valence: 6.85
+pred_valence: 5.6
+
+sentence_id:282
+　一(Neu)　堆(Nf)　豐田(Nb)　的(DE)　護(VC)　衛隊(Na)　真(D)　可怕(VH)　哪(Nep)　天(Nf)　死(VH)　的(DE)　是(SHI)　自己(Nh)　跟(P)　家人(Na)　才(Da)　會(D)　開始(VL)　哭(VA)　方向燈(Na)　在(P)　行駛(VA)　中(Ng)　絕對(D)　不(D)　是(SHI)　小(VH)　問題(Na)　足以(VL)　釀成(VG)　大(VH)　事故(Na)　連(Cbb)　基本(A)　的(DE)　安全(Nv)　問題(Na)　都(D)　不(D)　注重(VJ)　真的(D)　很(Dfa)　可怕(VH)　車主(Na)　花(VC)　那麼多(Neqa)　時間(Na)　跑(VA)　原廠(Nc)　是(SHI)　活該(VH)　嗎(T)　車(Na)　　放(VC)　在(P)　原廠(Nc)　那麼多(Neqa)　天(Nf)　要(D)　另外(Da)　花(VC)　交通費(Na)　是(SHI)　活該(VH)　嗎(T)　損失(VJ)　誰(Nh)　來(D)　陪(VC)　ˊ(FW)　不(D)　尊重(VJ)　生命(Na)　安全(VH)　只(Da)　會(D)　上來(VA)　沒(VJ)　理由(Na)　護衛(VC)　的(DE)　不過(Da)　是(SHI)　加速(D)　蓋(VC)　大樓(Na)　的(DE)　速度(Na)　建議(VE)　樓主(Na)　一定(D)　要(D)　找(VC)　消保(Na)　官(Na)　
+
+1
+find_word: 護
+word_valence: 6.0
+word_arousal: 4.4
+2
+find_word: 可怕
+word_valence: 3.4
+word_arousal: 6.8
+3
+find_word: 死
+word_valence: 1.2
+word_arousal: 5.0
+4
+find_word: 安全
+word_valence: 6.4
+word_arousal: 4.4
+5
+find_word: 可怕
+word_valence: 3.4
+word_arousal: 6.8
+6
+find_word: 損失
+word_valence: 3.2
+word_arousal: 5.2
+7
+find_word: 尊重
+word_valence: 6.8
+word_arousal: 5.2
+8
+find_word: 安全
+word_valence: 6.4
+word_arousal: 4.4
+sentence_result: 
+true_valence: 2.25
+true_arousal: 6.83333333333
+pred_valence: 4.6
+pred_valence: 5.275
+
+sentence_id:283
+　原(A)　廠(Nc)　導航(VB)　..(ETCCATEGORY)　算了(VH)　吧(T)　..(ETCCATEGORY)　小偷(Na)　超(VJ)　愛(Na)　的(T)　.(PERIODCATEGORY)
+
+1
+find_word: 小偷
+word_valence: 3.2
+word_arousal: 5.6
+2
+find_word: 愛
+word_valence: 8.2
+word_arousal: 5.4
+sentence_result: 
+true_valence: 3.28571428571
+true_arousal: 4.125
+pred_valence: 5.7
+pred_valence: 5.5
+
+sentence_id:284
+　我(Nh)　比較(Dfa)　擔心(VK)　的(DE)　是(SHI)　重機(Na)　那(Nep)　天(Nf)　不會(D)　打(VC)　滑(VH)　失控(VH)　迎頭(D)　撞上(VC)　你(Nh)　至於(P)　一般(A)　小(VH)　汽車路(Na)　上(Ncd)　開(VC)　的(DE)　有(V_2)　九成(Neqa)　以上(Ng)　沒有(D)　循跡(D)　系統(Na)　吧(T)　舊(VH)　車(Na)　不會(D)　有(V_2)　新(VH)　車(Na)　要(D)　高階(A)　車款(Na)　才(Da)　有(V_2)　)(PARENTHESISCATEGORY)　你(Nh)　真的(D)　天天(D)　在(P)　想(VE)　在(P)　你(Nh)　四周(Ncd)　那些(Neqa)　國產車(Na)　那(Nep)　天(Nf)　不會(D)　　打(VC)　滑(VH)　失控(VH)　迎頭(D)　撞上(VC)　你(Nh)　嗎(T)　?(QUESTIONCATEGORY)
+
+1
+find_word: 擔心
+word_valence: 3.4
+word_arousal: 6.6
+2
+find_word: 打
+word_valence: 3.2
+word_arousal: 6.6
+3
+find_word: 失控
+word_valence: 2.4
+word_arousal: 7.8
+4
+find_word: 高階
+word_valence: 5.8
+word_arousal: 3.8
+5
+find_word: 想
+word_valence: 5.2
+word_arousal: 3.6
+6
+find_word: 打
+word_valence: 3.2
+word_arousal: 6.6
+7
+find_word: 失控
+word_valence: 2.4
+word_arousal: 7.8
+sentence_result: 
+true_valence: 3.66666666667
+true_arousal: 5.625
+pred_valence: 3.65714285714
+pred_valence: 6.11428571429
+
+sentence_id:285
+　那(Dk)　你(Nh)　最好(D)　就(D)　不要(D)　出門(VA)　，(COMMACATEGORY)
+
+　其實(D)　你(Nh)　自己(Nh)　的(DE)　車(Na)　先(D)　要(D)　有(V_2)　循跡(VH)　系統(Na)　才(Da)　最(Dfa)　實在(VH)　，(COMMACATEGORY)
+
+　怎麼(D)　會(D)　跑去(VCL)　怪(VH)　車廠(Nc)　某(Nes)　款(Nf)　車(Na)　沒有(VJ)　
+
+1
+find_word: 最好
+word_valence: 6.8
+word_arousal: 6.2
+2
+find_word: 怪
+word_valence: 3.4
+word_arousal: 4.8
+sentence_result: 
+true_valence: 3.22222222222
+true_arousal: 6.0
+pred_valence: 5.1
+pred_valence: 5.5
+
+sentence_id:287
+　您(Nh)　再(D)　算算(VE)　看(VC)　好了(T)　....(ETCCATEGORY)　不(D)　買(VC)　它(Nh)　
+
+2016-03-28 11:05:04,579: INFO: 287 count is 0
+sentence_id:288
+　臭(VH)　酸(VH)　的(DE)　話題(Na)　....(ETCCATEGORY)　東(Ncd)　想(VE)　西(Ncd)　想(VE)　，(COMMACATEGORY)
+
+　勉強(VH)　掰出(VC)　一些(Neqa)　東西(Na)　來(D)　阻礙(VC)　。(PERIODCATEGORY)
+
+1
+find_word: 臭
+word_valence: 3.8
+word_arousal: 4.6
+2
+find_word: 酸
+word_valence: 4.6
+word_arousal: 4.8
+3
+find_word: 想
+word_valence: 5.2
+word_arousal: 3.6
+4
+find_word: 想
+word_valence: 5.2
+word_arousal: 3.6
+5
+find_word: 勉強
+word_valence: 3.8
+word_arousal: 5.0
+sentence_result: 
+true_valence: 3.28571428571
+true_arousal: 4.16666666667
+pred_valence: 4.52
+pred_valence: 4.32
+
+sentence_id:289
+　唱(VC)　衰(VH)　會(D)　讓(VL)　人(Na)　覺得(VK)　很(Dfa)　好笑(VH)　耶(T)　...(ETCCATEGORY)　
+
+1
+find_word: 衰
+word_valence: 3.6
+word_arousal: 4.2
+2
+find_word: 好笑
+word_valence: 6.2
+word_arousal: 6.4
+3
+find_word: 耶
+word_valence: 7.2
+word_arousal: 7.2
+sentence_result: 
+true_valence: 3.88888888889
+true_arousal: 4.44444444444
+pred_valence: 5.66666666667
+pred_valence: 5.93333333333
+
+sentence_id:290
+　的確(D)　...(ETCCATEGORY)　內文(Na)　最後(Nd)　一(Neu)　句(Nf)　身為(VG)　同級車(Na)　銷售(Nv)　龍頭(Na)　的(DE)　CAMRY(FW)　車系(Na)　，(COMMACATEGORY)
+
+　在(P)　推出(VC)　新一代(A)　車型(Na)　後(Ng)　，(COMMACATEGORY)
+
+　再度(D)　以(P)　十足(VH)　地(DE)　配備(Na)　與(Caa)　安全(Nv)　防護(Nv)　，(COMMACATEGORY)
+
+　延續(VJ)　著(Di)　車系(Na)　廣受(VJ)　歡迎(VJ)　的(DE)　最佳(A)　地位(Na)　。(PERIODCATEGORY)
+
+1
+find_word: 安全
+word_valence: 6.4
+word_arousal: 4.4
+2
+find_word: 歡迎
+word_valence: 7.2
+word_arousal: 6.4
+3
+find_word: 最佳
+word_valence: 7.2
+word_arousal: 6.4
+sentence_result: 
+true_valence: 6.11111111111
+true_arousal: 5.14285714286
+pred_valence: 6.93333333333
+pred_valence: 5.73333333333
+
+sentence_id:291
+　擺明(VE)　仗著(P)　牛頭牌(Nb)　光環(Na)　，(COMMACATEGORY)
+
+　仗著(P)　銷售量(Na)　高(VH)　這樣(VH)　對(VH)　的(DE)　起(VC)　你(Nh)　的(DE)　支持(VC)　著(Di)　?(QUESTIONCATEGORY)
+
+1
+find_word: 對
+word_valence: 6.4
+word_arousal: 4.8
+2
+find_word: 支持
+word_valence: 7.2
+word_arousal: 5.0
+sentence_result: 
+true_valence: 2.55555555556
+true_arousal: 6.88888888889
+pred_valence: 6.8
+pred_valence: 4.9
+
+sentence_id:292
+　還可以(D)　賣(VD)　的(DE)　那麼(D)　心安(VH)　YO!!ALLNEWCAMRY(FW)　新款(A)　的(DE)　喔(T)　!(EXCLANATIONCATEGORY)　讓(VL)　人家(Nh)　感覺(VK)　新(VH)　的(DE)　一定(D)　比較(Dfa)　好(VH)　如此(VH)　行銷(Na)　法手(Na)　實在(D)　讓(VL)　人(Na)　不齒(VJ)
+
+1
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+sentence_result: 
+true_valence: 3.0
+true_arousal: 6.0
+pred_valence: 6.8
+pred_valence: 5.2
+
+sentence_id:293
+　今天(Nd)　接到(VC)　肇事者(Na)　他媽的(I)　電話(Na)　...(ETCCATEGORY)　說(VE)　他們(Nh)　家(Nc)　經濟(Na)　不(D)　好(VH)　...(ETCCATEGORY)　兒子(Na)　剛(D)　退伍(VH)　...(ETCCATEGORY)　爸爸(Na)　聽(VE)　不(D)　見(VE)　...(ETCCATEGORY)　聽到(VE)　這些(Neqa)　我(Nh)　只(Da)　希望(VK)　我(Nh)　的(DE)　車(Na)　趕快(D)　修好(VC)　就(D)　好(VH)　...(ETCCATEGORY)　其他(Neqa)　就算(Cbb)　自己(Nh)　倒楣(VH)　了(T)　...(ETCCATEGORY)　晚上(Nd)　去(D)　辦(VC)　出險(VH)　　...(ETCCATEGORY)　一切(Neqa)　就(D)　交由(VF)　車廠(Nc)　跟(P)　保險(Na)　公司(Nc)　處理(VC)　吧(T)　...(ETCCATEGORY)　唉(I)　...(ETCCATEGORY)　開快車(VA)　真的(D)　一點(Neqa)　都(D)　不(D)　帥(VH)　...(ETCCATEGORY)　看(VE)　他(Nh)　小(VH)　女友(Na)　都(D)　快(D)　嚇(VJ)　哭(VA)　了(Di)　=(FW)　=(FW)　能夠(D)　轉彎(VA)　打滑(VH)　還(D)　撞(VC)　我(Nh)　這麼(D)　大力(D)　想必(D)　速度(Na)　一定(D)　不(D)　慢(VH)　...(ETCCATEGORY)　只(Da)　希望(VK)　我(Nh)　的(DE)　車(Na)　　車(Na)　能(D)　快點(D)　回復(VJ)　原狀(Na)　了(T)　...(ETCCATEGORY)　
+
+1
+find_word: 他媽的
+word_valence: 1.4
+word_arousal: 8.4
+2
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+3
+find_word: 希望
+word_valence: 7.0
+word_arousal: 5.2
+4
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+5
+find_word: 倒楣
+word_valence: 3.2
+word_arousal: 5.4
+6
+find_word: 帥
+word_valence: 6.6
+word_arousal: 5.2
+7
+find_word: 嚇
+word_valence: 3.6
+word_arousal: 6.8
+8
+find_word: 慢
+word_valence: 4.4
+word_arousal: 2.8
+9
+find_word: 希望
+word_valence: 7.0
+word_arousal: 5.2
+sentence_result: 
+true_valence: 2.66666666667
+true_arousal: 5.0
+pred_valence: 5.2
+pred_valence: 5.48888888889
+
+sentence_id:294
+　ALTIS(FW)　開(VC)　過(Di)　之後(Ng)　，(COMMACATEGORY)
+
+　覺得(VK)　還(D)　蠻(Dfa)　穩定(VHC)　的(DE)　一(Neu)　輛(Nf)　車(Na)　，(COMMACATEGORY)
+
+　跟(P)　他(Nh)　牌車(Na)　的(DE)　落差(Na)　不會(D)　太(Dfa)　大(VH)　但(Cbb)　一旦(Cbb)　開(VC)　過(Di)　他(Nh)　牌車(Na)　，(COMMACATEGORY)
+
+　再(D)　去(D)　開(VC)　CAMRY(FW)　....(ETCCATEGORY)　我(Nh)　覺得(VK)　好像(D)　是(SHI)　在(P)　船(Na)　上(Ng)　，(COMMACATEGORY)
+
+　晃(VC)　啊(T)　晃(VA)　啊(T)　，(COMMACATEGORY)
+
+　每每(D)　下車(VA)　都(D)　會(D)　些許(Neqa)　頭暈(VH)　，(COMMACATEGORY)
+
+　方向盤(Na)　輕(VH)　
+
+2016-03-28 11:05:07,558: INFO: 294 count is 0
+sentence_id:295
+　沒(D)　錯(VH)　，(COMMACATEGORY)
+
+　鋁(Na)　圈(Na)　能(D)　裝(VC)　的(DE)　碟盤(Na)　尺寸(Na)　是(SHI)　有限(VH)　定(VC)　的(DE)　！(EXCLANATIONCATEGORY)
+
+1
+find_word: 錯
+word_valence: 3.0
+word_arousal: 4.8
+sentence_result: 
+true_valence: 5.0
+true_arousal: 5.25
+pred_valence: 3.0
+pred_valence: 4.8
+
+sentence_id:296
+　但(Cbb)　想(VE)　了解(VK)　的(DE)　是(SHI)　，(COMMACATEGORY)
+
+　車(Na)　商(Na)　倒底(D)　什麼(Nep)　樣(Nf)　牛肉(Na)　呢(T)　？(QUESTIONCATEGORY)
+
+　17(Neu)　吋(Nf)　圈(Na)　：(COLONCATEGORY)　佛心(Na)　來(VA)　的(DE)　：(COLONCATEGORY)　給(P)　到(VCL)　330(Neu)　mm(FW)　交差(VB)　了事(VA)　：(COLONCATEGORY)　只(D)　給(VD)　303(Neu)　mm(FW)　兩(Neu)　者(Na)　對(P)　制動力(Na)　有(V_2)　何(Nes)　影響(Na)　，(COMMACATEGORY)
+
+　請(VF)　爬文(Nb)　，(COMMACATEGORY)
+
+　不(D)　在(P)　此(Nep)　贅述(VA)　！(EXCLANATIONCATEGORY)
+
+1
+find_word: 想
+word_valence: 5.2
+word_arousal: 3.6
+2
+find_word: 對
+word_valence: 6.4
+word_arousal: 4.8
+sentence_result: 
+true_valence: 4.625
+true_arousal: 5.16666666667
+pred_valence: 5.8
+pred_valence: 4.2
+
+sentence_id:297
+　小弟(Na)　比較(Dfa)　貪心(VH)　，(COMMACATEGORY)
+
+　對於(P)　安全性(Na)　配備(Na)　，(COMMACATEGORY)
+
+　是(SHI)　永遠(D)　嫌(VK)　不(D)　夠(VH)　的(DE)　！(EXCLANATIONCATEGORY)
+
+1
+find_word: 貪心
+word_valence: 3.0
+word_arousal: 5.6
+2
+find_word: 嫌
+word_valence: 3.0
+word_arousal: 5.8
+sentence_result: 
+true_valence: 4.77777777778
+true_arousal: 5.77777777778
+pred_valence: 3.0
+pred_valence: 5.7
+
+sentence_id:298
+　只要(Cbb)　能(D)　讓(VL)　我(Nh)　安全(VH)　回到(VCL)　家(Nc)　，(COMMACATEGORY)
+
+　抱抱(VC)　小(VH)　王子(Na)　，(COMMACATEGORY)
+
+　與(Caa)　女王(Na)　說說(VE)　情話(Na)　！(EXCLANATIONCATEGORY)
+
+1
+find_word: 安全
+word_valence: 6.4
+word_arousal: 4.4
+sentence_result: 
+true_valence: 5.85714285714
+true_arousal: 4.77777777778
+pred_valence: 6.4
+pred_valence: 4.4
+
+sentence_id:299
+　可以(D)　沾(VC)　點(Nf)　光(Na)　來(D)　提醒(VE)　大家(Nh)　對(P)　安全(Nv)　配備(Na)　的(DE)　重視(Nv)　！(EXCLANATIONCATEGORY)
+
+1
+find_word: 對
+word_valence: 6.4
+word_arousal: 4.8
+2
+find_word: 安全
+word_valence: 6.4
+word_arousal: 4.4
+sentence_result: 
+true_valence: 5.55555555556
+true_arousal: 5.5
+pred_valence: 6.4
+pred_valence: 4.6
+
+sentence_id:300
+　還(D)　有(V_2)　，(COMMACATEGORY)
+
+　最(Dfa)　不(D)　期望(VK)　的(DE)　就是(Cbb)　這(Nep)　種(Nf)　比爛(VH)　的(DE)　砲火(Na)　！(EXCLANATIONCATEGORY)
+
+1
+find_word: 期望
+word_valence: 6.0
+word_arousal: 5.2
+sentence_result: 
+true_valence: 2.5
+true_arousal: 7.5
+pred_valence: 6.0
+pred_valence: 5.2
+
+sentence_id:301
+　爛(VH)　到(P)　最後(Nd)　，(COMMACATEGORY)
+
+　大家(Nh)　都(D)　一起(D)　爛(VH)　了(T)　！(EXCLANATIONCATEGORY)
+
+1
+find_word: 爛
+word_valence: 2.8
+word_arousal: 5.6
+2
+find_word: 爛
+word_valence: 2.8
+word_arousal: 5.6
+sentence_result: 
+true_valence: 3.25
+true_arousal: 6.14285714286
+pred_valence: 2.8
+pred_valence: 5.6
+
+sentence_id:302
+　都(D)　只(Da)　剩下(VJ)　2(Neu)　SRS(FW)　，(COMMACATEGORY)
+
+　這(Nep)　對(Nf)　消費者(Na)　來(D)　說(VE)　，(COMMACATEGORY)
+
+　是(SHI)　「(PARENTHESISCATEGORY)　福(Na)　」(PARENTHESISCATEGORY)　還是(Caa)　「(PARENTHESISCATEGORY)　禍(Na)　」(PARENTHESISCATEGORY)　呢(T)　？(QUESTIONCATEGORY)
+
+　本文(Na)　的(DE)　目的(Na)　，(COMMACATEGORY)
+
+　只(Da)　是(SHI)　給(P)　想要(VE)　Camry(FW)　的(DE)　準(A)　車主(Na)　！(EXCLANATIONCATEGORY)
+
+1
+find_word: 對
+word_valence: 6.4
+word_arousal: 4.8
+2
+find_word: 禍
+word_valence: 3.2
+word_arousal: 6.0
+sentence_result: 
+true_valence: 4.77777777778
+true_arousal: 5.16666666667
+pred_valence: 4.8
+pred_valence: 5.4
+
+sentence_id:303
+　了解到(VK)　它(Nh)　是(SHI)　一(Neu)　部(Nf)　主動(VH)　安全(VH)　缺乏(VJ)　的(DE)　機器(Na)　！(EXCLANATIONCATEGORY)
+
+1
+find_word: 安全
+word_valence: 6.4
+word_arousal: 4.4
+2
+find_word: 缺乏
+word_valence: 3.4
+word_arousal: 4.6
+sentence_result: 
+true_valence: 3.8
+true_arousal: 5.14285714286
+pred_valence: 4.9
+pred_valence: 4.5
+
+sentence_id:304
+　請(VF)　注意(VK)　且(Cbb)　小心(VK)　的(DE)　操控(VC)　它(Nh)　！(EXCLANATIONCATEGORY)
+
+1
+find_word: 小心
+word_valence: 4.6
+word_arousal: 6.0
+sentence_result: 
+true_valence: 5.33333333333
+true_arousal: 5.375
+pred_valence: 4.6
+pred_valence: 6.0
+
+sentence_id:305
+　不要(D)　輕易(D)　的(DE)　挑戰(Na)　它(Nh)　的(DE)　極限(Na)　！(EXCLANATIONCATEGORY)
+
+1
+find_word: 挑戰
+word_valence: 6.2
+word_arousal: 6.8
+sentence_result: 
+true_valence: 4.25
+true_arousal: 6.14285714286
+pred_valence: 6.2
+pred_valence: 6.8
+
+sentence_id:306
+　安全(VH)　~(FW)　是(SHI)　唯一(A)　回家(VA)　的(DE)　路(Na)　！(EXCLANATIONCATEGORY)
+
+1
+find_word: 安全
+word_valence: 6.4
+word_arousal: 4.4
+sentence_result: 
+true_valence: 5.625
+true_arousal: 3.5
+pred_valence: 6.4
+pred_valence: 4.4
+
+sentence_id:307
+　樓(Nc)　主(Na)　，(COMMACATEGORY)
+
+　TOYOTA(FW)　版(Na)　的(DE)　護(VC)　衛隊(Na)　惡劣(VH)　出(VC)　了(Di)　名(Nf)　對(P)　TOYOTA(FW)　車子(Na)　上網(VA)　抱怨(VE)　瑕疵(Na)　的(T)　，(COMMACATEGORY)
+
+　就是(Cbb)　群起(D)　圍剿(VC)　口誅筆伐(VB)　、(PAUSECATEGORY)　譏諷(VC)　耶瑜(Nb)　建議(VE)　你(Nh)　的(DE)　文章(Na)　，(COMMACATEGORY)
+
+　最好(D)　再(D)　補(VC)　些(Nf)　照片(Na)　、(PAUSECATEGORY)　工單(Na)　等(Cab)　證據(Na)　，(COMMACATEGORY)
+
+　貼上來(VB)　mobile(FW)　01來(Neu)　大家(Nh)　就(D)　有(V_2)　公評(VE)　不要(D)　理會(VC)　toyota(FW)　護衛(VC)　隊(Na)　的(DE)　惡毒(VH)　言語(Na)　一些(Neqa)　拿(VC)　工讀金(Na)　還(D)　沒(D)　不(D)　起車(Na)　的(DE)　人(Na)　而已(T)　)(PARENTHESISCATEGORY)　可以(VH)　的(DE)　話進線(Na)　0800(Neu)　記得(VK)　錄音(VB)　存證(VA)　)(PARENTHESISCATEGORY)　如果(Cbb)　它們(Nh)　相應不理(VI)　，(COMMACATEGORY)
+
+　接著(D)　下來(VA)　再(D)　找(VC)　媒體(Na)　、(PAUSECATEGORY)　消保官(Na)　協助(VC)　toyota(FW)　的(DE)　自衛隊(Na)　，(COMMACATEGORY)
+
+　品行(Na)　真是(D)　太(Dfa)　差(VH)　了(Di)　可憐(VHC)　買(VC)　它們(Nh)　家(Nc)　車子(Na)　，(COMMACATEGORY)
+
+　安全(VH)　配備(Na)　差(VH)　價格(Na)　貴(VH)　，(COMMACATEGORY)
+
+　還(D)　得(D)　忍受(VK)　自衛隊(Na)　的(DE)　戲弄(VC)　。(PERIODCATEGORY)
+
+　惡劣(VH)　
+
+1
+find_word: 護
+word_valence: 6.0
+word_arousal: 4.4
+2
+find_word: 惡劣
+word_valence: 2.6
+word_arousal: 6.8
+3
+find_word: 對
+word_valence: 6.4
+word_arousal: 4.8
+4
+find_word: 抱怨
+word_valence: 2.8
+word_arousal: 6.6
+5
+find_word: 最好
+word_valence: 6.8
+word_arousal: 6.2
+6
+find_word: 惡毒
+word_valence: 2.0
+word_arousal: 7.4
+7
+find_word: 協助
+word_valence: 6.6
+word_arousal: 4.6
+8
+find_word: 品行
+word_valence: 5.4
+word_arousal: 4.6
+9
+find_word: 差
+word_valence: 3.4
+word_arousal: 4.6
+10
+find_word: 可憐
+word_valence: 3.6
+word_arousal: 5.2
+11
+find_word: 安全
+word_valence: 6.4
+word_arousal: 4.4
+12
+find_word: 差
+word_valence: 3.4
+word_arousal: 4.6
+13
+find_word: 戲弄
+word_valence: 3.4
+word_arousal: 6.2
+14
+find_word: 惡劣
+word_valence: 2.6
+word_arousal: 6.8
+sentence_result: 
+true_valence: 3.0
+true_arousal: 7.55555555556
+pred_valence: 4.38571428571
+pred_valence: 5.51428571429
+
+sentence_id:308
+　樓(Nc)　主(VC)　我(Nh)　只(Da)　開(VC)　過(Di)　一(Neu)　次(Nf)　ToyataAltis(FW)　我(Nh)　完全(D)　無法(D)　認同(VJ)　其(Nep)　造車(Na)　理念(Na)　整(Neqa)　個(Nf)　軟角(Na)　到(P)　不行(VH)　如(P)　前面(Ncd)　有(V_2)　人(Na)　說(VE)　它(Nh)　是(SHI)　一(Neu)　台(Nf)　無趣(VH)　的(DE)　車(Na)　對(P)　許多(Neqa)　人(Na)　來(D)　說(VE)　它(Nh)　充其量(D)　就(D)　是(SHI)　一(Neu)　台(Nf)　有(V_2)　鐵殼(Na)　的(DE)　移動(Nv)　工具(Na)　但(Cbb)　如果(Cbb)　這(Nep)　是(SHI)　你(Nh)　　的(DE)　人生(Na)　的(DE)　第一(Neu)　台(Nf)　車(Na)　長輩(Na)　有(V_2)　出錢(VA)　那(Nep)　就(D)　乖乖(VH)　的(DE)　買(VC)　Altis(FW)　...(ETCCATEGORY)　保值(VH)　好養(VC)　慢慢(VH)　開(VC)　練練(VC)　開車(VA)　技術(Na)　努力(VH)　賺錢(VA)　以後(Ng)　直接(VH)　換(VC)　更(D)　好(VH)　更(D)　安全(VH)　的(DE)　進口車(Na)　在(P)　台灣(Nc)　只有(Cbb)　進口車(Na)　有(V_2)　國外(Nc)　公開(VHC)　抽測(VC)　的(DE)　撞擊(Nv)　測試(Na)　報告(Na)　　國產車(Na)　都(D)　沒有(D)　開(VC)　Altis(FW)　有(V_2)　鐵殼(Na)　包(VC)　著(Di)　遮風(VA)　避雨(VA)　至少(Da)　比(P)　騎車(VA)　安全(VH)　多(VH)　了(T)　
+
+1
+find_word: 無趣
+word_valence: 3.4
+word_arousal: 5.2
+2
+find_word: 對
+word_valence: 6.4
+word_arousal: 4.8
+3
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+4
+find_word: 安全
+word_valence: 6.4
+word_arousal: 4.4
+5
+find_word: 安全
+word_valence: 6.4
+word_arousal: 4.4
+sentence_result: 
+true_valence: 4.625
+true_arousal: 4.875
+pred_valence: 5.88
+pred_valence: 4.8
+
+sentence_id:309
+　舊(VH)　引擎(Na)　跟(P)　萬(Neu)　年(Nf)　4(Neu)　AT(FW)　的(DE)　油耗(A)　極限(Na)　大概(D)　就(D)　在(P)　那裡(Ncd)　這(Nep)　點(Nf)　你(Nh)　說(VE)　的(DE)　沒(D)　錯(VH)　但(Cbb)　同(Nes)　一(Neu)　時期(Na)　的(DE)　競爭車(Na)　端出(VC)　的(DE)　牛肉(Na)　可(D)　不(D)　是(SHI)　萬(Neu)　年(Nf)　4(Neu)　AT(FW)　與(Caa)　那(Nep)　種(Nf)　油耗(A)　不(D)　談(VE)　冷門(VH)　競爭車(Na)　就(D)　談(VE)　一般(D)　認定(VE)　的(DE)　大(VH)　宗(Nf)　競爭(Na)　對手(Na)　ColtPl(FW)　　us(FW)　也(D)　是(SHI)　約莫(Da)　06(Neu)　~(FW)　07(Neu)　年(Nf)　上市(VH)　，(COMMACATEGORY)
+
+　用(VC)　的(DE)　是(SHI)　CVTFit(FW)　約(Da)　07(Neu)　~(FW)　08(Neu)　年(Nf)　上市(VH)　，(COMMACATEGORY)
+
+　用(VC)　的(DE)　是(SHI)　5(Neu)　AT(FW)　油耗(A)　自然(Na)　勝過(VJ)　Yaris(FW)　這(Nep)　就是(Cbb)　他(Nh)　牌(Na)　所(D)　端出(VC)　的(DE)　牛肉(Na)　若(Cbb)　撇開(VC)　品牌(Na)　光環(Na)　Yaris(FW)　在(P)　這(Nep)　點(Nf)　是(SHI)　沒(VJ)　啥(Nep)　競爭力(Na)　的(DE)　Yaris(FW)　跟(P)　這些(Neqa)　競爭車(Na)　在(P)　同(D)　一(Neu)　時間(Na)　點(VC)　比拚(VA)　卻(D)　要(VC)　消費者(Na)　去(D)　原諒(VJ)　他(Nh)　那(Nep)　萬(Neu)　　年(Na)　4(Neu)　AT(FW)　所(D)　帶來(VC)　的(DE)　不佳(VH)　油耗(A)　這(Nep)　是(SHI)　沒(VJ)　什麼(Nep)　道理(Na)　的(DE)　
+
+1
+find_word: 錯
+word_valence: 3.0
+word_arousal: 4.8
+2
+find_word: 競爭
+word_valence: 5.0
+word_arousal: 6.6
+3
+find_word: 勝過
+word_valence: 6.2
+word_arousal: 5.8
+4
+find_word: 原諒
+word_valence: 5.8
+word_arousal: 4.2
+sentence_result: 
+true_valence: 3.44444444444
+true_arousal: 6.0
+pred_valence: 5.0
+pred_valence: 5.35
+
+sentence_id:310
+　我(Nh)　是(SHI)　2010年(Nd)　3月(Nd)　購入(VC)　的(T)　，(COMMACATEGORY)
+
+　近(Nes)　一(Neu)　個(Nf)　月(Na)　我(Nh)　的(DE)　車(Na)　也(D)　開始(VL)　發現(VE)　有(V_2)　冷氣(Na)　開啟(VC)　異味(Na)　（(PARENTHESISCATEGORY)　酸味(Na)　）(PARENTHESISCATEGORY)　問題(Na)　，(COMMACATEGORY)
+
+　看來(D)　這(Nep)　問題(Na)　並(D)　不(D)　是(SHI)　個案(Na)　，(COMMACATEGORY)
+
+　和泰(Nc)　應該(D)　重視(VJ)　並(D)　給(VD)　消費者(Na)　一(Neu)　個(Nf)　滿意(VK)　的(DE)　說明(Na)　和(Caa)　提出(VC)　積極(VH)　有效(VH)　的(DE)　解決(Nv)　方式(Na)　，(COMMACATEGORY)
+
+　而(Cbb)　不(D)　是(SHI)　任由(VL)　保養廠(Nc)　以(P)　一些(Neqa)　無效(VH)　作法(Na)　暫時(D)　安撫(VJ)　消費者(Na)　，(COMMACATEGORY)
+
+　如(Cbb)　無(VJ)　持續(VL)　善意(Na)　解決(VC)　，(COMMACATEGORY)
+
+　恐(VK)　又(D)　要(D)　演成(VG)　集體(A)　消費(Na)　糾紛(Na)　事件(Na)　了(T)　，(COMMACATEGORY)
+
+　相信(VK)　亦(D)　非(VG)　和泰(Nc)　公司(Nc)　所(D)　樂見(VE)　。(PERIODCATEGORY)
+
+1
+find_word: 滿意
+word_valence: 7.2
+word_arousal: 5.6
+2
+find_word: 積極
+word_valence: 6.6
+word_arousal: 6.6
+3
+find_word: 有效
+word_valence: 6.6
+word_arousal: 5.0
+4
+find_word: 解決
+word_valence: 6.2
+word_arousal: 4.8
+5
+find_word: 無效
+word_valence: 4.2
+word_arousal: 4.4
+6
+find_word: 善意
+word_valence: 6.8
+word_arousal: 5.0
+7
+find_word: 解決
+word_valence: 6.2
+word_arousal: 4.8
+8
+find_word: 相信
+word_valence: 7.2
+word_arousal: 5.4
+sentence_result: 
+true_valence: 3.0
+true_arousal: 5.83333333333
+pred_valence: 6.375
+pred_valence: 5.2
+
+sentence_id:311
+　建議(VE)　一下(Nd)　目前(Nd)　因為(Cbb)　你(Nh)　都(D)　還是(D)　吃(VC)　住家(Na)　中(Ng)　但是(Cbb)　我(Nh)　覺得(VK)　應該(D)　要(D)　將(P)　夫妻倆(Na)　的(DE)　所得(Na)　提出(VC)　一(Neu)　部份(Neqa)　拿給(VD)　家(Nc)　裡(Ncd)　比較(Dfa)　實在(D)　畢竟(D)　養(VC)　一(Neu)　台(Nf)　車(Na)　不(D)　是(SHI)　說(VE)　有(V_2)　頭(Nes)　款(Nf)　有(V_2)　能力(Na)　繳(VD)　貸款(Na)　就(D)　可以(D)　搞定(VC)　的(DE)　事情(Na)　事(Na)　後(Ng)　的(DE)　保養費(Na)　、(PAUSECATEGORY)　保險費(Na)　　、(PAUSECATEGORY)　油錢(Na)　、(PAUSECATEGORY)　稅金(Na)　都(D)　是(SHI)　一(Neu)　筆(Nf)　開銷(Na)　再(D)　說(VE)　個(Nf)　難聽(VH)　一點(Dfb)　的(DE)　話(Na)　要是(Cbb)　好死不死(D)　A(FW)　到(P)　的(DE)　話(Na)　那(Nep)　筆(Nf)　開銷(Na)　更(D)　會(D)　讓(VL)　你(Nh)　頭(Nf)　大(VH)　假使(Cbb)　不需(D)　貸款(VD)　可以(D)　直接(VH)　購入(VC)　的(DE)　話(Na)　當然(D)　我(Nh)　會(D)　建議(VE)　你(Nh)　可以(D)　買(VC)　假如(Cbb)　要(D)　貸款(VD)　的(DE)　話(Na)　買(VC)　台(Nc)　機車(Na)　給(VD)　老婆(Na)　比(P)　　較(Dfa)　好(VH)　不會(D)　騎(VC)　只好(D)　慢慢(VH)　教(VC)　他(Nh)　
+
+1
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+sentence_result: 
+true_valence: 5.0
+true_arousal: 4.85714285714
+pred_valence: 6.8
+pred_valence: 5.2
+
+sentence_id:312
+　不只(Da)　RAV(FW)　4(Neu)　吧(T)　，(COMMACATEGORY)
+
+　我(Nh)　朋友(Na)　的(DE)　2007(Neu)　買(VC)　的(DE)　ALTIS(FW)　新(VH)　車(Na)　3(Neu)　個(Nf)　月(Na)　不(D)　到(VC)　)(PARENTHESISCATEGORY)　味道(Na)　就(D)　很(Dfa)　明顯(VH)　了(T)　，(COMMACATEGORY)
+
+　因為(Cbb)　我(Nh)　親身(D)　體驗(VC)　過(Di)　，(COMMACATEGORY)
+
+　我(Nh)　覺得(VK)　ALTIS(FW)　狀況(Na)　比(P)　我(Nh)　自己(Nh)　使用(VC)　的(DE)　RAV(FW)　4(Neu)　還(D)　嚴重(VH)　，(COMMACATEGORY)
+
+　我(Nh)　的(DE)　RAV(FW)　4(Neu)　半(Neqa)　年(Nf)　了(T)　，(COMMACATEGORY)
+
+　至少(Da)　目前(Nd)　還(D)　沒有(VJ)　味道(Na)　。(PERIODCATEGORY)
+
+1
+find_word: 朋友
+word_valence: 6.8
+word_arousal: 4.2
+2
+find_word: 嚴重
+word_valence: 3.2
+word_arousal: 7.0
+sentence_result: 
+true_valence: 4.22222222222
+true_arousal: 5.0
+pred_valence: 5.0
+pred_valence: 5.6
+
+sentence_id:313
+　不過(Cbb)　SUVLIFERAV(FW)　4(Neu)　討論區(Nc)　不少(Neqa)　車主(Na)　也(D)　有(V_2)　反映(VE)　這(Nep)　問題(Na)　，(COMMACATEGORY)
+
+　我(Nh)　想(VE)　應該(D)　是(SHI)　TOYATA(FW)　通病(Na)　不過(Cbb)　也(D)　有(V_2)　開(VC)　1(Neu)　-(DASHCATEGORY)　2(Neu)　年(Nf)　也(D)　沒有(VJ)　味道(Na)　的(T)　，(COMMACATEGORY)
+
+　我(Nh)　想(VE)　用(P)　車(Na)　習慣(Na)　、(PAUSECATEGORY)　環境(Na)　也(D)　有(V_2)　差(VH)　吧(T)　。(PERIODCATEGORY)
+
+1
+find_word: 想
+word_valence: 5.2
+word_arousal: 3.6
+2
+find_word: 想
+word_valence: 5.2
+word_arousal: 3.6
+3
+find_word: 差
+word_valence: 3.4
+word_arousal: 4.6
+sentence_result: 
+true_valence: 4.5
+true_arousal: 3.5
+pred_valence: 4.6
+pred_valence: 3.93333333333
+
+sentence_id:314
+　不過(Cbb)　沒(VJ)　味道(Na)　的(DE)　車友(Na)　大多(Neqa)　有關(VJ)　A/C(FW)　後(Ng)　再(D)　送風(VA)　個(Nf)　1(Neu)　-(DASHCATEGORY)　2(Neu)　分鐘(Nf)　的(DE)　習慣(VL)　我(Nh)　就是(Cbb)　)(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+
+　建議(VE)　車友(Na)　可以(D)　試試看(VE)　會不會(D)　有(V_2)　改善(Nv)　。(PERIODCATEGORY)
+
+1
+find_word: 改善
+word_valence: 6.6
+word_arousal: 5.2
+sentence_result: 
+true_valence: 5.11111111111
+true_arousal: 3.375
+pred_valence: 6.6
+pred_valence: 5.2
+
+sentence_id:316
+　如果(Cbb)　我(Nh)　是(SHI)　你我(Na)　仍然(D)　會(D)　選擇(VC)　現在(Nd)　你(Nh)　這樣(VH)　的(DE)　生活(Na)　不(D)　關有(VC)　多少(Neqa)　艱難(VH)　的(DE)　時刻(Na)　但(Cbb)　都(D)　以(P)　溫馨(VH)　的(DE)　語言(Na)　描述(VC)　過去(Nd)　生活(Na)　就(D)　好像(D)　澳洲(Nc)　的(DE)　海洋(Na)　和(Caa)　陽光(Na)　美好(VH)　而(Cbb)　燦爛(VH)　有(V_2)　安東尼(Nb)　蚊子(Na)　的(DE)　陪伴(VC)　漫長(VH)　的(DE)　時光(Na)　也(D)　不再(D)　難熬(VH)　我(Nh)　有(V_2)　　2(Neu)　本(Nf)　1(Neu)　本(Nf)　自己(Nh)　的(DE)　一(Neu)　本(Nf)　送給(VD)　遠(VH)　在(P)　日本(Nc)　的(DE)　男朋友(Na)　希望(VK)　他(Nh)　在(D)　是(SHI)　失望(VH)　難過(VK)　傷心(VH)　的(DE)　時候(Na)　看看(VC)　安東尼(Nb)　的(DE)　字(Na)　在(P)　這(Nep)　個(Nf)　世界(Nc)　上(Ncd)　有(V_2)　很多(Neqa)　像(P)　他們(Nh)　一樣(VH)　的(DE)　孩子(Na)　有(V_2)　安東尼(Nb)　有(V_2)　我(Nh)　陪(VC)　?(QUESTIONCATEGORY)
+
+1
+find_word: 艱難
+word_valence: 3.2
+word_arousal: 7.2
+2
+find_word: 溫馨
+word_valence: 7.4
+word_arousal: 4.0
+3
+find_word: 陽光
+word_valence: 7.2
+word_arousal: 5.0
+4
+find_word: 美好
+word_valence: 6.8
+word_arousal: 5.6
+5
+find_word: 燦爛
+word_valence: 6.6
+word_arousal: 6.4
+6
+find_word: 難熬
+word_valence: 2.6
+word_arousal: 7.2
+7
+find_word: 希望
+word_valence: 7.0
+word_arousal: 5.2
+8
+find_word: 失望
+word_valence: 3.0
+word_arousal: 5.6
+9
+find_word: 難過
+word_valence: 3.0
+word_arousal: 5.6
+10
+find_word: 傷心
+word_valence: 3.0
+word_arousal: 6.2
+sentence_result: 
+true_valence: 6.25
+true_arousal: 3.83333333333
+pred_valence: 4.98
+pred_valence: 5.8
+
+sentence_id:317
+　那(Nep)　為啥(D)　國外(Nc)　會(D)　用(P)　新(VH)　的(DE)　引擎(Na)　，(COMMACATEGORY)
+
+　而(Cbb)　不用(D)　舊(VH)　的(T)　？(QUESTIONCATEGORY)
+
+　難道(D)　外國人(Na)　比較(Dfa)　喜歡(VK)　嚐鮮(VC)　？(QUESTIONCATEGORY)
+
+　還是(D)　說(VE)　比較(Dfa)　喜歡(VK)　解決(VC)　問題(Na)　？(QUESTIONCATEGORY)
+
+　舊(VH)　車殼(Na)　也(D)　沒(VJ)　啥(Nep)　不(D)　好(VH)　，(COMMACATEGORY)
+
+　為啥(D)　要(D)　換(VC)　？(QUESTIONCATEGORY)
+
+　又(D)　不(D)　是(SHI)　每(Nes)　個人(Nh)　都(D)　是(SHI)　大(VH)　畫家(Na)　，(COMMACATEGORY)
+
+　對於(P)　美感(Na)　都(D)　非常(Dfa)　重視(VJ)　...(ETCCATEGORY)　XP(FW)　也(D)　沒(VJ)　啥(Nep)　不(D)　好(VH)　，(COMMACATEGORY)
+
+　為啥(D)　要(D)　出(VC)　Vista(FW)　？(QUESTIONCATEGORY)
+
+　說穿(VC)　了(Di)　，(COMMACATEGORY)
+
+　這(Nep)　就是(Cbb)　人性(Na)　...(ETCCATEGORY)　大家(Nh)　都(D)　對(P)　新(VH)　的(DE)　事物(Na)　會(D)　比較(Dfa)　好奇(VH)　...(ETCCATEGORY)　而且(Cbb)　會(D)　推出(VC)　新(VH)　的(DE)　產品(Na)　，(COMMACATEGORY)
+
+　一定(D)　有(V_2)　比(P)　舊(VH)　的(DE)　產品(Na)　在(P)　某些(Neqa)　部份(Neqa)　有(V_2)　更(D)　進步(VH)　的(DE)　地方(Na)　，(COMMACATEGORY)
+
+　不然(Cbb)　就(D)　不用(D)　花費(VC)　大量(Neqa)　研發(Nv)　成本(Na)　，(COMMACATEGORY)
+
+　去(D)　推出(VC)　新(VH)　產品(Na)　了(T)　，(COMMACATEGORY)
+
+　就(D)　一直(D)　用(P)　舊(VH)　的(DE)　就(D)　好(VH)　啦(T)　，(COMMACATEGORY)
+
+　廠商(Na)　也(D)　樂(VH)　的(DE)　輕鬆(VH)　...(ETCCATEGORY)　
+
+1
+find_word: 喜歡
+word_valence: 7.0
+word_arousal: 5.8
+2
+find_word: 喜歡
+word_valence: 7.0
+word_arousal: 5.8
+3
+find_word: 解決
+word_valence: 6.2
+word_arousal: 4.8
+4
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+5
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+6
+find_word: 對
+word_valence: 6.4
+word_arousal: 4.8
+7
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+8
+find_word: 樂
+word_valence: 6.6
+word_arousal: 5.6
+9
+find_word: 輕鬆
+word_valence: 6.0
+word_arousal: 2.2
+sentence_result: 
+true_valence: 4.66666666667
+true_arousal: 6.0
+pred_valence: 6.62222222222
+pred_valence: 4.95555555556
+
+sentence_id:318
+　偶像劇(Na)　：(COLONCATEGORY)　一定(D)　是(SHI)　醜女(Na)　配(VC)　有錢(VH)　的(DE)　帥哥(Na)　，(COMMACATEGORY)
+
+　不然(Cbb)　就是(Cbb)　醜男配(Na)　美女(Na)　。(PERIODCATEGORY)
+
+1
+find_word: 有錢
+word_valence: 6.4
+word_arousal: 5.4
+sentence_result: 
+true_valence: 5.0
+true_arousal: 4.33333333333
+pred_valence: 6.4
+pred_valence: 5.4
+
+sentence_id:319
+　這(Nep)　是(SHI)　為了(P)　讓(VL)　普通(VH)　男孩(Na)　、(PAUSECATEGORY)　女孩(Na)　有(V_2)　幻想(Nv)　的(DE)　空間(Na)　。(PERIODCATEGORY)
+
+1
+find_word: 幻想
+word_valence: 4.6
+word_arousal: 4.2
+sentence_result: 
+true_valence: 5.33333333333
+true_arousal: 4.57142857143
+pred_valence: 4.6
+pred_valence: 4.2
+
+sentence_id:320
+　假如(Cbb)　拓海(Nb)　的(DE)　車子(Na)　是(SHI)　GTR(FW)　，(COMMACATEGORY)
+
+　然後(D)　跑贏(VC)　86(Neu)　，(COMMACATEGORY)
+
+　你(Nh)　會(D)　看(VC)　嗎(T)　？(QUESTIONCATEGORY)
+
+　你(Nh)　會(D)　覺得(VK)　刺激(VH)　嗎(T)　？(QUESTIONCATEGORY)
+
+　你(Nh)　會(D)　覺得(VK)　神勇(VH)　嗎(T)　？(QUESTIONCATEGORY)
+
+　所以(Cbb)　劇情(Na)　通常(D)　拿(VC)　不(D)　可能(VH)　的(DE)　邏輯(Na)　，(COMMACATEGORY)
+
+　去(D)　引造(VC)　所謂(VK)　的(DE)　刺激(Na)　與(Caa)　入迷(VI)　。(PERIODCATEGORY)
+
+1
+find_word: 刺激
+word_valence: 4.2
+word_arousal: 8.0
+2
+find_word: 刺激
+word_valence: 4.2
+word_arousal: 8.0
+sentence_result: 
+true_valence: 4.0
+true_arousal: 5.28571428571
+pred_valence: 4.2
+pred_valence: 8.0
+
+sentence_id:321
+　壓縮機(Na)　使用(VC)　電子(Na)　可(D)　變(VH)　開關(Na)　控制(VC)　
+
+1
+find_word: 控制
+word_valence: 4.2
+word_arousal: 5.0
+sentence_result: 
+true_valence: 5.125
+true_arousal: 5.0
+pred_valence: 4.2
+pred_valence: 5.0
+
+sentence_id:322
+　光(Da)　是(SHI)　那(Nep)　隻(Nf)　開關(Na)　就(D)　不(D)　太(Dfa)　便宜(VH)　了(T)　，(COMMACATEGORY)
+
+　一(Neu)　個(Nf)　壓縮機(Na)　破萬(VH)　是(SHI)　正常(VH)　的(DE)　!(EXCLANATIONCATEGORY)　不用(D)　擔心(VK)　買到(VC)　車王(Na)
+
+1
+find_word: 擔心
+word_valence: 3.4
+word_arousal: 6.6
+sentence_result: 
+true_valence: 5.0
+true_arousal: 5.44444444444
+pred_valence: 3.4
+pred_valence: 6.6
+
+sentence_id:323
+　不要(D)　光(Da)　注意(VK)　它(Nh)　的(DE)　好省油(Na)　、(PAUSECATEGORY)　輕便(VH)　、(PAUSECATEGORY)　便宜(VH)　、(PAUSECATEGORY)　耐用(VH)　...(ETCCATEGORY)　)(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+
+　也(D)　要(D)　注意(VK)　車(Na)　商(Na)　所(D)　不(D)　願(VK)　告訴(VE)　你(Nh)　的(DE)　真相主(Na)　被動(VH)　安全(VH)　缺乏(VJ)　所以(Cbb)　，(COMMACATEGORY)
+
+　當(P)　這些(Neqa)　車(Na)　主主(VH)　被動(VH)　安全(Nv)　配備(Na)　不足(VH)　)(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+
+　面對(VC)　這些(Neqa)　安全性(Na)　的(DE)　議題(Na)　！(EXCLANATIONCATEGORY)
+
+1
+find_word: 願
+word_valence: 6.0
+word_arousal: 5.0
+2
+find_word: 安全
+word_valence: 6.4
+word_arousal: 4.4
+3
+find_word: 缺乏
+word_valence: 3.4
+word_arousal: 4.6
+4
+find_word: 安全
+word_valence: 6.4
+word_arousal: 4.4
+5
+find_word: 不足
+word_valence: 4.2
+word_arousal: 4.2
+sentence_result: 
+true_valence: 5.0
+true_arousal: 4.85714285714
+pred_valence: 5.28
+pred_valence: 4.52
+
+sentence_id:324
+　請(VF)　嚴肅(VH)　的(T)　，(COMMACATEGORY)
+
+　認真(VH)　的(DE)　面對(VC)　！(EXCLANATIONCATEGORY)
+
+1
+find_word: 認真
+word_valence: 7.0
+word_arousal: 5.0
+sentence_result: 
+true_valence: 5.44444444444
+true_arousal: 6.1
+pred_valence: 7.0
+pred_valence: 5.0
+
+sentence_id:325
+　這些(Neqa)　配備(Na)　，(COMMACATEGORY)
+
+　或許(D)　將來(Nd)　可以(D)　救(VC)　你(Nh)　一(Neu)　命(Na)　，(COMMACATEGORY)
+
+　甚至(D)　救(VC)　其他(Neqa)　人(Na)　的(DE)　命(Na)　！(EXCLANATIONCATEGORY)
+
+1
+find_word: 救
+word_valence: 5.0
+word_arousal: 6.4
+2
+find_word: 救
+word_valence: 5.0
+word_arousal: 6.4
+sentence_result: 
+true_valence: 6.125
+true_arousal: 5.14285714286
+pred_valence: 5.0
+pred_valence: 6.4
+
+sentence_id:326
+　看(VC)　了(Di)　太多(VH)　的(DE)　爭論(VE)　了(Di)　但(Cbb)　ToyotaAltis(FW)　的(DE)　銷量(Na)　真的(D)　很(Dfa)　可觀(VH)　，(COMMACATEGORY)
+
+　我(Nh)　對(P)　它(Nh)　沒有(VJ)　偏見(Na)　，(COMMACATEGORY)
+
+　可惜(VH)　的(DE)　是(SHI)　太多(Neqa)　人(Na)　開(VC)　了(Di)　，(COMMACATEGORY)
+
+　幾乎(Da)　滿街(Na)　都(D)　是(SHI)　...(ETCCATEGORY)　如果(Cbb)　可以(D)　稀有(VH)　點(Dfb)　，(COMMACATEGORY)
+
+　也(D)　是(SHI)　台(Nc)　不錯(VH)　的(DE)　靚車(Na)　...(ETCCATEGORY)　題外話(Na)　，(COMMACATEGORY)
+
+　買賣(Na)　就(D)　是(SHI)　願(VK)　打(VC)　願(VK)　挨(VJ)　，(COMMACATEGORY)
+
+　所以(Cbb)　安全性(Na)　、(PAUSECATEGORY)　油耗(A)　有(V_2)　的(DE)　沒有(VJ)　的(DE)　考量(Nv)　都(D)　在(P)　個人(Nh)　，(COMMACATEGORY)
+
+　我(Nh)　想(VE)　是(SHI)　沒(VJ)　什麼(Nep)　好(VH)　爭(VC)　的(T)　，(COMMACATEGORY)
+
+　真的(D)　要(D)　爭取(VC)　的(DE)　是(SHI)　薪水(Na)　吧(T)　?(QUESTIONCATEGORY)
+
+1
+find_word: 爭論
+word_valence: 3.8
+word_arousal: 6.6
+2
+find_word: 對
+word_valence: 6.4
+word_arousal: 4.8
+3
+find_word: 偏見
+word_valence: 3.4
+word_arousal: 5.6
+4
+find_word: 願
+word_valence: 6.0
+word_arousal: 5.0
+5
+find_word: 打
+word_valence: 3.2
+word_arousal: 6.6
+6
+find_word: 願
+word_valence: 6.0
+word_arousal: 5.0
+7
+find_word: 想
+word_valence: 5.2
+word_arousal: 3.6
+8
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+sentence_result: 
+true_valence: 4.11111111111
+true_arousal: 5.375
+pred_valence: 5.1
+pred_valence: 5.3
+
+sentence_id:327
+　Toyota(FW)　賣(VD)　了(Di)　這麼多(Neqa)　車(Na)　，(COMMACATEGORY)
+
+　是否(D)　要(D)　釋出(VC)　多(VH)　一點(Neqa)　的(DE)　利潤(Na)　給(VD)　旗下(Nc)　的(DE)　員工(Na)　?(QUESTIONCATEGORY)
+
+1
+find_word: 利潤
+word_valence: 6.6
+word_arousal: 5.4
+sentence_result: 
+true_valence: 4.28571428571
+true_arousal: 5.75
+pred_valence: 6.6
+pred_valence: 5.4
+
+sentence_id:328
+　當然(D)　是(SHI)　包含(VJ)　技師(Na)　、(PAUSECATEGORY)　業務(Na)　各(Nes)　種(Nf)　員工(Na)　，(COMMACATEGORY)
+
+　這樣(VH)　對(P)　台灣(Nc)　的(DE)　經濟(Na)　才(Da)　有(V_2)　幫助(Na)　...(ETCCATEGORY)　
+
+1
+find_word: 對
+word_valence: 6.4
+word_arousal: 4.8
+2
+find_word: 幫助
+word_valence: 6.6
+word_arousal: 5.6
+sentence_result: 
+true_valence: 6.0
+true_arousal: 5.28571428571
+pred_valence: 6.5
+pred_valence: 5.2
+
+sentence_id:329
+　謝謝(VJ)　熱心(VJ)　朋友(Na)　你們(Nh)　的(DE)　關心(Nv)　與(Caa)　建議(Na)　。(PERIODCATEGORY)
+
+1
+find_word: 謝謝
+word_valence: 6.6
+word_arousal: 5.8
+2
+find_word: 朋友
+word_valence: 6.8
+word_arousal: 4.2
+3
+find_word: 關心
+word_valence: 6.4
+word_arousal: 6.0
+sentence_result: 
+true_valence: 6.0
+true_arousal: 3.83333333333
+pred_valence: 6.6
+pred_valence: 5.33333333333
+
+sentence_id:330
+　大家(Nh)　的(DE)　建議(Na)　與(Caa)　分享(VJ)　的(DE)　結論(Na)　看起來(D)　沒(VJ)　啥(Nep)　問題(Na)　，(COMMACATEGORY)
+
+　我(Nh)　想(VE)　問題(Na)　的(DE)　解決(Nv)　因(Cbb)　該(D)　不會(D)　有(V_2)　問題(Na)　，(COMMACATEGORY)
+
+　或(Caa)　遺症(Na)　。(PERIODCATEGORY)
+
+1
+find_word: 分享
+word_valence: 6.8
+word_arousal: 4.6
+2
+find_word: 想
+word_valence: 5.2
+word_arousal: 3.6
+3
+find_word: 解決
+word_valence: 6.2
+word_arousal: 4.8
+sentence_result: 
+true_valence: 5.28571428571
+true_arousal: 3.55555555556
+pred_valence: 6.06666666667
+pred_valence: 4.33333333333
+
+sentence_id:331
+　我(Nh)　不(D)　是(SHI)　那(Nep)　台(Nf)　小黃(Nb)　，(COMMACATEGORY)
+
+　我(Nh)　想(VE)　保養廠(Nc)　我(Nh)　就(D)　保留(VC)　，(COMMACATEGORY)
+
+　因(Cbb)　使用(VC)　TOYOTA(FW)　以(P)　10多(Neu)　年(Nf)　。(PERIODCATEGORY)
+
+1
+find_word: 想
+word_valence: 5.2
+word_arousal: 3.6
+sentence_result: 
+true_valence: 5.11111111111
+true_arousal: 4.14285714286
+pred_valence: 5.2
+pred_valence: 3.6
+
+sentence_id:332
+　也(D)　在(P)　原廠(Nc)　保養(Nv)　，(COMMACATEGORY)
+
+　遇到(VC)　這(Nep)　事(Na)　還(D)　真(D)　是(SHI)　第一(Neu)　次(Nf)　。(PERIODCATEGORY)
+
+1
+find_word: 遇到
+word_valence: 5.0
+word_arousal: 4.2
+sentence_result: 
+true_valence: 3.77777777778
+true_arousal: 5.44444444444
+pred_valence: 5.0
+pred_valence: 4.2
+
+sentence_id:333
+　是(SHI)　有(V_2)　一些(Neqa)　不(D)　爽(VH)　為什麼(D)　不(D)　撞(VC)　我(Nh)　的(DE)　舊(VH)　車(Na)　卻(D)　偏偏(D)　撞(VC)　我(Nh)　的(DE)　新(VH)　車(Na)　。(PERIODCATEGORY)
+
+1
+find_word: 爽
+word_valence: 7.2
+word_arousal: 7.2
+sentence_result: 
+true_valence: 3.125
+true_arousal: 6.375
+pred_valence: 7.2
+pred_valence: 7.2
+
+sentence_id:334
+　之所以(Cbb)　有(V_2)　疑慮(Na)　是(SHI)　因為(Cbb)　這些(Neqa)　保養(VC)　的(DE)　人(Na)　都(D)　是(SHI)　熟面孔(Na)　了(T)　，(COMMACATEGORY)
+
+　不過(Cbb)　今年(Nd)　這些(Neqa)　老師(Na)　不(D)　見(VE)　好(VH)　多(Dfb)　，(COMMACATEGORY)
+
+　沒想到(D)　之前(Ng)　私底下(D)　爾(Nh)　有(V_2)　聽到(VE)　抱怨(VE)　原來(D)　是(SHI)　真的(D)　還(D)　走(VA)　這麼多(Neqa)　人(Na)　，(COMMACATEGORY)
+
+　所以(Cbb)　我(Nh)　才(Da)　有(V_2)　疑慮(Na)　。(PERIODCATEGORY)
+
+1
+find_word: 疑慮
+word_valence: 3.6
+word_arousal: 5.0
+2
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+3
+find_word: 抱怨
+word_valence: 2.8
+word_arousal: 6.6
+4
+find_word: 疑慮
+word_valence: 3.6
+word_arousal: 5.0
+sentence_result: 
+true_valence: 4.0
+true_arousal: 4.77777777778
+pred_valence: 4.2
+pred_valence: 5.45
+
+sentence_id:335
+　這(Nep)　位(Nf)　大大(VH)　，(COMMACATEGORY)
+
+　我(Nh)　想(VE)　你(Nh)　誤會(VK)　我(Nh)　的(DE)　意思(Na)　了(T)　，(COMMACATEGORY)
+
+　我(Nh)　原文(Na)　的(DE)　意思(Na)　是(SHI)　把(P)　護衛(VC)　隊(Na)　會(D)　拿來(VC)　反駁(VC)　樓主(Na)　的(DE)　理由(Na)　都(D)　列出來(VA)　，(COMMACATEGORY)
+
+　我(Nh)　裡面(Ncd)　寫(VC)　的(DE)　每(Nes)　個(Nf)　理由(Na)　都(D)　是(SHI)　我(Nh)　在(P)　這(Nep)　個(Nf)　版(Na)　看到(VE)　人家(Nh)　每每(D)　拿出(VC)　安全性(Na)　來(D)　質疑(VE)　時(Ng)　他們(Nh)　提出(VC)　的(DE)　理由(Na)　，(COMMACATEGORY)
+
+　你(Nh)　不妨(D)　多(D)　在(P)　這(Nep)　個(Nf)　優質(A)　的(DE)　版(Na)　多多(D)　閒晃(Nb)　，(COMMACATEGORY)
+
+　到(P)　目前(Nd)　為止(Ng)　我(Nh)　看到(VE)　說(VE)　某(Nes)　F(FW)　牌(Na)　妥善率(Na)　很(Dfa)　差(VH)　、(PAUSECATEGORY)　常常(D)　維修(VC)　的(DE)　大多(Neqa)　是(SHI)　聽(VE)　朋友(Na)　說(VE)　、(PAUSECATEGORY)　家人(Na)　說(VE)　、(PAUSECATEGORY)　長輩(Na)　說(VE)　的(DE)　!(EXCLANATIONCATEGORY)　希望(VK)　可以(D)　換(VC)　點(Nf)　新(VH)　花樣(Na)　，(COMMACATEGORY)
+
+　例如(P)　聽(VE)　二奶(Na)　說(VE)　、(PAUSECATEGORY)　聽(VE)　細姨(Na)　說(VE)　，(COMMACATEGORY)
+
+　我(Nh)　想(VE)　會(D)　比較(Dfa)　新鮮(VH)　!(EXCLANATIONCATEGORY)
+
+1
+find_word: 想
+word_valence: 5.2
+word_arousal: 3.6
+2
+find_word: 誤會
+word_valence: 3.2
+word_arousal: 5.4
+3
+find_word: 反駁
+word_valence: 3.8
+word_arousal: 6.4
+4
+find_word: 質疑
+word_valence: 3.6
+word_arousal: 5.6
+5
+find_word: 差
+word_valence: 3.4
+word_arousal: 4.6
+6
+find_word: 朋友
+word_valence: 6.8
+word_arousal: 4.2
+7
+find_word: 希望
+word_valence: 7.0
+word_arousal: 5.2
+8
+find_word: 想
+word_valence: 5.2
+word_arousal: 3.6
+sentence_result: 
+true_valence: 3.75
+true_arousal: 6.0
+pred_valence: 4.775
+pred_valence: 4.825
+
+sentence_id:336
+　可能(D)　你(Nh)　剛好(Da)　沒(D)　遇(VK)　過(Di)　那(Nep)　段(Nf)　強風(Na)　吧(T)　，(COMMACATEGORY)
+
+　我(Nh)　週(VH)　週(Nf)　往返(VCL)　新竹(Nc)　-(DASHCATEGORY)　台南(Nc)　和(Caa)　美(Nc)　那(Nep)　段(Nf)　風(Na)　真的(D)　強(VH)　，(COMMACATEGORY)
+
+　但是(Cbb)　要(D)　看(VC)　季節(Na)　，(COMMACATEGORY)
+
+　並(Cbb)　不(D)　是(SHI)　每(Nes)　天(Nf)　都(D)　是(SHI)　這(Nep)　種(Nf)　大風(Na)　，(COMMACATEGORY)
+
+　最近(Nd)　12月(Nd)　份(Nf)　風(Na)　很(Dfa)　大(VH)　有時(D)　還(D)　會(D)　被(P)　雙面(A)　巴來巴(Nb)　去(D)　.....(ETCCATEGORY)　FIT(FW)　的(DE)　懸吊(Na)　與(Caa)　yaris(FW)　比(P)　差(VH)　不(D)　到(VC)　哪(Nep)　去(D)　尤其(D)　後懸(Nb)　也(D)　是(SHI)　用(P)　廉價(VH)　的(DE)　非(A)　獨立式(Na)　懸吊(Na)　。(PERIODCATEGORY)
+
+1
+find_word: 強
+word_valence: 6.4
+word_arousal: 5.4
+2
+find_word: 差
+word_valence: 3.4
+word_arousal: 4.6
+sentence_result: 
+true_valence: 4.22222222222
+true_arousal: 4.0
+pred_valence: 4.9
+pred_valence: 5.0
+
+sentence_id:337
+　你(Nh)　要(D)　說(VE)　FIT(FW)　超控(VC)　好(VH)　嘛(T)　就(D)　是(SHI)　跟(P)　yaris(FW)　一樣(VH)　好(VH)　
+
+1
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+2
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+sentence_result: 
+true_valence: 5.375
+true_arousal: 3.625
+pred_valence: 6.8
+pred_valence: 5.2
+
+sentence_id:339
+　目前(Nd)　新一代(A)　CAMRY(FW)　的(DE)　旗艦(Na)　定位(Na)　車款(Na)　就(D)　只有(D)　2.5(Neu)　G(FW)　車型(Na)　可以(D)　擔任(VG)　了(Di)　...(ETCCATEGORY)　搭載(VC)　於(P)　CAMRY(FW)　上(Ncd)　的(DE)　足踏式駐(VCL)　煞車(Na)　是(SHI)　機械式(A)　的(DE)　，(COMMACATEGORY)
+
+　踩(VC)　第一(Neu)　次(Nf)　鎖定(VC)　，(COMMACATEGORY)
+
+　踩(VC)　第二(Neu)　次(Nf)　就(D)　能(D)　釋放(VC)　駐(VCL)　煞車(VA)　了(Di)　非常(Dfa)　感謝(VK)　大家(Nh)　的(DE)　熱烈(VH)　回應(Nv)　，(COMMACATEGORY)
+
+　小(VH)　編(VC)　必須(D)　要(D)　做(VC)　的(DE)　是(SHI)　盡量(D)　將(D)　新(VH)　車(Na)　的(DE)　細節(Na)　分享(VJ)　給(VD)　大家(Nh)　，(COMMACATEGORY)
+
+　當然(D)　每(D)　個人(Nh)　都(D)　有所(VJ)　偏好(Nv)　，(COMMACATEGORY)
+
+　有(V_2)　些(Nf)　人(Na)　若是(Cbb)　不(D)　喜歡(VK)　送(VD)　他(Nh)　也(D)　不(D)　願(VK)　開(VC)　...(ETCCATEGORY)　買車(Na)　是(SHI)　看(VC)　需求(Na)　，(COMMACATEGORY)
+
+　各(Nes)　種(Nf)　級距(Na)　車型(Na)　鎖定(VC)　的(DE)　客層(Na)　與(Caa)　定位(Na)　也(D)　不盡(Dfa)　相同(VH)　尤其(D)　現在(Nd)　安全(Nv)　防護(Nv)　意識(Na)　抬頭(VA)　，(COMMACATEGORY)
+
+　CAMRY(FW)　此(Nep)　次(Nf)　改款(Na)　能否(D)　持續(VL)　擄獲(VC)　人心(Na)　？(QUESTIONCATEGORY)
+
+　相信(VK)　之後(Ng)　的(DE)　銷售量(Na)　會(D)　給(VD)　大家(Nh)　答案(Na)　的(DE)　～(FW)　
+
+1
+find_word: 感謝
+word_valence: 7.4
+word_arousal: 5.6
+2
+find_word: 熱烈
+word_valence: 6.4
+word_arousal: 7.6
+3
+find_word: 分享
+word_valence: 6.8
+word_arousal: 4.6
+4
+find_word: 偏好
+word_valence: 5.2
+word_arousal: 4.0
+5
+find_word: 喜歡
+word_valence: 7.0
+word_arousal: 5.8
+6
+find_word: 願
+word_valence: 6.0
+word_arousal: 5.0
+7
+find_word: 安全
+word_valence: 6.4
+word_arousal: 4.4
+8
+find_word: 相信
+word_valence: 7.2
+word_arousal: 5.4
+sentence_result: 
+true_valence: 5.77777777778
+true_arousal: 5.0
+pred_valence: 6.55
+pred_valence: 5.3
+
+sentence_id:340
+　如(P)　題(Na)　小弟(Na)　國中(Nc)　時(Ng)　腳踏車(Na)　曾(D)　被(P)　偷到(VC)　現在(Nd)　買(VC)　了(Di)　人生(Na)　的(DE)　第一(Neu)　台(Nf)　車(Na)　altis(FW)　也(D)　還是(D)　有(V_2)　陰影(Na)　週遭(Nc)　的(DE)　親戚(Na)　朋友(Na)　都(D)　說(VE)　我(Nh)　太(Dfa)　誇張(VHC)　就(D)　只(Da)　因為(Cbb)　原廠(Nc)　的(DE)　中控鎖(Na)　個人(Nh)　認為(VE)　這(Nep)　個(Nf)　沒用(VH)　防(VC)　君子(Na)　)(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　原廠(Nc)　終(D)　級排檔鎖(Na)　外(Ng)　　小弟(Na)　另外(Da)　裝(VC)　了(Di)　鋼甲(Na)　武士(Na)　10(Neu)　代扣鎖(Na)　、(PAUSECATEGORY)　神眼(Na)　傳訊(VC)　鎖(Na)　及(Caa)　車輪(Na)　鎖(VC)　若要(Cbb)　開(VC)　這(Nep)　台(Nf)　車(Na)　總共(Da)　要(D)　開(VC)　5(Neu)　道(Nf)　鎖(Na)　要(D)　開車(VA)　是(SHI)　麻煩(VHC)　了(Di)　點(Na)　但是(Cbb)　反之(Dk)　要(D)　偷(VD)　這(Nep)　台(Nf)　車(Na)　也(D)　要(D)　開(VC)　5(Neu)　道(Nf)　鎖(Na)　除非(Cbb)　整(Neqa)　台(Nf)　車(Na)　拖走(VC)　...(ETCCATEGORY)　請問(VE)　各(Nes)　位(Nf)　大(VH)　大都(D)　是(SHI)　如(P)　　何(Nes)　保護(Nv)　愛車(Na)　呢(T)　?(QUESTIONCATEGORY)
+
+1
+find_word: 朋友
+word_valence: 6.8
+word_arousal: 4.2
+2
+find_word: 麻煩
+word_valence: 3.6
+word_arousal: 5.0
+3
+find_word: 偷
+word_valence: 2.4
+word_arousal: 5.0
+4
+find_word: 保護
+word_valence: 6.8
+word_arousal: 6.8
+sentence_result: 
+true_valence: 4.22222222222
+true_arousal: 5.0
+pred_valence: 4.9
+pred_valence: 5.25
+
+sentence_id:341
+　大哥(Na)　～(FW)　～(FW)　有空(VH)　直接(VH)　開過去(VB)　吧(T)　.....(ETCCATEGORY)　明顯(VH)　就(Da)　是(SHI)　在(P)　拖時間(VA)　～(FW)　你(Nh)　確定(VK)　你(Nh)　的(DE)　維修(Nv)　更換(VC)　沒(VJ)　時間(Na)　限制(Na)　？(QUESTIONCATEGORY)
+
+　直接(VH)　殺到(VCL)　他們(Nh)　營業所(Nc)　比較(Dfa)　快(VH)　～(FW)　最好(D)　還是(D)　在(P)　他(Nh)　說(VE)　高雄(Nc)　交(VD)　車(Na)　時(Ng)　！(EXCLANATIONCATEGORY)
+
+1
+find_word: 確定
+word_valence: 6.2
+word_arousal: 5.2
+2
+find_word: 最好
+word_valence: 6.8
+word_arousal: 6.2
+sentence_result: 
+true_valence: 3.57142857143
+true_arousal: 5.57142857143
+pred_valence: 6.5
+pred_valence: 5.7
+
+sentence_id:343
+　偷(VD)　裝備(Na)　~(FW)　~(FW)　我(Nh)　覺得(VK)　大大(VH)　你(Nh)　搞錯(VC)　了(Di)　吧(T)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　和泰(Nc)　怎麼(D)　偷(VD)　?(QUESTIONCATEGORY)
+
+1
+find_word: 偷
+word_valence: 2.4
+word_arousal: 5.0
+2
+find_word: 偷
+word_valence: 2.4
+word_arousal: 5.0
+sentence_result: 
+true_valence: 3.5
+true_arousal: 5.71428571429
+pred_valence: 2.4
+pred_valence: 5.0
+
+sentence_id:344
+　是(SHI)　日本(Nc)　要(D)　我們(Nh)　怎麼(D)　裝(VC)　裝(VC)　多少(Neqa)　的(DE)　不(D)　是(SHI)　和泰(Nc)　決定(VE)　的(DE)　豐田(Nb)　占(VJ)　了(Di)　國瑞(Nb)　跟(P)　和泰(Nc)　百(Neu)　分(Nf)　六十(Neu)　的(DE)　股份(Na)　決定(VE)　全(Neqa)　都(D)　由(P)　日本人(Na)　決定(VE)　~(FW)　~(FW)　想要(VE)　好(VH)　的(DE)　內裝(Na)　好(VH)　的(DE)　配備(Na)　好(VH)　的(DE)　東西(Na)　請(VF)　不要(D)　跟(P)　和泰(Nc)　講(VE)　也(D)　不要(D)　跟(P)　國瑞(Nb)　講(VE)　在(P)　01(Neu)　上(Ncd)　　講(VE)　也(D)　沒有用(VH)　~(FW)　~(FW)　請(VF)　跟(P)　日本人(Na)　講(VE)　謝謝(VJ)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)
+
+1
+find_word: 決定
+word_valence: 6.0
+word_arousal: 7.0
+2
+find_word: 決定
+word_valence: 6.0
+word_arousal: 7.0
+3
+find_word: 決定
+word_valence: 6.0
+word_arousal: 7.0
+4
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+5
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+6
+find_word: 好
+word_valence: 6.8
+word_arousal: 5.2
+7
+find_word: 謝謝
+word_valence: 6.6
+word_arousal: 5.8
+sentence_result: 
+true_valence: 5.375
+true_arousal: 4.375
+pred_valence: 6.42857142857
+pred_valence: 6.05714285714
+
+sentence_id:345
+　很多(Neqa)　車主(Na)　抱怨(VE)　新(VH)　車怠速(Na)　抖動(VC)　嚴重(VH)　----(DASHCATEGORY)　冷(VH)　車(Na)　時(Ng)　更(D)　嚴重(VH)　。(PERIODCATEGORY)
+
+1
+find_word: 抱怨
+word_valence: 2.8
+word_arousal: 6.6
+2
+find_word: 嚴重
+word_valence: 3.2
+word_arousal: 7.0
+3
+find_word: 冷
+word_valence: 3.6
+word_arousal: 4.4
+4
+find_word: 嚴重
+word_valence: 3.2
+word_arousal: 7.0
+sentence_result: 
+true_valence: 3.25
+true_arousal: 5.66666666667
+pred_valence: 3.2
+pred_valence: 6.25
+
+sentence_id:346
+　很多(Neqa)　車主(Na)　抱怨(Nv)　冷氣(Na)　空調(Na)　有(V_2)　很(Dfa)　重(VH)　的(DE)　酸臭味(Na)　---(DASHCATEGORY)　新(VH)　車(Na)　時(Ng)　卻(D)　時有(VJ)　很(Dfa)　嚴重(VH)　.(PERIODCATEGORY)
+
+1
+find_word: 抱怨
+word_valence: 2.8
+word_arousal: 6.6
+2
+find_word: 嚴重
+word_valence: 3.2
+word_arousal: 7.0
+sentence_result: 
+true_valence: 3.0
+true_arousal: 4.875
+pred_valence: 3.0
+pred_valence: 6.8
+
+sentence_id:348
+　而是(Cbb)　要(D)　買(VC)　有(V_2)　NCAP(FW)　5(Neu)　顆(Nf)　星(Na)　的(DE)　認證(Nv)　車種(Na)　....(ETCCATEGORY)　你(Nh)　說(VE)　的(DE)　話(Na)　好像(D)　國產(A)　T(FW)　撞到(VC)　會(Na)　死人(Na)　的(DE)　如果(Cbb)　多(D)　花(VC)　10(Neu)　~(FW)　20萬(Neu)　的(DE)　其他(Neqa)　車種(Na)　就(D)　不會(D)　死(VH)　了(Di)　我(Nh)　這樣(VH)　解讀(VC)　你(Nh)　的(DE)　話(Na)　~(FW)　對(VH)　嗎(T)　?(QUESTIONCATEGORY)
+
+1
+find_word: 死人
+word_valence: 2.2
+word_arousal: 7.0
+2
+find_word: 死
+word_valence: 1.2
+word_arousal: 5.0
+3
+find_word: 對
+word_valence: 6.4
+word_arousal: 4.8
+sentence_result: 
+true_valence: 3.25
+true_arousal: 4.5
+pred_valence: 3.26666666667
+pred_valence: 5.6
+
+sentence_id:349
+　其中(Nep)　矛盾(VH)　大家(Nh)　都(D)　懂(VK)　....(ETCCATEGORY)　有錢(VH)　大家(Nh)　都(D)　買(VC)　雙(A)　B(FW)　了(T)　，(COMMACATEGORY)
+
+　誰(Nh)　要(D)　國產(A)　?(QUESTIONCATEGORY)
+
+1
+find_word: 矛盾
+word_valence: 4.2
+word_arousal: 4.6
+2
+find_word: 有錢
+word_valence: 6.4
+word_arousal: 5.4
+sentence_result: 
+true_valence: 4.125
+true_arousal: 6.125
+pred_valence: 5.3
+pred_valence: 5.0
+
+sentence_id:350
+　似乎(D)　很多(Neqa)　人(Na)　開車(VA)　整(Neqa)　天(Nf)　怕(VK)　車禍(Na)　。(PERIODCATEGORY)
+
+1
+find_word: 怕
+word_valence: 3.2
+word_arousal: 6.4
+sentence_result: 
+true_valence: 4.1
+true_arousal: 4.0
+pred_valence: 3.2
+pred_valence: 6.4
+
+sentence_id:351
+　呵呵(D)　~(FW)　傻眼(VH)　了(Di)　阿(Nc)　~(FW)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　如果(Cbb)　整(Neqa)　天(Nf)　要(D)　怕死(VH)　的(DE)　怕(VK)　自己(Nh)　開車(VA)　去(D)　撞人(VA)　的(DE)　可以(D)　考慮(VE)　前面(Ncd)　幾(Neu)　位(Nf)　大大(VH)　所(D)　推(VC)　的(DE)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　本人(Nh)　只(Da)　怕(VK)　別人(Nh)　來(D)　撞(VC)　我(Nh)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　我(Nh)　希望(VK)　前面(Ncd)　某些(Neqa)　人(Na)　出(VC)　車禍(Na)　時(Ng)　.(PERIODCATEGORY)
+
+1
+find_word: 呵呵
+word_valence: 6.0
+word_arousal: 4.6
+2
+find_word: 怕
+word_valence: 3.2
+word_arousal: 6.4
+3
+find_word: 怕
+word_valence: 3.2
+word_arousal: 6.4
+4
+find_word: 希望
+word_valence: 7.0
+word_arousal: 5.2
+sentence_result: 
+true_valence: 3.88888888889
+true_arousal: 5.33333333333
+pred_valence: 4.85
+pred_valence: 5.65
+
+[Cancelled]
