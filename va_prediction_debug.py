@@ -51,7 +51,7 @@ def va_prediction(sentences, lexicon, true_values):
 
 if __name__ == '__main__':
     ########################################### Hyper-parameters ###########################################
-    target = 'valence' # values: "valence", "arousal"
+    target = 'arousal' # values: "valence", "arousal"
     categorical = 'all'  # values: 'all', "book", "car", "laptop", "hotel", "news", "political"
     ########################################################################################################
     # texts, valence, arousal = read_mix_data(categorical)
