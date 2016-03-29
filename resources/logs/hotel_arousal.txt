@@ -1,2070 +1,3029 @@
 E:\Anaconda3\python.exe E:/PycharmProjects/Thesis_experiment/va_prediction_debug.py
 Using gpu device 0: GeForce 940M (CNMeM is enabled with initial size: 80.0% of memory, CuDNN not available)
 Arousal preddiction...
-Ùeğ^ ·´ğ 2007Äê 12ÔÂ 28ÈÕ £º Ê×ÏÈ ·Ç³£ ¸ĞÖx Äú ßx“ñ –|·½ ´ó ¾Æµê Ò² ·Ç³£ ¸ĞÖx Äú ½o ÎÒ‚ƒ Ìá³ö ÁË ŒšÙF µÄ ÒâÒŠ ¾Æµê ½üÆÚ ˜Çí” ÕıÔÚ ¼Ó ŒÓ ½¨Ôì Î÷²Íd
-sentiment words: ['ŒšÙF', '¸ĞÖx']
+å„ªé» æ˜¯ åœ°ç† ä½ç½® ä¸éŒ¯ æœ å— çš„ æˆ¿é–“ å¯ä»¥ çœ‹ å¯Œæ˜¥ æ±Ÿ å¯æƒœ çµ¦ æˆ‘ çš„ æ‰€è¬‚ é«˜ç´šæˆ¿ æ˜¯ æœ åŒ— çš„ æ€ªä¸å¾— äººå®¶ èªª æ”œç¨‹ çš„ å®¢äºº æ¯”è¼ƒ å— æ­§è¦– ã€‚
+sentiment words: ['å„ªé»', 'æ­§è¦–']
+words frequent: [1, 1]
+correpsonding sentiment values: [5.0, 6.8]
+The predicted values is (using Arithmetic Average): 5.9
+sentiment words: ['å„ªé»', 'æ­§è¦–']
+words frequent: [1, 1]
+correpsonding sentiment values: [5.0, 6.8]
+The predicted values is (using Geometric  Average): 5.83095189485
+The true values is: 4.625
+é¦–å…ˆ éå¸¸ æ„Ÿè¬ æ‚¨ é¸æ“‡ æ±æ–¹ å¤§ é…’åº— ä¹Ÿ éå¸¸ æ„Ÿè¬ æ‚¨ çµ¦ æˆ‘å€‘ æå‡º äº† å¯¶è²´ çš„ æ„è¦‹ é…’åº— è¿‘æœŸ æ¨“é ‚ æ­£åœ¨ åŠ  å±¤ å»ºé€  è¥¿é¤å»³
+sentiment words: ['å¯¶è²´', 'æ„Ÿè¬']
+words frequent: [1, 2]
 correpsonding sentiment values: [5.0, 5.6]
-The predicted values is (using Arithmetic Average): 5.3
-sentiment words: ['ŒšÙF', '¸ĞÖx']
+The predicted values is (using Arithmetic Average): 5.4
+sentiment words: ['å¯¶è²´', 'æ„Ÿè¬']
+words frequent: [1, 2]
 correpsonding sentiment values: [5.0, 5.6]
-The predicted values is (using Geometric  Average): 5.29150262213
-ºÜ Êæ·ş £» ·ş„Õ ²»åe ¸ĞÓX ˜ÇŒÓ ±È Ç° Å_ ·ş„Õ ¸ü ºÃ £» ¾Æµê ÖÜ‡ú ­h¾³ Õæ ºÃ ÓĞ É½ ÓĞ º£ ±¾ÈË ÔÚ ááÉ½ É¢²½ •r ²îüc µôÏÂ ‘ÒÑÂ ½¨×h ¾Æµê ¼°•r Œ¢ ááÉ½ °ë ½Ø Â· ¼ÓÉÏ ˜ËÕI ºÍ ‡ú“õ Ì« Î£ëU ÁË £¡
-sentiment words: ['¼°•r', 'ºÃ', 'Êæ·ş']
+The predicted values is (using Geometric  Average): 5.39239899955
+The true values is: 3.833333333
+å¾ˆ èˆ’æœ ï¼› æœå‹™ ä¸éŒ¯ æ„Ÿè¦º æ¨“å±¤ æ¯” å‰ è‡º æœå‹™ æ›´ å¥½ ï¼› é…’åº— å‘¨åœ ç’°å¢ƒ çœŸ å¥½ æœ‰ å±± æœ‰ æµ· æœ¬äºº åœ¨ å¾Œå±± æ•£æ­¥ æ™‚ å·®é» æ‰ä¸‹ æ‡¸å´– å»ºè­° é…’åº— åŠæ™‚ å°‡ å¾Œå±± åŠ æˆª è·¯ åŠ ä¸Š æ¨™èªŒ å’Œ åœæ“‹ å¤ª å±éšª äº† ï¼
+sentiment words: ['åŠæ™‚', 'å¥½', 'èˆ’æœ']
+words frequent: [1, 2, 1]
 correpsonding sentiment values: [5.4, 5.2, 3.6]
-The predicted values is (using Arithmetic Average): 4.73333333333
-sentiment words: ['¼°•r', 'ºÃ', 'Êæ·ş']
+The predicted values is (using Arithmetic Average): 4.85
+sentiment words: ['åŠæ™‚', 'å¥½', 'èˆ’æœ']
+words frequent: [1, 2, 1]
 correpsonding sentiment values: [5.4, 5.2, 3.6]
-The predicted values is (using Geometric  Average): 4.65836164599
-Ò¹ég ĞĞ×ß ºÍ Ğ¡º¢×Ó ÍæË£ ¸ü Î£ëU £¡
-sentiment words: ['ÍæË£']
+The predicted values is (using Geometric  Average): 4.78823808853
+The true values is: 5.444444444
+å¤œé–“ è¡Œèµ° å’Œ å°å­©å­ ç©è€ æ›´ å±éšª ï¼
+sentiment words: ['ç©è€']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Arithmetic Average): 5.8
-sentiment words: ['ÍæË£']
+sentiment words: ['ç©è€']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Geometric  Average): 5.8
-˜Ç º£¾° ²» ‰ò ºÃ ‘ªÔ“ Íù ÉÏ ŒÓ ¸ü ¼Ñ .
-sentiment words: ['¼Ñ', 'ºÃ']
+The true values is: 6.571428571
+æ¨“ æµ·æ™¯ ä¸ å¤  å¥½ æ‡‰è©² å¾€ ä¸Š å±¤ æ›´ ä½³ .
+sentiment words: ['ä½³', 'å¥½']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.6, 5.2]
 The predicted values is (using Arithmetic Average): 4.9
-sentiment words: ['¼Ñ', 'ºÃ']
+sentiment words: ['ä½³', 'å¥½']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.6, 5.2]
 The predicted values is (using Geometric  Average): 4.89080770425
-ÕæÊÇ ¿ÉĞ¦ Èë ×¡ Ô“ ¾Æµê ½Y¤ •r Òª ¶à ¸¶ Ò» ´ü é_ĞÄ¹û µÄ ÙMÓÃ Ëû‚ƒ üc ²» Çå ×Ô¼º µÄ ÎïÆ· ”µÁ¿ ³ö ÁË ²îåe Âñ †Î µÄ ¾¹ÊÇ ÏûÙMÕß .
-sentiment words: ['¿ÉĞ¦']
+The true values is: 3.857142857
+çœŸæ˜¯ å¯ç¬‘ å…¥ ä½ è©² é…’åº— çµå¸³ æ™‚ è¦ å¤š ä»˜ ä¸€ è¢‹ é–‹å¿ƒæœ çš„ è²»ç”¨ ä»–å€‘ é» ä¸ æ¸… è‡ªå·± çš„ ç‰©å“ æ•¸é‡ å‡º äº† å·®éŒ¯ åŸ‹ å–® çš„ ç«Ÿæ˜¯ æ¶ˆè²»è€… .
+sentiment words: ['å¯ç¬‘']
+words frequent: [1]
 correpsonding sentiment values: [6.6]
 The predicted values is (using Arithmetic Average): 6.6
-sentiment words: ['¿ÉĞ¦']
+sentiment words: ['å¯ç¬‘']
+words frequent: [1]
 correpsonding sentiment values: [6.6]
 The predicted values is (using Geometric  Average): 6.6
-ÎÒ ßx“ñ ˆÔ›Q ²»ÔÙ È¥ .
-sentiment words: ['ˆÔ›Q']
+The true values is: 6.0
+æˆ‘ é¸æ“‡ å …æ±º ä¸å† å» .
+sentiment words: ['å …æ±º']
+words frequent: [1]
 correpsonding sentiment values: [6.2]
 The predicted values is (using Arithmetic Average): 6.2
-sentiment words: ['ˆÔ›Q']
+sentiment words: ['å …æ±º']
+words frequent: [1]
 correpsonding sentiment values: [6.2]
 The predicted values is (using Geometric  Average): 6.2
-Èç¹û Òª ÎÒ ½o Ô“ ¾Æµê Ôu·Ö ÎÒ ½o Ëü 0 ·Ö Ëû‚ƒ µÄ ·ş„Õ ½o ¿Í‘ô µÄ ºÃ¸Ğ È« ±» ½Y¤ •r ÓŞ´À µÄ Åe„Ó Ëù Ä¨š¢ .
-sentiment words: ['ÓŞ´À']
+The true values is: 5.714285714
+å¦‚æœ è¦ æˆ‘ çµ¦ è©² é…’åº— è©•åˆ† æˆ‘ çµ¦ å®ƒ 0 åˆ† ä»–å€‘ çš„ æœå‹™ çµ¦ å®¢æˆ¶ çš„ å¥½æ„Ÿ å…¨ è¢« çµå¸³ æ™‚ æ„šè ¢ çš„ èˆ‰å‹• æ‰€ æŠ¹æ®º .
+sentiment words: ['æ„šè ¢']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Arithmetic Average): 6.0
-sentiment words: ['ÓŞ´À']
+sentiment words: ['æ„šè ¢']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Geometric  Average): 6.0
-Ña³ä ücÔu 2008Äê 4ÔÂ 15ÈÕ £º ½¨×h ´ó¼Ò µ½ ÈÕÕÕ •r ßx“ñ ÆäËû ¾Æµê ×£ ´ó¼Ò ÔÚ ÈÕÕÕ é_ĞÄ .
-sentiment words: ['é_ĞÄ']
+The true values is: 7.25
+è£œå…… é»è©• 2008å¹´ 4æœˆ 15æ—¥ ï¼š å»ºè­° å¤§å®¶ åˆ° æ—¥ç…§ æ™‚ é¸æ“‡ å…¶ä»– é…’åº— ç¥ å¤§å®¶ åœ¨ æ—¥ç…§ é–‹å¿ƒ .
+sentiment words: ['é–‹å¿ƒ']
+words frequent: [1]
 correpsonding sentiment values: [6.6]
 The predicted values is (using Arithmetic Average): 6.6
-sentiment words: ['é_ĞÄ']
+sentiment words: ['é–‹å¿ƒ']
+words frequent: [1]
 correpsonding sentiment values: [6.6]
 The predicted values is (using Geometric  Average): 6.6
-ƒüc : ¾Æµê Î»ÖÃ Í¦ ºÃ ·ş„ÕÉú ‘B¶È ºÜ ºÃ Ôç²Í ºÜ ºÃ È±üc : ·¿ég ¾ÓÈ» ²»ÄÜ ÉÏ¾W ¾Æµê ¹¤³ÌŸ Õf ÊÇ swtich ‰Äµô ÁË Ä ÏÂÎç µ½ ÍíÉÏ 11 üc ¶¼ ›]ÓĞ ĞŞºÃ Ê§Íû ¡£
-sentiment words: ['ƒüc', 'Ê§Íû', 'ºÃ', 'È±üc']
-correpsonding sentiment values: [5.0, 5.6, 5.2, 4.6]
-The predicted values is (using Arithmetic Average): 5.1
-sentiment words: ['ƒüc', 'Ê§Íû', 'ºÃ', 'È±üc']
-correpsonding sentiment values: [5.0, 5.6, 5.2, 4.6]
-The predicted values is (using Geometric  Average): 5.08721159295
-±±¾© –|·½ ºÍÆ½ Ùeğ^ ß@ ¼Ò ¾Æµê ½o ÎÒ ¸ĞÓX ²» ºÃ ëmÈ» µØ¶Î ºÃ ¾Í ¿¿ Íõ¸®¾®´ó½Ö µ« ÍË·¿ ËÙ¶È Âı ·¿ég ¸ôÒô ²»ºÃ ÓĞ Î¶µÀ ¿´ÉÏÈ¥ ²» Ç¬œQ ¡£
-sentiment words: ['ºÍÆ½', 'ºÃ', 'Âı']
+The true values is: 3.833333333
+é…’åº— ä½ç½® æŒº å¥½ æœå‹™ç”Ÿ æ…‹åº¦ å¾ˆ å¥½ æ—©é¤ å¾ˆ å¥½ ã€‚ ç¼ºé» : æˆ¿é–“ å±…ç„¶ ä¸èƒ½ ä¸Šç¶² é…’åº— å·¥ç¨‹å¸« èªª æ˜¯ swtich å£æ‰ äº† å¾ ä¸‹åˆ åˆ° æ™šä¸Š 11 é» éƒ½ æ²’æœ‰ ä¿®å¥½ å¤±æœ› ã€‚
+sentiment words: ['å¤±æœ›', 'å¥½', 'ç¼ºé»']
+words frequent: [1, 3, 1]
+correpsonding sentiment values: [5.6, 5.2, 4.6]
+The predicted values is (using Arithmetic Average): 5.16
+sentiment words: ['å¤±æœ›', 'å¥½', 'ç¼ºé»']
+words frequent: [1, 3, 1]
+correpsonding sentiment values: [5.6, 5.2, 4.6]
+The predicted values is (using Geometric  Average): 5.14980966428
+The true values is: 5.625
+åŒ—äº¬ æ±æ–¹ å’Œå¹³ è³“é¤¨ é€™ å®¶ é…’åº— çµ¦ æˆ‘ æ„Ÿè¦º ä¸ å¥½ é›–ç„¶ åœ°æ®µ å¥½ å°± é  ç‹åºœäº•å¤§è¡— ä½† é€€æˆ¿ é€Ÿåº¦ æ…¢ æˆ¿é–“ éš”éŸ³ ä¸å¥½ æœ‰ å‘³é“ çœ‹ä¸Šå» ä¸ ä¹¾æ·¨ ã€‚
+sentiment words: ['å’Œå¹³', 'å¥½', 'æ…¢']
+words frequent: [1, 2, 1]
 correpsonding sentiment values: [3.2, 5.2, 2.8]
-The predicted values is (using Arithmetic Average): 3.73333333333
-sentiment words: ['ºÍÆ½', 'ºÃ', 'Âı']
+The predicted values is (using Arithmetic Average): 4.1
+sentiment words: ['å’Œå¹³', 'å¥½', 'æ…¢']
+words frequent: [1, 2, 1]
 correpsonding sentiment values: [3.2, 5.2, 2.8]
-The predicted values is (using Geometric  Average): 3.59835315622
-²»åe ÖÜ‡ú ºÜ Ÿáô[
-sentiment words: ['Ÿáô[']
+The predicted values is (using Geometric  Average): 3.94528766112
+The true values is: 6.0
+ä¸éŒ¯ å‘¨åœ å¾ˆ ç†±é¬§
+sentiment words: ['ç†±é¬§']
+words frequent: [1]
 correpsonding sentiment values: [6.6]
 The predicted values is (using Arithmetic Average): 6.6
-sentiment words: ['Ÿáô[']
+sentiment words: ['ç†±é¬§']
+words frequent: [1]
 correpsonding sentiment values: [6.6]
 The predicted values is (using Geometric  Average): 6.6
-µ« ´óÌÃ Şk ×¡ËŞ µÄ Å®Ê¿ ¸ĞÓX ²» Ì« ßmºÏ ·ş„Õ ĞĞ˜I ¡£
-sentiment words: ['ßmºÏ']
+The true values is: 5.555555556
+ä½† å¤§å ‚ è¾¦ ä½å®¿ çš„ å¥³å£« æ„Ÿè¦º ä¸ å¤ª é©åˆ æœå‹™ è¡Œæ¥­ ã€‚
+sentiment words: ['é©åˆ']
+words frequent: [1]
 correpsonding sentiment values: [3.8]
 The predicted values is (using Arithmetic Average): 3.8
-sentiment words: ['ßmºÏ']
+sentiment words: ['é©åˆ']
+words frequent: [1]
 correpsonding sentiment values: [3.8]
 The predicted values is (using Geometric  Average): 3.8
-×î MÒâ µÄ ÊÇ ¾Æµê Ìá¹© µÄ ÃâÙM Éı˜Ë ¡£
-sentiment words: ['ÃâÙM', 'MÒâ']
+The true values is: 4.0
+æœ€ æ»¿æ„ çš„ æ˜¯ é…’åº— æä¾› çš„ å…è²» å‡æ¨™ ã€‚
+sentiment words: ['å…è²»', 'æ»¿æ„']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.6]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['ÃâÙM', 'MÒâ']
+sentiment words: ['å…è²»', 'æ»¿æ„']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.6]
 The predicted values is (using Geometric  Average): 5.18459255873
-îA¶¨ µÄ ÊÇ ÉÌ„Õ ˜Ë ég ÓÉì¶ ¿ÍM ¾Æµê ½o ÎÒ‚ƒ ÃâÙM Éıµ½ ÁË ¸ß¼‰ ÉÌ„Õ ˜Ë ég ¡£
-sentiment words: ['ÃâÙM']
+The true values is: 6.285714286
+é å®š çš„ æ˜¯ å•†å‹™ æ¨™ é–“ ç”±æ–¼ å®¢æ»¿ é…’åº— çµ¦ æˆ‘å€‘ å…è²» å‡åˆ° äº† é«˜ç´š å•†å‹™ æ¨™ é–“ ã€‚
+sentiment words: ['å…è²»']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['ÃâÙM']
+sentiment words: ['å…è²»']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Geometric  Average): 4.8
-Òª Õf ²»×ã Ö® Ì Ò» ‚€ ÊÇ Ç°Ãæ ÓĞ ¾WÓÑ Ìáµ½ µÄ ¸ôÒô Ğ§¹û ²» Ì« ºÃ ¡£
-sentiment words: ['²»×ã', 'ºÃ']
+The true values is: 5.428571429
+è¦ èªª ä¸è¶³ ä¹‹ è™• ä¸€ å€‹ æ˜¯ å‰é¢ æœ‰ ç¶²å‹ æåˆ° çš„ éš”éŸ³ æ•ˆæœ ä¸ å¤ª å¥½ ã€‚
+sentiment words: ['ä¸è¶³', 'å¥½']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.2, 5.2]
 The predicted values is (using Arithmetic Average): 4.7
-sentiment words: ['²»×ã', 'ºÃ']
+sentiment words: ['ä¸è¶³', 'å¥½']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.2, 5.2]
 The predicted values is (using Geometric  Average): 4.67332857822
-ƒüc £º 1 ¡¢ µØÀí Î»ÖÃ ô[ÖĞÈ¡ìo 2 ¡¢ Èç¹û ÔÚ Îå ½Ç ˆö ¸½½ü ŞkÊÂ ½»Í¨ ß€ Ëã ·½±ã È±üc £º 1 ¡¢ ·¿ég ƒÈ ÓĞ âÖØ µÄ ŸŸÎ¶ 2 ¡¢ ¿ÕÕ{ µÎË® „‚ºÃ ÔÚ ˜ÇÏÂ µÄ ²£Á§ ä“Íß ÉÏ ÍíÉÏ ±Èİ^ ³³ 3 ¡¢ Ï´ÔèË® ¡° Ğ¡Ë® ŸoÁ¦ ¡± ¸ĞÓX ¸ü Ïñ ÊÇ ¡° ÅÜ ¡¢ Ã° ¡¢ µÎ ¡¢ Â© ¡± µÄ Ë®ıˆî^ 3 ¡¢ Ôç²Í ±Èİ^ ²î ¼È ›]ÓĞ " ³Ôï– " µÄ ŒŒ»İ»İ Ò² ›]ÓĞ " ³ÔºÃ " µÄ ØS¸» ¶à²Ê ) 4 ¡¢ Ã«½í ·ºüS 5 ¡¢ Õíî^ ºÜ ŒÀŞÎ ƒÉ ‚€ Æ« ¸ß ¡¢ Ò» ‚€ Æ«µÍ )
-sentiment words: ['ƒüc', 'ŒÀŞÎ', '²î', 'ŸoÁ¦', 'È±üc', 'ØS¸»']
-correpsonding sentiment values: [5.0, 4.6, 4.6, 3.6, 4.6, 5.6]
-The predicted values is (using Arithmetic Average): 4.66666666667
-sentiment words: ['ƒüc', 'ŒÀŞÎ', '²î', 'ŸoÁ¦', 'È±üc', 'ØS¸»']
-correpsonding sentiment values: [5.0, 4.6, 4.6, 3.6, 4.6, 5.6]
-The predicted values is (using Geometric  Average): 4.62688818725
-Ùeğ^ ·´ğ 2008Äê 6ÔÂ 23ÈÕ £º ÄúºÃ ÔÙ´Î ¿´µ½ Äú µÄ ücÔu ºÜ é_ĞÄ ¸ĞÖx Äú ÔÙ´Î ßx“ñ ‡øÙe ´ó ¾Æµê Èë×¡ .
-sentiment words: ['¸ĞÖx', 'é_ĞÄ']
+The true values is: 5.444444444
+1 ã€ åœ°ç† ä½ç½® é¬§ä¸­å–éœ 2 ã€ å¦‚æœ åœ¨ äº” è§’ å ´ é™„è¿‘ è¾¦äº‹ äº¤é€š é‚„ ç®— æ–¹ä¾¿ ç¼ºé» ï¼š 1 ã€ æˆ¿é–“ å…§ æœ‰ æ¿ƒé‡ çš„ ç…™å‘³ 2 ã€ ç©ºèª¿ æ»´æ°´ å‰›å¥½ åœ¨ æ¨“ä¸‹ çš„ ç»ç’ƒ é‹¼ç“¦ ä¸Š æ™šä¸Š æ¯”è¼ƒ åµ 3 ã€ æ´—æ¾¡æ°´ â€œ å°æ°´ ç„¡åŠ› â€ æ„Ÿè¦º æ›´ åƒ æ˜¯ â€œ è·‘ ã€ å†’ ã€ æ»´ ã€ æ¼ â€ çš„ æ°´é¾é ­ 3 ã€ æ—©é¤ æ¯”è¼ƒ å·® æ—¢ æ²’æœ‰ " åƒé£½ " çš„ å¯¦å¯¦æƒ æƒ  ä¹Ÿ æ²’æœ‰ " åƒå¥½ " çš„ è±å¯Œ å¤šå½© ) 4 ã€ æ¯›å·¾ æ³›é»ƒ 5 ã€ æ•é ­ å¾ˆ å°·å°¬ å…© å€‹ å é«˜ ã€ ä¸€ å€‹ åä½ )
+sentiment words: ['å°·å°¬', 'å·®', 'ç„¡åŠ›', 'ç¼ºé»', 'è±å¯Œ']
+words frequent: [1, 1, 1, 1, 1]
+correpsonding sentiment values: [4.6, 4.6, 3.6, 4.6, 5.6]
+The predicted values is (using Arithmetic Average): 4.6
+sentiment words: ['å°·å°¬', 'å·®', 'ç„¡åŠ›', 'ç¼ºé»', 'è±å¯Œ']
+words frequent: [1, 1, 1, 1, 1]
+correpsonding sentiment values: [4.6, 4.6, 3.6, 4.6, 5.6]
+The predicted values is (using Geometric  Average): 4.55567573894
+The true values is: 4.625
+æ‚¨å¥½ å†æ¬¡ çœ‹åˆ° æ‚¨ çš„ é»è©• å¾ˆ é–‹å¿ƒ æ„Ÿè¬ æ‚¨ å†æ¬¡ é¸æ“‡ åœ‹è³“ å¤§ é…’åº— å…¥ä½ .
+sentiment words: ['æ„Ÿè¬', 'é–‹å¿ƒ']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.6, 6.6]
 The predicted values is (using Arithmetic Average): 6.1
-sentiment words: ['¸ĞÖx', 'é_ĞÄ']
+sentiment words: ['æ„Ÿè¬', 'é–‹å¿ƒ']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.6, 6.6]
 The predicted values is (using Geometric  Average): 6.07947366143
-¾Æµê ·Ç³£ ÖØÒ• Äú Ìá³ö µÄ ŒšÙF ÒâÒŠ ¾Æµê •ş á˜Œ¦ ĞlÉú ég µØ°å »¬ µÄ †–î} ÑĞ¾¿ ½â›Q ·½°¸ .
-sentiment words: ['ŒšÙF', '½â›Q']
+The true values is: 5.625
+é…’åº— éå¸¸ é‡è¦– æ‚¨ æå‡º çš„ å¯¶è²´ æ„è¦‹ é…’åº— æœƒ é‡å° è¡›ç”Ÿ é–“ åœ°æ¿ æ»‘ çš„ å•é¡Œ ç ”ç©¶ è§£æ±º æ–¹æ¡ˆ .
+sentiment words: ['å¯¶è²´', 'è§£æ±º']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.0, 4.8]
 The predicted values is (using Arithmetic Average): 4.9
-sentiment words: ['ŒšÙF', '½â›Q']
+sentiment words: ['å¯¶è²´', 'è§£æ±º']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.0, 4.8]
 The predicted values is (using Geometric  Average): 4.89897948557
-Ï£Íû ÏÂ ´Î Èë×¡ •r Äú ÄÜ ¸ĞÊÜµ½ ÎÒ‚ƒ µÄ ¸ÄßM ! ÎÒ‚ƒ ÆÚ´ı Äú µÄ ÔÙ´Î ¹âÅR ! ×£ ĞÄÇé Êæ•³
-sentiment words: ['Ï£Íû', 'ĞÄÇé', '¸ÄßM']
+The true values is: 4.875
+å¸Œæœ› ä¸‹ æ¬¡ å…¥ä½ æ™‚ æ‚¨ èƒ½ æ„Ÿå—åˆ° æˆ‘å€‘ çš„ æ”¹é€² ! æˆ‘å€‘ æœŸå¾… æ‚¨ çš„ å†æ¬¡ å…‰è‡¨ ! ç¥ å¿ƒæƒ… èˆ’æš¢
+sentiment words: ['å¸Œæœ›', 'å¿ƒæƒ…', 'æ”¹é€²']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.2, 3.6, 4.6]
 The predicted values is (using Arithmetic Average): 4.46666666667
-sentiment words: ['Ï£Íû', 'ĞÄÇé', '¸ÄßM']
+sentiment words: ['å¸Œæœ›', 'å¿ƒæƒ…', 'æ”¹é€²']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.2, 3.6, 4.6]
 The predicted values is (using Geometric  Average): 4.41592028842
-ÉÌ„Õ ég Õf ÊÇ ½o ”y³Ì µÄ Äê½K ƒ»İ ÒâÍâ µØ MÒâ ¡£
-sentiment words: ['ƒ»İ', 'MÒâ']
+The true values is: 3.5
+å•†å‹™ é–“ èªª æ˜¯ çµ¦ æ”œç¨‹ çš„ å¹´çµ‚ å„ªæƒ  æ„å¤– åœ° æ»¿æ„ ã€‚
+sentiment words: ['å„ªæƒ ', 'æ»¿æ„']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.2, 5.6]
 The predicted values is (using Arithmetic Average): 5.9
-sentiment words: ['ƒ»İ', 'MÒâ']
+sentiment words: ['å„ªæƒ ', 'æ»¿æ„']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.2, 5.6]
 The predicted values is (using Geometric  Average): 5.89236794506
-¸ĞÖx Äú Œ¦ ´óßB ãy·« Ùeğ^ µÄ MÒâ ºÍ Ö§³Ö £¡
-sentiment words: ['Œ¦', '¸ĞÖx', 'Ö§³Ö', 'MÒâ']
+The true values is: 6.375
+æ„Ÿè¬ æ‚¨ å° å¤§é€£ éŠ€å¸† è³“é¤¨ çš„ æ»¿æ„ å’Œ æ”¯æŒ ï¼
+sentiment words: ['å°', 'æ„Ÿè¬', 'æ”¯æŒ', 'æ»¿æ„']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [4.8, 5.6, 5.0, 5.6]
 The predicted values is (using Arithmetic Average): 5.25
-sentiment words: ['Œ¦', '¸ĞÖx', 'Ö§³Ö', 'MÒâ']
+sentiment words: ['å°', 'æ„Ÿè¬', 'æ”¯æŒ', 'æ»¿æ„']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [4.8, 5.6, 5.0, 5.6]
 The predicted values is (using Geometric  Average): 5.23777482517
-ÉÌ„Õ ég ÊÇ ±È »ùµA ·¿ĞÍ ºÀÈA ég¸ß ƒÉ ‚€ ¼‰„e µÄ È« ĞÂ·¿ĞÍ Ä¿Ç° ÍÆ³ö Äê½K »Øğ 498 Ôª ÉÌ„Õ ég Éı¼‰ »î„Ó Ï£Íû ´ó¼Ò ¸ü Ï²šg ÎÒ‚ƒ µÄ ĞÂ ·¿ég ¡¢ ĞÂãy·« £¡
-sentiment words: ['Ï²šg', 'Ï£Íû', 'ºÀÈA']
+The true values is: 5.333333333
+å•†å‹™ é–“ æ˜¯ æ¯” åŸºç¤ æˆ¿å‹ è±ªè¯ é–“é«˜ å…© å€‹ ç´šåˆ¥ çš„ å…¨ æ–°æˆ¿å‹ ç›®å‰ æ¨å‡º å¹´çµ‚ å›é¥‹ 498 å…ƒ å•†å‹™ é–“ å‡ç´š æ´»å‹• å¸Œæœ› å¤§å®¶ æ›´ å–œæ­¡ æˆ‘å€‘ çš„ æ–° æˆ¿é–“ ã€ æ–°éŠ€å¸† ï¼
+sentiment words: ['å–œæ­¡', 'å¸Œæœ›', 'è±ªè¯']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.8, 5.2, 5.8]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['Ï²šg', 'Ï£Íû', 'ºÀÈA']
+sentiment words: ['å–œæ­¡', 'å¸Œæœ›', 'è±ªè¯']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.8, 5.2, 5.8]
 The predicted values is (using Geometric  Average): 5.59267750419
-ãy ·« Ùeğ^ šgÓ­ Äú £¡
-sentiment words: ['šgÓ­']
+The true values is: 4.375
+éŠ€ å¸† è³“é¤¨ æ­¡è¿ æ‚¨ ï¼
+sentiment words: ['æ­¡è¿']
+words frequent: [1]
 correpsonding sentiment values: [6.4]
 The predicted values is (using Arithmetic Average): 6.4
-sentiment words: ['šgÓ­']
+sentiment words: ['æ­¡è¿']
+words frequent: [1]
 correpsonding sentiment values: [6.4]
 The predicted values is (using Geometric  Average): 6.4
-Ê×ÏÈ ¾Æµê ÈÎºÎ †T¹¤ Œ¦ ¿ÍÈË ¶¼ ›]ÓĞ ‘ª ÓĞµÄ ×ğÖØ ¿ÍÈË ¿ÉÒÔ ±» Ëû‚ƒ ºô í ºÇ È¥ Æä´Î CHECK-IN ºÍ CHECK-OUT ¶¼ Òª °ë Ğ¡•r ÒÔÉÏ ŠÁÒ BS ˆì`·¼ ºÍ ×ó ÈğÑ© Ğ§ÂÊ µÍÏÂ ‘B¶È °ÁÂı .
-sentiment words: ['°ÁÂı', '×ğÖØ', 'Œ¦', 'ŠÁÒ', 'Ğ§ÂÊ']
+The true values is: 5.625
+é¦–å…ˆ é…’åº— ä»»ä½• å“¡å·¥ å° å®¢äºº éƒ½ æ²’æœ‰ æ‡‰ æœ‰çš„ å°Šé‡ å®¢äºº å¯ä»¥ è¢« ä»–å€‘ å‘¼ ä¾† å‘µ å» å…¶æ¬¡ CHECK-IN å’Œ CHECK-OUT éƒ½ è¦ åŠ å°æ™‚ ä»¥ä¸Š å¼·çƒˆ BS å¼µéˆèŠ³ å’Œ å·¦ ç‘é›ª æ•ˆç‡ ä½ä¸‹ æ…‹åº¦ å‚²æ…¢ .
+sentiment words: ['å‚²æ…¢', 'å°Šé‡', 'å°', 'å¼·çƒˆ', 'æ•ˆç‡']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [6.0, 5.2, 4.8, 7.8, 4.8]
 The predicted values is (using Arithmetic Average): 5.72
-sentiment words: ['°ÁÂı', '×ğÖØ', 'Œ¦', 'ŠÁÒ', 'Ğ§ÂÊ']
+sentiment words: ['å‚²æ…¢', 'å°Šé‡', 'å°', 'å¼·çƒˆ', 'æ•ˆç‡']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [6.0, 5.2, 4.8, 7.8, 4.8]
 The predicted values is (using Geometric  Average): 5.62012964906
-µÚÎå ¾Æµê Ö÷Òª ÃæÏò ˆFê  ²» Ï²šg ÉÌ„Õ ¿ÍÈË ¡£ µÚÁù ·¿ég ¸ôÒô ˜O ²î
-sentiment words: ['Ï²šg', '²î']
+The true values is: 5.333333333
+ç¬¬äº” é…’åº— ä¸»è¦ é¢å‘ åœ˜éšŠ ä¸ å–œæ­¡ å•†å‹™ å®¢äºº ã€‚ ç¬¬å…­ æˆ¿é–“ éš”éŸ³ æ¥µ å·®
+sentiment words: ['å–œæ­¡', 'å·®']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.8, 4.6]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['Ï²šg', '²î']
+sentiment words: ['å–œæ­¡', 'å·®']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.8, 4.6]
 The predicted values is (using Geometric  Average): 5.16526862806
-¸Ğµ½ ÌØ„e °²È« ¡£
-sentiment words: ['°²È«']
+The true values is: 6.714285714
+æ„Ÿåˆ° ç‰¹åˆ¥ å®‰å…¨ ã€‚
+sentiment words: ['å®‰å…¨']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Arithmetic Average): 4.4
-sentiment words: ['°²È«']
+sentiment words: ['å®‰å…¨']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Geometric  Average): 4.4
-±¾ÈË ×¡ µÄ ÊÇ Ö÷˜Ç 28204 ·¿ ¿Í·¿ ·ş„Õ ÈË†T ºÍ Ç° Å_ Ğ¡½ã ¡¢ éTÍ¯ µÄ ‘B¶È ¶¼ Ê®·Ö ºÃ ¡£
-sentiment words: ['ºÃ']
+The true values is: 4.571428571
+æœ¬äºº ä½ çš„ æ˜¯ ä¸»æ¨“ 28204 æˆ¿ å®¢æˆ¿ æœå‹™ äººå“¡ å’Œ å‰ è‡º å°å§ ã€ é–€ç«¥ çš„ æ…‹åº¦ éƒ½ ååˆ† å¥½ ã€‚
+sentiment words: ['å¥½']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['ºÃ']
+sentiment words: ['å¥½']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
-ÃÀÖĞ²»×ã Ö® Ì ÊÇ Ôç²Í Ò»°ã ÓĞ•r ¿ÍÈË ›]ÓĞ ³ÔÍê Ôç²Í²¿ µÄ ·ş„Õ ÈË†T ¾Í ×Ô¼º ×øÏÂí ³Ô ÁË ĞèÒª ¸ÄßM ¡£
-sentiment words: ['¸ÄßM']
+The true values is: 4.857142857
+ç¾ä¸­ä¸è¶³ ä¹‹ è™• æ˜¯ æ—©é¤ ä¸€èˆ¬ æœ‰æ™‚ å®¢äºº æ²’æœ‰ åƒå®Œ æ—©é¤éƒ¨ çš„ æœå‹™ äººå“¡ å°± è‡ªå·± åä¸‹ä¾† åƒ äº† éœ€è¦ æ”¹é€² ã€‚
+sentiment words: ['æ”¹é€²']
+words frequent: [1]
 correpsonding sentiment values: [4.6]
 The predicted values is (using Arithmetic Average): 4.6
-sentiment words: ['¸ÄßM']
+sentiment words: ['æ”¹é€²']
+words frequent: [1]
 correpsonding sentiment values: [4.6]
 The predicted values is (using Geometric  Average): 4.6
-ŒÔÚ ÊÇ Í¥Ôº ÉîÉî ßmºÏ ÓĞ Ü‡ µÄ ÅóÓÑ ×¡ ¡£
-sentiment words: ['ÅóÓÑ', 'ßmºÏ']
+The true values is: 4.857142857
+å¯¦åœ¨ æ˜¯ åº­é™¢ æ·±æ·± é©åˆ æœ‰ è»Š çš„ æœ‹å‹ ä½ ã€‚
+sentiment words: ['æœ‹å‹', 'é©åˆ']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.2, 3.8]
 The predicted values is (using Arithmetic Average): 4.0
-sentiment words: ['ÅóÓÑ', 'ßmºÏ']
+sentiment words: ['æœ‹å‹', 'é©åˆ']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.2, 3.8]
 The predicted values is (using Geometric  Average): 3.99499687109
-µØÌ ·±ÈA ·ş„Õ†T ºÜ ÓÑºÃ ¡£
+The true values is: 5.222222222
+åœ°è™• ç¹è¯ æœå‹™å“¡ å¾ˆ å‹å¥½ ã€‚
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Arithmetic Average): 5
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Geometric  Average): 5
-¸ĞÖx Äú ßx“ñ Èë×¡ Î÷ºş ËÄ ¼¾ ¾Æµê ¡£
-sentiment words: ['¸ĞÖx']
+The true values is: 5.125
+æ„Ÿè¬ æ‚¨ é¸æ“‡ å…¥ä½ è¥¿æ¹– å›› å­£ é…’åº— ã€‚
+sentiment words: ['æ„Ÿè¬']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['¸ĞÖx']
+sentiment words: ['æ„Ÿè¬']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Geometric  Average): 5.6
-Œ¦ Äú ´Ë ´Î Èë×¡ µÄ ²» Óä¿ì ¾Æµê Éî±í Ç¸Òâ Èô Äú Œ¦ ¿Í·¿ ÇåÀí µÄ •rég ÓĞ Ò»¶¨ µÄ ÒªÇó Õˆ “Ü´ò ·¿ég ƒÈ ×ù™C ÉÏ µÄ Ò» æIÍ¨ Ç° Å_ •ş Í¨Öª ¹Ü¼Ò²¿ ¼°•r ½o Äú µÄ ·¿ég ßMĞĞ ´ò’ß ¡£
-sentiment words: ['¼°•r', 'Œ¦']
+The true values is: 4.25
+å° æ‚¨ æ­¤ æ¬¡ å…¥ä½ çš„ ä¸ æ„‰å¿« é…’åº— æ·±è¡¨ æ­‰æ„ è‹¥ æ‚¨ å° å®¢æˆ¿ æ¸…ç† çš„ æ™‚é–“ æœ‰ ä¸€å®š çš„ è¦æ±‚ è«‹ æ’¥æ‰“ æˆ¿é–“ å…§ åº§æ©Ÿ ä¸Š çš„ ä¸€ éµé€š å‰ è‡º æœƒ é€šçŸ¥ ç®¡å®¶éƒ¨ åŠæ™‚ çµ¦ æ‚¨ çš„ æˆ¿é–“ é€²è¡Œ æ‰“æƒ ã€‚
+sentiment words: ['åŠæ™‚', 'å°']
+words frequent: [1, 2]
 correpsonding sentiment values: [5.4, 4.8]
-The predicted values is (using Arithmetic Average): 5.1
-sentiment words: ['¼°•r', 'Œ¦']
+The predicted values is (using Arithmetic Average): 5.0
+sentiment words: ['åŠæ™‚', 'å°']
+words frequent: [1, 2]
 correpsonding sentiment values: [5.4, 4.8]
-The predicted values is (using Geometric  Average): 5.09116882454
-¸ĞÖx Äú µÄ ücÔu K ÆÚ´ı Äú µÄ ÔÙ´Î ¹âÅR £¡
-sentiment words: ['¸ĞÖx']
+The predicted values is (using Geometric  Average): 4.99220117532
+The true values is: 3.428571429
+æ„Ÿè¬ æ‚¨ çš„ é»è©• ä¸¦ æœŸå¾… æ‚¨ çš„ å†æ¬¡ å…‰è‡¨ ï¼
+sentiment words: ['æ„Ÿè¬']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['¸ĞÖx']
+sentiment words: ['æ„Ÿè¬']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Geometric  Average): 5.6
-·¿ég Æ« Ğ¡ Ü›¼ş ‘ªÔ“ ÄÜ ß_µ½ ÈıĞÇ¼‰ µÄ Ë®œÊ Ó² ¼ş ÉÔ ²î ¡£
-sentiment words: ['²î']
+The true values is: 4.777777778
+æˆ¿é–“ å å° è»Ÿä»¶ æ‡‰è©² èƒ½ é”åˆ° ä¸‰æ˜Ÿç´š çš„ æ°´æº– ç¡¬ ä»¶ ç¨ å·® ã€‚
+sentiment words: ['å·®']
+words frequent: [1]
 correpsonding sentiment values: [4.6]
 The predicted values is (using Arithmetic Average): 4.6
-sentiment words: ['²î']
+sentiment words: ['å·®']
+words frequent: [1]
 correpsonding sentiment values: [4.6]
 The predicted values is (using Geometric  Average): 4.6
-¿ÕÕ{ œØ¿Ø ²» ºÃ ±© Ÿá ºÇºÇ ¡£
-sentiment words: ['ºÇºÇ', 'ºÃ']
+The true values is: 3.285714286
+ç©ºèª¿ æº«æ§ ä¸ å¥½ æš´ ç†± å‘µå‘µ ã€‚
+sentiment words: ['å‘µå‘µ', 'å¥½']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.6, 5.2]
 The predicted values is (using Arithmetic Average): 4.9
-sentiment words: ['ºÇºÇ', 'ºÃ']
+sentiment words: ['å‘µå‘µ', 'å¥½']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.6, 5.2]
 The predicted values is (using Geometric  Average): 4.89080770425
-µØÌº ÓĞüc óv ¡£
-sentiment words: ['óv']
+The true values is: 5.111111111
+åœ°æ¯¯ æœ‰é» é«’ ã€‚
+sentiment words: ['é«’']
+words frequent: [1]
 correpsonding sentiment values: [4.6]
 The predicted values is (using Arithmetic Average): 4.6
-sentiment words: ['óv']
+sentiment words: ['é«’']
+words frequent: [1]
 correpsonding sentiment values: [4.6]
 The predicted values is (using Geometric  Average): 4.6
-³öéT ×óŞD 50 Ã× ¾Í ÊÇ µØèFÕ¾ –| ËÄÊ® —l ÉÏ ´ò ‚€ Ü‡ Ò² ·½±ã µØ¶Î ²»åe ¡£
-sentiment words: ['´ò']
+The true values is: 5.142857143
+å‡ºé–€ å·¦è½‰ 50 ç±³ å°± æ˜¯ åœ°éµç«™ æ± å››å æ¢ ä¸Š æ‰“ å€‹ è»Š ä¹Ÿ æ–¹ä¾¿ åœ°æ®µ ä¸éŒ¯ ã€‚
+sentiment words: ['æ‰“']
+words frequent: [1]
 correpsonding sentiment values: [6.6]
 The predicted values is (using Arithmetic Average): 6.6
-sentiment words: ['´ò']
+sentiment words: ['æ‰“']
+words frequent: [1]
 correpsonding sentiment values: [6.6]
 The predicted values is (using Geometric  Average): 6.6
-·¿ég ºÜ Ç¬œQ µÄ ×¡ µÄ ³¯ ÄÏ µÄ ·¿ég Ì«ê– ÕÕßMí ºÜ Êæ·ş ¬FÔÚ ¿ÉÒÔ ÉÏ¾W ÁË ¾W ËÙ Ò² ²»åe µÄ Õf ¡£
-sentiment words: ['Êæ·ş']
+The true values is: 4.571428571
+æˆ¿é–“ å¾ˆ ä¹¾æ·¨ çš„ ä½ çš„ æœ å— çš„ æˆ¿é–“ å¤ªé™½ ç…§é€²ä¾† å¾ˆ èˆ’æœ ç¾åœ¨ å¯ä»¥ ä¸Šç¶² äº† ç¶² é€Ÿ ä¹Ÿ ä¸éŒ¯ çš„ èªª ã€‚
+sentiment words: ['èˆ’æœ']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Arithmetic Average): 3.6
-sentiment words: ['Êæ·ş']
+sentiment words: ['èˆ’æœ']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Geometric  Average): 3.6
-ÔÂ ‰¯±± ½Ö ÉÏ µÄ ×o‡øËÂ Ğ¡³Ô ÎÒ Ò² ÀÏ Ï²šg µÄ ¡£
-sentiment words: ['Ï²šg']
+The true values is: 5.555555556
+æœˆ å£‡åŒ— è¡— ä¸Š çš„ è­·åœ‹å¯º å°åƒ æˆ‘ ä¹Ÿ è€ å–œæ­¡ çš„ ã€‚
+sentiment words: ['å–œæ­¡']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Arithmetic Average): 5.8
-sentiment words: ['Ï²šg']
+sentiment words: ['å–œæ­¡']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Geometric  Average): 5.8
-È±üc üN ¾ÍÊÇ ¸ôÒô ²» ÊÇ ºÜ ºÃ ¡£
-sentiment words: ['ºÃ', 'È±üc']
+The true values is: 4.571428571
+ç¼ºé» éº¼ å°±æ˜¯ éš”éŸ³ ä¸ æ˜¯ å¾ˆ å¥½ ã€‚
+sentiment words: ['å¥½', 'ç¼ºé»']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.6]
 The predicted values is (using Arithmetic Average): 4.9
-sentiment words: ['ºÃ', 'È±üc']
+sentiment words: ['å¥½', 'ç¼ºé»']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.6]
 The predicted values is (using Geometric  Average): 4.89080770425
-Ò» ¼Ò 4ĞÇ¼‰ Ùeğ^ ÔOÊ© ·½Ãæ ŒÔÚ ÊÇ ²» ¸Ò ¹§¾S ¡£
-sentiment words: ['¹§¾S']
+The true values is: 4.428571429
+ä¸€ å®¶ 4æ˜Ÿç´š è³“é¤¨ è¨­æ–½ æ–¹é¢ å¯¦åœ¨ æ˜¯ ä¸ æ•¢ æ­ç¶­ ã€‚
+sentiment words: ['æ­ç¶­']
+words frequent: [1]
 correpsonding sentiment values: [4.6]
 The predicted values is (using Arithmetic Average): 4.6
-sentiment words: ['¹§¾S']
+sentiment words: ['æ­ç¶­']
+words frequent: [1]
 correpsonding sentiment values: [4.6]
 The predicted values is (using Geometric  Average): 4.6
-ÎÒ ×¡ µÄ ÊÇ ˜Ë ég ¿ÉÄÜ ÆäËü ·¿ég •ş ºÃ Ò»üc ¡£
-sentiment words: ['ºÃ']
+The true values is: 5.75
+æˆ‘ ä½ çš„ æ˜¯ æ¨™ é–“ å¯èƒ½ å…¶å®ƒ æˆ¿é–“ æœƒ å¥½ ä¸€é» ã€‚
+sentiment words: ['å¥½']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['ºÃ']
+sentiment words: ['å¥½']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
-µ« ¾Í ß@ Ò»üc ÎÒ Ïë ÎÒ ÒÔáá ÊÇ ²»•ş È¥ ×¡ ÁË ¡£
-sentiment words: ['Ïë']
+The true values is: 4.5
+ä½† å°± é€™ ä¸€é» æˆ‘ æƒ³ æˆ‘ ä»¥å¾Œ æ˜¯ ä¸æœƒ å» ä½ äº† ã€‚
+sentiment words: ['æƒ³']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Arithmetic Average): 3.6
-sentiment words: ['Ïë']
+sentiment words: ['æƒ³']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Geometric  Average): 3.6
-®”È» ºÃ µÄ µØ·½ Ò² ÊÇ ÓĞµÄ ×ÔÖú²Í ß€ ²»åe ƒÈÈİ ±Èİ^ ØS¸» Î¶µÀ Ò² ²»åe ÌØ„e ÊÇ ÄÇ ‚€ Ê²üN Îr ¡£
-sentiment words: ['ºÃ', 'ØS¸»']
+The true values is: 4.333333333
+ç•¶ç„¶ å¥½ çš„ åœ°æ–¹ ä¹Ÿ æ˜¯ æœ‰çš„ è‡ªåŠ©é¤ é‚„ ä¸éŒ¯ å…§å®¹ æ¯”è¼ƒ è±å¯Œ å‘³é“ ä¹Ÿ ä¸éŒ¯ ç‰¹åˆ¥ æ˜¯ é‚£ å€‹ ä»€éº¼ è¦ ã€‚
+sentiment words: ['å¥½', 'è±å¯Œ']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.6]
 The predicted values is (using Arithmetic Average): 5.4
-sentiment words: ['ºÃ', 'ØS¸»']
+sentiment words: ['å¥½', 'è±å¯Œ']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.6]
 The predicted values is (using Geometric  Average): 5.39629502529
-µØÀí Î»ÖÃ £º Õı Œ¦ éL´º »ğÜ‡Õ¾ ƒüc £º ·½±ã ³Ë »ğÜ‡ µÄ ÅóÓÑ È±üc £º ¸ĞÓX ­h¾³ ÓĞüc y Îïƒr İ^ ¸ß µ« ÖÜ‡ú ¸÷ ·N ïˆµê ºÜ¶à ¡£
-sentiment words: ['y', 'ƒüc', 'Œ¦', 'ÅóÓÑ', 'Õı', 'È±üc']
+The true values is: 5.0
+åœ°ç† ä½ç½® ï¼š æ­£ å° é•·æ˜¥ ç«è»Šç«™ å„ªé» ï¼š æ–¹ä¾¿ ä¹˜ ç«è»Š çš„ æœ‹å‹ ç¼ºé» ï¼š æ„Ÿè¦º ç’°å¢ƒ æœ‰é» äº‚ ç‰©åƒ¹ è¼ƒ é«˜ ä½† å‘¨åœ å„ ç¨® é£¯åº— å¾ˆå¤š ã€‚
+sentiment words: ['äº‚', 'å„ªé»', 'å°', 'æœ‹å‹', 'æ­£', 'ç¼ºé»']
+words frequent: [1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.8, 5.0, 4.8, 4.2, 5.0, 4.6]
 The predicted values is (using Arithmetic Average): 4.9
-sentiment words: ['y', 'ƒüc', 'Œ¦', 'ÅóÓÑ', 'Õı', 'È±üc']
+sentiment words: ['äº‚', 'å„ªé»', 'å°', 'æœ‹å‹', 'æ­£', 'ç¼ºé»']
+words frequent: [1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.8, 5.0, 4.8, 4.2, 5.0, 4.6]
 The predicted values is (using Geometric  Average): 4.87643822533
-·¿ég £º ´óĞ¡ Ò»°ã ±»Èì ±Èİ^ Ç¬œQ ëx ñRÂ· ÓĞüc ßh ÍíÉÏ ±Èİ^ °²ìo ¡£
-sentiment words: ['°²ìo']
+The true values is: 4.285714286
+æˆ¿é–“ ï¼š å¤§å° ä¸€èˆ¬ è¢«è¤¥ æ¯”è¼ƒ ä¹¾æ·¨ é›¢ é¦¬è·¯ æœ‰é» é  æ™šä¸Š æ¯”è¼ƒ å®‰éœ ã€‚
+sentiment words: ['å®‰éœ']
+words frequent: [1]
 correpsonding sentiment values: [2.4]
 The predicted values is (using Arithmetic Average): 2.4
-sentiment words: ['°²ìo']
+sentiment words: ['å®‰éœ']
+words frequent: [1]
 correpsonding sentiment values: [2.4]
 The predicted values is (using Geometric  Average): 2.4
-ÎÒ‚ƒ Õı Œ¦ ëŠÌİ ËùÒÔ ëŠÌİ Í£¿¿ ºÍ ÈËÂ• ±Èİ^ àĞës ¡£
-sentiment words: ['Œ¦', 'Õı']
+The true values is: 4.333333333
+æˆ‘å€‘ æ­£ å° é›»æ¢¯ æ‰€ä»¥ é›»æ¢¯ åœé  å’Œ äººè² æ¯”è¼ƒ å˜ˆé›œ ã€‚
+sentiment words: ['å°', 'æ­£']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.0]
 The predicted values is (using Arithmetic Average): 4.9
-sentiment words: ['Œ¦', 'Õı']
+sentiment words: ['å°', 'æ­£']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.0]
 The predicted values is (using Geometric  Average): 4.89897948557
-º¬ ëpÔç ·Nî ±Èİ^ ØS¸» ¡£
-sentiment words: ['ØS¸»']
+The true values is: 3.666666667
+å« é›™æ—© ç¨®é¡ æ¯”è¼ƒ è±å¯Œ ã€‚
+sentiment words: ['è±å¯Œ']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['ØS¸»']
+sentiment words: ['è±å¯Œ']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Geometric  Average): 5.6
-ÊÇ ÎÒ ÔÚ ±±´÷ºÓ ¸½½ü ×¡ ß^ µÄ µÄ ±Èİ^ Êæßm µÄ ïˆµê ÊÇ „PÈR ¹ÜÀí µÄ Ä ·ş„Õ µ½ ÔOÊ© ¶¼ ±Èİ^ ÕıÒ ¡£
-sentiment words: ['Êæßm']
+The true values is: 2.0
+æ˜¯ æˆ‘ åœ¨ åŒ—æˆ´æ²³ é™„è¿‘ ä½ é çš„ çš„ æ¯”è¼ƒ èˆ’é© çš„ é£¯åº— æ˜¯ å‡±èŠ ç®¡ç† çš„ å¾ æœå‹™ åˆ° è¨­æ–½ éƒ½ æ¯”è¼ƒ æ­£è¦ ã€‚
+sentiment words: ['èˆ’é©']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Arithmetic Average): 3.6
-sentiment words: ['Êæßm']
+sentiment words: ['èˆ’é©']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Geometric  Average): 3.6
-·¿ég ÓĞüc Åf ÁË µ« ß€ Ëã Õû Ë® ÓĞüc üS ½¨×h ¶à § üc Æ¿ÑbË® ï‹ÓÃ ­h¾³ ²»åe ¡£
-sentiment words: ['Õû']
+The true values is: 5.0
+æˆ¿é–“ æœ‰é» èˆŠ äº† ä½† é‚„ ç®— æ•´æ½” æ°´ æœ‰é» é»ƒ å»ºè­° å¤š å¸¶ é» ç“¶è£æ°´ é£²ç”¨ ç’°å¢ƒ ä¸éŒ¯ ã€‚
+sentiment words: ['æ•´æ½”']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Arithmetic Average): 4.2
-sentiment words: ['Õû']
+sentiment words: ['æ•´æ½”']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Geometric  Average): 4.2
-·ş„Õ Ò² ²»åe Ğ§ÂÊ ºÜ ¸ß ¡£
-sentiment words: ['Ğ§ÂÊ']
+The true values is: 3.0
+æœå‹™ ä¹Ÿ ä¸éŒ¯ æ•ˆç‡ å¾ˆ é«˜ ã€‚
+sentiment words: ['æ•ˆç‡']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['Ğ§ÂÊ']
+sentiment words: ['æ•ˆç‡']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Geometric  Average): 4.8
-Ğ¡ŒšŒš ‚ƒ œÊ‚ä ÁË ËÜÁÏ µÄ ²Í¾ß ºÜ ÖÜµ½ ¡£
-sentiment words: ['ÖÜµ½']
+The true values is: 6.285714286
+å°å¯¶å¯¶ å€‘ æº–å‚™ äº† å¡‘æ–™ çš„ é¤å…· å¾ˆ å‘¨åˆ° ã€‚
+sentiment words: ['å‘¨åˆ°']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Arithmetic Average): 4.4
-sentiment words: ['ÖÜµ½']
+sentiment words: ['å‘¨åˆ°']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Geometric  Average): 4.4
-Î»ÖÃ ß€ ±Èİ^ ºÃ ÕÒ ½»Í¨ ¡¢ ŠÊ˜· ¡¢ ÙÎï ¶¼ ±Èİ^ ·½±ã ·ş„Õ Ò»°ã»¯ ßM éT ¶¼ ›] ÈË Àí ·¿ég Ì« Ğ¡ ÁË ¸ôÒô ºÜ ²î Ôç²Í Æ··N Ì«ÉÙ ÓÖ ²» ºÃ³Ô Åªóv ÁË Ò» ‰K Ğ¡ Ã«½í ÓÖ ²» ÊÇ Ï´ ²» µô ¾Í ×Œ ÎÒ Åã 10 ‰K åX ·¿ ÙM ÒÑ½› îA¸¶ ÁË ½Y¤ •r Ö» ĞèÒª ÍË ÎÒ Ñº½ğ ¾Í ºÃÁË ½Y¹û µÈ ÁË Œ¢½ü °ë ‚€ Ğ¡•r Ç° Å_ ¾Í Ò» ‚€ÈË Œ¦ ß@ ‚€ ¾Æµê ºÜ Ê§Íû £¡
-sentiment words: ['Ê§Íû', 'ºÃ', 'ŠÊ˜·', 'Œ¦', '²î']
+The true values is: 4.25
+ä½ç½® é‚„ æ¯”è¼ƒ å¥½ æ‰¾ äº¤é€š ã€ å¨›æ¨‚ ã€ è³¼ç‰© éƒ½ æ¯”è¼ƒ æ–¹ä¾¿ æœå‹™ ä¸€èˆ¬åŒ– é€² é–€ éƒ½ æ²’ äºº ç† æˆ¿é–“ å¤ª å° äº† éš”éŸ³ å¾ˆ å·® æ—©é¤ å“ç¨® å¤ªå°‘ åˆ ä¸ å¥½åƒ å¼„é«’ äº† ä¸€ å¡Š å° æ¯›å·¾ åˆ ä¸ æ˜¯ æ´— ä¸ æ‰ å°± è®“ æˆ‘ é™ª 10 å¡Š éŒ¢ æˆ¿ è²» å·²ç¶“ é ä»˜ äº† çµå¸³ æ™‚ åª éœ€è¦ é€€ æˆ‘ æŠ¼é‡‘ å°± å¥½äº† çµæœ ç­‰ äº† å°‡è¿‘ åŠ å€‹ å°æ™‚ å‰ è‡º å°± ä¸€ å€‹äºº å° é€™ å€‹ é…’åº— å¾ˆ å¤±æœ› ï¼
+sentiment words: ['å¤±æœ›', 'å¥½', 'å¨›æ¨‚', 'å°', 'å·®']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.6, 5.2, 6.2, 4.8, 4.6]
 The predicted values is (using Arithmetic Average): 5.28
-sentiment words: ['Ê§Íû', 'ºÃ', 'ŠÊ˜·', 'Œ¦', '²î']
+sentiment words: ['å¤±æœ›', 'å¥½', 'å¨›æ¨‚', 'å°', 'å·®']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.6, 5.2, 6.2, 4.8, 4.6]
 The predicted values is (using Geometric  Average): 5.24948169705
-ÒÔ ±¾ÈË ÓŞÒŠ ß@ ‚€ ïˆµê ŒÔÚ ÊÇ ›] Ê²üN ÖµµÃ ·QµÀ µÄ µØ·½ ÉõÖÁ Ïë ÕÒ Ò» Ì ·ÅÖÃ ÊÖÌá ëŠÄX µÄ µØ·½ ¶¼ ºÜ À§ëy £¡
-sentiment words: ['ÖµµÃ', 'Ïë']
+The true values is: 4.666666667
+ä»¥ æœ¬äºº æ„šè¦‹ é€™ å€‹ é£¯åº— å¯¦åœ¨ æ˜¯ æ²’ ä»€éº¼ å€¼å¾— ç¨±é“ çš„ åœ°æ–¹ ç”šè‡³ æƒ³ æ‰¾ ä¸€ è™• æ”¾ç½® æ‰‹æ é›»è…¦ çš„ åœ°æ–¹ éƒ½ å¾ˆ å›°é›£ ï¼
+sentiment words: ['å€¼å¾—', 'æƒ³']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.6, 3.6]
 The predicted values is (using Arithmetic Average): 4.6
-sentiment words: ['ÖµµÃ', 'Ïë']
+sentiment words: ['å€¼å¾—', 'æƒ³']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.6, 3.6]
 The predicted values is (using Geometric  Average): 4.48998886413
-Ôç²Í †á £¿ „e Õf ¿É¿Ú ºÍ Æ··N ¶à˜Ó ÁË ²» ÕFˆ µØ Õf ßB Ìîï– ¶Ç×Ó ¶¼ ³É †–î} ²»ĞĞ Äã ¾Í È¥ Ô‡Ô‡ £¡
-sentiment words: ['¿É¿Ú']
+The true values is: 5.777777778
+æ—©é¤ å— ï¼Ÿ åˆ¥ èªª å¯å£ å’Œ å“ç¨® å¤šæ¨£ äº† ä¸ èª‡å¼µ åœ° èªª é€£ å¡«é£½ è‚šå­ éƒ½ æˆ å•é¡Œ ä¸è¡Œ ä½  å°± å» è©¦è©¦ ï¼
+sentiment words: ['å¯å£']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Arithmetic Average): 5.8
-sentiment words: ['¿É¿Ú']
+sentiment words: ['å¯å£']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Geometric  Average): 5.8
-Ïó ÆäËû ÔuÓÑ Öv µÄ yÆß°ËÔã µÄ ëŠÔ’ ½ÓßB²»”à ×Œ Äã ²» µÃ°² Éú ¿ÉÅÂ £¡
-sentiment words: ['¿ÉÅÂ']
+The true values is: 6.857142857
+è±¡ å…¶ä»– è©•å‹ è¬› çš„ äº‚ä¸ƒå…«ç³Ÿ çš„ é›»è©± æ¥é€£ä¸æ–· è®“ ä½  ä¸ å¾—å®‰ ç”Ÿ å¯æ€• ï¼
+sentiment words: ['å¯æ€•']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Arithmetic Average): 6.8
-sentiment words: ['¿ÉÅÂ']
+sentiment words: ['å¯æ€•']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Geometric  Average): 6.8
-¿ÕÕ{ µÄ œØ¶È Õ{¹Æ÷ ºÜ Ôã¸â ¸ã¶® Ô“ ÔõüN Õ{ •şÙM Äã ÔS¶à •rég ²» ĞÅ ¿ÉÒÔ È¥ Ô‡Ô‡ ¹ş¹ş ¹ş¹ş ¹ş¹ş ¡£
-sentiment words: ['¹ş¹ş', 'Ôã¸â']
+The true values is: 5.5
+ç©ºèª¿ çš„ æº«åº¦ èª¿ç¯€å™¨ å¾ˆ ç³Ÿç³• ææ‡‚ è©² æ€éº¼ èª¿ æœƒè²» ä½  è¨±å¤š æ™‚é–“ ä¸ ä¿¡ å¯ä»¥ å» è©¦è©¦ å“ˆå“ˆ å“ˆå“ˆ å“ˆå“ˆ ã€‚
+sentiment words: ['å“ˆå“ˆ', 'ç³Ÿç³•']
+words frequent: [3, 1]
 correpsonding sentiment values: [6.0, 5.2]
-The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['¹ş¹ş', 'Ôã¸â']
+The predicted values is (using Arithmetic Average): 5.8
+sentiment words: ['å“ˆå“ˆ', 'ç³Ÿç³•']
+words frequent: [3, 1]
 correpsonding sentiment values: [6.0, 5.2]
-The predicted values is (using Geometric  Average): 5.58569601751
-ÆÙ²¼ º® ¡­¡­ Äí ›] ÒŠ ß^ ß@üN ·½±ã µÄ ÒªÊÇ Ğ¡Íµ ¹ş¹ş ¿Ï¶¨ Ğ¦ËÀ ÁË ¡£
-sentiment words: ['¹ş¹ş', 'Ğ¡Íµ', 'Ğ¦ËÀ', '¿Ï¶¨']
+The predicted values is (using Geometric  Average): 5.78914295082
+The true values is: 5.111111111
+ç€‘å¸ƒ å¯’ â€¦â€¦ å¾ä¾† æ²’ è¦‹ é é€™éº¼ æ–¹ä¾¿ çš„ è¦æ˜¯ å°å· å“ˆå“ˆ è‚¯å®š ç¬‘æ­» äº† ã€‚
+sentiment words: ['å“ˆå“ˆ', 'å°å·', 'ç¬‘æ­»', 'è‚¯å®š']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [6.0, 5.6, 7.0, 6.0]
 The predicted values is (using Arithmetic Average): 6.15
-sentiment words: ['¹ş¹ş', 'Ğ¡Íµ', 'Ğ¦ËÀ', '¿Ï¶¨']
+sentiment words: ['å“ˆå“ˆ', 'å°å·', 'ç¬‘æ­»', 'è‚¯å®š']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [6.0, 5.6, 7.0, 6.0]
 The predicted values is (using Geometric  Average): 6.12910613564
-ínÈÕ ÂÃß[ˆF ×¡ ß@Ñe µÄ ºÜ¶à Ç° Å_ ·ş„Õ Àäµ­ ¡£
-sentiment words: ['Àäµ­']
+The true values is: 5.666666667
+éŸ“æ—¥ æ—…éŠåœ˜ ä½ é€™è£¡ çš„ å¾ˆå¤š å‰ è‡º æœå‹™ å†·æ·¡ ã€‚
+sentiment words: ['å†·æ·¡']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Arithmetic Average): 3.6
-sentiment words: ['Àäµ­']
+sentiment words: ['å†·æ·¡']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Geometric  Average): 3.6
-ƒÉ ‚€ÈË ×¡ ˜ËœÊ ég Ö» ½o Ò» ˆ ·¿¿¨ ß€ ºÜ Ìôá… µÄ ¿´ ÎÒ ¡£
-sentiment words: ['Ìôá…']
+The true values is: 4.0
+å…© å€‹äºº ä½ æ¨™æº– é–“ åª çµ¦ ä¸€ å¼µ æˆ¿å¡ é‚„ å¾ˆ æŒ‘é‡ çš„ çœ‹ æˆ‘ ã€‚
+sentiment words: ['æŒ‘é‡']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Arithmetic Average): 6.8
-sentiment words: ['Ìôá…']
+sentiment words: ['æŒ‘é‡']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Geometric  Average): 6.8
-¾Æµê á˜Œ¦ ¿ÍÈË Ìá³ö µÄ †–î} ¬FÒÑ ÕJÕæ Õû¸Ä Ï£Íû Ã¿ Ò» Î» Èë×¡ ²³º£ Ã÷Öé ¾Æµê µÄ Äú ¶¼ ÄÜ ¸ßÅd Èë×¡ MÒâ ¶ø šw ¡£
-sentiment words: ['Ï£Íû', 'MÒâ', 'ÕJÕæ', '¸ßÅd']
+The true values is: 5.375
+é…’åº— é‡å° å®¢äºº æå‡º çš„ å•é¡Œ ç¾å·² èªçœŸ æ•´æ”¹ å¸Œæœ› æ¯ ä¸€ ä½ å…¥ä½ æ¸¤æµ· æ˜ç  é…’åº— çš„ æ‚¨ éƒ½ èƒ½ é«˜èˆˆ å…¥ä½ æ»¿æ„ è€Œ æ­¸ ã€‚
+sentiment words: ['å¸Œæœ›', 'æ»¿æ„', 'èªçœŸ', 'é«˜èˆˆ']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 5.6, 5.0, 6.6]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['Ï£Íû', 'MÒâ', 'ÕJÕæ', '¸ßÅd']
+sentiment words: ['å¸Œæœ›', 'æ»¿æ„', 'èªçœŸ', 'é«˜èˆˆ']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 5.6, 5.0, 6.6]
 The predicted values is (using Geometric  Average): 5.56770642473
-­h¾³ ·Ç³£ ·Ç³£ ºÃ Í¥ÔºÊ½ Ğ¡ — „eÊû ëmÈ» Õf ¾Æµê ÄêÏŞ ºÜ ¾Ã ÁË “şÕf 92 Äê ¾Í ÓĞ ÁË ·¿ég ÂÔ Ğ¡ µ«ÊÇ ·ş„Õ ¡¢ ­h¾³ ¶¼ ½^¼Ñ ŠÁÒ ÍÆË] ½^Œ¦ °²ìo ¡£
-sentiment words: ['ºÃ', '°²ìo', 'ŠÁÒ']
+The true values is: 5.125
+ç’°å¢ƒ éå¸¸ éå¸¸ å¥½ åº­é™¢å¼ å° æ£Ÿ åˆ¥å¢… é›–ç„¶ èªª é…’åº— å¹´é™ å¾ˆ ä¹… äº† æ“šèªª 92 å¹´ å°± æœ‰ äº† æˆ¿é–“ ç•¥ å° ä½†æ˜¯ æœå‹™ ã€ ç’°å¢ƒ éƒ½ çµ•ä½³ å¼·çƒˆ æ¨è–¦ çµ•å° å®‰éœ ã€‚
+sentiment words: ['å¥½', 'å®‰éœ', 'å¼·çƒˆ']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.2, 2.4, 7.8]
 The predicted values is (using Arithmetic Average): 5.13333333333
-sentiment words: ['ºÃ', '°²ìo', 'ŠÁÒ']
+sentiment words: ['å¥½', 'å®‰éœ', 'å¼·çƒˆ']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.2, 2.4, 7.8]
 The predicted values is (using Geometric  Average): 4.60012602049
-Î¨Ò» ²» ºÃ µÄ ÊÇ ëŠÒ• ×îÔç µÄ ÄÇ ·N 21 ´ç ²ÊëŠ ¿ÉÄÜ ÎÒ ×¡ µÄ ·¿ég ›] ³ö †–î} ÅóÓÑ µÄ ·¿ég ßMÈ¥ ëŠÒ• ²»ÄÜ é_ ÕÒ ·ş„Õ†T ·ş„Õ†T ºÜ ¿ì ¸ã¶¨ ¡£
-sentiment words: ['ºÃ', 'ÅóÓÑ']
+The true values is: 6.166666667
+å”¯ä¸€ ä¸ å¥½ çš„ æ˜¯ é›»è¦– æœ€æ—© çš„ é‚£ ç¨® 21 å¯¸ å½©é›» å¯èƒ½ æˆ‘ ä½ çš„ æˆ¿é–“ æ²’ å‡º å•é¡Œ æœ‹å‹ çš„ æˆ¿é–“ é€²å» é›»è¦– ä¸èƒ½ é–‹ æ‰¾ æœå‹™å“¡ æœå‹™å“¡ å¾ˆ å¿« æå®š ã€‚
+sentiment words: ['å¥½', 'æœ‹å‹']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.2]
 The predicted values is (using Arithmetic Average): 4.7
-sentiment words: ['ºÃ', 'ÅóÓÑ']
+sentiment words: ['å¥½', 'æœ‹å‹']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.2]
 The predicted values is (using Geometric  Average): 4.67332857822
-¿‚ów ²»åe µÄ ¾Æµê ˜ÇÓî ½Y˜‹ ÓĞüc ¹Ö ¡£
-sentiment words: ['¹Ö']
+The true values is: 3.571428571
+ç¸½é«” ä¸éŒ¯ çš„ é…’åº— æ¨“å®‡ çµæ§‹ æœ‰é» æ€ª ã€‚
+sentiment words: ['æ€ª']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['¹Ö']
+sentiment words: ['æ€ª']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Geometric  Average): 4.8
-”y ³Ì Ó††Î ÏÂ ÁË ¿ÉÊÇ ¾Æµê ƒÈ²¿ …fÕ{ Âı µÖß_ áá µÈ ÁË ºÜ ¾Ã Àu ÄÃµ½ Ç° Å_ £» Ç° Å_ ÄĞ ·ş„Õ†T ºÜ ²î êê–¹Öšâ µÄ ¡£
-sentiment words: ['²î', 'Âı']
+The true values is: 3.875
+æ”œ ç¨‹ è¨‚å–® ä¸‹ äº† å¯æ˜¯ é…’åº— å…§éƒ¨ å”èª¿ æ…¢ æŠµé” å¾Œ ç­‰ äº† å¾ˆ ä¹… çº” æ‹¿åˆ° å‰ è‡º ï¼› å‰ è‡º ç”· æœå‹™å“¡ å¾ˆ å·® é™°é™½æ€ªæ°£ çš„ ã€‚
+sentiment words: ['å·®', 'æ…¢']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.6, 2.8]
 The predicted values is (using Arithmetic Average): 3.7
-sentiment words: ['²î', 'Âı']
+sentiment words: ['å·®', 'æ…¢']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.6, 2.8]
 The predicted values is (using Geometric  Average): 3.58887168899
-Ôç²Í ÉĞºÃ ÃãŠ ß^êP ±È Èı † Ï² í µÇ ²î ÁË n ±¶ ®”È» ƒr¸ñ ²î ›] ²î ÄÇüN¶à ¡£
-sentiment words: ['ÃãŠ', '²î']
+The true values is: 5.777777778
+æ—©é¤ å°šå¥½ å‹‰å¼· éé—œ æ¯” ä¸‰ äº å–œ ä¾† ç™» å·® äº† n å€ ç•¶ç„¶ åƒ¹æ ¼ å·® æ²’ å·® é‚£éº¼å¤š ã€‚
+sentiment words: ['å‹‰å¼·', 'å·®']
+words frequent: [1, 3]
 correpsonding sentiment values: [5.0, 4.6]
-The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['ÃãŠ', '²î']
+The predicted values is (using Arithmetic Average): 4.7
+sentiment words: ['å‹‰å¼·', 'å·®']
+words frequent: [1, 3]
 correpsonding sentiment values: [5.0, 4.6]
-The predicted values is (using Geometric  Average): 4.79583152331
-ÎÒ ×¡ µÄ ÊÇ ÌØÉ« ´ó·¿ ºÜ ºÃ ÒÔáá È¥ ¸£Öİ Ò»¶¨ ß€ í ×¡ ß@ ‚€ ¡£
-sentiment words: ['ºÃ']
+The predicted values is (using Geometric  Average): 4.69689525189
+The true values is: 5.0
+æˆ‘ ä½ çš„ æ˜¯ ç‰¹è‰² å¤§æˆ¿ å¾ˆ å¥½ ä»¥å¾Œ å» ç¦å· ä¸€å®š é‚„ ä¾† ä½ é€™ å€‹ ã€‚
+sentiment words: ['å¥½']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['ºÃ']
+sentiment words: ['å¥½']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
-ºÜ Êæ·ş ºÜ Œ’³¨ ÃâÙM 3 Ğ¡•r ‡øƒÈ éLÍ¾ ëŠÄX ÃâÙM ÉÏ¾W ¶øÇÒ ß[‘ò ıRÈ« ËÙ¶È ºÜ ¿ì ¡£
-sentiment words: ['ÃâÙM', 'Êæ·ş', 'ß[‘ò']
+The true values is: 5.555555556
+å¾ˆ èˆ’æœ å¾ˆ å¯¬æ• å…è²» 3 å°æ™‚ åœ‹å…§ é•·é€” é›»è…¦ å…è²» ä¸Šç¶² è€Œä¸” éŠæˆ² é½Šå…¨ é€Ÿåº¦ å¾ˆ å¿« ã€‚
+sentiment words: ['å…è²»', 'èˆ’æœ', 'éŠæˆ²']
+words frequent: [2, 1, 1]
 correpsonding sentiment values: [4.8, 3.6, 4.8]
-The predicted values is (using Arithmetic Average): 4.4
-sentiment words: ['ÃâÙM', 'Êæ·ş', 'ß[‘ò']
+The predicted values is (using Arithmetic Average): 4.5
+sentiment words: ['å…è²»', 'èˆ’æœ', 'éŠæˆ²']
+words frequent: [2, 1, 1]
 correpsonding sentiment values: [4.8, 3.6, 4.8]
-The predicted values is (using Geometric  Average): 4.3610894228
-¾Æµê ·ş„Õ ²» Ì« ºÃ ¿§·Èd µÄ ²Íï‹ ·Ç³£ ²è Æ··N ÉÙ ˜ÓÊ½ ÀÏ ¾Æµê ¸ôÒô Ğ§¹û ·Ç³£ ²» ºÃ .
-sentiment words: ['ºÃ']
+The predicted values is (using Geometric  Average): 4.46690332369
+The true values is: 5.5
+é…’åº— æœå‹™ ä¸ å¤ª å¥½ å’–å•¡å»³ çš„ é¤é£² éå¸¸ èŒ¶ å“ç¨® å°‘ æ¨£å¼ è€ é…’åº— éš”éŸ³ æ•ˆæœ éå¸¸ ä¸ å¥½ .
+sentiment words: ['å¥½']
+words frequent: [2]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['ºÃ']
+sentiment words: ['å¥½']
+words frequent: [2]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
-µÚÒ» Ìì ×¡ µÄ ·¿ég ¸ô±Ú ÈË ÕfÔ’ ºÃ Ïó ¾Í ÔÚ ·¿ég ÖĞ “Q ·¿ áá ÔÚ ×ßÀÈ ÉÏ µÄ ÕfÔ’ Â  µÄ ·Ç³£ Çå³ş .
-sentiment words: ['ºÃ', 'Çå³ş']
+The true values is: 6.285714286
+ç¬¬ä¸€ å¤© ä½ çš„ æˆ¿é–“ éš”å£ äºº èªªè©± å¥½ è±¡ å°± åœ¨ æˆ¿é–“ ä¸­ æ› æˆ¿ å¾Œ åœ¨ èµ°å»Š ä¸Š çš„ èªªè©± è½ çš„ éå¸¸ æ¸…æ¥š .
+sentiment words: ['å¥½', 'æ¸…æ¥š']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 3.8]
 The predicted values is (using Arithmetic Average): 4.5
-sentiment words: ['ºÃ', 'Çå³ş']
+sentiment words: ['å¥½', 'æ¸…æ¥š']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 3.8]
 The predicted values is (using Geometric  Average): 4.44522215418
-”y ³Ç ƒr¸ñ ÊÇ 620 NET ²» º¬ Ôç ÎÒ ÅóÓÑ Í¨ß^ ÂÃĞĞÉç ÊÇ 610 º¬Ôç ËùÖ^ µÄ 500 Ôª Ö»ÊÇ µÚÒ» Ìì µÄ ƒr¸ñ ºÜ ÓĞ ÆÛò_ ĞÔ .
-sentiment words: ['ÅóÓÑ']
+The true values is: 4.0
+æ”œ åŸ åƒ¹æ ¼ æ˜¯ 620 NET ä¸ å« æ—© æˆ‘ æœ‹å‹ é€šé æ—…è¡Œç¤¾ æ˜¯ 610 å«æ—© æ‰€è¬‚ çš„ 500 å…ƒ åªæ˜¯ ç¬¬ä¸€ å¤© çš„ åƒ¹æ ¼ å¾ˆ æœ‰ æ¬ºé¨™ æ€§ .
+sentiment words: ['æœ‹å‹']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Arithmetic Average): 4.2
-sentiment words: ['ÅóÓÑ']
+sentiment words: ['æœ‹å‹']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Geometric  Average): 4.2
-ÓĞ ÄÇüN¶à ÅóÓÑ ücÔu èÊ¯ ¹«Ô¢ ²»·Á ÔÙ Öv ƒÉ ¾ä ¡£
-sentiment words: ['ÅóÓÑ']
+The true values is: 5.375
+æœ‰ é‚£éº¼å¤š æœ‹å‹ é»è©• é‘½çŸ³ å…¬å¯“ ä¸å¦¨ å† è¬› å…© å¥ ã€‚
+sentiment words: ['æœ‹å‹']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Arithmetic Average): 4.2
-sentiment words: ['ÅóÓÑ']
+sentiment words: ['æœ‹å‹']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Geometric  Average): 4.2
-ÒÔÇ° ÓĞ ‡øÍâ ÅóÓÑ í ÉÏº£ Ò»Ö± ±Èİ^ ÍÆË] èÊ¯ Ëû‚ƒ Ò² ±Èİ^ MÒâ ¡£
-sentiment words: ['ÅóÓÑ', 'MÒâ']
+The true values is: 5.125
+ä»¥å‰ æœ‰ åœ‹å¤– æœ‹å‹ ä¾† ä¸Šæµ· ä¸€ç›´ æ¯”è¼ƒ æ¨è–¦ é‘½çŸ³ ä»–å€‘ ä¹Ÿ æ¯”è¼ƒ æ»¿æ„ ã€‚
+sentiment words: ['æœ‹å‹', 'æ»¿æ„']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.2, 5.6]
 The predicted values is (using Arithmetic Average): 4.9
-sentiment words: ['ÅóÓÑ', 'MÒâ']
+sentiment words: ['æœ‹å‹', 'æ»¿æ„']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.2, 5.6]
 The predicted values is (using Geometric  Average): 4.84974226119
-µ« ß@ ´Î 7ÔÂ ÉÏÑ® µÄ Èë×¡ ĞÂ ÍÆ³ö µÄ ÌØƒr ëpÈË·¿ ÅóÓÑ ·´Ó³ ·¿ég ±È ÒÔÇ° Ğ¡ ¶à ÁË ¿‚ów ±È ÒÔÇ° µÄ µÄ Ì×·¿ ²î¶àÁË ¡£
-sentiment words: ['ÅóÓÑ']
+The true values is: 5.625
+ä½† é€™ æ¬¡ 7æœˆ ä¸Šæ—¬ çš„ å…¥ä½ æ–° æ¨å‡º çš„ ç‰¹åƒ¹ é›™äººæˆ¿ æœ‹å‹ åæ˜  æˆ¿é–“ æ¯” ä»¥å‰ å° å¤š äº† ç¸½é«” æ¯” ä»¥å‰ çš„ çš„ å¥—æˆ¿ å·®å¤šäº† ã€‚
+sentiment words: ['æœ‹å‹']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Arithmetic Average): 4.2
-sentiment words: ['ÅóÓÑ']
+sentiment words: ['æœ‹å‹']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Geometric  Average): 4.2
-·ş„ÕÉú ºÜ ÖÜµ½ ”y ³Ì ºÍ ¾Æµê µÄ ºÏ×÷ ‘ªÔ“ ºÜ ºÃ ÓĞ Ë®¹û ËÍ ÓÖ ¿ÉÒÔ ÃâÙM Ï´ C 2 ¼ş ÒÂ·ş ¶øÇÒ ËÙ¶È ºÜ ¿ì ÎÒ‚ƒ È¥ µÄ •rºò ÓĞ ÈË é_•ş ¹ÀÓ‹ × ÁË ºÜ¶à ·¿ég ›]ÓĞ Ïà‘ª µÄ ·¿ég ÁË ¾Æµê ÃâÙM ½o ÎÒ‚ƒ Éı¼‰ Èë ×¡ ÉÌ„Õ·¿ ¡£
-sentiment words: ['ÃâÙM', 'ÖÜµ½', 'ºÃ']
+The true values is: 5.285714286
+æœå‹™ç”Ÿ å¾ˆ å‘¨åˆ° æ”œ ç¨‹ å’Œ é…’åº— çš„ åˆä½œ æ‡‰è©² å¾ˆ å¥½ æœ‰ æ°´æœ é€ åˆ å¯ä»¥ å…è²» æ´—ç‡™ 2 ä»¶ è¡£æœ è€Œä¸” é€Ÿåº¦ å¾ˆ å¿« æˆ‘å€‘ å» çš„ æ™‚å€™ æœ‰ äºº é–‹æœƒ ä¼°è¨ˆ ä½” äº† å¾ˆå¤š æˆ¿é–“ æ²’æœ‰ ç›¸æ‡‰ çš„ æˆ¿é–“ äº† é…’åº— å…è²» çµ¦ æˆ‘å€‘ å‡ç´š å…¥ ä½ å•†å‹™æˆ¿ ã€‚
+sentiment words: ['å…è²»', 'å‘¨åˆ°', 'å¥½']
+words frequent: [2, 1, 1]
 correpsonding sentiment values: [4.8, 4.4, 5.2]
 The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['ÃâÙM', 'ÖÜµ½', 'ºÃ']
+sentiment words: ['å…è²»', 'å‘¨åˆ°', 'å¥½']
+words frequent: [2, 1, 1]
 correpsonding sentiment values: [4.8, 4.4, 5.2]
-The predicted values is (using Geometric  Average): 4.78886306903
-ß€ ÓĞ ¾ÍÊÇ ÖÜ‡ú ›] Ê²üN ÉÌˆö ÍíÉÏ ³ÔÍê ïˆ Ïë ÏÂÈ¥ ×ß×ß ÖÜ‡ú È« ÊÇ Ùu İÎ¾Æ µÄ ëy¹Ö àÖİ ¿Õšâ ÄÇüN ²î ¡­¡­ ÆäğN ¶¼ ºÜ ºÃ ¡£
-sentiment words: ['ºÃ', '²î', 'Ïë']
+The predicted values is (using Geometric  Average): 4.79164487695
+The true values is: 5.555555556
+é‚„ æœ‰ å°±æ˜¯ å‘¨åœ æ²’ ä»€éº¼ å•†å ´ æ™šä¸Š åƒå®Œ é£¯ æƒ³ ä¸‹å» èµ°èµ° å‘¨åœ å…¨ æ˜¯ è³£ è¸é…’ çš„ é›£æ€ª é„­å· ç©ºæ°£ é‚£éº¼ å·® â€¦â€¦ å…¶é¤˜ éƒ½ å¾ˆ å¥½ ã€‚
+sentiment words: ['å¥½', 'å·®', 'æƒ³']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.2, 4.6, 3.6]
 The predicted values is (using Arithmetic Average): 4.46666666667
-sentiment words: ['ºÃ', '²î', 'Ïë']
+sentiment words: ['å¥½', 'å·®', 'æƒ³']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.2, 4.6, 3.6]
 The predicted values is (using Geometric  Average): 4.41592028842
-ÎÒ ÊÇ ³ö²î ÔÚ cê– ±¾í ÎÒ ÒÔÇ° ÒÑ½› ÙI ß^ Ò» ‚€ ß@ ´Î µÄ ±¾±¾ ÊÇ Í ÅóÓÑ ÙI µÄ ±È Ô­í µÄ ĞÔÄÜ ºÍ ÅäÖÃ ÓĞËù Ìá¸ß µ«ÊÇ ƒråX ·´µ¹ ½µÏÂí ÁË Ìá¸ß µÄ µØ·½ Ö÷Òª ÓĞ ƒÉ Ì £º Ò» ¡¢ N 270 Ìá¸ßµ½ N 280 Áù Ğ¾ ä‡ ëŠ µÄ ÈİÁ¿ Ä 4400 ºÁ °² Ìá¸ßµ½ ÁË 5200 ºÁ °² ºÜ ÖµµÃ ÙÙI ÎÒ ÓÃ ÁË ƒÉ ‚€ ÔÂ ˜Ó˜Ó ¹¦ÄÜ ¶¼ ºÜ ºÃ £¡
-sentiment words: ['ÖµµÃ', 'ºÃ', 'ÅóÓÑ']
+The true values is: 5.0
+æˆ‘ æ˜¯ å‡ºå·® åœ¨ ç€‹é™½ æœ¬ä¾† æˆ‘ ä»¥å‰ å·²ç¶“ è²· é ä¸€ å€‹ é€™ æ¬¡ çš„ æœ¬æœ¬ æ˜¯ å¹« æœ‹å‹ è²· çš„ æ¯” åŸä¾† çš„ æ€§èƒ½ å’Œ é…ç½® æœ‰æ‰€ æé«˜ ä½†æ˜¯ åƒ¹éŒ¢ åå€’ é™ä¸‹ä¾† äº† æé«˜ çš„ åœ°æ–¹ ä¸»è¦ æœ‰ å…© è™• ï¼š ä¸€ ã€ N 270 æé«˜åˆ° N 280 å…­ èŠ¯ é‹° é›» çš„ å®¹é‡ å¾ 4400 æ¯« å®‰ æé«˜åˆ° äº† 5200 æ¯« å®‰ å¾ˆ å€¼å¾— è³¼è²· æˆ‘ ç”¨ äº† å…© å€‹ æœˆ æ¨£æ¨£ åŠŸèƒ½ éƒ½ å¾ˆ å¥½ ï¼
+sentiment words: ['å€¼å¾—', 'å¥½', 'æœ‹å‹']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.6, 5.2, 4.2]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['ÖµµÃ', 'ºÃ', 'ÅóÓÑ']
+sentiment words: ['å€¼å¾—', 'å¥½', 'æœ‹å‹']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.6, 5.2, 4.2]
 The predicted values is (using Geometric  Average): 4.96379175893
-´Ë ¾Æµê º†Ö± ¾ÍÊÇ Ôã¸â £¡
-sentiment words: ['Ôã¸â']
+The true values is: 4.857142857
+æ­¤ é…’åº— ç°¡ç›´ å°±æ˜¯ ç³Ÿç³• ï¼
+sentiment words: ['ç³Ÿç³•']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['Ôã¸â']
+sentiment words: ['ç³Ÿç³•']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
-Œ¦ì¶ ”y³Ì ƒÏÈ ÍÆ½é ´Ë ¾Æµê ·Ç³£ ²»M ½^Œ¦ ÊÇ ½o µÄ ·µüc ±Èİ^ ¶à ¡£
-sentiment words: ['²»M']
+The true values is: 6.875
+å°æ–¼ æ”œç¨‹ å„ªå…ˆ æ¨ä»‹ æ­¤ é…’åº— éå¸¸ ä¸æ»¿ çµ•å° æ˜¯ çµ¦ çš„ è¿”é» æ¯”è¼ƒ å¤š ã€‚
+sentiment words: ['ä¸æ»¿']
+words frequent: [1]
 correpsonding sentiment values: [6.4]
 The predicted values is (using Arithmetic Average): 6.4
-sentiment words: ['²»M']
+sentiment words: ['ä¸æ»¿']
+words frequent: [1]
 correpsonding sentiment values: [6.4]
 The predicted values is (using Geometric  Average): 6.4
-²»Èç ×¡ »ğÜ‡Õ¾ Œ¦Ãæ µÄ Èç ¼Ò ¿ì½İ ÉÌ„Õ ¾Æµê ÉÏ¾W ß€ ÃâÙM £¡
-sentiment words: ['ÃâÙM']
+The true values is: 4.875
+ä¸å¦‚ ä½ ç«è»Šç«™ å°é¢ çš„ å¦‚ å®¶ å¿«æ· å•†å‹™ é…’åº— ä¸Šç¶² é‚„ å…è²» ï¼
+sentiment words: ['å…è²»']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['ÃâÙM']
+sentiment words: ['å…è²»']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Geometric  Average): 4.8
-Ï£Íû ÆäËû Òª Èë×¡ Ô“ ¾Æµê µÄ ¿ÍÈË Òª Œ¦ Æä ƒr¸ñ Ä ¸÷ ·N ÇşµÀ ¸÷ •rég ¶Î ÕJÕæ Ò‡ Œ¦ ²Å ÏÂ Ó††Î ¡£
-sentiment words: ['Œ¦', 'Ï£Íû', 'ÕJÕæ']
+The true values is: 6.125
+å¸Œæœ› å…¶ä»– è¦ å…¥ä½ è©² é…’åº— çš„ å®¢äºº è¦ å° å…¶ åƒ¹æ ¼ å¾ å„ ç¨® æ¸ é“ å„ æ™‚é–“ æ®µ èªçœŸ è¦ˆ å° æ‰ ä¸‹ è¨‚å–® ã€‚
+sentiment words: ['å°', 'å¸Œæœ›', 'èªçœŸ']
+words frequent: [2, 1, 1]
 correpsonding sentiment values: [4.8, 5.2, 5.0]
-The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['Œ¦', 'Ï£Íû', 'ÕJÕæ']
+The predicted values is (using Arithmetic Average): 4.95
+sentiment words: ['å°', 'å¸Œæœ›', 'èªçœŸ']
+words frequent: [2, 1, 1]
 correpsonding sentiment values: [4.8, 5.2, 5.0]
-The predicted values is (using Geometric  Average): 4.99733190985
-MÒâ ÔÚ ŸŸÅ_ ×¡ ß^ × ¼Ò ¾Æµê ß@Ñe µÄ ·ş„Õ ×îºÃ ÌáÇ° Â“ÀM ¾Æµê Ï£Íû Ëû‚ƒ ÄÜ µ½ ™Cˆö ½Ó ÎÒ ¿‚ ™… Ğ¡½ã Ò»¿Ú ´ğ‘ª ÎÒ ÍíÉÏ 8 üc ¶à µ½ ŸŸÅ_
-sentiment words: ['Ï£Íû', '×îºÃ', 'MÒâ', '´ğ‘ª']
+The predicted values is (using Geometric  Average): 4.94725112211
+The true values is: 5.0
+æ»¿æ„ åœ¨ ç…™è‡º ä½ é å¹¾ å®¶ é…’åº— é€™è£¡ çš„ æœå‹™ æœ€å¥½ æå‰ è¯ç¹« é…’åº— å¸Œæœ› ä»–å€‘ èƒ½ åˆ° æ©Ÿå ´ æ¥ æˆ‘ ç¸½ æª¯ å°å§ ä¸€å£ ç­”æ‡‰ æˆ‘ æ™šä¸Š 8 é» å¤š åˆ° ç…™è‡º
+sentiment words: ['å¸Œæœ›', 'æœ€å¥½', 'æ»¿æ„', 'ç­”æ‡‰']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 6.2, 5.6, 5.0]
 The predicted values is (using Arithmetic Average): 5.5
-sentiment words: ['Ï£Íû', '×îºÃ', 'MÒâ', '´ğ‘ª']
+sentiment words: ['å¸Œæœ›', 'æœ€å¥½', 'æ»¿æ„', 'ç­”æ‡‰']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 6.2, 5.6, 5.0]
 The predicted values is (using Geometric  Average): 5.48135924139
-µ½ ÁË ¾Æµê †– Ë¾™C ½Ó™CÙM ¶àÉÙ åX •r ¾¹È» ¸æÔV ÎÒ ÊÇ ÃâÙM µÄ £¡
-sentiment words: ['ÃâÙM']
+The true values is: 5.333333333
+åˆ° äº† é…’åº— å• å¸æ©Ÿ æ¥æ©Ÿè²» å¤šå°‘ éŒ¢ æ™‚ ç«Ÿç„¶ å‘Šè¨´ æˆ‘ æ˜¯ å…è²» çš„ ï¼
+sentiment words: ['å…è²»']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['ÃâÙM']
+sentiment words: ['å…è²»']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Geometric  Average): 4.8
-Ëû‚ƒ ÓĞ ÃâÙM ™Cˆö ½ÓËÍ ·ş„Õ µÚÒ» ´Î Â Õf ß@ ·N ·ş„Õ ²»åe ºÃÏñ ´òÜ‡ Òª 40¶à ‰K Ñ½ ×¢Òâµ½ ¾Æµê ÔOÓĞ ™Cˆö ÊÛÆ±Ì 3·ÖçŠ ¸ã¶¨ ™CÆ± ·½±ã £¡
-sentiment words: ['ÃâÙM']
+The true values is: 5.75
+ä»–å€‘ æœ‰ å…è²» æ©Ÿå ´ æ¥é€ æœå‹™ ç¬¬ä¸€ æ¬¡ è½èªª é€™ ç¨® æœå‹™ ä¸éŒ¯ å¥½åƒ æ‰“è»Š è¦ 40å¤š å¡Š å‘€ æ³¨æ„åˆ° é…’åº— è¨­æœ‰ æ©Ÿå ´ å”®ç¥¨è™• 3åˆ†é˜ æå®š æ©Ÿç¥¨ æ–¹ä¾¿ ï¼
+sentiment words: ['å…è²»']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['ÃâÙM']
+sentiment words: ['å…è²»']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Geometric  Average): 4.8
-º£¾° ²»åe ŒÙì¶ ÔÚ Íşº£ ×îºÃ µÄ °É ¡£
-sentiment words: ['×îºÃ']
+The true values is: 6.125
+æµ·æ™¯ ä¸éŒ¯ å±¬æ–¼ åœ¨ å¨æµ· æœ€å¥½ çš„ å§ ã€‚
+sentiment words: ['æœ€å¥½']
+words frequent: [1]
 correpsonding sentiment values: [6.2]
 The predicted values is (using Arithmetic Average): 6.2
-sentiment words: ['×îºÃ']
+sentiment words: ['æœ€å¥½']
+words frequent: [1]
 correpsonding sentiment values: [6.2]
 The predicted values is (using Geometric  Average): 6.2
-·¿ég µÄ ¸ôÒô ºÜ ²î ÎÒ ¸ô±Ú Èë×¡ ÁË × ‚€ÈË é_Ê¼ ³ª¸è ááí ´òÅÆ ÎÒ Â  µÃ ºÜ Çå³ş ¡£
-sentiment words: ['²î', 'Çå³ş']
+The true values is: 6.0
+æˆ¿é–“ çš„ éš”éŸ³ å¾ˆ å·® æˆ‘ éš”å£ å…¥ä½ äº† å¹¾ å€‹äºº é–‹å§‹ å”±æ­Œ å¾Œä¾† æ‰“ç‰Œ æˆ‘ è½ å¾— å¾ˆ æ¸…æ¥š ã€‚
+sentiment words: ['å·®', 'æ¸…æ¥š']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.6, 3.8]
 The predicted values is (using Arithmetic Average): 4.2
-sentiment words: ['²î', 'Çå³ş']
+sentiment words: ['å·®', 'æ¸…æ¥š']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.6, 3.8]
 The predicted values is (using Geometric  Average): 4.18090899207
-¾Æµê Íâ±í ¼° ´óÌÃ ¿´ÉÏÈ¥ Í¦ ºÃ µÄ ±¾í Œ¦ Ëü Ò² Í¦ ÓĞ ĞÅĞÄ µÄ ¶øÇÒ ¾Í ÔÚ ÊĞÖĞĞÄ ³ö ĞĞ Í¦ ·½±ã µÄ ¿ÉÊÇ Ä ßM ëŠÌİ é_Ê¼ ¾Í ±Èİ^ º‰ô ÁË ÄÇ ëŠÌİ Ò»üc ¶¼ ²» Ïñ ÊÇ ¾Æµê µÄ ëŠÌİ ¶øÇÒ Ä ëŠÌİ µ½ ·¿ég ¶¼ ÊÇ Ò» ¹É ââ µÄ ºÜ ëy Â„ µÄ Î¶µÀ ºÜ ‡fĞÄ ÎÒ Ó† µÄ ÊÇ ˜Ë ég ÔOÊ© êÅf ÓÖ º†Âª ŒÔÚ ²» ¸Ò ¹§¾S ß€ Õf ÊÇ ÈıĞÇ ÎÒ ÓXµÃ Ëü Ö» ±È ÕĞ´ıËù ºÃ Ò»ücüc ¶øÇÒ 248 µÄ ÊÕÙM º†Ö± ÊÇ Ì« ß^·Ö ÁË
-sentiment words: ['ĞÅĞÄ', '‡fĞÄ', 'ºÃ', 'Œ¦', '¹§¾S', 'º‰ô', 'ß^·Ö']
+The true values is: 6.375
+é…’åº— å¤–è¡¨ åŠ å¤§å ‚ çœ‹ä¸Šå» æŒº å¥½ çš„ æœ¬ä¾† å° å®ƒ ä¹Ÿ æŒº æœ‰ ä¿¡å¿ƒ çš„ è€Œä¸” å°± åœ¨ å¸‚ä¸­å¿ƒ å‡º è¡Œ æŒº æ–¹ä¾¿ çš„ å¯æ˜¯ å¾ é€² é›»æ¢¯ é–‹å§‹ å°± æ¯”è¼ƒ æƒ¡å¤¢ äº† é‚£ é›»æ¢¯ ä¸€é» éƒ½ ä¸ åƒ æ˜¯ é…’åº— çš„ é›»æ¢¯ è€Œä¸” å¾ é›»æ¢¯ åˆ° æˆ¿é–“ éƒ½ æ˜¯ ä¸€ è‚¡ æ¿ƒæ¿ƒ çš„ å¾ˆ é›£ è çš„ å‘³é“ å¾ˆ å™å¿ƒ æˆ‘ è¨‚ çš„ æ˜¯ æ¨™ é–“ è¨­æ–½ é™³èˆŠ åˆ ç°¡é™‹ å¯¦åœ¨ ä¸ æ•¢ æ­ç¶­ é‚„ èªª æ˜¯ ä¸‰æ˜Ÿ æˆ‘ è¦ºå¾— å®ƒ åª æ¯” æ‹›å¾…æ‰€ å¥½ ä¸€é»é» è€Œä¸” 248 çš„ æ”¶è²» ç°¡ç›´ æ˜¯ å¤ª éåˆ† äº†
+sentiment words: ['ä¿¡å¿ƒ', 'å™å¿ƒ', 'å¥½', 'å°', 'æ­ç¶­', 'æƒ¡å¤¢', 'éåˆ†']
+words frequent: [1, 1, 2, 1, 1, 1, 1]
 correpsonding sentiment values: [5.4, 6.8, 5.2, 4.8, 4.6, 6.8, 6.8]
-The predicted values is (using Arithmetic Average): 5.77142857143
-sentiment words: ['ĞÅĞÄ', '‡fĞÄ', 'ºÃ', 'Œ¦', '¹§¾S', 'º‰ô', 'ß^·Ö']
+The predicted values is (using Arithmetic Average): 5.7
+sentiment words: ['ä¿¡å¿ƒ', 'å™å¿ƒ', 'å¥½', 'å°', 'æ­ç¶­', 'æƒ¡å¤¢', 'éåˆ†']
+words frequent: [1, 1, 2, 1, 1, 1, 1]
 correpsonding sentiment values: [5.4, 6.8, 5.2, 4.8, 4.6, 6.8, 6.8]
-The predicted values is (using Geometric  Average): 5.697748467
-³¬¼‰ ¿ÉÅÂ µÄ ÂÃğ^ ßM éT áá ¸ù±¾ ²» ÊÇ 45 Æ½·½Ã× µÄ ´ó ·¿ég
-sentiment words: ['¿ÉÅÂ']
+The predicted values is (using Geometric  Average): 5.6330133667
+The true values is: 6.333333333
+è¶…ç´š å¯æ€• çš„ æ—…é¤¨ é€² é–€ å¾Œ æ ¹æœ¬ ä¸ æ˜¯ 45 å¹³æ–¹ç±³ çš„ å¤§ æˆ¿é–“
+sentiment words: ['å¯æ€•']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Arithmetic Average): 6.8
-sentiment words: ['¿ÉÅÂ']
+sentiment words: ['å¯æ€•']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Geometric  Average): 6.8
-¶øÇÒ ºÜ óaóv ÕæµÄ ºÜ óaóv .
-sentiment words: ['óaóv']
+The true values is: 6.0
+è€Œä¸” å¾ˆ éª¯é«’ çœŸçš„ å¾ˆ éª¯é«’ .
+sentiment words: ['éª¯é«’']
+words frequent: [2]
 correpsonding sentiment values: [4.6]
 The predicted values is (using Arithmetic Average): 4.6
-sentiment words: ['óaóv']
+sentiment words: ['éª¯é«’']
+words frequent: [2]
 correpsonding sentiment values: [4.6]
 The predicted values is (using Geometric  Average): 4.6
-ßB Êáî^ µÄ •rºò ¶¼ Äî^ ÉÏÊá³ö Ò» ëb Ğ¡ ó¯òë Ì« ¿ÉÅÂ ÁË .
-sentiment words: ['¿ÉÅÂ']
+The true values is: 6.625
+é€£ æ¢³é ­ çš„ æ™‚å€™ éƒ½ å¾é ­ ä¸Šæ¢³å‡º ä¸€ éš» å° èŸ‘è‚ å¤ª å¯æ€• äº† .
+sentiment words: ['å¯æ€•']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Arithmetic Average): 6.8
-sentiment words: ['¿ÉÅÂ']
+sentiment words: ['å¯æ€•']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Geometric  Average): 6.8
-ÔçÉÏ ßB Ëû‚ƒ ÄÇ ËùÖ^ µÄ Ôç²Í Ò² ²» Ïë È¥ ³Ô ÁË .
-sentiment words: ['Ïë']
+The true values is: 6.833333333
+æ—©ä¸Š é€£ ä»–å€‘ é‚£ æ‰€è¬‚ çš„ æ—©é¤ ä¹Ÿ ä¸ æƒ³ å» åƒ äº† .
+sentiment words: ['æƒ³']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Arithmetic Average): 3.6
-sentiment words: ['Ïë']
+sentiment words: ['æƒ³']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Geometric  Average): 3.6
-Ús¾o ×ßÈË “Qµ½ ÁË ê–¹â ¾Æµê .
-sentiment words: ['ê–¹â']
+The true values is: 4.428571429
+è¶•ç·Š èµ°äºº æ›åˆ° äº† é™½å…‰ é…’åº— .
+sentiment words: ['é™½å…‰']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['ê–¹â']
+sentiment words: ['é™½å…‰']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
-ÊÇ ÉÌ„Õ ÂÃĞĞ µÄ ÀíÏë ßx“ñ ¡£
-sentiment words: ['ÀíÏë']
+The true values is: 4.75
+æ˜¯ å•†å‹™ æ—…è¡Œ çš„ ç†æƒ³ é¸æ“‡ ã€‚
+sentiment words: ['ç†æƒ³']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['ÀíÏë']
+sentiment words: ['ç†æƒ³']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
-éT Íâ ºÃ Ïó ÕıÔÚ ÑbĞŞ ÓĞüc ësy .
-sentiment words: ['ºÃ', 'ësy']
+The true values is: 3.111111111
+é–€ å¤– å¥½ è±¡ æ­£åœ¨ è£ä¿® æœ‰é» é›œäº‚ .
+sentiment words: ['å¥½', 'é›œäº‚']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.6]
 The predicted values is (using Arithmetic Average): 5.4
-sentiment words: ['ºÃ', 'ësy']
+sentiment words: ['å¥½', 'é›œäº‚']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.6]
 The predicted values is (using Geometric  Average): 5.39629502529
-¸ú éT ƒÈ ­h¾³ ²î¾à İ^ ´ó Ï£Íû ¸ÄßM .
-sentiment words: ['Ï£Íû', '¸ÄßM']
+The true values is: 4.142857143
+è·Ÿ é–€ å…§ ç’°å¢ƒ å·®è· è¼ƒ å¤§ å¸Œæœ› æ”¹é€² .
+sentiment words: ['å¸Œæœ›', 'æ”¹é€²']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.6]
 The predicted values is (using Arithmetic Average): 4.9
-sentiment words: ['Ï£Íû', '¸ÄßM']
+sentiment words: ['å¸Œæœ›', 'æ”¹é€²']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.6]
 The predicted values is (using Geometric  Average): 4.89080770425
-¸ĞÖx Äú Œ¦ ´óßB ãy·« Ùeğ^ µÄ ÖĞ¿Ï Ôuƒr £¡
-sentiment words: ['Œ¦', '¸ĞÖx']
+The true values is: 3.142857143
+æ„Ÿè¬ æ‚¨ å° å¤§é€£ éŠ€å¸† è³“é¤¨ çš„ ä¸­è‚¯ è©•åƒ¹ ï¼
+sentiment words: ['å°', 'æ„Ÿè¬']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.6]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['Œ¦', '¸ĞÖx']
+sentiment words: ['å°', 'æ„Ÿè¬']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.6]
 The predicted values is (using Geometric  Average): 5.18459255873
-½üÆÚ ´óßB ãy·« Ùeğ^ Ö÷˜Ç ÑbĞŞ ¸ÄÔì ¹¤×÷ ÒÑ½› Íê³É Äú Ëù Ö¸ µÄ ‘ªÔ“ ÊÇ ¿µów ¾ã˜·²¿ ´ó˜Ç µÄ ¶ÌÆÚ ¹¤³Ì ¬F Œ¢ ƒ¿ì ÕûĞŞ ¸ĞÖx Äú ÔÚ ãy·« ÑbĞŞ ÆÚég Ò»Èç ¼È Íù µÄ Ö§³Ö ¡£
-sentiment words: ['¸ĞÖx', 'Ö§³Ö']
+The true values is: 5.714285714
+è¿‘æœŸ å¤§é€£ éŠ€å¸† è³“é¤¨ ä¸»æ¨“ è£ä¿® æ”¹é€  å·¥ä½œ å·²ç¶“ å®Œæˆ æ‚¨ æ‰€ æŒ‡ çš„ æ‡‰è©² æ˜¯ åº·é«” ä¿±æ¨‚éƒ¨ å¤§æ¨“ çš„ çŸ­æœŸ å·¥ç¨‹ ç¾ å°‡ å„˜å¿« æ•´ä¿® æ„Ÿè¬ æ‚¨ åœ¨ éŠ€å¸† è£ä¿® æœŸé–“ ä¸€å¦‚ æ—¢ å¾€ çš„ æ”¯æŒ ã€‚
+sentiment words: ['æ„Ÿè¬', 'æ”¯æŒ']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.6, 5.0]
 The predicted values is (using Arithmetic Average): 5.3
-sentiment words: ['¸ĞÖx', 'Ö§³Ö']
+sentiment words: ['æ„Ÿè¬', 'æ”¯æŒ']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.6, 5.0]
 The predicted values is (using Geometric  Average): 5.29150262213
-Â“ÀM ”y³Ì ¹¤×÷ ÈË†T •r Ëû‚ƒ ß€ Õf ¾Æµê ÒÑ ÅÉ ÈË í ½Ó Ö»ÊÇ ¸ãåe ÁË ÎÒ µÄ ÊÖ™C Ì–´a Ğ¦Ô’ ÄÄ ¼Ò ¾Æµê ½Ó™C ÊÇ ²»ÓÃ Åe ÅÆ ¶øÊÇ ÓÃ ÊÖ™C Â“ÀM µÄ £¿ ¶øÇÒ Ö®Ç° × ´Î Èë×¡ Ô“ ¾Æµê ¶¼ ÊÇ Åe ÅÆ ½Ó™C µÄ ¹¤×÷ Ê§Õ` ²»¿É ÅÂ Ö»ÊÇ ”y³Ì ºÍ ¾Æµê µÄ ÈË†T Ò»Æğ í ÆÛò_ ¿Í‘ô °Ñ ¿Í‘ô ®” Éµ¹Ï ŒÔÚ ÊÇ È±·¦ ×î »ù±¾ µÄ Âš˜I µÀµÂ ¡£
-sentiment words: ['Ê§Õ`', 'ÅÂ', 'Ğ¦Ô’', 'È±·¦']
+The true values is: 3.714285714
+è¯ç¹« æ”œç¨‹ å·¥ä½œ äººå“¡ æ™‚ ä»–å€‘ é‚„ èªª é…’åº— å·² æ´¾ äºº ä¾† æ¥ åªæ˜¯ æéŒ¯ äº† æˆ‘ çš„ æ‰‹æ©Ÿ è™Ÿç¢¼ ç¬‘è©± å“ª å®¶ é…’åº— æ¥æ©Ÿ æ˜¯ ä¸ç”¨ èˆ‰ ç‰Œ è€Œæ˜¯ ç”¨ æ‰‹æ©Ÿ è¯ç¹« çš„ ï¼Ÿ è€Œä¸” ä¹‹å‰ å¹¾ æ¬¡ å…¥ä½ è©² é…’åº— éƒ½ æ˜¯ èˆ‰ ç‰Œ æ¥æ©Ÿ çš„ å·¥ä½œ å¤±èª¤ ä¸å¯ æ€• åªæ˜¯ æ”œç¨‹ å’Œ é…’åº— çš„ äººå“¡ ä¸€èµ· ä¾† æ¬ºé¨™ å®¢æˆ¶ æŠŠ å®¢æˆ¶ ç•¶ å‚»ç“œ å¯¦åœ¨ æ˜¯ ç¼ºä¹ æœ€ åŸºæœ¬ çš„ è·æ¥­ é“å¾· ã€‚
+sentiment words: ['å¤±èª¤', 'æ€•', 'ç¬‘è©±', 'ç¼ºä¹']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.4, 6.4, 4.8, 4.6]
 The predicted values is (using Arithmetic Average): 5.3
-sentiment words: ['Ê§Õ`', 'ÅÂ', 'Ğ¦Ô’', 'È±·¦']
+sentiment words: ['å¤±èª¤', 'æ€•', 'ç¬‘è©±', 'ç¼ºä¹']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.4, 6.4, 4.8, 4.6]
 The predicted values is (using Geometric  Average): 5.25585288743
-Ò» ¼Ò Èı ¿Ú Èë×¡ ƒÉ Ìì ºÜ MÒâ µÄ Ò» ¼Ò Ùeğ^ ¡£
-sentiment words: ['MÒâ']
+The true values is: 5.857142857
+ä¸€ å®¶ ä¸‰ å£ å…¥ä½ å…© å¤© å¾ˆ æ»¿æ„ çš„ ä¸€ å®¶ è³“é¤¨ ã€‚
+sentiment words: ['æ»¿æ„']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['MÒâ']
+sentiment words: ['æ»¿æ„']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Geometric  Average): 5.6
-·¿ég Œ’³¨ Êæ·ş Ó² ¼ş ÔOÊ© ²»åe ¡£
-sentiment words: ['Êæ·ş']
+The true values is: 5.142857143
+æˆ¿é–“ å¯¬æ• èˆ’æœ ç¡¬ ä»¶ è¨­æ–½ ä¸éŒ¯ ã€‚
+sentiment words: ['èˆ’æœ']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Arithmetic Average): 3.6
-sentiment words: ['Êæ·ş']
+sentiment words: ['èˆ’æœ']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Geometric  Average): 3.6
-·ş„Õ İ^ ºÃ Ç° Å_ ËÙ¶È ¿ÉÒÔ ĞĞÀî Éú ºÍ ÃâÙM ëŠÆ¿Ü‡ Ë¾™C ·Ç³£ ÓĞ ¶YÃ² ¡£
-sentiment words: ['ÃâÙM', 'ºÃ']
+The true values is: 4.111111111
+æœå‹™ è¼ƒ å¥½ å‰ è‡º é€Ÿåº¦ å¯ä»¥ è¡Œæ ç”Ÿ å’Œ å…è²» é›»ç“¶è»Š å¸æ©Ÿ éå¸¸ æœ‰ ç¦®è²Œ ã€‚
+sentiment words: ['å…è²»', 'å¥½']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.2]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['ÃâÙM', 'ºÃ']
+sentiment words: ['å…è²»', 'å¥½']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.2]
 The predicted values is (using Geometric  Average): 4.99599839872
-·¿ég µØÌº ·Ç³£ óv £» ´°‘ô ¸ôÒô ·Ç³£ ²î ÍâÃæ ¾ÍÊÇ ñRÂ· Ö»Òª ÓĞ Ü‡ ¾Í ºÜ ³³ £» ĞlÉú ég ’ì Ã«½í µÄ µØ·½ ¶¼ ›]ÓĞ ³ı·Ç Å_°å ÏÂÃæ £» ›]ÓĞ ÃâÙM µÄ ï‹ÓÃË® £» ¿‚ ™… µÄ ·ş„Õ ºÜ ²î ºÃÏñ ÊÇ Äã Ç· Ëı µÄ ¡£
-sentiment words: ['ÃâÙM', '²î', 'óv']
+The true values is: 4.714285714
+æˆ¿é–“ åœ°æ¯¯ éå¸¸ é«’ ï¼› çª—æˆ¶ éš”éŸ³ éå¸¸ å·® å¤–é¢ å°±æ˜¯ é¦¬è·¯ åªè¦ æœ‰ è»Š å°± å¾ˆ åµ ï¼› è¡›ç”Ÿ é–“ æ› æ¯›å·¾ çš„ åœ°æ–¹ éƒ½ æ²’æœ‰ é™¤é è‡ºæ¿ ä¸‹é¢ ï¼› æ²’æœ‰ å…è²» çš„ é£²ç”¨æ°´ ï¼› ç¸½ æª¯ çš„ æœå‹™ å¾ˆ å·® å¥½åƒ æ˜¯ ä½  æ¬  å¥¹ çš„ ã€‚
+sentiment words: ['å…è²»', 'å·®', 'é«’']
+words frequent: [1, 2, 1]
 correpsonding sentiment values: [4.8, 4.6, 4.6]
-The predicted values is (using Arithmetic Average): 4.66666666667
-sentiment words: ['ÃâÙM', '²î', 'óv']
+The predicted values is (using Arithmetic Average): 4.65
+sentiment words: ['å…è²»', 'å·®', 'é«’']
+words frequent: [1, 2, 1]
 correpsonding sentiment values: [4.8, 4.6, 4.6]
-The predicted values is (using Geometric  Average): 4.66572316527
-²»ß^ Ò² ÓĞ ºÃ µÄ ·½Ãæ £º ×î½ü Ò» ´Î Èë×¡éLÔ’ ÃâÙM ´ò ëmÈ» ÎÒ ×ºõ ²» ´ò £» Ôç²Í ²» ÙF ¶øÇÒ ºÜ¶à ½¡¿µ Ê³Æ· ¡£
-sentiment words: ['ÃâÙM', 'ºÃ', '´ò']
+The predicted values is (using Geometric  Average): 4.64920485987
+The true values is: 6.571428571
+ä¸é ä¹Ÿ æœ‰ å¥½ çš„ æ–¹é¢ ï¼š æœ€è¿‘ ä¸€ æ¬¡ å…¥ä½é•·è©± å…è²» æ‰“ é›–ç„¶ æˆ‘ å¹¾ä¹ ä¸ æ‰“ ï¼› æ—©é¤ ä¸ è²´ è€Œä¸” å¾ˆå¤š å¥åº· é£Ÿå“ ã€‚
+sentiment words: ['å…è²»', 'å¥½', 'æ‰“']
+words frequent: [1, 1, 2]
 correpsonding sentiment values: [4.8, 5.2, 6.6]
-The predicted values is (using Arithmetic Average): 5.53333333333
-sentiment words: ['ÃâÙM', 'ºÃ', '´ò']
+The predicted values is (using Arithmetic Average): 5.8
+sentiment words: ['å…è²»', 'å¥½', 'æ‰“']
+words frequent: [1, 1, 2]
 correpsonding sentiment values: [4.8, 5.2, 6.6]
-The predicted values is (using Geometric  Average): 5.48187976076
-¾Æµê ±³É½Ãæºş µØÀí Î»ÖÃ ƒÔ½ ½› I Ãæ·e ÔÚ ®”µØ Ëã ´ó ô[ ÖĞ ÓĞ ìo ÌìÈ» ƒ„İ ±Èİ^ Ã÷ï@ ¿´ µÃ ³ö ÒÔÍù Ôø½› ÓĞ ß^ Ò»¶Î İx»Í µÄ švÊ· µ« ²» Öª Ê²üN Ô­Òò ¬FÔÚ ·´¶ø ²» ’ÎµÃ Í¶Èë È¥ ×ö ÈÕ³£ µÄ ¾S×o ºÍ ±£ğB ¸÷ í— ÔOÊ© ±Èİ^ ÆÆ”¡ ·ş„Õ ÈË†T Ò² ÉÙ ·ş„Õ Ù|ËØ Ò»°ã ·¿ ÙM Æ« ¸ß µ« ¾Í Æä µØÀí Î»ÖÃ µÄ ƒÔ½ĞÔ ¶øÑÔ ºÃ Ïó ¿É Ìæ´ú µÄ ¾Æµê ²» ¶à èaì¶ Æä µØ¶Î ºÍ ×ÔÈ» ­h¾³ µÄ ƒÔ½ĞÔ ËùÒÔ ÏÂ ´Î È¥ ß€ÊÇ •ş ßx“ñ Èë×¡ ¡£
-sentiment words: ['ƒ„İ', 'ºÃ', 'Í¶Èë', 'İx»Í']
+The predicted values is (using Geometric  Average): 5.7422634415
+The true values is: 3.142857143
+é…’åº— èƒŒå±±é¢æ¹– åœ°ç† ä½ç½® å„ªè¶Š ç¶“ç‡Ÿ é¢ç© åœ¨ ç•¶åœ° ç®— å¤§ é¬§ ä¸­ æœ‰ éœ å¤©ç„¶ å„ªå‹¢ æ¯”è¼ƒ æ˜é¡¯ çœ‹ å¾— å‡º ä»¥å¾€ æ›¾ç¶“ æœ‰ é ä¸€æ®µ è¼ç…Œ çš„ æ­·å² ä½† ä¸ çŸ¥ ä»€éº¼ åŸå›  ç¾åœ¨ åè€Œ ä¸ æ¨å¾— æŠ•å…¥ å» åš æ—¥å¸¸ çš„ ç¶­è­· å’Œ ä¿é¤Š å„ é … è¨­æ–½ æ¯”è¼ƒ ç ´æ•— æœå‹™ äººå“¡ ä¹Ÿ å°‘ æœå‹™ è³ªç´  ä¸€èˆ¬ æˆ¿ è²» å é«˜ ä½† å°± å…¶ åœ°ç† ä½ç½® çš„ å„ªè¶Šæ€§ è€Œè¨€ å¥½ è±¡ å¯ æ›¿ä»£ çš„ é…’åº— ä¸ å¤š é‘‘æ–¼ å…¶ åœ°æ®µ å’Œ è‡ªç„¶ ç’°å¢ƒ çš„ å„ªè¶Šæ€§ æ‰€ä»¥ ä¸‹ æ¬¡ å» é‚„æ˜¯ æœƒ é¸æ“‡ å…¥ä½ ã€‚
+sentiment words: ['å„ªå‹¢', 'å¥½', 'æŠ•å…¥', 'è¼ç…Œ']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [6.0, 5.2, 5.2, 6.2]
 The predicted values is (using Arithmetic Average): 5.65
-sentiment words: ['ƒ„İ', 'ºÃ', 'Í¶Èë', 'İx»Í']
+sentiment words: ['å„ªå‹¢', 'å¥½', 'æŠ•å…¥', 'è¼ç…Œ']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [6.0, 5.2, 5.2, 6.2]
 The predicted values is (using Geometric  Average): 5.63167270165
-¾Æµê ´óÌÃ ­h¾³ ²»åe 358 µÄ ·¿ƒr ß€ ÊÇ Îï ÓĞËù Öµ ŞkÀí Èë×¡ ºÜ ¿ì ºÜ í˜Àû ×Œ ÎÒ ĞÄÇé¼‰ ²î µÄ ÊÇ Ç° Å_ ½Y¤ •r ·ş„Õ†T µÄ °ÁÂı ºÍ ÀäÄ® ‘B¶È ×Œ ÈË ²» ¸Ò ¹§¾S £¡
-sentiment words: ['°ÁÂı', '²î', '¹§¾S', 'í˜Àû']
+The true values is: 4.666666667
+é…’åº— å¤§å ‚ ç’°å¢ƒ ä¸éŒ¯ 358 çš„ æˆ¿åƒ¹ é‚„ æ˜¯ ç‰© æœ‰æ‰€ å€¼ è¾¦ç† å…¥ä½ å¾ˆ å¿« å¾ˆ é †åˆ© è®“ æˆ‘ å¿ƒæƒ…ç´š å·® çš„ æ˜¯ å‰ è‡º çµå¸³ æ™‚ æœå‹™å“¡ çš„ å‚²æ…¢ å’Œ å†·æ¼  æ…‹åº¦ è®“ äºº ä¸ æ•¢ æ­ç¶­ ï¼
+sentiment words: ['å‚²æ…¢', 'å·®', 'æ­ç¶­', 'é †åˆ©']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [6.0, 4.6, 4.6, 5.0]
 The predicted values is (using Arithmetic Average): 5.05
-sentiment words: ['°ÁÂı', '²î', '¹§¾S', 'í˜Àû']
+sentiment words: ['å‚²æ…¢', 'å·®', 'æ­ç¶­', 'é †åˆ©']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [6.0, 4.6, 4.6, 5.0]
 The predicted values is (using Geometric  Average): 5.0194857949
-¿ÉÄÜ ß@ Î» Ğ¡½ã ĞÄÇé ²» ÊÇ ºÜ ºÃ Œ¦ ÎÒ ¼´ ÊÇ ‡@šâ ÓÖ ²»ÄÍŸ© ¿ÉÊÇ ÔÚ Åc ÀÏÍâ ½»Õ„ •r ‘B¶È ¿ÉÒÔ Í¬5ĞÇ ïˆµê ±Èİ^ Ò»ÏÂ ÁË ¡£
-sentiment words: ['²»ÄÍŸ©', '‡@šâ', 'ºÃ', 'Œ¦', 'ĞÄÇé']
+The true values is: 6.5
+å¯èƒ½ é€™ ä½ å°å§ å¿ƒæƒ… ä¸ æ˜¯ å¾ˆ å¥½ å° æˆ‘ å³ æ˜¯ å˜†æ°£ åˆ ä¸è€ç…© å¯æ˜¯ åœ¨ èˆ‡ è€å¤– äº¤è«‡ æ™‚ æ…‹åº¦ å¯ä»¥ åŒ5æ˜Ÿ é£¯åº— æ¯”è¼ƒ ä¸€ä¸‹ äº† ã€‚
+sentiment words: ['ä¸è€ç…©', 'å˜†æ°£', 'å¥½', 'å°', 'å¿ƒæƒ…']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [6.0, 4.0, 5.2, 4.8, 3.6]
 The predicted values is (using Arithmetic Average): 4.72
-sentiment words: ['²»ÄÍŸ©', '‡@šâ', 'ºÃ', 'Œ¦', 'ĞÄÇé']
+sentiment words: ['ä¸è€ç…©', 'å˜†æ°£', 'å¥½', 'å°', 'å¿ƒæƒ…']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [6.0, 4.0, 5.2, 4.8, 3.6]
 The predicted values is (using Geometric  Average): 4.642497352
-¸ã ²» ¶® ÔõüN ×ö ·ş„Õ ĞĞ˜I µÄ £¿ ÓÉì¶ ×Ô¼º µÄ ¹¤×÷ Ê§Õ` ½o ¿ÍÈË §í ²»±ã ºÃ Ïó ÊÇ ‘ªÔ“ µÄ ß€ ºÜ ÀíÖ±šâ‰Ñ ¡£
-sentiment words: ['²»±ã', 'Ê§Õ`', 'ºÃ']
+The true values is: 4.875
+æ ä¸ æ‡‚ æ€éº¼ åš æœå‹™ è¡Œæ¥­ çš„ ï¼Ÿ ç”±æ–¼ è‡ªå·± çš„ å·¥ä½œ å¤±èª¤ çµ¦ å®¢äºº å¸¶ä¾† ä¸ä¾¿ å¥½ è±¡ æ˜¯ æ‡‰è©² çš„ é‚„ å¾ˆ ç†ç›´æ°£å£¯ ã€‚
+sentiment words: ['ä¸ä¾¿', 'å¤±èª¤', 'å¥½']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.4, 5.4, 5.2]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['²»±ã', 'Ê§Õ`', 'ºÃ']
+sentiment words: ['ä¸ä¾¿', 'å¤±èª¤', 'å¥½']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.4, 5.4, 5.2]
 The predicted values is (using Geometric  Average): 4.98061830035
-Õˆ ´ó¼Ò ß€ÊÇ ßhëx µÄ ºÃ £¡
-sentiment words: ['ºÃ', 'ßhëx']
+The true values is: 7.111111111
+è«‹ å¤§å®¶ é‚„æ˜¯ é é›¢ çš„ å¥½ ï¼
+sentiment words: ['å¥½', 'é é›¢']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 3.8]
 The predicted values is (using Arithmetic Average): 4.5
-sentiment words: ['ºÃ', 'ßhëx']
+sentiment words: ['å¥½', 'é é›¢']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 3.8]
 The predicted values is (using Geometric  Average): 4.44522215418
-µØüc ÔÚ ÊĞÖĞĞÄ ³ö ĞĞ ·½±ã ·ş„Õ ‘B¶È ºÃ ¡£
-sentiment words: ['ºÃ']
+The true values is: 4.428571429
+åœ°é» åœ¨ å¸‚ä¸­å¿ƒ å‡º è¡Œ æ–¹ä¾¿ æœå‹™ æ…‹åº¦ å¥½ ã€‚
+sentiment words: ['å¥½']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['ºÃ']
+sentiment words: ['å¥½']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
-×¡ ºÀÈA ˜Ë ég Œ’³¨ ÖØ ÑbĞŞ İ^ ĞÂ
-sentiment words: ['ºÀÈA']
+The true values is: 4.625
+ä½ è±ªè¯ æ¨™ é–“ å¯¬æ• é‡ è£ä¿® è¼ƒ æ–°
+sentiment words: ['è±ªè¯']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Arithmetic Average): 5.8
-sentiment words: ['ºÀÈA']
+sentiment words: ['è±ªè¯']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Geometric  Average): 5.8
-Ôç²Í ØS¸»  C Ç¬½z Î¶µÀ ¼Ñ ŠÊ˜· ÔOÊ© ±Èİ^ ıRÈ« É£ÄÃ Ô¡ ±Èİ^ ºÀÈA “şÕf ÔÚ ƒxáç ÊÇ ×îºÃ µÄ ƒr¸ñ Ò² ²» ÙF ¡£
-sentiment words: ['¼Ñ', 'ŠÊ˜·', '×îºÃ', 'ØS¸»', 'ºÀÈA']
+The true values is: 4.444444444
+æ—©é¤ è±å¯Œ ç‡™ ä¹¾çµ² å‘³é“ ä½³ å¨›æ¨‚ è¨­æ–½ æ¯”è¼ƒ é½Šå…¨ æ¡‘æ‹¿ æµ´ æ¯”è¼ƒ è±ªè¯ æ“šèªª åœ¨ å„€å¾µ æ˜¯ æœ€å¥½ çš„ åƒ¹æ ¼ ä¹Ÿ ä¸ è²´ ã€‚
+sentiment words: ['ä½³', 'å¨›æ¨‚', 'æœ€å¥½', 'è±å¯Œ', 'è±ªè¯']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.6, 6.2, 6.2, 5.6, 5.8]
 The predicted values is (using Arithmetic Average): 5.68
-sentiment words: ['¼Ñ', 'ŠÊ˜·', '×îºÃ', 'ØS¸»', 'ºÀÈA']
+sentiment words: ['ä½³', 'å¨›æ¨‚', 'æœ€å¥½', 'è±å¯Œ', 'è±ªè¯']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.6, 6.2, 6.2, 5.6, 5.8]
 The predicted values is (using Geometric  Average): 5.64717760031
-´òëŠÔ’ îA¶¨ ›] ¿´µ½ ÒÔÇ° ×¡ ß^ µÄ ÅóÓÑ µÄ Ôuƒr ²Å ×¡ßMí µÄ Èë ×¡ µÄ •rºò ÒÑ½› 10 üc ¶à ÁË ½Y¹û ß€ µÈ ÁË 20 ·ÖçŠ ²Å ŞkºÃ checkin ÃãŠ ×¡ ÁË Ò» Ìì µÚ¶ş Ìì Ò»Ôç ¾Í ÍË·¿ ÁË ¡£
-sentiment words: ['ÃãŠ', 'ÅóÓÑ']
+The true values is: 5.142857143
+æ‰“é›»è©± é å®š æ²’ çœ‹åˆ° ä»¥å‰ ä½ é çš„ æœ‹å‹ çš„ è©•åƒ¹ æ‰ ä½é€²ä¾† çš„ å…¥ ä½ çš„ æ™‚å€™ å·²ç¶“ 10 é» å¤š äº† çµæœ é‚„ ç­‰ äº† 20 åˆ†é˜ æ‰ è¾¦å¥½ checkin å‹‰å¼· ä½ äº† ä¸€ å¤© ç¬¬äºŒ å¤© ä¸€æ—© å°± é€€æˆ¿ äº† ã€‚
+sentiment words: ['å‹‰å¼·', 'æœ‹å‹']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.0, 4.2]
 The predicted values is (using Arithmetic Average): 4.6
-sentiment words: ['ÃãŠ', 'ÅóÓÑ']
+sentiment words: ['å‹‰å¼·', 'æœ‹å‹']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.0, 4.2]
 The predicted values is (using Geometric  Average): 4.58257569496
-¸ü ¿ÉÅÂ µÄ ÊÇ 3ÈÕ Áè³¿ Ğ¡Íµ ¾¹ ƒÉ ´Î ¹âî™ ÎÒ µÄ ·¿ég ¶øÇÒ ÓĞ è€³× ´òé_ ·¿éT ĞÒÌ ÎÒ ÉÏ ÁË ·À±I æœ ›]ÓĞ ßMí ¡£
-sentiment words: ['¿ÉÅÂ', 'Ğ¡Íµ']
+The true values is: 5.714285714
+æ›´ å¯æ€• çš„ æ˜¯ 3æ—¥ å‡Œæ™¨ å°å· ç«Ÿ å…© æ¬¡ å…‰é¡§ æˆ‘ çš„ æˆ¿é–“ è€Œä¸” æœ‰ é‘°åŒ™ æ‰“é–‹ æˆ¿é–€ å¹¸è™§ æˆ‘ ä¸Š äº† é˜²ç›œ éˆ æ²’æœ‰ é€²ä¾† ã€‚
+sentiment words: ['å¯æ€•', 'å°å·']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.8, 5.6]
 The predicted values is (using Arithmetic Average): 6.2
-sentiment words: ['¿ÉÅÂ', 'Ğ¡Íµ']
+sentiment words: ['å¯æ€•', 'å°å·']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.8, 5.6]
 The predicted values is (using Geometric  Average): 6.17089944822
-ÊÂ áá ¾Æµê ·½Ãæ ³ĞÕJ ·À±I ‰ºÁ¦ ºÜ ´ó ¶øÇÒ ŒÒ ÓĞ ¿ÍÈË Ê§¸` ¡£
-sentiment words: ['‰ºÁ¦']
+The true values is: 6.333333333
+äº‹ å¾Œ é…’åº— æ–¹é¢ æ‰¿èª é˜²ç›œ å£“åŠ› å¾ˆ å¤§ è€Œä¸” å±¢ æœ‰ å®¢äºº å¤±ç«Š ã€‚
+sentiment words: ['å£“åŠ›']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Arithmetic Average): 6.8
-sentiment words: ['‰ºÁ¦']
+sentiment words: ['å£“åŠ›']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Geometric  Average): 6.8
-´òëŠÔ’ µ½ ¾Æµê ¿‚ Å_ ºÍ ·ş„Õ†T ·Ö„e ¿Ï¶¨ µØ ¸æÔV ÎÒ ›] ¿´ÒŠ °¥ Ö»ºÃ ×ÔÕJ µ¹ üq ‡D ¡£
-sentiment words: ['¿Ï¶¨']
+The true values is: 4.75
+æ‰“é›»è©± åˆ° é…’åº— ç¸½ è‡º å’Œ æœå‹™å“¡ åˆ†åˆ¥ è‚¯å®š åœ° å‘Šè¨´ æˆ‘ æ²’ çœ‹è¦‹ å“ åªå¥½ è‡ªèª å€’ é»´ å˜ ã€‚
+sentiment words: ['è‚¯å®š']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Arithmetic Average): 6.0
-sentiment words: ['¿Ï¶¨']
+sentiment words: ['è‚¯å®š']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Geometric  Average): 6.0
-¾Æµê ×î ´ó µÄ ºÃÌ ¾Í ÊÇ ëx DFS ³¬¼‰ ½ü ´ó °ü Ğ¡ °ü ¿ÉÒÔ ·Å»Ø ·¿ég áá À^Àm È¥ ÆäËû µØ·½ ¹ä ¡£
-sentiment words: ['ºÃÌ']
+The true values is: 5.0
+é…’åº— æœ€ å¤§ çš„ å¥½è™• å°± æ˜¯ é›¢ DFS è¶…ç´š è¿‘ å¤§ åŒ… å° åŒ… å¯ä»¥ æ”¾å› æˆ¿é–“ å¾Œ ç¹¼çºŒ å» å…¶ä»– åœ°æ–¹ é€› ã€‚
+sentiment words: ['å¥½è™•']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['ºÃÌ']
+sentiment words: ['å¥½è™•']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
-ßB ×î Æğ´a µÄ ƒÉ Æ¿ ÃâÙM µVÈªË® ¶¼ ²» ½o Ìá¹© ¡£
-sentiment words: ['ÃâÙM']
+The true values is: 4.875
+é€£ æœ€ èµ·ç¢¼ çš„ å…© ç“¶ å…è²» ç¤¦æ³‰æ°´ éƒ½ ä¸ çµ¦ æä¾› ã€‚
+sentiment words: ['å…è²»']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['ÃâÙM']
+sentiment words: ['å…è²»']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Geometric  Average): 4.8
-Ña³ä ücÔu 2007Äê 10ÔÂ 14ÈÕ £º Îå ŒÓ ÊÇ Ò¹¿‚•ş ò}”_ ëŠÔ’ ¾Í ›] Í£ ß^
-sentiment words: ['ò}”_']
+The true values is: 6.0
+è£œå…… é»è©• 2007å¹´ 10æœˆ 14æ—¥ ï¼š äº” å±¤ æ˜¯ å¤œç¸½æœƒ é¨·æ“¾ é›»è©± å°± æ²’ åœ é
+sentiment words: ['é¨·æ“¾']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Arithmetic Average): 6.0
-sentiment words: ['ò}”_']
+sentiment words: ['é¨·æ“¾']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Geometric  Average): 6.0
-×î ´ó µÄ ƒüc Ò² ¾ÍÊÇ ƒråX ±Èİ^ Œ»İ ÁíÍâ ÓĞ ÃâÙM Í£Ü‡ˆö £¨ Èç¹û ×¡ ÔÚ ¹Åæ‚ ÑeÃæ °×Ìì ÊÇ ²» ÔÊÔS °Ñ Ü‡ é_ßMÈ¥ µÄ £© ¡£
-sentiment words: ['ƒüc', 'ÃâÙM']
+The true values is: 5.125
+æœ€ å¤§ çš„ å„ªé» ä¹Ÿ å°±æ˜¯ åƒ¹éŒ¢ æ¯”è¼ƒ å¯¦æƒ  å¦å¤– æœ‰ å…è²» åœè»Šå ´ ï¼ˆ å¦‚æœ ä½ åœ¨ å¤é® è£¡é¢ ç™½å¤© æ˜¯ ä¸ å…è¨± æŠŠ è»Š é–‹é€²å» çš„ ï¼‰ ã€‚
+sentiment words: ['å„ªé»', 'å…è²»']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.0, 4.8]
 The predicted values is (using Arithmetic Average): 4.9
-sentiment words: ['ƒüc', 'ÃâÙM']
+sentiment words: ['å„ªé»', 'å…è²»']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.0, 4.8]
 The predicted values is (using Geometric  Average): 4.89897948557
-ß@ ‚€ Ùeğ^ µÄ ·ş„Õ†T ¶¼ Õf ×Ô¼º µÄ ²Íd ×ö µÄ ®”µØ Ğ¡³Ô ºÃ³Ô ŒÔÚ ²» ¸Ò ¹¶Í¬ ·İÁ¿ ÉÙ Î¶µÀ Ò² ²» µØµÀ ƒr¸ñ …s ²» µÍ ½¨×h ÖØÒ• ®”µØ ÃÀÊ³ µÄ ÅóÓÑ ²»Òª ÔÚ Ùeğ^ µÄ ²Íd ¾Í²Í •ş Œ¦ É½Î÷ µÄ Ğ¡³Ô ®aÉú åeÕ` Ó¡Ïó µÄ ¡£
-sentiment words: ['Œ¦', 'ÅóÓÑ', 'åeÕ`']
+The true values is: 4.625
+é€™ å€‹ è³“é¤¨ çš„ æœå‹™å“¡ éƒ½ èªª è‡ªå·± çš„ é¤å»³ åš çš„ ç•¶åœ° å°åƒ å¥½åƒ å¯¦åœ¨ ä¸ æ•¢ è‹ŸåŒ ä»½é‡ å°‘ å‘³é“ ä¹Ÿ ä¸ åœ°é“ åƒ¹æ ¼ å» ä¸ ä½ å»ºè­° é‡è¦– ç•¶åœ° ç¾é£Ÿ çš„ æœ‹å‹ ä¸è¦ åœ¨ è³“é¤¨ çš„ é¤å»³ å°±é¤ æœƒ å° å±±è¥¿ çš„ å°åƒ ç”¢ç”Ÿ éŒ¯èª¤ å°è±¡ çš„ ã€‚
+sentiment words: ['å°', 'æœ‹å‹', 'éŒ¯èª¤']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.8, 4.2, 5.6]
 The predicted values is (using Arithmetic Average): 4.86666666667
-sentiment words: ['Œ¦', 'ÅóÓÑ', 'åeÕ`']
+sentiment words: ['å°', 'æœ‹å‹', 'éŒ¯èª¤']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.8, 4.2, 5.6]
 The predicted values is (using Geometric  Average): 4.83310449438
-·¿ Ò² ÔÚ 3˜Ç ´°×Ó ¿´³öÈ¥ ÊÇ ‚€ Æ½Å_ ºÜ ‰ºÒÖ µÄ ¸ĞÓX ĞlÉú égÓĞ¹É ºÜ ëy Â„ µÄ ¹Ö Î¶µÀ ëŠÒ•™C ºÜ Ğ¡ ºÜ ÆÆ µÄ ÄÇ ·N ·ş„Õ Ò² ²» Ì« ºÃ ·´Õı ÎÒ ÓXµÃ ÓĞ ÊÜò_ µÄ ¸ĞÓX ¡£
-sentiment words: ['ÊÜò_', '‰ºÒÖ', 'ºÃ', '¹Ö']
+The true values is: 6.0
+æˆ¿ ä¹Ÿ åœ¨ 3æ¨“ çª—å­ çœ‹å‡ºå» æ˜¯ å€‹ å¹³è‡º å¾ˆ å£“æŠ‘ çš„ æ„Ÿè¦º è¡›ç”Ÿ é–“æœ‰è‚¡ å¾ˆ é›£ è çš„ æ€ª å‘³é“ é›»è¦–æ©Ÿ å¾ˆ å° å¾ˆ ç ´ çš„ é‚£ ç¨® æœå‹™ ä¹Ÿ ä¸ å¤ª å¥½ åæ­£ æˆ‘ è¦ºå¾— æœ‰ å—é¨™ çš„ æ„Ÿè¦º ã€‚
+sentiment words: ['å—é¨™', 'å£“æŠ‘', 'å¥½', 'æ€ª']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [6.4, 5.4, 5.2, 4.8]
 The predicted values is (using Arithmetic Average): 5.45
-sentiment words: ['ÊÜò_', '‰ºÒÖ', 'ºÃ', '¹Ö']
+sentiment words: ['å—é¨™', 'å£“æŠ‘', 'å¥½', 'æ€ª']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [6.4, 5.4, 5.2, 4.8]
 The predicted values is (using Geometric  Average): 5.41944207445
-Èë ×¡ µÇÓ› µÄ •rºò ¾Í Ò» Ä˜ ºÜ ²» Ë¬ µÄ ˜Ó×Ó ëS•r Òª ¸ú ÎÒ‚ƒ ³³¼Ü ¾ä¾ä ¶¼ ÊÇ ÔÚ ±§Ô¹ ºÍ Ö¸ØŸ °×ÑÛ Ò» ‚€ ½Ó Ò» ‚€ ¡£
-sentiment words: ['±§Ô¹', 'Ö¸ØŸ', 'Ë¬']
+The true values is: 5.375
+å…¥ ä½ ç™»è¨˜ çš„ æ™‚å€™ å°± ä¸€ è‡‰ å¾ˆ ä¸ çˆ½ çš„ æ¨£å­ éš¨æ™‚ è¦ è·Ÿ æˆ‘å€‘ åµæ¶ å¥å¥ éƒ½ æ˜¯ åœ¨ æŠ±æ€¨ å’Œ æŒ‡è²¬ ç™½çœ¼ ä¸€ å€‹ æ¥ ä¸€ å€‹ ã€‚
+sentiment words: ['æŠ±æ€¨', 'æŒ‡è²¬', 'çˆ½']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.6, 6.8, 7.2]
 The predicted values is (using Arithmetic Average): 6.86666666667
-sentiment words: ['±§Ô¹', 'Ö¸ØŸ', 'Ë¬']
+sentiment words: ['æŠ±æ€¨', 'æŒ‡è²¬', 'çˆ½']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.6, 6.8, 7.2]
 The predicted values is (using Geometric  Average): 6.86217487785
-ÎÒ‚ƒ ÈÌ ÁË µ« ÓÑÇé ÌáĞÑ ÒÔáá í Èë×¡ µÄ ÂÃ¿Í Œ¦ ß@Ñe µÄ ·ş„Õ ÆÚÍûÖµ ²»ÓÃ Ì« ¸ß ¡£
-sentiment words: ['Œ¦', 'ÈÌ']
+The true values is: 6.5
+æˆ‘å€‘ å¿ äº† ä½† å‹æƒ… æé†’ ä»¥å¾Œ ä¾† å…¥ä½ çš„ æ—…å®¢ å° é€™è£¡ çš„ æœå‹™ æœŸæœ›å€¼ ä¸ç”¨ å¤ª é«˜ ã€‚
+sentiment words: ['å°', 'å¿']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.0]
 The predicted values is (using Arithmetic Average): 4.9
-sentiment words: ['Œ¦', 'ÈÌ']
+sentiment words: ['å°', 'å¿']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.0]
 The predicted values is (using Geometric  Average): 4.89897948557
-Ëû‚ƒ µÄ ·ş„Õ ‘B¶È ²»åe ß@ üc ÖµµÃ ±í“P .
-sentiment words: ['ÖµµÃ']
+The true values is: 5.625
+ä»–å€‘ çš„ æœå‹™ æ…‹åº¦ ä¸éŒ¯ é€™ é» å€¼å¾— è¡¨æš .
+sentiment words: ['å€¼å¾—']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['ÖµµÃ']
+sentiment words: ['å€¼å¾—']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Geometric  Average): 5.6
-×îáá Ï£Íû Ëû‚ƒ ¿ÉÒÔ ËÍ ëp Ôç ! ÖxÖx ! : ) Ùeğ^ ·´ğ 2008Äê 2ÔÂ 15ÈÕ £º ÄúºÃ £¡
-sentiment words: ['Ï£Íû', 'ÖxÖx']
+The true values is: 5.5
+æœ€å¾Œ å¸Œæœ› ä»–å€‘ å¯ä»¥ é€ é›™ æ—© ! è¬è¬ ! : ) è³“é¤¨ åé¥‹ 2008å¹´ 2æœˆ 15æ—¥ ï¼š æ‚¨å¥½ ï¼
+sentiment words: ['å¸Œæœ›', 'è¬è¬']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.8]
 The predicted values is (using Arithmetic Average): 5.5
-sentiment words: ['Ï£Íû', 'ÖxÖx']
+sentiment words: ['å¸Œæœ›', 'è¬è¬']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.8]
 The predicted values is (using Geometric  Average): 5.4918120871
-¸ĞÖx Äú Œ¦ ½ğ³Ç ´ó ¾Æµê µÄ Ö§³Ö £¡
-sentiment words: ['Œ¦', '¸ĞÖx', 'Ö§³Ö']
+The true values is: 3.777777778
+æ„Ÿè¬ æ‚¨ å° é‡‘åŸ å¤§ é…’åº— çš„ æ”¯æŒ ï¼
+sentiment words: ['å°', 'æ„Ÿè¬', 'æ”¯æŒ']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.8, 5.6, 5.0]
 The predicted values is (using Arithmetic Average): 5.13333333333
-sentiment words: ['Œ¦', '¸ĞÖx', 'Ö§³Ö']
+sentiment words: ['å°', 'æ„Ÿè¬', 'æ”¯æŒ']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.8, 5.6, 5.0]
 The predicted values is (using Geometric  Average): 5.12231665995
-Äú ·´Ó³ µÄ †–î} ¿Í·ş²¿ ÒÑ Ó›ä› ÎÒ‚ƒ •ş ÔÚ ÒÔáá µÄ ¹¤×÷ ÖĞ ¸ÄÉÆ ÖxÖx £¡
-sentiment words: ['¸ÄÉÆ', 'ÖxÖx']
+The true values is: 5.285714286
+æ‚¨ åæ˜  çš„ å•é¡Œ å®¢æœéƒ¨ å·² è¨˜éŒ„ æˆ‘å€‘ æœƒ åœ¨ ä»¥å¾Œ çš„ å·¥ä½œ ä¸­ æ”¹å–„ è¬è¬ ï¼
+sentiment words: ['æ”¹å–„', 'è¬è¬']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.8]
 The predicted values is (using Arithmetic Average): 5.5
-sentiment words: ['¸ÄÉÆ', 'ÖxÖx']
+sentiment words: ['æ”¹å–„', 'è¬è¬']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.8]
 The predicted values is (using Geometric  Average): 5.4918120871
-¾Æµê ÔOÊ© ›]ÓĞ ÆäËû ³ÇÊĞ µÄ Ï²íµÇ ³öÉ« ¡£
-sentiment words: ['³öÉ«']
+The true values is: 3.25
+é…’åº— è¨­æ–½ æ²’æœ‰ å…¶ä»– åŸå¸‚ çš„ å–œä¾†ç™» å‡ºè‰² ã€‚
+sentiment words: ['å‡ºè‰²']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['³öÉ«']
+sentiment words: ['å‡ºè‰²']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Geometric  Average): 5.6
-¸ĞÖx Äú ßx“ñ ÏÂé½ ±¾ ¾Æµê £¡
-sentiment words: ['¸ĞÖx']
+The true values is: 5.142857143
+æ„Ÿè¬ æ‚¨ é¸æ“‡ ä¸‹æ¦» æœ¬ é…’åº— ï¼
+sentiment words: ['æ„Ÿè¬']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['¸ĞÖx']
+sentiment words: ['æ„Ÿè¬']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Geometric  Average): 5.6
-×î½ü ±¾ ¾Æµê ĞÂ ÉÏÈÎ µÄ ĞÂ¼ÓÆÂ¼® ĞĞÕş Ö÷N ÕıÔÚ ¸ù“ş ¿ÍÈË µÄ ·´ğ Œ¦ ²ËğP ßMĞĞ ¸ÄßM Í¬•r ½üÆÚ Ò² ÓĞ ²»ÉÙ ĞÂ µÄ ²Íï‹ ´ÙäN ÍÆV »î„Ó ÏàĞÅ ÏÂ Ò» ´Î µÄ ówò ¿Ï¶¨ ²»•ş ×Œ Äú Ê§Íû ¡£
-sentiment words: ['Ê§Íû', 'Œ¦', '¸ÄßM', 'ÏàĞÅ', '¿Ï¶¨']
+The true values is: 5.571428571
+æœ€è¿‘ æœ¬ é…’åº— æ–° ä¸Šä»» çš„ æ–°åŠ å¡ç± è¡Œæ”¿ ä¸»å»š æ­£åœ¨ æ ¹æ“š å®¢äºº çš„ åé¥‹ å° èœé¤š é€²è¡Œ æ”¹é€² åŒæ™‚ è¿‘æœŸ ä¹Ÿ æœ‰ ä¸å°‘ æ–° çš„ é¤é£² ä¿ƒéŠ· æ¨å»£ æ´»å‹• ç›¸ä¿¡ ä¸‹ ä¸€ æ¬¡ çš„ é«”é©— è‚¯å®š ä¸æœƒ è®“ æ‚¨ å¤±æœ› ã€‚
+sentiment words: ['å¤±æœ›', 'å°', 'æ”¹é€²', 'ç›¸ä¿¡', 'è‚¯å®š']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.6, 4.8, 4.6, 5.4, 6.0]
 The predicted values is (using Arithmetic Average): 5.28
-sentiment words: ['Ê§Íû', 'Œ¦', '¸ÄßM', 'ÏàĞÅ', '¿Ï¶¨']
+sentiment words: ['å¤±æœ›', 'å°', 'æ”¹é€²', 'ç›¸ä¿¡', 'è‚¯å®š']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.6, 4.8, 4.6, 5.4, 6.0]
 The predicted values is (using Geometric  Average): 5.25468178817
-šgÓ­ Äú ÔÙ´Î Èë×¡ ÖÔĞÄ ×£ Äú Éíów ½¡¿µ ¹¤×÷ í˜Àû !
-sentiment words: ['šgÓ­', 'ÖÔĞÄ', 'í˜Àû']
+The true values is: 4.833333333
+æ­¡è¿ æ‚¨ å†æ¬¡ å…¥ä½ è¡·å¿ƒ ç¥ æ‚¨ èº«é«” å¥åº· å·¥ä½œ é †åˆ© !
+sentiment words: ['æ­¡è¿', 'è¡·å¿ƒ', 'é †åˆ©']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.4, 5.4, 5.0]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['šgÓ­', 'ÖÔĞÄ', 'í˜Àû']
+sentiment words: ['æ­¡è¿', 'è¡·å¿ƒ', 'é †åˆ©']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.4, 5.4, 5.0]
 The predicted values is (using Geometric  Average): 5.56990660034
-µØ¶Î ºÃ ÔOÊ© È« ·ş„Õ Ò»Á÷ Ï£Íû ÒÔáá ß€ ÄÜ Èë×¡ ´Ë ¾Æµê £¡
-sentiment words: ['ºÃ', 'Ï£Íû']
+The true values is: 4.166666667
+åœ°æ®µ å¥½ è¨­æ–½ å…¨ æœå‹™ ä¸€æµ å¸Œæœ› ä»¥å¾Œ é‚„ èƒ½ å…¥ä½ æ­¤ é…’åº— ï¼
+sentiment words: ['å¥½', 'å¸Œæœ›']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.2]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['ºÃ', 'Ï£Íû']
+sentiment words: ['å¥½', 'å¸Œæœ›']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.2]
 The predicted values is (using Geometric  Average): 5.2
-Ê×ÏÈ ¸ĞÖx Äú ´Ë ´Î ßx“ñ ÏÂé½ ºç˜ò Ó­Ùeğ^ £¡
-sentiment words: ['¸ĞÖx']
+The true values is: 6.0
+é¦–å…ˆ æ„Ÿè¬ æ‚¨ æ­¤ æ¬¡ é¸æ“‡ ä¸‹æ¦» è™¹æ©‹ è¿è³“é¤¨ ï¼
+sentiment words: ['æ„Ÿè¬']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['¸ĞÖx']
+sentiment words: ['æ„Ÿè¬']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Geometric  Average): 5.6
-Äú µÄ Èë×¡ MÒâ ¾ÍÊÇ Œ¦ ÎÒ‚ƒ ½Ó´ı ·ş„Õ ¹¤×÷ ×îºÃ µÄ ¿Ï¶¨ Åc ¼¤„î £¡
-sentiment words: ['Œ¦', '×îºÃ', 'MÒâ', '¼¤„î', '¿Ï¶¨']
+The true values is: 4.0
+æ‚¨ çš„ å…¥ä½ æ»¿æ„ å°±æ˜¯ å° æˆ‘å€‘ æ¥å¾… æœå‹™ å·¥ä½œ æœ€å¥½ çš„ è‚¯å®š èˆ‡ æ¿€å‹µ ï¼
+sentiment words: ['å°', 'æœ€å¥½', 'æ»¿æ„', 'æ¿€å‹µ', 'è‚¯å®š']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.8, 6.2, 5.6, 6.8, 6.0]
 The predicted values is (using Arithmetic Average): 5.88
-sentiment words: ['Œ¦', '×îºÃ', 'MÒâ', '¼¤„î', '¿Ï¶¨']
+sentiment words: ['å°', 'æœ€å¥½', 'æ»¿æ„', 'æ¿€å‹µ', 'è‚¯å®š']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.8, 6.2, 5.6, 6.8, 6.0]
 The predicted values is (using Geometric  Average): 5.84112127657
-¾Æµê †T¹¤ Œ¢ Ò»Èç ¼È Íù ²»”à Å¬Á¦ ·ş„Õ ºÃ Ã¿ Ò» Î» ¿ÍÈË ÌáÉı ·ş„Õ Æ·Ù|  È¡ ¸ü¶à µÄ Ùe¿Í MÒâ ÂÊ £¡
-sentiment words: ['ºÃ', 'MÒâ']
+The true values is: 5.666666667
+é…’åº— å“¡å·¥ å°‡ ä¸€å¦‚ æ—¢ å¾€ ä¸æ–· åŠªåŠ› æœå‹™ å¥½ æ¯ ä¸€ ä½ å®¢äºº æå‡ æœå‹™ å“è³ª çˆ­å– æ›´å¤š çš„ è³“å®¢ æ»¿æ„ ç‡ ï¼
+sentiment words: ['å¥½', 'æ»¿æ„']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.6]
 The predicted values is (using Arithmetic Average): 5.4
-sentiment words: ['ºÃ', 'MÒâ']
+sentiment words: ['å¥½', 'æ»¿æ„']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.6]
 The predicted values is (using Geometric  Average): 5.39629502529
-Í¬•r ¾Æµê ¬FëA¶Î ÍÆ³ö ÁË ƒ»İ ·¿ƒr ¼° Ïà‘ª µÄ ÔöÖµ ·ş„Õ ¾ßów Äú ¿É ²éÔƒ ¾WÕ¾ ƒÈÈİ ÕæÕ\ ÆÚ´ı Äú µÄ ÔÙ´Î ¹âÅR £¡
-sentiment words: ['ƒ»İ', 'ÕæÕ\']
+The true values is: 4.714285714
+åŒæ™‚ é…’åº— ç¾éšæ®µ æ¨å‡º äº† å„ªæƒ  æˆ¿åƒ¹ åŠ ç›¸æ‡‰ çš„ å¢å€¼ æœå‹™ å…·é«” æ‚¨ å¯ æŸ¥è©¢ ç¶²ç«™ å…§å®¹ çœŸèª  æœŸå¾… æ‚¨ çš„ å†æ¬¡ å…‰è‡¨ ï¼
+sentiment words: ['å„ªæƒ ', 'çœŸèª ']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.2, 5.0]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['ƒ»İ', 'ÕæÕ\']
+sentiment words: ['å„ªæƒ ', 'çœŸèª ']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.2, 5.0]
 The predicted values is (using Geometric  Average): 5.56776436283
-~ ~ ~ ~ ~ ~ ¿‚Ö® ¸ú ·ş„Õ ™… Õf Ê²üN Ëû‚ƒ ¶¼ ²» ´ğ‘ª ¶¼ ²»ÄÜ µÃµ½ ½â›Q ¡£
-sentiment words: ['´ğ‘ª', '½â›Q']
+The true values is: 5.5
+~ ~ ~ ~ ~ ~ ç¸½ä¹‹ è·Ÿ æœå‹™ æª¯ èªª ä»€éº¼ ä»–å€‘ éƒ½ ä¸ ç­”æ‡‰ éƒ½ ä¸èƒ½ å¾—åˆ° è§£æ±º ã€‚
+sentiment words: ['ç­”æ‡‰', 'è§£æ±º']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.0, 4.8]
 The predicted values is (using Arithmetic Average): 4.9
-sentiment words: ['´ğ‘ª', '½â›Q']
+sentiment words: ['ç­”æ‡‰', 'è§£æ±º']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.0, 4.8]
 The predicted values is (using Geometric  Average): 4.89897948557
-ºÜ Áî ÈË ŸoÄÎ µÄ Ò» ég ¾Æµê ŸoÕ“ ÄÄ ‚€ ·½Ãæ ÓÈÆä ÊÇ †T¹¤ µÄ ‚€ÈË ËØÙ| ÌØ„e ÊÇ ‘ª×ƒ ÄÜÁ¦ .
-sentiment words: ['ŸoÄÎ']
+The true values is: 6.625
+å¾ˆ ä»¤ äºº ç„¡å¥ˆ çš„ ä¸€ é–“ é…’åº— ç„¡è«– å“ª å€‹ æ–¹é¢ å°¤å…¶ æ˜¯ å“¡å·¥ çš„ å€‹äºº ç´ è³ª ç‰¹åˆ¥ æ˜¯ æ‡‰è®Š èƒ½åŠ› .
+sentiment words: ['ç„¡å¥ˆ']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Arithmetic Average): 4.2
-sentiment words: ['ŸoÄÎ']
+sentiment words: ['ç„¡å¥ˆ']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Geometric  Average): 4.2
-Ô‡Ïë Ò»ÏÂ ®”Ò¹ ÒÑ ºÜ Éî Äã Õı œÊ‚ä ÈëÃß µÄ •rºò
-sentiment words: ['Õı']
+The true values is: 5.777777778
+è©¦æƒ³ ä¸€ä¸‹ ç•¶å¤œ å·² å¾ˆ æ·± ä½  æ­£ æº–å‚™ å…¥çœ  çš„ æ™‚å€™
+sentiment words: ['æ­£']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['Õı']
+sentiment words: ['æ­£']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
-Ò²ÔS Ëû‚ƒ ËÆºõ ÓĞ ×ã‰ò µÄ ÀíÓÉ .
-sentiment words: ['×ã‰ò']
+The true values is: 5.0
+ä¹Ÿè¨± ä»–å€‘ ä¼¼ä¹ æœ‰ è¶³å¤  çš„ ç†ç”± .
+sentiment words: ['è¶³å¤ ']
+words frequent: [1]
 correpsonding sentiment values: [4.0]
 The predicted values is (using Arithmetic Average): 4.0
-sentiment words: ['×ã‰ò']
+sentiment words: ['è¶³å¤ ']
+words frequent: [1]
 correpsonding sentiment values: [4.0]
 The predicted values is (using Geometric  Average): 4.0
-Ëü ±¾í ‘ªÔ“ µÃ 9ĞÇ µÄ ëmÈ» ß@ ‚€ ÊÀ½ç ÉÏ K ²» ´æÔÚ ß@˜Ó ÍêÃÀ µÄ ¼Òˆ@ .
-sentiment words: ['ÍêÃÀ']
+The true values is: 2.6
+å®ƒ æœ¬ä¾† æ‡‰è©² å¾— 9æ˜Ÿ çš„ é›–ç„¶ é€™ å€‹ ä¸–ç•Œ ä¸Š ä¸¦ ä¸ å­˜åœ¨ é€™æ¨£ å®Œç¾ çš„ å®¶åœ’ .
+sentiment words: ['å®Œç¾']
+words frequent: [1]
 correpsonding sentiment values: [6.4]
 The predicted values is (using Arithmetic Average): 6.4
-sentiment words: ['ÍêÃÀ']
+sentiment words: ['å®Œç¾']
+words frequent: [1]
 correpsonding sentiment values: [6.4]
 The predicted values is (using Geometric  Average): 6.4
-ËÄĞÇ¼‰ Õûów ¸ĞÓX ÊÇ ×î ÓĞ Æ·Ù| µÄ Ó†·¿Å_ ½o µÄ ÊÇ ŞD½Ç µÄ 2715 ·¿ ·Ç³£ Êæ·ş
-sentiment words: ['Êæ·ş']
+The true values is: 5.75
+å››æ˜Ÿç´š æ•´é«” æ„Ÿè¦º æ˜¯ æœ€ æœ‰ å“è³ª çš„ è¨‚æˆ¿è‡º çµ¦ çš„ æ˜¯ è½‰è§’ çš„ 2715 æˆ¿ éå¸¸ èˆ’æœ
+sentiment words: ['èˆ’æœ']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Arithmetic Average): 3.6
-sentiment words: ['Êæ·ş']
+sentiment words: ['èˆ’æœ']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Geometric  Average): 3.6
-ÍíÉÏ ÓĞ Ğ¡½ã ò}”_ ëŠÔ’ ¡£
-sentiment words: ['ò}”_']
+The true values is: 5.777777778
+æ™šä¸Š æœ‰ å°å§ é¨·æ“¾ é›»è©± ã€‚
+sentiment words: ['é¨·æ“¾']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Arithmetic Average): 6.0
-sentiment words: ['ò}”_']
+sentiment words: ['é¨·æ“¾']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Geometric  Average): 6.0
-Â  ÅóÓÑ Õf ÄÇÑe µÄ Ğ¡½ã ±Èİ^ Ô×¿Í Õ„ ºÃ µÄ ƒråX Ö» ÊÇ Å_ÙM ×îáá ß€ •ş Áí ÊÕ Ììƒr Ğ¡ÙM ²» ½o µÄ Ô’ •ş ÓĞ ëuî^ ßMí ¸ú Äã Õ„ Í¦ ¿Ö²À µÄ ×îºÃ ²»Òª ‡LÔ‡ ¡£
-sentiment words: ['ºÃ', '¿Ö²À', '×îºÃ', 'ÅóÓÑ']
+The true values is: 5.0
+è½ æœ‹å‹ èªª é‚£è£¡ çš„ å°å§ æ¯”è¼ƒ å®°å®¢ è«‡ å¥½ çš„ åƒ¹éŒ¢ åª æ˜¯ è‡ºè²» æœ€å¾Œ é‚„ æœƒ å¦ æ”¶ å¤©åƒ¹ å°è²» ä¸ çµ¦ çš„ è©± æœƒ æœ‰ é›é ­ é€²ä¾† è·Ÿ ä½  è«‡ æŒº ææ€– çš„ æœ€å¥½ ä¸è¦ å˜—è©¦ ã€‚
+sentiment words: ['å¥½', 'ææ€–', 'æœ€å¥½', 'æœ‹å‹']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 6.8, 6.2, 4.2]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['ºÃ', '¿Ö²À', '×îºÃ', 'ÅóÓÑ']
+sentiment words: ['å¥½', 'ææ€–', 'æœ€å¥½', 'æœ‹å‹']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 6.8, 6.2, 4.2]
 The predicted values is (using Geometric  Average): 5.50856285223
-Ó² ¼ş ²»åe ÏàŒ¦ ì¶ 223 µÄ ·¿ƒr ½^Œ¦ĞÔ ƒr±È Ò»Á÷ £» µ«ÊÇ Ü› ·ş„Õ ß€ ÓĞ´ı ¸ÄÉÆ ÌØ„e ÊÇ ÓĞ ·Ç Õı³£ Çé›r °lÉú •r Òª ¶à Ä ¿ÍÈË ½Ç¶È ¿¼‘] Ùeğ^ ·´ğ 2008Äê 7ÔÂ 25ÈÕ £º Ê×ÏÈ ¸ĞÖx Äú µÄ ŒšÙF ÒâÒŠ
-sentiment words: ['ŒšÙF', '¸ĞÖx', '¸ÄÉÆ']
+The true values is: 4.75
+ç¡¬ ä»¶ ä¸éŒ¯ ç›¸å° æ–¼ 223 çš„ æˆ¿åƒ¹ çµ•å°æ€§ åƒ¹æ¯” ä¸€æµ ï¼› ä½†æ˜¯ è»Ÿ æœå‹™ é‚„ æœ‰å¾… æ”¹å–„ ç‰¹åˆ¥ æ˜¯ æœ‰ é æ­£å¸¸ æƒ…æ³ ç™¼ç”Ÿ æ™‚ è¦ å¤š å¾ å®¢äºº è§’åº¦ è€ƒæ…® è³“é¤¨ åé¥‹ 2008å¹´ 7æœˆ 25æ—¥ ï¼š é¦–å…ˆ æ„Ÿè¬ æ‚¨ çš„ å¯¶è²´ æ„è¦‹
+sentiment words: ['å¯¶è²´', 'æ„Ÿè¬', 'æ”¹å–„']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.0, 5.6, 5.2]
 The predicted values is (using Arithmetic Average): 5.26666666667
-sentiment words: ['ŒšÙF', '¸ĞÖx', '¸ÄÉÆ']
+sentiment words: ['å¯¶è²´', 'æ„Ÿè¬', 'æ”¹å–„']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.0, 5.6, 5.2]
 The predicted values is (using Geometric  Average): 5.26082422857
-ÕæÕ\ µÄ Ï£Íû Äú ÏÂ ´Î ÔÙ µ½ ÎÒ ¾Æµê í ¸ĞÊÜ Ò»ÏÂ ÎÒ‚ƒ ¾Æµê µÄ ÆäËû ·¿ég Èç ½¡¿µ†Î ég ÉÌ„Õ ˜Ë ég ºÀ †Î ºÀ˜Ë µÈ .
-sentiment words: ['Ï£Íû', 'ÕæÕ\']
+The true values is: 4.625
+çœŸèª  çš„ å¸Œæœ› æ‚¨ ä¸‹ æ¬¡ å† åˆ° æˆ‘ é…’åº— ä¾† æ„Ÿå— ä¸€ä¸‹ æˆ‘å€‘ é…’åº— çš„ å…¶ä»– æˆ¿é–“ å¦‚ å¥åº·å–® é–“ å•†å‹™ æ¨™ é–“ è±ª å–® è±ªæ¨™ ç­‰ .
+sentiment words: ['å¸Œæœ›', 'çœŸèª ']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.0]
 The predicted values is (using Arithmetic Average): 5.1
-sentiment words: ['Ï£Íû', 'ÕæÕ\']
+sentiment words: ['å¸Œæœ›', 'çœŸèª ']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.0]
 The predicted values is (using Geometric  Average): 5.09901951359
-üSÆÖ½­ µÄ ·¿ég ïL¾° ºÜ ²»åe Î¨Ò» Ï´Ôè µÄ Ë®œØ ß€ÊÇ ºö Àäºö Ÿá Õˆ ÔÙ ™z²é Ò»ÏÂ ß@ ‚€ †–î} ±Èİ^ ‡ÀÖØ µÄ ÌØ„e ÊÇ Ğ¡º¢ Ï´Ôè µÄ •rºò .
-sentiment words: ['‡ÀÖØ']
+The true values is: 4.2
+é»ƒæµ¦æ±Ÿ çš„ æˆ¿é–“ é¢¨æ™¯ å¾ˆ ä¸éŒ¯ å”¯ä¸€ æ´—æ¾¡ çš„ æ°´æº« é‚„æ˜¯ å¿½ å†·å¿½ ç†± è«‹ å† æª¢æŸ¥ ä¸€ä¸‹ é€™ å€‹ å•é¡Œ æ¯”è¼ƒ åš´é‡ çš„ ç‰¹åˆ¥ æ˜¯ å°å­© æ´—æ¾¡ çš„ æ™‚å€™ .
+sentiment words: ['åš´é‡']
+words frequent: [1]
 correpsonding sentiment values: [7.0]
 The predicted values is (using Arithmetic Average): 7.0
-sentiment words: ['‡ÀÖØ']
+sentiment words: ['åš´é‡']
+words frequent: [1]
 correpsonding sentiment values: [7.0]
 The predicted values is (using Geometric  Average): 7.0
-Ê×ÏÈ ¸ĞÖx Äú Œ¦ ÎÒ ¾Æµê ïL¾° ºÍ ·ş„Õ µÄ ¿Ï¶¨ ¾Æµê µÄ Ë®¹Ü •ş ßMÒ»²½ µÄ ¾S×o ºÍ ±£ğB ÍêÉÆ ¬FÓĞ Ó² ¼ş ÔOÊ©
-sentiment words: ['ÍêÉÆ', 'Œ¦', '¸ĞÖx', '¿Ï¶¨']
+The true values is: 5.625
+é¦–å…ˆ æ„Ÿè¬ æ‚¨ å° æˆ‘ é…’åº— é¢¨æ™¯ å’Œ æœå‹™ çš„ è‚¯å®š é…’åº— çš„ æ°´ç®¡ æœƒ é€²ä¸€æ­¥ çš„ ç¶­è­· å’Œ ä¿é¤Š å®Œå–„ ç¾æœ‰ ç¡¬ ä»¶ è¨­æ–½
+sentiment words: ['å®Œå–„', 'å°', 'æ„Ÿè¬', 'è‚¯å®š']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [4.6, 4.8, 5.6, 6.0]
 The predicted values is (using Arithmetic Average): 5.25
-sentiment words: ['ÍêÉÆ', 'Œ¦', '¸ĞÖx', '¿Ï¶¨']
+sentiment words: ['å®Œå–„', 'å°', 'æ„Ÿè¬', 'è‚¯å®š']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [4.6, 4.8, 5.6, 6.0]
 The predicted values is (using Geometric  Average): 5.21896743058
-¿‚µÄíÕf £º Ê§Íû £¡
-sentiment words: ['Ê§Íû']
+The true values is: 4.428571429
+ç¸½çš„ä¾†èªª ï¼š å¤±æœ› ï¼
+sentiment words: ['å¤±æœ›']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['Ê§Íû']
+sentiment words: ['å¤±æœ›']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Geometric  Average): 5.6
-é_Ê¼ ÄÃµ½ µÄ ·¿ég ·¿ég ƒÈ ³äM ºÜ ŠÁÒ µÄ ŸŸÎ¶ ŒÔÚ ÈÌÊÜ²»×¡ ÒªÇó “Q·¿ ²» Öª ÊÇ·ñ Ç° Å_ ÓĞ ÒâÒŠ ½o “Q ÁË Ò» ég ±È Ç° Ò» ég Ğ¡ µÄ ¶à µÄ ·¿ ËãÁË Œ¢¾Í Ò»ÏÂ Ë¯ Ò» ‚€ ÍíÉÏ °É ĞÄÏë ¡£
-sentiment words: ['ŠÁÒ']
+The true values is: 6.444444444
+é–‹å§‹ æ‹¿åˆ° çš„ æˆ¿é–“ æˆ¿é–“ å…§ å……æ»¿ å¾ˆ å¼·çƒˆ çš„ ç…™å‘³ å¯¦åœ¨ å¿å—ä¸ä½ è¦æ±‚ æ›æˆ¿ ä¸ çŸ¥ æ˜¯å¦ å‰ è‡º æœ‰ æ„è¦‹ çµ¦ æ› äº† ä¸€ é–“ æ¯” å‰ ä¸€ é–“ å° çš„ å¤š çš„ æˆ¿ ç®—äº† å°‡å°± ä¸€ä¸‹ ç¡ ä¸€ å€‹ æ™šä¸Š å§ å¿ƒæƒ³ ã€‚
+sentiment words: ['å¼·çƒˆ']
+words frequent: [1]
 correpsonding sentiment values: [7.8]
 The predicted values is (using Arithmetic Average): 7.8
-sentiment words: ['ŠÁÒ']
+sentiment words: ['å¼·çƒˆ']
+words frequent: [1]
 correpsonding sentiment values: [7.8]
 The predicted values is (using Geometric  Average): 7.8
-‰| ÖĞég ÊÇ °¼ÏÂÈ¥ µÄ ›]Şk·¨ ÌÉ µÄ Êæ·ş ÓÖ ²» ¸Ò ÔÙ ½Ğ “Q ·¿ ÁË ²» Öª ÔÙ•ş ³ö¬F Ê²üN †–î} ¡£
-sentiment words: ['Êæ·ş']
+The true values is: 4.888888889
+å¢Š ä¸­é–“ æ˜¯ å‡¹ä¸‹å» çš„ æ²’è¾¦æ³• èºº çš„ èˆ’æœ åˆ ä¸ æ•¢ å† å« æ› æˆ¿ äº† ä¸ çŸ¥ å†æœƒ å‡ºç¾ ä»€éº¼ å•é¡Œ ã€‚
+sentiment words: ['èˆ’æœ']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Arithmetic Average): 3.6
-sentiment words: ['Êæ·ş']
+sentiment words: ['èˆ’æœ']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Geometric  Average): 3.6
-Ì« Ğ¡ ÁË Œ¦ì¶ ´ó‰Kî^ µÄ ¿ÍÈË í Õf ÓĞüc ¾oˆ ¡£
-sentiment words: ['¾oˆ']
+The true values is: 5.857142857
+å¤ª å° äº† å°æ–¼ å¤§å¡Šé ­ çš„ å®¢äºº ä¾† èªª æœ‰é» ç·Šå¼µ ã€‚
+sentiment words: ['ç·Šå¼µ']
+words frequent: [1]
 correpsonding sentiment values: [7.0]
 The predicted values is (using Arithmetic Average): 7.0
-sentiment words: ['¾oˆ']
+sentiment words: ['ç·Šå¼µ']
+words frequent: [1]
 correpsonding sentiment values: [7.0]
 The predicted values is (using Geometric  Average): 7.0
-Ç° Å_ µÄ ·ş„Õ Òâ×R ß€ÊÇ ²»åe ÏÂ ´ÎÒª ºÃºÃ ÏíÊÜ Ò»ÏÂ ¾Æµê µÄ ·ş„Õ ¡£
-sentiment words: ['ÏíÊÜ', '´ÎÒª']
+The true values is: 5.111111111
+å‰ è‡º çš„ æœå‹™ æ„è­˜ é‚„æ˜¯ ä¸éŒ¯ ä¸‹ æ¬¡è¦ å¥½å¥½ äº«å— ä¸€ä¸‹ é…’åº— çš„ æœå‹™ ã€‚
+sentiment words: ['äº«å—', 'æ¬¡è¦']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.0]
 The predicted values is (using Arithmetic Average): 4.9
-sentiment words: ['ÏíÊÜ', '´ÎÒª']
+sentiment words: ['äº«å—', 'æ¬¡è¦']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.0]
 The predicted values is (using Geometric  Average): 4.89897948557
-¸ĞÖx Äú µÄ ücÔu ¾Æµê •ş ÖØÒ• Äú µÄ ½¨×h ²»”à ÍêÉÆ ®aÆ· ÆÚ´ı Äú ÔÙ´Î ¹âÅR Èë ×¡ ówò K ½oÓè ÎÒ‚ƒ ¸ü¶à ½¨×h ¡£
-sentiment words: ['ÍêÉÆ', '¸ĞÖx']
+The true values is: 4.875
+æ„Ÿè¬ æ‚¨ çš„ é»è©• é…’åº— æœƒ é‡è¦– æ‚¨ çš„ å»ºè­° ä¸æ–· å®Œå–„ ç”¢å“ æœŸå¾… æ‚¨ å†æ¬¡ å…‰è‡¨ å…¥ ä½ é«”é©— ä¸¦ çµ¦äºˆ æˆ‘å€‘ æ›´å¤š å»ºè­° ã€‚
+sentiment words: ['å®Œå–„', 'æ„Ÿè¬']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.6, 5.6]
 The predicted values is (using Arithmetic Average): 5.1
-sentiment words: ['ÍêÉÆ', '¸ĞÖx']
+sentiment words: ['å®Œå–„', 'æ„Ÿè¬']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.6, 5.6]
 The predicted values is (using Geometric  Average): 5.07543101618
-Äã‚ƒ ¾WÕ¾ Ö» ¾S×o ¾Æµê µÄ ÀûÒæ ¾Í ²»¹Ü ¿Í‘ô µÄ ¸ĞÊÜ †á ?
-sentiment words: ['ÀûÒæ']
+The true values is: 3.5
+ä½ å€‘ ç¶²ç«™ åª ç¶­è­· é…’åº— çš„ åˆ©ç›Š å°± ä¸ç®¡ å®¢æˆ¶ çš„ æ„Ÿå— å— ?
+sentiment words: ['åˆ©ç›Š']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['ÀûÒæ']
+sentiment words: ['åˆ©ç›Š']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
-Å¯šâ Ğ¡ µ½ ÎÒ ¸ĞÃ° µ½ ¬FÔÚ ß€ ›]ÓĞ ºÃ .
-sentiment words: ['ºÃ']
+The true values is: 6.75
+æš–æ°£ å° åˆ° æˆ‘ æ„Ÿå†’ åˆ° ç¾åœ¨ é‚„ æ²’æœ‰ å¥½ .
+sentiment words: ['å¥½']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['ºÃ']
+sentiment words: ['å¥½']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
-Äú ÔÚ Èë×¡ ¾Æµê ÆÚég ÓĞ ²» Óä¿ì µÄ ½›šv ÎÒ‚ƒ ·Ç³£ ±§Ç¸ ¡£
-sentiment words: ['±§Ç¸', '½›šv']
+The true values is: 6.142857143
+æ‚¨ åœ¨ å…¥ä½ é…’åº— æœŸé–“ æœ‰ ä¸ æ„‰å¿« çš„ ç¶“æ­· æˆ‘å€‘ éå¸¸ æŠ±æ­‰ ã€‚
+sentiment words: ['æŠ±æ­‰', 'ç¶“æ­·']
+words frequent: [1, 1]
 correpsonding sentiment values: [3.8, 4.8]
 The predicted values is (using Arithmetic Average): 4.3
-sentiment words: ['±§Ç¸', '½›šv']
+sentiment words: ['æŠ±æ­‰', 'ç¶“æ­·']
+words frequent: [1, 1]
 correpsonding sentiment values: [3.8, 4.8]
 The predicted values is (using Geometric  Average): 4.27083130081
-ÎÒ‚ƒ •ş Å¬Á¦ ¸ÄÕı Äú Ìá³ö µÄ ÒâÒŠ ¼ÓŠ †T¹¤ µÄ ½ÌÓı ÕæÕ\ Ï£Íû Äú µÄ ÔÙ´Î ¹âÅR £¡
-sentiment words: ['Ï£Íû', 'ÕæÕ\']
+The true values is: 5.5
+æˆ‘å€‘ æœƒ åŠªåŠ› æ”¹æ­£ æ‚¨ æå‡º çš„ æ„è¦‹ åŠ å¼· å“¡å·¥ çš„ æ•™è‚² çœŸèª  å¸Œæœ› æ‚¨ çš„ å†æ¬¡ å…‰è‡¨ ï¼
+sentiment words: ['å¸Œæœ›', 'çœŸèª ']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.0]
 The predicted values is (using Arithmetic Average): 5.1
-sentiment words: ['Ï£Íû', 'ÕæÕ\']
+sentiment words: ['å¸Œæœ›', 'çœŸèª ']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.0]
 The predicted values is (using Geometric  Average): 5.09901951359
-Í¶ÔV áá ›]ÓĞ ÈÎºÎ µÄ ½â›Q ·½°¸ Õf ¿Õšâ ÇåĞÂ ÓÃÍê ÁË ¾ÓÈ» ×Œ ÎÒ é_ ´° Í¨Í¨ ¿Õšâ ×Œ ÈË ¿ŞĞ¦²»µÃ £¡
-sentiment words: ['½â›Q']
+The true values is: 5.714285714
+æŠ•è¨´ å¾Œ æ²’æœ‰ ä»»ä½• çš„ è§£æ±º æ–¹æ¡ˆ èªª ç©ºæ°£ æ¸…æ–° ç”¨å®Œ äº† å±…ç„¶ è®“ æˆ‘ é–‹ çª— é€šé€š ç©ºæ°£ è®“ äºº å“­ç¬‘ä¸å¾— ï¼
+sentiment words: ['è§£æ±º']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['½â›Q']
+sentiment words: ['è§£æ±º']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Geometric  Average): 4.8
-¿ÍÈË íß^ ¶¼ ±íÊ¾ šâÎ¶ ëyÂ„ ºÜ ŒÀŞÎ ¡£
-sentiment words: ['ŒÀŞÎ', 'ëyÂ„']
+The true values is: 5.75
+å®¢äºº ä¾†é éƒ½ è¡¨ç¤º æ°£å‘³ é›£è å¾ˆ å°·å°¬ ã€‚
+sentiment words: ['å°·å°¬', 'é›£è']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.6, 5.6]
 The predicted values is (using Arithmetic Average): 5.1
-sentiment words: ['ŒÀŞÎ', 'ëyÂ„']
+sentiment words: ['å°·å°¬', 'é›£è']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.6, 5.6]
 The predicted values is (using Geometric  Average): 5.07543101618
-ŠÁÒ ½¨×h ²»Òª Èë×¡ £¡
-sentiment words: ['ŠÁÒ']
+The true values is: 5.0
+å¼·çƒˆ å»ºè­° ä¸è¦ å…¥ä½ ï¼
+sentiment words: ['å¼·çƒˆ']
+words frequent: [1]
 correpsonding sentiment values: [7.8]
 The predicted values is (using Arithmetic Average): 7.8
-sentiment words: ['ŠÁÒ']
+sentiment words: ['å¼·çƒˆ']
+words frequent: [1]
 correpsonding sentiment values: [7.8]
 The predicted values is (using Geometric  Average): 7.8
-¾Æµê µÄ Ó¾³Ø ß€²»Èç ±È Ëü Ğ¡ µÄ ¾Æµê Æ¯ÁÁ ¡£
-sentiment words: ['Æ¯ÁÁ']
+The true values is: 7.625
+é…’åº— çš„ æ³³æ±  é‚„ä¸å¦‚ æ¯” å®ƒ å° çš„ é…’åº— æ¼‚äº® ã€‚
+sentiment words: ['æ¼‚äº®']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Arithmetic Average): 6.0
-sentiment words: ['Æ¯ÁÁ']
+sentiment words: ['æ¼‚äº®']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Geometric  Average): 6.0
-ÔÚ Èı † ³ ÓÖ ²» ÊÇ †ıˆ ³ ß@ ‚€ ƒrÎ» ›]ÓĞ ƒ„İ µÃ²»µ½ Ïà‘ª µÄ ÒªÇó ¡£
-sentiment words: ['ƒ„İ']
+The true values is: 3.833333333
+åœ¨ ä¸‰ äº ç£ åˆ ä¸ æ˜¯ äºé¾ ç£ é€™ å€‹ åƒ¹ä½ æ²’æœ‰ å„ªå‹¢ å¾—ä¸åˆ° ç›¸æ‡‰ çš„ è¦æ±‚ ã€‚
+sentiment words: ['å„ªå‹¢']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Arithmetic Average): 6.0
-sentiment words: ['ƒ„İ']
+sentiment words: ['å„ªå‹¢']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Geometric  Average): 6.0
-Åc Ö®Ç° µÄ Ôuƒr ²»·û a ¾àëx ´ºˆA º£õr Vˆö ›] ÄÇüN ½ü £® b ˜ÇÏÂ µÄ ½ğ øP»Ë Vˆö Ò² ›]ÓĞ Ïë µÄ ÄÇüN ºÃ £® ¿‚Ö® £º ÏÂ »Ø ²»•ş ÔÚ ßx“ñ ÁË ß€²»Èç »¨ ÉÙ åX ×¡ Èı † ³ µÄ Ğ¡ĞÍ ¶È¼Ù´å »ò »¨ Í¬˜Ó µÄ åX ×¡ ­h¾³ ºÃ µÄ †ıˆ ³
-sentiment words: ['²»·û', 'ºÃ', 'Ïë']
+The true values is: 4.142857143
+èˆ‡ ä¹‹å‰ çš„ è©•åƒ¹ ä¸ç¬¦ a è·é›¢ æ˜¥åœ“ æµ·é®® å»£å ´ æ²’ é‚£éº¼ è¿‘ ï¼ b æ¨“ä¸‹ çš„ é‡‘ é³³å‡° å»£å ´ ä¹Ÿ æ²’æœ‰ æƒ³ çš„ é‚£éº¼ å¥½ ï¼ ç¸½ä¹‹ ï¼š ä¸‹ å› ä¸æœƒ åœ¨ é¸æ“‡ äº† é‚„ä¸å¦‚ èŠ± å°‘ éŒ¢ ä½ ä¸‰ äº ç£ çš„ å°å‹ åº¦å‡æ‘ æˆ– èŠ± åŒæ¨£ çš„ éŒ¢ ä½ ç’°å¢ƒ å¥½ çš„ äºé¾ ç£
+sentiment words: ['ä¸ç¬¦', 'å¥½', 'æƒ³']
+words frequent: [1, 2, 1]
 correpsonding sentiment values: [4.0, 5.2, 3.6]
-The predicted values is (using Arithmetic Average): 4.26666666667
-sentiment words: ['²»·û', 'ºÃ', 'Ïë']
+The predicted values is (using Arithmetic Average): 4.5
+sentiment words: ['ä¸ç¬¦', 'å¥½', 'æƒ³']
+words frequent: [1, 2, 1]
 correpsonding sentiment values: [4.0, 5.2, 3.6]
-The predicted values is (using Geometric  Average): 4.21491297212
-·¿ég ÑbĞŞ •rÉĞ ¡¢ œØÜ° ÓÃÆ· Ç¬œQ Êæßm ¶øÇÒ ÓĞ õr»¨ ºÍ Ë®¹û Ù›ËÍ ÓĞ ¼Ò µÄ ¸ĞÓX ·ş„Õ ŸáÇé ÖÜµ½ ¡£
-sentiment words: ['ÖÜµ½', 'œØÜ°', 'ŸáÇé', 'Êæßm']
+The predicted values is (using Geometric  Average): 4.44214054251
+The true values is: 4.571428571
+æˆ¿é–“ è£ä¿® æ™‚å°š ã€ æº«é¦¨ ç”¨å“ ä¹¾æ·¨ èˆ’é© è€Œä¸” æœ‰ é®®èŠ± å’Œ æ°´æœ è´ˆé€ æœ‰ å®¶ çš„ æ„Ÿè¦º æœå‹™ ç†±æƒ… å‘¨åˆ° ã€‚
+sentiment words: ['å‘¨åˆ°', 'æº«é¦¨', 'ç†±æƒ…', 'èˆ’é©']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [4.4, 4.0, 6.4, 3.6]
 The predicted values is (using Arithmetic Average): 4.6
-sentiment words: ['ÖÜµ½', 'œØÜ°', 'ŸáÇé', 'Êæßm']
+sentiment words: ['å‘¨åˆ°', 'æº«é¦¨', 'ç†±æƒ…', 'èˆ’é©']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [4.4, 4.0, 6.4, 3.6]
 The predicted values is (using Geometric  Average): 4.48744135169
-Î¨Ò» ²»×ã µÄ ÊÇ éT¿Ú ĞŞÂ· ²»ß^ Â Õf ÎåÒ» ¾Í ¿ÉÒÔ ĞŞºÃ ¡£
-sentiment words: ['²»×ã']
+The true values is: 4.857142857
+å”¯ä¸€ ä¸è¶³ çš„ æ˜¯ é–€å£ ä¿®è·¯ ä¸é è½èªª äº”ä¸€ å°± å¯ä»¥ ä¿®å¥½ ã€‚
+sentiment words: ['ä¸è¶³']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Arithmetic Average): 4.2
-sentiment words: ['²»×ã']
+sentiment words: ['ä¸è¶³']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Geometric  Average): 4.2
-×¡ áá ¸ĞÑÔ £º Í¬˜Ó µÄ ·ş„Õ Ëû‚ƒ ¸ü ó@Ï² £» Í¬˜Ó µÄ Î¢Ğ¦ Ëû‚ƒ ¸ü ÕæÕ\ £¡
-sentiment words: ['Î¢Ğ¦', 'ÕæÕ\', 'ó@Ï²']
+The true values is: 4.25
+ä½ å¾Œ æ„Ÿè¨€ ï¼š åŒæ¨£ çš„ æœå‹™ ä»–å€‘ æ›´ é©šå–œ ï¼› åŒæ¨£ çš„ å¾®ç¬‘ ä»–å€‘ æ›´ çœŸèª  ï¼
+sentiment words: ['å¾®ç¬‘', 'çœŸèª ', 'é©šå–œ']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.6, 5.0, 7.4]
 The predicted values is (using Arithmetic Average): 5.66666666667
-sentiment words: ['Î¢Ğ¦', 'ÕæÕ\', 'ó@Ï²']
+sentiment words: ['å¾®ç¬‘', 'çœŸèª ', 'é©šå–œ']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.6, 5.0, 7.4]
 The predicted values is (using Geometric  Average): 5.54182982039
-Ô“ ÓĞ µÄ ¶¼ ÓĞ ÁË Ÿo¿É ÌôÌŞ ¡£
-sentiment words: ['ÌôÌŞ']
+The true values is: 5.142857143
+è©² æœ‰ çš„ éƒ½ æœ‰ äº† ç„¡å¯ æŒ‘å‰” ã€‚
+sentiment words: ['æŒ‘å‰”']
+words frequent: [1]
 correpsonding sentiment values: [5.4]
 The predicted values is (using Arithmetic Average): 5.4
-sentiment words: ['ÌôÌŞ']
+sentiment words: ['æŒ‘å‰”']
+words frequent: [1]
 correpsonding sentiment values: [5.4]
 The predicted values is (using Geometric  Average): 5.4
-·¿ég Ñe ¼š¹ ¶¼ ¿¼‘] µÃ ºÜ ºÃ ½o ÈË ºÜ œØÜ° µÄ ¸ĞÓX ²»åe £¡
-sentiment words: ['ºÃ', 'œØÜ°']
+The true values is: 4.428571429
+æˆ¿é–“ è£¡ ç´°ç¯€ éƒ½ è€ƒæ…® å¾— å¾ˆ å¥½ çµ¦ äºº å¾ˆ æº«é¦¨ çš„ æ„Ÿè¦º ä¸éŒ¯ ï¼
+sentiment words: ['å¥½', 'æº«é¦¨']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.0]
 The predicted values is (using Arithmetic Average): 4.6
-sentiment words: ['ºÃ', 'œØÜ°']
+sentiment words: ['å¥½', 'æº«é¦¨']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.0]
 The predicted values is (using Geometric  Average): 4.5607017004
-¸ĞÖx Äú Œ¦ ÎÒ ¾Æµê µÄ êP×¢ Åc Ö§³Ö ÆÚ´ı Äú µÄ ÔÙ´Î ¹âÅR ¡£
-sentiment words: ['Œ¦', '¸ĞÖx', 'Ö§³Ö']
+The true values is: 5.714285714
+æ„Ÿè¬ æ‚¨ å° æˆ‘ é…’åº— çš„ é—œæ³¨ èˆ‡ æ”¯æŒ æœŸå¾… æ‚¨ çš„ å†æ¬¡ å…‰è‡¨ ã€‚
+sentiment words: ['å°', 'æ„Ÿè¬', 'æ”¯æŒ']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.8, 5.6, 5.0]
 The predicted values is (using Arithmetic Average): 5.13333333333
-sentiment words: ['Œ¦', '¸ĞÖx', 'Ö§³Ö']
+sentiment words: ['å°', 'æ„Ÿè¬', 'æ”¯æŒ']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.8, 5.6, 5.0]
 The predicted values is (using Geometric  Average): 5.12231665995
-×£ ¹¤×÷ í˜Àû £¡
-sentiment words: ['í˜Àû']
+The true values is: 4.555555556
+ç¥ å·¥ä½œ é †åˆ© ï¼
+sentiment words: ['é †åˆ©']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['í˜Àû']
+sentiment words: ['é †åˆ©']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
-¾Æµê „‚„‚ ÑbĞŞ ºÃ ÓĞüc šâÎ¶ ÎÒ ÄÜ ÈÌÊÜ Í¬ÊÂ ²»ĞĞ ¡£
-sentiment words: ['ºÃ']
+The true values is: 5.5
+é…’åº— å‰›å‰› è£ä¿® å¥½ æœ‰é» æ°£å‘³ æˆ‘ èƒ½ å¿å— åŒäº‹ ä¸è¡Œ ã€‚
+sentiment words: ['å¥½']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['ºÃ']
+sentiment words: ['å¥½']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
-¾Æµê ¡¢ ˜ÇÏÂ ²Íd ¡¢ ¾Æ°É ¡¢ ÈÕÊ½ ÁÏÀí ¶¼ ÊÇ ¿Æ¼¼ ´óB †Îªš ³Ğ°ü ³öÈ¥ µÄ ¡£
-sentiment words: ['†Îªš']
+The true values is: 4.222222222
+é…’åº— ã€ æ¨“ä¸‹ é¤å»³ ã€ é…’å§ ã€ æ—¥å¼ æ–™ç† éƒ½ æ˜¯ ç§‘æŠ€ å¤§å»ˆ å–®ç¨ æ‰¿åŒ… å‡ºå» çš„ ã€‚
+sentiment words: ['å–®ç¨']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Arithmetic Average): 3.6
-sentiment words: ['†Îªš']
+sentiment words: ['å–®ç¨']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Geometric  Average): 3.6
-›] ºÃ ¾Í ²»Òª ×Œ ¿ÍÈË ×¡ Âï ŠÁÒ ±ÉÒ• ß@ Ò»üc ¡£
-sentiment words: ['ºÃ', 'ŠÁÒ']
+The true values is: 3.714285714
+æ²’ å¥½ å°± ä¸è¦ è®“ å®¢äºº ä½ å˜› å¼·çƒˆ é„™è¦– é€™ ä¸€é» ã€‚
+sentiment words: ['å¥½', 'å¼·çƒˆ']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 7.8]
 The predicted values is (using Arithmetic Average): 6.5
-sentiment words: ['ºÃ', 'ŠÁÒ']
+sentiment words: ['å¥½', 'å¼·çƒˆ']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 7.8]
 The predicted values is (using Geometric  Average): 6.36867333124
-9ÔÂ 30ÈÕ ÎÒ ½o ÅóÓÑ £¨ Ä µÂ‡ø í ºşÄÏ ´òËã È¥ ˆ¼Ò½ç £© îAÓ† ÁË 2 ég ·¿ 1 Íí µÚ2Ìì ÔçÉÏ ½Y¤ •r ·ş„Õ†T Ó²Õf ·¿ég ÉÙ ÁË 1 ‚€ ÒÂ¼Ü ÎÒ ÅóÓÑ Ö»ºÃ ÉÏÈ¥ 6˜Ç ¿´ ½Y¹û ÊÇ ·ş„Õ†T ”µåe ÁË ¡£
-sentiment words: ['ÅóÓÑ']
+The true values is: 7.285714286
+9æœˆ 30æ—¥ æˆ‘ çµ¦ æœ‹å‹ ï¼ˆ å¾ å¾·åœ‹ ä¾† æ¹–å— æ‰“ç®— å» å¼µå®¶ç•Œ ï¼‰ é è¨‚ äº† 2 é–“ æˆ¿ 1 æ™š ç¬¬2å¤© æ—©ä¸Š çµå¸³ æ™‚ æœå‹™å“¡ ç¡¬èªª æˆ¿é–“ å°‘ äº† 1 å€‹ è¡£æ¶ æˆ‘ æœ‹å‹ åªå¥½ ä¸Šå» 6æ¨“ çœ‹ çµæœ æ˜¯ æœå‹™å“¡ æ•¸éŒ¯ äº† ã€‚
+sentiment words: ['æœ‹å‹']
+words frequent: [2]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Arithmetic Average): 4.2
-sentiment words: ['ÅóÓÑ']
+sentiment words: ['æœ‹å‹']
+words frequent: [2]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Geometric  Average): 4.2
-ÎÒ ÅóÓÑ ºÜ Éúšâ Õf ¾Æµê ·ş„Õ†T ”µ”µ ¶¼ ”µ²»Çå †á £¿ °lÉú ß@˜Ó µÄ ÊÂ ×Œ ¿ÍÈË ¸ĞÓXµ½ ºÜ ²» Óä¿ì Í¬•r µ¢Õ` ÁË ¿ÍÈË ½Y¤ µÄ •rég ¡£
-sentiment words: ['ÅóÓÑ', 'Éúšâ']
+The true values is: 4.428571429
+æˆ‘ æœ‹å‹ å¾ˆ ç”Ÿæ°£ èªª é…’åº— æœå‹™å“¡ æ•¸æ•¸ éƒ½ æ•¸ä¸æ¸… å— ï¼Ÿ ç™¼ç”Ÿ é€™æ¨£ çš„ äº‹ è®“ å®¢äºº æ„Ÿè¦ºåˆ° å¾ˆ ä¸ æ„‰å¿« åŒæ™‚ è€½èª¤ äº† å®¢äºº çµå¸³ çš„ æ™‚é–“ ã€‚
+sentiment words: ['æœ‹å‹', 'ç”Ÿæ°£']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.2, 5.8]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['ÅóÓÑ', 'Éúšâ']
+sentiment words: ['æœ‹å‹', 'ç”Ÿæ°£']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.2, 5.8]
 The predicted values is (using Geometric  Average): 4.9355850717
-ëŠÒ• “u¿ØÆ÷ ²»ÒŠÁË ááí ÔÚ ÎÒ ŠÁÒ ÒªÇó ÏÂ ¾Æµê ÈË†T ¿ÉÄÜ „ÓÓÃ °Ù ¶È ËÑË÷µ½ “u¿Ø Æ÷ ß@ ²Å ÁTĞİ £¡
-sentiment words: ['ŠÁÒ']
+The true values is: 6.714285714
+é›»è¦– æ–æ§å™¨ ä¸è¦‹äº† å¾Œä¾† åœ¨ æˆ‘ å¼·çƒˆ è¦æ±‚ ä¸‹ é…’åº— äººå“¡ å¯èƒ½ å‹•ç”¨ ç™¾ åº¦ æœç´¢åˆ° æ–æ§ å™¨ é€™ æ‰ ç½·ä¼‘ ï¼
+sentiment words: ['å¼·çƒˆ']
+words frequent: [1]
 correpsonding sentiment values: [7.8]
 The predicted values is (using Arithmetic Average): 7.8
-sentiment words: ['ŠÁÒ']
+sentiment words: ['å¼·çƒˆ']
+words frequent: [1]
 correpsonding sentiment values: [7.8]
 The predicted values is (using Geometric  Average): 7.8
-ÎÒ ¾Í ¼{ ÁË £º ÎÒ ÔõüN ¾Í ß@üN µ¹üq °¡ £¿ Ã¿ ´Î îA¶¨ ±±·½ ¶¼ •ş ÓĞ ÂéŸ© ÎÒ Ïë ß@ ²» ÊÇ Å¼È» °É ±±·½ µÄ Ç° Å_ ·ş„Õ ÕæµÄ ÓĞ´ı Ìá¸ß ¡£
-sentiment words: ['Ïë', 'ÂéŸ©']
+The true values is: 5.0
+æˆ‘ å°± ç´æ‚¶ äº† ï¼š æˆ‘ æ€éº¼ å°± é€™éº¼ å€’é»´ å•Š ï¼Ÿ æ¯ æ¬¡ é å®š åŒ—æ–¹ éƒ½ æœƒ æœ‰ éº»ç…© æˆ‘ æƒ³ é€™ ä¸ æ˜¯ å¶ç„¶ å§ åŒ—æ–¹ çš„ å‰ è‡º æœå‹™ çœŸçš„ æœ‰å¾… æé«˜ ã€‚
+sentiment words: ['æƒ³', 'éº»ç…©']
+words frequent: [1, 1]
 correpsonding sentiment values: [3.6, 5.0]
 The predicted values is (using Arithmetic Average): 4.3
-sentiment words: ['Ïë', 'ÂéŸ©']
+sentiment words: ['æƒ³', 'éº»ç…©']
+words frequent: [1, 1]
 correpsonding sentiment values: [3.6, 5.0]
 The predicted values is (using Geometric  Average): 4.24264068712
-ßMÈë ·¿ég áá ·Ç³£ Êæ·ş ¡£
-sentiment words: ['Êæ·ş']
+The true values is: 6.285714286
+é€²å…¥ æˆ¿é–“ å¾Œ éå¸¸ èˆ’æœ ã€‚
+sentiment words: ['èˆ’æœ']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Arithmetic Average): 3.6
-sentiment words: ['Êæ·ş']
+sentiment words: ['èˆ’æœ']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Geometric  Average): 3.6
-·¿ég İ^ ´ó ×¡ µÄ M Êæ·ş µÄ ¡£
-sentiment words: ['Êæ·ş']
+The true values is: 4.2
+æˆ¿é–“ è¼ƒ å¤§ ä½ çš„ æ»¿ èˆ’æœ çš„ ã€‚
+sentiment words: ['èˆ’æœ']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Arithmetic Average): 3.6
-sentiment words: ['Êæ·ş']
+sentiment words: ['èˆ’æœ']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Geometric  Average): 3.6
-ÎÒ ×¡ µÄ ÊÇ 2˜Ç ´°‘ô ²»ÄÜ ÉÏæi ²» ‰ò °²È« .
-sentiment words: ['°²È«']
+The true values is: 4.857142857
+æˆ‘ ä½ çš„ æ˜¯ 2æ¨“ çª—æˆ¶ ä¸èƒ½ ä¸Šé– ä¸ å¤  å®‰å…¨ .
+sentiment words: ['å®‰å…¨']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Arithmetic Average): 4.4
-sentiment words: ['°²È«']
+sentiment words: ['å®‰å…¨']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Geometric  Average): 4.4
-Èë ×¡¿Í ÈË ÉÙ Òò´Ë Î´ °lÉú Åc Ëû‚ƒ µÄ ĞnÍ» ´Ë ì¶ Ëû‚ƒ Õf Òª ½Ó´ı Ò» ‚€ ˆF
-sentiment words: ['ĞnÍ»']
+The true values is: 5.428571429
+å…¥ ä½å®¢ äºº å°‘ å› æ­¤ æœª ç™¼ç”Ÿ èˆ‡ ä»–å€‘ çš„ è¡çª æ­¤ æ–¼ ä»–å€‘ èªª è¦ æ¥å¾… ä¸€ å€‹ åœ˜
+sentiment words: ['è¡çª']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Arithmetic Average): 6.8
-sentiment words: ['ĞnÍ»']
+sentiment words: ['è¡çª']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Geometric  Average): 6.8
-¾Æµê ­h¾³ ºÜ ²»åe ·ş„Õ Ò² ºÜ ºÃ ¡£ Ç° Å_ µÄ ½Ó´ı ºÜ ÓHÇĞ ßB Ã¿ Ò» ‚€ Óöµ½ µÄ Çå¹¤ ¶¼ •ş Ö÷„Ó ºÍ Äã Õf " Äã ºÃ "
-sentiment words: ['ºÃ', 'ÓHÇĞ', 'Óöµ½']
+The true values is: 3.142857143
+é…’åº— ç’°å¢ƒ å¾ˆ ä¸éŒ¯ æœå‹™ ä¹Ÿ å¾ˆ å¥½ ã€‚ å‰ è‡º çš„ æ¥å¾… å¾ˆ è¦ªåˆ‡ é€£ æ¯ ä¸€ å€‹ é‡åˆ° çš„ æ¸…æ½”å·¥ éƒ½ æœƒ ä¸»å‹• å’Œ ä½  èªª " ä½  å¥½ "
+sentiment words: ['å¥½', 'è¦ªåˆ‡', 'é‡åˆ°']
+words frequent: [2, 1, 1]
 correpsonding sentiment values: [5.2, 5.0, 4.2]
-The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['ºÃ', 'ÓHÇĞ', 'Óöµ½']
+The predicted values is (using Arithmetic Average): 4.9
+sentiment words: ['å¥½', 'è¦ªåˆ‡', 'é‡åˆ°']
+words frequent: [2, 1, 1]
 correpsonding sentiment values: [5.2, 5.0, 4.2]
-The predicted values is (using Geometric  Average): 4.7797760205
-ÎÒ Èë ×¡ µÄ •rég ÊÇ 4.4 ~ 4.6 ›] ¿ÕÕ{ ÕæµÄ ÓĞüc Ÿá ! Ña³ä ücÔu 2008Äê 4ÔÂ 7ÈÕ £º ß€ ÓĞ ¾Æµê µÄ ÃâÙM ½ÓËÍ™C ·ş„Õ Ò² ÊÇ ÎÒ ßx“ñ Èë×¡ µÄ Ô­Òò Ö® Ò» ! Ê¡•r Ê¡ ĞÄ ! ºÃ !
-sentiment words: ['ÃâÙM', 'ºÃ']
+The predicted values is (using Geometric  Average): 4.88153598919
+The true values is: 4.444444444
+æˆ‘ å…¥ ä½ çš„ æ™‚é–“ æ˜¯ 4.4 ~ 4.6 æ²’ ç©ºèª¿ çœŸçš„ æœ‰é» ç†± ! è£œå…… é»è©• 2008å¹´ 4æœˆ 7æ—¥ ï¼š é‚„ æœ‰ é…’åº— çš„ å…è²» æ¥é€æ©Ÿ æœå‹™ ä¹Ÿ æ˜¯ æˆ‘ é¸æ“‡ å…¥ä½ çš„ åŸå›  ä¹‹ ä¸€ ! çœæ™‚ çœ å¿ƒ ! å¥½ !
+sentiment words: ['å…è²»', 'å¥½']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.2]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['ÃâÙM', 'ºÃ']
+sentiment words: ['å…è²»', 'å¥½']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.2]
 The predicted values is (using Geometric  Average): 4.99599839872
-Ì« ×Œ ÈË Ê§Íû ÁË £¡
-sentiment words: ['Ê§Íû']
+The true values is: 5.875
+å¤ª è®“ äºº å¤±æœ› äº† ï¼
+sentiment words: ['å¤±æœ›']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['Ê§Íû']
+sentiment words: ['å¤±æœ›']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Geometric  Average): 5.6
-¾Æµê Ö» •ş Œ¦ ¿ÍÈË ²» ºÃ µÄ ücÔu ×ö³ö Şqñg ß@˜Ó µÄ ¾Æµê ß€ ÓĞ Éú´æ ÖªµÀ †á £¿ ëyµÀ ÌÃÌÃ ’ìÁùĞÇ µÄ ¾Æµê £¨ ¸ù±¾ ¾Í ²» ÊÇ ‡ø¼Ò ÂÃß[¾Ö îC°l µÄ £© ¾Í ÊÇ ÒÔ ß@˜Ó ÕæÕ\ µÄ ‘B¶È »Øğ Äã‚ƒ µÄ ¿ÍÈË †á £¿ ÆäËû µÄ ¾Í ¿ÉÏë¶øÖª ÁË ¡£
-sentiment words: ['ºÃ', 'Œ¦', 'ÕæÕ\']
+The true values is: 6.125
+é…’åº— åª æœƒ å° å®¢äºº ä¸ å¥½ çš„ é»è©• åšå‡º è¾¯é§ é€™æ¨£ çš„ é…’åº— é‚„ æœ‰ ç”Ÿå­˜ çŸ¥é“ å— ï¼Ÿ é›£é“ å ‚å ‚ æ›å…­æ˜Ÿ çš„ é…’åº— ï¼ˆ æ ¹æœ¬ å°± ä¸ æ˜¯ åœ‹å®¶ æ—…éŠå±€ é ’ç™¼ çš„ ï¼‰ å°± æ˜¯ ä»¥ é€™æ¨£ çœŸèª  çš„ æ…‹åº¦ å›é¥‹ ä½ å€‘ çš„ å®¢äºº å— ï¼Ÿ å…¶ä»– çš„ å°± å¯æƒ³è€ŒçŸ¥ äº† ã€‚
+sentiment words: ['å¥½', 'å°', 'çœŸèª ']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.2, 4.8, 5.0]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['ºÃ', 'Œ¦', 'ÕæÕ\']
+sentiment words: ['å¥½', 'å°', 'çœŸèª ']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.2, 4.8, 5.0]
 The predicted values is (using Geometric  Average): 4.99733190985
-ºÇºÇ ÕæÕ\ ¸ĞÖx Äú µÄ ÔÙ´Î ÔÙ´Î üc Ôu ÎÒ‚ƒ ÏàĞÅ ÔÚ Äú µÄ êP×¢ ÏÂ ÎÒ‚ƒ •ş Å¬Á¦ Ô½íÔ½ ºÃ £¡
-sentiment words: ['ºÇºÇ', 'ºÃ', '¸ĞÖx', 'ÏàĞÅ', 'ÕæÕ\']
+The true values is: 5.666666667
+å‘µå‘µ çœŸèª  æ„Ÿè¬ æ‚¨ çš„ å†æ¬¡ å†æ¬¡ é» è©• æˆ‘å€‘ ç›¸ä¿¡ åœ¨ æ‚¨ çš„ é—œæ³¨ ä¸‹ æˆ‘å€‘ æœƒ åŠªåŠ› è¶Šä¾†è¶Š å¥½ ï¼
+sentiment words: ['å‘µå‘µ', 'å¥½', 'æ„Ÿè¬', 'ç›¸ä¿¡', 'çœŸèª ']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.6, 5.2, 5.6, 5.4, 5.0]
 The predicted values is (using Arithmetic Average): 5.16
-sentiment words: ['ºÇºÇ', 'ºÃ', '¸ĞÖx', 'ÏàĞÅ', 'ÕæÕ\']
+sentiment words: ['å‘µå‘µ', 'å¥½', 'æ„Ÿè¬', 'ç›¸ä¿¡', 'çœŸèª ']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.6, 5.2, 5.6, 5.4, 5.0]
 The predicted values is (using Geometric  Average): 5.1482851496
-ÕæĞÄ ×£ îŠ Äú ¡° ÆßÏ¦ ¡± ÇéÈË¹ ¿ì˜· £¡
-sentiment words: ['¿ì˜·', 'ÕæĞÄ', 'îŠ']
+The true values is: 5.0
+çœŸå¿ƒ ç¥ é¡˜ æ‚¨ â€œ ä¸ƒå¤• â€ æƒ…äººç¯€ å¿«æ¨‚ ï¼
+sentiment words: ['å¿«æ¨‚', 'çœŸå¿ƒ', 'é¡˜']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.4, 5.6, 5.0]
 The predicted values is (using Arithmetic Average): 5.66666666667
-sentiment words: ['¿ì˜·', 'ÕæĞÄ', 'îŠ']
+sentiment words: ['å¿«æ¨‚', 'çœŸå¿ƒ', 'é¡˜']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.4, 5.6, 5.0]
 The predicted values is (using Geometric  Average): 5.63783898565
-ÓXµÃ ·ş„Õ†T ÓĞüc Àäµ­ ¡£
-sentiment words: ['Àäµ­']
+The true values is: 5.75
+è¦ºå¾— æœå‹™å“¡ æœ‰é» å†·æ·¡ ã€‚
+sentiment words: ['å†·æ·¡']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Arithmetic Average): 3.6
-sentiment words: ['Àäµ­']
+sentiment words: ['å†·æ·¡']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Geometric  Average): 3.6
-×î ²» ºÃ µÄ ÊÇ µØ·½ ±Èİ^ Æ« ¾Æµê ËùÌ Î»ÖÃ Õf µÃ ºÃÂ  µÄ ÊÇ ĞÂ³Ç…^ Ö± °× µÄ ¾ÍÊÇ ²î²»¶à ¾Í ÊÇ ½¼…^ ÁË ºÃÔÚ ÉÇî^ K ²» ´ó µ½ ÊĞ…^ ·±ÈA µÄ µØ·½ Ò² »¨ ²» ÁË ¶àÉÙ •rég ¡£
-sentiment words: ['ºÃ']
+The true values is: 3.857142857
+æœ€ ä¸ å¥½ çš„ æ˜¯ åœ°æ–¹ æ¯”è¼ƒ å é…’åº— æ‰€è™• ä½ç½® èªª å¾— å¥½è½ çš„ æ˜¯ æ–°åŸå€ ç›´ ç™½ çš„ å°±æ˜¯ å·®ä¸å¤š å°± æ˜¯ éƒŠå€ äº† å¥½åœ¨ æ±•é ­ ä¸¦ ä¸ å¤§ åˆ° å¸‚å€ ç¹è¯ çš„ åœ°æ–¹ ä¹Ÿ èŠ± ä¸ äº† å¤šå°‘ æ™‚é–“ ã€‚
+sentiment words: ['å¥½']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['ºÃ']
+sentiment words: ['å¥½']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
-ÑbĞŞ ÉÏ™n ´Î µ« ƒråX ²» ÙF ³öÆ· ºÃ ÖµµÃ ÍÆË] ¡£
-sentiment words: ['ÖµµÃ', 'ºÃ']
+The true values is: 5.428571429
+è£ä¿® ä¸Šæª” æ¬¡ ä½† åƒ¹éŒ¢ ä¸ è²´ å‡ºå“ å¥½ å€¼å¾— æ¨è–¦ ã€‚
+sentiment words: ['å€¼å¾—', 'å¥½']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.6, 5.2]
 The predicted values is (using Arithmetic Average): 5.4
-sentiment words: ['ÖµµÃ', 'ºÃ']
+sentiment words: ['å€¼å¾—', 'å¥½']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.6, 5.2]
 The predicted values is (using Geometric  Average): 5.39629502529
-ÎÒ ÊÇ Â  Î÷éT×Ó µÄ ÅóÓÑ ÍÆË] ßx“ñ ß@ ¼Ò ¾Æµê µÄ Ó† µÄ ºÀÈA ég ¿‚ów ¸ĞÓX ²»åe ¡£
-sentiment words: ['ÅóÓÑ', 'ºÀÈA']
+The true values is: 3.75
+æˆ‘ æ˜¯ è½ è¥¿é–€å­ çš„ æœ‹å‹ æ¨è–¦ é¸æ“‡ é€™ å®¶ é…’åº— çš„ è¨‚ çš„ è±ªè¯ é–“ ç¸½é«” æ„Ÿè¦º ä¸éŒ¯ ã€‚
+sentiment words: ['æœ‹å‹', 'è±ªè¯']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.2, 5.8]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['ÅóÓÑ', 'ºÀÈA']
+sentiment words: ['æœ‹å‹', 'è±ªè¯']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.2, 5.8]
 The predicted values is (using Geometric  Average): 4.9355850717
-ß€ Ëã Êæ·ş Ôç²Í ¿ÚÎ¶ Ò² ²»åe ¡£
-sentiment words: ['Êæ·ş']
+The true values is: 4.6
+é‚„ ç®— èˆ’æœ æ—©é¤ å£å‘³ ä¹Ÿ ä¸éŒ¯ ã€‚
+sentiment words: ['èˆ’æœ']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Arithmetic Average): 3.6
-sentiment words: ['Êæ·ş']
+sentiment words: ['èˆ’æœ']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Geometric  Average): 3.6
-ß@Ñe ·ş„Õ Í¦ ºÃ µÄ ›]ÓĞ Ç°Ãæ ÅóÓÑ Õf µÄ ÄÇüN Ôã¸â Â Õf ÎÒ ÊÇ Î÷éT×Ó µÄ ß€ Ö÷„Ó Í ÎÒ upgrade £¡
-sentiment words: ['ºÃ', 'ÅóÓÑ', 'Ôã¸â']
+The true values is: 3.285714286
+é€™è£¡ æœå‹™ æŒº å¥½ çš„ æ²’æœ‰ å‰é¢ æœ‹å‹ èªª çš„ é‚£éº¼ ç³Ÿç³• è½èªª æˆ‘ æ˜¯ è¥¿é–€å­ çš„ é‚„ ä¸»å‹• å¹« æˆ‘ upgrade ï¼
+sentiment words: ['å¥½', 'æœ‹å‹', 'ç³Ÿç³•']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.2, 4.2, 5.2]
 The predicted values is (using Arithmetic Average): 4.86666666667
-sentiment words: ['ºÃ', 'ÅóÓÑ', 'Ôã¸â']
+sentiment words: ['å¥½', 'æœ‹å‹', 'ç³Ÿç³•']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.2, 4.2, 5.2]
 The predicted values is (using Geometric  Average): 4.84267502333
-”y ³Ì ÍÆË] ´Ë Ùeğ^ ÊÇ ²» ×¢ÖØ •ş†T µÄ »ù±¾ ÀûÒæ ¡£
-sentiment words: ['ÀûÒæ']
+The true values is: 5.428571429
+æ”œ ç¨‹ æ¨è–¦ æ­¤ è³“é¤¨ æ˜¯ ä¸ æ³¨é‡ æœƒå“¡ çš„ åŸºæœ¬ åˆ©ç›Š ã€‚
+sentiment words: ['åˆ©ç›Š']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['ÀûÒæ']
+sentiment words: ['åˆ©ç›Š']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
-Ã¿ ´Î îA¶¨ Ô“ ¾Æµê ¿‚ÊÇ Â•·Q Ÿo·¨ ±£×C °²ÅÅ °²ìo ºÍ ÓĞ Œ’§ µÄ ·¿ég Ã÷ï@ ²» ÖØÒ• ”y³Ì µÄ ¿ÍÈË ¡£
-sentiment words: ['±£×C', '°²ìo']
+The true values is: 3.875
+æ¯ æ¬¡ é å®š è©² é…’åº— ç¸½æ˜¯ è²ç¨± ç„¡æ³• ä¿è­‰ å®‰æ’ å®‰éœ å’Œ æœ‰ å¯¬å¸¶ çš„ æˆ¿é–“ æ˜é¡¯ ä¸ é‡è¦– æ”œç¨‹ çš„ å®¢äºº ã€‚
+sentiment words: ['ä¿è­‰', 'å®‰éœ']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.2, 2.4]
 The predicted values is (using Arithmetic Average): 4.3
-sentiment words: ['±£×C', '°²ìo']
+sentiment words: ['ä¿è­‰', 'å®‰éœ']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.2, 2.4]
 The predicted values is (using Geometric  Average): 3.8574603044
-±¾ÈË ÒÑ ÔÚ Ô“ ¾Æµê ½›šv ÁË ¶à ´Î ¿ÉÅÂ µÄ îAÓ† ß^³Ì ”y ³Ì µÄ …fÕ{ ÄÜÁ¦ Ê¼½K Ê¹ ¿ÍÈË Éî¸Ğ Ê§Íû
-sentiment words: ['¿ÉÅÂ', 'Ê§Íû', '½›šv']
+The true values is: 6.428571429
+æœ¬äºº å·² åœ¨ è©² é…’åº— ç¶“æ­· äº† å¤š æ¬¡ å¯æ€• çš„ é è¨‚ éç¨‹ æ”œ ç¨‹ çš„ å”èª¿ èƒ½åŠ› å§‹çµ‚ ä½¿ å®¢äºº æ·±æ„Ÿ å¤±æœ›
+sentiment words: ['å¯æ€•', 'å¤±æœ›', 'ç¶“æ­·']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.8, 5.6, 4.8]
 The predicted values is (using Arithmetic Average): 5.73333333333
-sentiment words: ['¿ÉÅÂ', 'Ê§Íû', '½›šv']
+sentiment words: ['å¯æ€•', 'å¤±æœ›', 'ç¶“æ­·']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.8, 5.6, 4.8]
 The predicted values is (using Geometric  Average): 5.6751767558
-Ïë ²»Òª ÍÆË] ß@˜Ó ·ş„Õ ËÀ°å µÄ ¾Æµê ±¾ÈË ½ñáá ›Q²» Èë×¡ Ô“ ¾Æµê ¡£
-sentiment words: ['Ïë']
+The true values is: 5.375
+æƒ³ ä¸è¦ æ¨è–¦ é€™æ¨£ æœå‹™ æ­»æ¿ çš„ é…’åº— æœ¬äºº ä»Šå¾Œ æ±ºä¸ å…¥ä½ è©² é…’åº— ã€‚
+sentiment words: ['æƒ³']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Arithmetic Average): 3.6
-sentiment words: ['Ïë']
+sentiment words: ['æƒ³']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Geometric  Average): 3.6
-Ùeğ^ ÔÚ Ğ¡ ½ÖµÀ ÉÏ ²» ´óºÃ ÕÒ µ« ß€ºÃ ±±¾© ŸáĞÄ Í¬°û ºÜ¶à ~ Ùeğ^ ÔOÊ© ¸ú ½é½B µÄ ²î²»¶à ·¿ég ºÜ Ğ¡ ´_Œ Í¦ Ğ¡ µ« ¼ÓÉÏ µÍƒr Î» ÒòËØ ß€ÊÇ Ÿo³¬ Ëù Öµ µÄ £» ­h¾³ ²»åe ¾Í ÔÚ Ğ¡ ĞkĞh ƒÈ °²ìo Õû Å¯šâ ºÃ ×ã - _ - ¡£
-sentiment words: ['ºÃ', '°²ìo', 'Õû']
+The true values is: 5.166666667
+è³“é¤¨ åœ¨ å° è¡—é“ ä¸Š ä¸ å¤§å¥½ æ‰¾ ä½† é‚„å¥½ åŒ—äº¬ ç†±å¿ƒ åŒèƒ å¾ˆå¤š ~ è³“é¤¨ è¨­æ–½ è·Ÿ ä»‹ç´¹ çš„ å·®ä¸å¤š æˆ¿é–“ å¾ˆ å° ç¢ºå¯¦ æŒº å° ä½† åŠ ä¸Š ä½åƒ¹ ä½ å› ç´  é‚„æ˜¯ ç„¡è¶… æ‰€ å€¼ çš„ ï¼› ç’°å¢ƒ ä¸éŒ¯ å°± åœ¨ å° è¡šè¡• å…§ å®‰éœ æ•´æ½” æš–æ°£ å¥½ è¶³ - _ - ã€‚
+sentiment words: ['å¥½', 'å®‰éœ', 'æ•´æ½”']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.2, 2.4, 4.2]
 The predicted values is (using Arithmetic Average): 3.93333333333
-sentiment words: ['ºÃ', '°²ìo', 'Õû']
+sentiment words: ['å¥½', 'å®‰éœ', 'æ•´æ½”']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.2, 2.4, 4.2]
 The predicted values is (using Geometric  Average): 3.74243809494
-ºÇ ß€ ÓĞ Ò» ´ó ƒ„İ ¾ÍÊÇ Ä Ùeğ^ ³ö°l ²½ĞĞ ²» µ½ Ê® ·ÖçŠ ¾Í ¿ÉÒÔ µ½ Ã·Ìm·¼ ¹Ê¾Ó µÈµÈ ¾© Î¶Ğ¡ ĞkĞh ±±º£ ¾àëx ºÃ ½ü ÄØ ¡£
-sentiment words: ['ƒ„İ', 'ºÃ']
+The true values is: 4.714285714
+å‘µ é‚„ æœ‰ ä¸€ å¤§ å„ªå‹¢ å°±æ˜¯ å¾ è³“é¤¨ å‡ºç™¼ æ­¥è¡Œ ä¸ åˆ° å åˆ†é˜ å°± å¯ä»¥ åˆ° æ¢…è˜­èŠ³ æ•…å±… ç­‰ç­‰ äº¬ å‘³å° è¡šè¡• åŒ—æµ· è·é›¢ å¥½ è¿‘ å‘¢ ã€‚
+sentiment words: ['å„ªå‹¢', 'å¥½']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.0, 5.2]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['ƒ„İ', 'ºÃ']
+sentiment words: ['å„ªå‹¢', 'å¥½']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.0, 5.2]
 The predicted values is (using Geometric  Average): 5.58569601751
-ÍÆË]½o ¹¼s ÏûÙM µÄ ×ÔÖú ß[ ÅóÓÑ ~ ±Èİ^ »®Ëã ¸½½ü ÌØÉ« Ğ¡³Ô ºÜ¶à ~
-sentiment words: ['ÅóÓÑ']
+The true values is: 5.75
+æ¨è–¦çµ¦ ç¯€ç´„ æ¶ˆè²» çš„ è‡ªåŠ© éŠ æœ‹å‹ ~ æ¯”è¼ƒ åˆ’ç®— é™„è¿‘ ç‰¹è‰² å°åƒ å¾ˆå¤š ~
+sentiment words: ['æœ‹å‹']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Arithmetic Average): 4.2
-sentiment words: ['ÅóÓÑ']
+sentiment words: ['æœ‹å‹']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Geometric  Average): 4.2
-×¡ ß^ µÄ ×î ²î µÄ Ö® Ò» £± £® ·¿ég ˜OÆä  ÔÚ ¸ßÔ­ ±¾í ¾Í È±Ñõ  ÔÚ ·¿ég Ñe ˜O Ò× ¼Ó„¡ ¸ßÔ­ ·´‘ª £» £² £® º†Âª ¡£
-sentiment words: ['²î', '']
+The true values is: 5.428571429
+ä½ é çš„ æœ€ å·® çš„ ä¹‹ ä¸€ ï¼‘ ï¼ æˆ¿é–“ æ¥µå…¶ æ‚¶ åœ¨ é«˜åŸ æœ¬ä¾† å°± ç¼ºæ°§ æ‚¶ åœ¨ æˆ¿é–“ è£¡ æ¥µ æ˜“ åŠ åŠ‡ é«˜åŸ åæ‡‰ ï¼› ï¼’ ï¼ ç°¡é™‹ ã€‚
+sentiment words: ['å·®', 'æ‚¶']
+words frequent: [1, 2]
 correpsonding sentiment values: [4.6, 4.0]
-The predicted values is (using Arithmetic Average): 4.3
-sentiment words: ['²î', '']
+The predicted values is (using Arithmetic Average): 4.2
+sentiment words: ['å·®', 'æ‚¶']
+words frequent: [1, 2]
 correpsonding sentiment values: [4.6, 4.0]
-The predicted values is (using Geometric  Average): 4.28952211791
-¾Æµê ­h¾³ ²» ºÃ šâ·Õ Ò² ²» ºÃ ÎÒ ºÍ ÀÏÆÅ „‚„‚ ×¡ ßMÈ¥ ¾Í ÓĞ Ğ¡½ã ´òëŠÔ’ í †– Òª²»Òª ÌØÊâ ·ş„Õ ÕæÊÇ ¿Ö²À ÀÏÆÅ Õf É¶ Ò² ²» ×¡ ÔÚ ÄÇß… ÁË ×îáá ÎÒ ÃãŠ Õf·ş ÀÏÆÅ ×¡ ÁË Ò» ÍíÉÏ µ«ÊÇ µ½ ÁË ááí ¸ü ÊÇ ¿Ö²À ¾ÓÈ» ›]ÓĞ é_Ë® ¹©‘ª È»áá ß€Òª ×Ô¼º ŸıË® µ«ÊÇ Ÿı Ë®‰Ø ¾ÓÈ» ÒÑ½› éL ÁË Ã« ááí ÓĞ ‚€ ·ş„Õ†T ÃãŠ ½o “Q ÁË Ò» ‚€ µ«ÊÇ ß€ÊÇ ß@˜Ó ÎÒ ®”•r ²» ÖªµÀ Ô“ Õf Ê²üN ºÃ ×îáá ÎÒ‚ƒ ÙI µÄ µVÈªË® ÃãŠ Œ¦¸¶ ÁË
-sentiment words: ['ÃãŠ', 'ºÃ', '¿Ö²À', 'Õf·ş']
+The predicted values is (using Geometric  Average): 4.19075821269
+The true values is: 6.714285714
+é…’åº— ç’°å¢ƒ ä¸ å¥½ æ°£æ°› ä¹Ÿ ä¸ å¥½ æˆ‘ å’Œ è€å©† å‰›å‰› ä½ é€²å» å°± æœ‰ å°å§ æ‰“é›»è©± ä¾† å• è¦ä¸è¦ ç‰¹æ®Š æœå‹™ çœŸæ˜¯ ææ€– è€å©† èªª å•¥ ä¹Ÿ ä¸ ä½ åœ¨ é‚£é‚Š äº† æœ€å¾Œ æˆ‘ å‹‰å¼· èªªæœ è€å©† ä½ äº† ä¸€ æ™šä¸Š ä½†æ˜¯ åˆ° äº† å¾Œä¾† æ›´ æ˜¯ ææ€– å±…ç„¶ æ²’æœ‰ é–‹æ°´ ä¾›æ‡‰ ç„¶å¾Œ é‚„è¦ è‡ªå·± ç‡’æ°´ ä½†æ˜¯ ç‡’ æ°´å£º å±…ç„¶ å·²ç¶“ é•· äº† æ¯› å¾Œä¾† æœ‰ å€‹ æœå‹™å“¡ å‹‰å¼· çµ¦ æ› äº† ä¸€ å€‹ ä½†æ˜¯ é‚„æ˜¯ é€™æ¨£ æˆ‘ ç•¶æ™‚ ä¸ çŸ¥é“ è©² èªª ä»€éº¼ å¥½ æœ€å¾Œ æˆ‘å€‘ è²· çš„ ç¤¦æ³‰æ°´ å‹‰å¼· å°ä»˜ äº†
+sentiment words: ['å‹‰å¼·', 'å¥½', 'ææ€–', 'èªªæœ']
+words frequent: [3, 3, 2, 1]
 correpsonding sentiment values: [5.0, 5.2, 6.8, 4.2]
-The predicted values is (using Arithmetic Average): 5.3
-sentiment words: ['ÃãŠ', 'ºÃ', '¿Ö²À', 'Õf·ş']
+The predicted values is (using Arithmetic Average): 5.37777777778
+sentiment words: ['å‹‰å¼·', 'å¥½', 'ææ€–', 'èªªæœ']
+words frequent: [3, 3, 2, 1]
 correpsonding sentiment values: [5.0, 5.2, 6.8, 4.2]
-The predicted values is (using Geometric  Average): 5.22014886075
-¾Æµê Ñe µÄ ·ş„Õ ‘B¶È ³¬ ²î ²Íd Ñe µÄ ·ş„Õ†T µÄ ËØÙ| ¾Í ¸ü ²î ®”•r ÎÒ Ò» ‚€ÈË È¥ ³Ôïˆ ¿´ÒŠ ²Ë†Î ÉÏ Œ‘ µÄ Ëá²Ëô~ ÊÇ 8 ‰K ®”•r ß€ ¸æÔV ÁË ·ş„Õ†T ÎÒ ¾Í Ò» ‚€ÈË ĞÄÏë Ò» ‚€ÈË ÕıºÃ ÓÖ üc ÁË ÆäËû µÄ ²Ë Õl ÖªµÀ ¸¶åX µÄ •rºò ¸æÔV ÎÒ Ëá²Ëô~ ÊÇ 35 Ôª µÄ åX µ¹ÊÇ Æä´Î µÄ Ã÷ÖªµÀ ÎÒ Ò» ‚€ÈË ß€ Ò» ‚€ „Å ¹Ä´µ Ëû‚ƒ Ÿı µÄ ¶à ºÃ³Ô ôd £¡
-sentiment words: ['²î']
+The predicted values is (using Geometric  Average): 5.31997613899
+The true values is: 6.285714286
+é…’åº— è£¡ çš„ æœå‹™ æ…‹åº¦ è¶… å·® é¤å»³ è£¡ çš„ æœå‹™å“¡ çš„ ç´ è³ª å°± æ›´ å·® ç•¶æ™‚ æˆ‘ ä¸€ å€‹äºº å» åƒé£¯ çœ‹è¦‹ èœå–® ä¸Š å¯« çš„ é…¸èœé­š æ˜¯ 8 å¡Š ç•¶æ™‚ é‚„ å‘Šè¨´ äº† æœå‹™å“¡ æˆ‘ å°± ä¸€ å€‹äºº å¿ƒæƒ³ ä¸€ å€‹äºº æ­£å¥½ åˆ é» äº† å…¶ä»– çš„ èœ èª° çŸ¥é“ ä»˜éŒ¢ çš„ æ™‚å€™ å‘Šè¨´ æˆ‘ é…¸èœé­š æ˜¯ 35 å…ƒ çš„ éŒ¢ å€’æ˜¯ å…¶æ¬¡ çš„ æ˜çŸ¥é“ æˆ‘ ä¸€ å€‹äºº é‚„ ä¸€ å€‹ å‹ é¼“å¹ ä»–å€‘ ç‡’ çš„ å¤š å¥½åƒ é¬±æ‚¶ ï¼
+sentiment words: ['å·®']
+words frequent: [2]
 correpsonding sentiment values: [4.6]
 The predicted values is (using Arithmetic Average): 4.6
-sentiment words: ['²î']
+sentiment words: ['å·®']
+words frequent: [2]
 correpsonding sentiment values: [4.6]
 The predicted values is (using Geometric  Average): 4.6
-µê µÄ ¹«Â· ÅÔ ½»Í¨ ˜OÆä ²»±ã £» Æä´Î Ò» ßMÈë ¾Æµê ¾Í Ò» ¹É üqÎ¶ µØÌº ÉÏ µ½Ì ¶¼ ÊÇ ÎÛn ºÜ Ïñ µØˆD .
-sentiment words: ['²»±ã']
+The true values is: 6.714285714
+åº— çš„ å…¬è·¯ æ— äº¤é€š æ¥µå…¶ ä¸ä¾¿ ï¼› å…¶æ¬¡ ä¸€ é€²å…¥ é…’åº— å°± ä¸€ è‚¡ é»´å‘³ åœ°æ¯¯ ä¸Š åˆ°è™• éƒ½ æ˜¯ æ±¡æ¼¬ å¾ˆ åƒ åœ°åœ– .
+sentiment words: ['ä¸ä¾¿']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Arithmetic Average): 4.4
-sentiment words: ['²»±ã']
+sentiment words: ['ä¸ä¾¿']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Geometric  Average): 4.4
-×î ²»ÄÜ ÈİÈÌ µÄ ÊÇ ÓĞ ºÜ¶à Ğ¡ Ïx×Ó µ½Ì yÅÀ .
-sentiment words: ['ÈİÈÌ']
+The true values is: 4.333333333
+æœ€ ä¸èƒ½ å®¹å¿ çš„ æ˜¯ æœ‰ å¾ˆå¤š å° èŸ²å­ åˆ°è™• äº‚çˆ¬ .
+sentiment words: ['å®¹å¿']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['ÈİÈÌ']
+sentiment words: ['å®¹å¿']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Geometric  Average): 5.6
-ÎÒ ÕıºÃ ÚsÉÏ ïUïL ›]ÓĞ Şk·¨ Ö» ÄÜ ÔÚ ÄÇ ×¡ Òª²» ÎÒ ²» ¸Ò ±£×C ß€ •ş ×¡ ÄÇÑe .
-sentiment words: ['±£×C']
+The true values is: 5.875
+æˆ‘ æ­£å¥½ è¶•ä¸Š é¢±é¢¨ æ²’æœ‰ è¾¦æ³• åª èƒ½ åœ¨ é‚£ ä½ è¦ä¸ æˆ‘ ä¸ æ•¢ ä¿è­‰ é‚„ æœƒ ä½ é‚£è£¡ .
+sentiment words: ['ä¿è­‰']
+words frequent: [1]
 correpsonding sentiment values: [6.2]
 The predicted values is (using Arithmetic Average): 6.2
-sentiment words: ['±£×C']
+sentiment words: ['ä¿è­‰']
+words frequent: [1]
 correpsonding sentiment values: [6.2]
 The predicted values is (using Geometric  Average): 6.2
-×î½ü ÎÒ ºÍ × ‚€ ÅóÓÑ ×Ôñ{ ÓÎ È¥ “PÖİ ½› ÅóÓÑ ½é½B ×¡ ÔÚ ĞÂ ÊÀ¼o µÚÒ» ¸ĞÓX Í£Ü‡ˆö ÌØ„e ´ó ¿ÉÒÔ Í¬•r Í£·Å ¼s 300 -- 400 İv Ü‡ .
-sentiment words: ['ÅóÓÑ']
+The true values is: 4.0
+æœ€è¿‘ æˆ‘ å’Œ å¹¾ å€‹ æœ‹å‹ è‡ªé§• æ¸¸ å» æšå· ç¶“ æœ‹å‹ ä»‹ç´¹ ä½ åœ¨ æ–° ä¸–ç´€ ç¬¬ä¸€ æ„Ÿè¦º åœè»Šå ´ ç‰¹åˆ¥ å¤§ å¯ä»¥ åŒæ™‚ åœæ”¾ ç´„ 300 -- 400 è¼› è»Š .
+sentiment words: ['æœ‹å‹']
+words frequent: [2]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Arithmetic Average): 4.2
-sentiment words: ['ÅóÓÑ']
+sentiment words: ['æœ‹å‹']
+words frequent: [2]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Geometric  Average): 4.2
-·¿ég ±Èİ^ ÀÏÅf ëŠÌİ ¹ûÈ» Èç ¾WÓÑ Ôuƒr ·Ç³£ Âı ËùÖ^ 2003 ĞÂ ÑbĞŞ ŒëH Ö»ÊÇ ´ó’ß³ı Ò»ÏÂ ¡£
-sentiment words: ['Âı']
+The true values is: 4.625
+æˆ¿é–“ æ¯”è¼ƒ è€èˆŠ é›»æ¢¯ æœç„¶ å¦‚ ç¶²å‹ è©•åƒ¹ éå¸¸ æ…¢ æ‰€è¬‚ 2003 æ–° è£ä¿® å¯¦éš› åªæ˜¯ å¤§æƒé™¤ ä¸€ä¸‹ ã€‚
+sentiment words: ['æ…¢']
+words frequent: [1]
 correpsonding sentiment values: [2.8]
 The predicted values is (using Arithmetic Average): 2.8
-sentiment words: ['Âı']
+sentiment words: ['æ…¢']
+words frequent: [1]
 correpsonding sentiment values: [2.8]
 The predicted values is (using Geometric  Average): 2.8
-Ôç²Í ºÜ ²»åe È¥ ÖÜß… Ö÷Òª ÉÌ˜I…^ Ò² ²» ßh ¡£
+The true values is: 4.555555556
+æ—©é¤ å¾ˆ ä¸éŒ¯ å» å‘¨é‚Š ä¸»è¦ å•†æ¥­å€ ä¹Ÿ ä¸ é  ã€‚
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Arithmetic Average): 5
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Geometric  Average): 5
-Ì« ³³ ×î ÒªÃü µÄ È±üc Ò» ‚€ Ùeğ^ Ö÷Òª µÄ ¹¦ÄÜ •r ÄÜ Ìá¹© ÏàŒ¦ °²ìo µÄ ­h¾³ ¿ÉÊÇ ×¡ ÔÚ ß@Ñe ŒÔÚ ³³ µÃ ÒªÃü Â“ÀM Ç° Å_ Ìá³ö ÖÃÖ®²»Àí ¡£
-sentiment words: ['°²ìo', 'È±üc']
+The true values is: 4.111111111
+å¤ª åµ æœ€ è¦å‘½ çš„ ç¼ºé» ä¸€ å€‹ è³“é¤¨ ä¸»è¦ çš„ åŠŸèƒ½ æ™‚ èƒ½ æä¾› ç›¸å° å®‰éœ çš„ ç’°å¢ƒ å¯æ˜¯ ä½ åœ¨ é€™è£¡ å¯¦åœ¨ åµ å¾— è¦å‘½ è¯ç¹« å‰ è‡º æå‡º ç½®ä¹‹ä¸ç† ã€‚
+sentiment words: ['å®‰éœ', 'ç¼ºé»']
+words frequent: [1, 1]
 correpsonding sentiment values: [2.4, 4.6]
 The predicted values is (using Arithmetic Average): 3.5
-sentiment words: ['°²ìo', 'È±üc']
+sentiment words: ['å®‰éœ', 'ç¼ºé»']
+words frequent: [1, 1]
 correpsonding sentiment values: [2.4, 4.6]
 The predicted values is (using Geometric  Average): 3.32264954517
-µ« ·¿ég Ñe µÄ ÁÜÔ¡ ÔOÊ© ²»ºÃ ÁÜÔ¡ éT êP ²» ¾o Ë®ıˆî^ ³öË® ºÜ Ğ¡ Ï´Ôè ºÜ ²» Êæ·ş ¡£
-sentiment words: ['Êæ·ş']
+The true values is: 6.888888889
+ä½† æˆ¿é–“ è£¡ çš„ æ·‹æµ´ è¨­æ–½ ä¸å¥½ æ·‹æµ´ é–€ é—œ ä¸ ç·Š æ°´é¾é ­ å‡ºæ°´ å¾ˆ å° æ´—æ¾¡ å¾ˆ ä¸ èˆ’æœ ã€‚
+sentiment words: ['èˆ’æœ']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Arithmetic Average): 3.6
-sentiment words: ['Êæ·ş']
+sentiment words: ['èˆ’æœ']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Geometric  Average): 3.6
-×î Ö÷Òª Ç° Å_ Ğ¡½ã ·ş„Õ ºÜ ²» ºÃ Àä±ù±ù µÄ ÓÈÆä ÊÇ ÄÇ ‚€ Ä˜µ° ÅÖÅÖ µÄ Ğ¡½ã Ä˜ ÉÏ Ïó ‰T ß^ôİºı Ò»˜Ó Ò»üc ›]ÓĞ Î¢Ğ¦ ¡£
-sentiment words: ['ºÃ', 'Î¢Ğ¦']
+The true values is: 5.5
+æœ€ ä¸»è¦ å‰ è‡º å°å§ æœå‹™ å¾ˆ ä¸ å¥½ å†·å†°å†° çš„ å°¤å…¶ æ˜¯ é‚£ å€‹ è‡‰è›‹ èƒ–èƒ– çš„ å°å§ è‡‰ ä¸Š è±¡ å¡— éç³¨ç³Š ä¸€æ¨£ ä¸€é» æ²’æœ‰ å¾®ç¬‘ ã€‚
+sentiment words: ['å¥½', 'å¾®ç¬‘']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.6]
 The predicted values is (using Arithmetic Average): 4.9
-sentiment words: ['ºÃ', 'Î¢Ğ¦']
+sentiment words: ['å¥½', 'å¾®ç¬‘']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.6]
 The predicted values is (using Geometric  Average): 4.89080770425
-ÎÒ È¥ CHECKIN ºÍ CHECKOUT µÄ •rºò ¸ĞÓX ºÜ ²» Êæ·ş ¡£
-sentiment words: ['Êæ·ş']
+The true values is: 6.625
+æˆ‘ å» CHECKIN å’Œ CHECKOUT çš„ æ™‚å€™ æ„Ÿè¦º å¾ˆ ä¸ èˆ’æœ ã€‚
+sentiment words: ['èˆ’æœ']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Arithmetic Average): 3.6
-sentiment words: ['Êæ·ş']
+sentiment words: ['èˆ’æœ']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Geometric  Average): 3.6
-×Œ ÈË ·ËÒÄËùË¼ µÄ ÊÇ ĞlÉú ég µÄ éT ¾ÓÈ» ÊÇ Í¸Ã÷ µÄ ÓÖ ²» ÊÇ ÇéÉ« ¾Æµê Èë ×¡ µÄ ²» ÊÇ Çé‚H Ö»ÊÇ ÅóÓÑ ¾Í ËãÊÇ Í¬ĞÔ Ò² ¸ĞÓX ¹Ö¹Ö µÄ ›]ÓĞ ÈÎºÎ ë[Ë½ ¡£
-sentiment words: ['ÅóÓÑ']
+The true values is: 5.875
+è®“ äºº åŒªå¤·æ‰€æ€ çš„ æ˜¯ è¡›ç”Ÿ é–“ çš„ é–€ å±…ç„¶ æ˜¯ é€æ˜ çš„ åˆ ä¸ æ˜¯ æƒ…è‰² é…’åº— å…¥ ä½ çš„ ä¸ æ˜¯ æƒ…ä¾¶ åªæ˜¯ æœ‹å‹ å°± ç®—æ˜¯ åŒæ€§ ä¹Ÿ æ„Ÿè¦º æ€ªæ€ª çš„ æ²’æœ‰ ä»»ä½• éš±ç§ ã€‚
+sentiment words: ['æœ‹å‹']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Arithmetic Average): 4.2
-sentiment words: ['ÅóÓÑ']
+sentiment words: ['æœ‹å‹']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Geometric  Average): 4.2
-¾Æµê µÄ ·ş„Õ ÈË†T ·ş„Õ ‘B¶È Ò² ²» ÔõüN ºÃ ½o µÄ ·¿¿¨ Ò² ¸ãåe é_²»ÁË éT ß€ Òª ÎÒ ÓH×Ô °Ñ ¿¨ ËÍ µ½ ˜ÇÉÏ ´ód È¥ “Q ¡£
-sentiment words: ['ºÃ']
+The true values is: 5.111111111
+é…’åº— çš„ æœå‹™ äººå“¡ æœå‹™ æ…‹åº¦ ä¹Ÿ ä¸ æ€éº¼ å¥½ çµ¦ çš„ æˆ¿å¡ ä¹Ÿ æéŒ¯ é–‹ä¸äº† é–€ é‚„ è¦ æˆ‘ è¦ªè‡ª æŠŠ å¡ é€ åˆ° æ¨“ä¸Š å¤§å»³ å» æ› ã€‚
+sentiment words: ['å¥½']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['ºÃ']
+sentiment words: ['å¥½']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
-Ùeğ^ Ò»°ë µÄ ·¿ég ¶¼ ›]ÓĞ ê–¹â ¡¢ ²» Í¨ïL ¡£
-sentiment words: ['ê–¹â']
+The true values is: 5.714285714
+è³“é¤¨ ä¸€åŠ çš„ æˆ¿é–“ éƒ½ æ²’æœ‰ é™½å…‰ ã€ ä¸ é€šé¢¨ ã€‚
+sentiment words: ['é™½å…‰']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['ê–¹â']
+sentiment words: ['é™½å…‰']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
-·ş„Õ†T ‘B¶È ºÜ ºÁÓ ¡£
-sentiment words: ['ºÁÓ']
+The true values is: 4.5
+æœå‹™å“¡ æ…‹åº¦ å¾ˆ æƒ¡åŠ£ ã€‚
+sentiment words: ['æƒ¡åŠ£']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Arithmetic Average): 6.8
-sentiment words: ['ºÁÓ']
+sentiment words: ['æƒ¡åŠ£']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Geometric  Average): 6.8
-ĞlÉú ég µÄ ñRÍ° ÊÇ ‰Ä µÄ ~ ~ Ò» ²» Ğ¡ĞÄ ÄÜ °Ñ ñRÍ° ½o Ë¤Ëé ¡£
-sentiment words: ['Ğ¡ĞÄ']
+The true values is: 6.875
+è¡›ç”Ÿ é–“ çš„ é¦¬æ¡¶ æ˜¯ å£ çš„ ~ ~ ä¸€ ä¸ å°å¿ƒ èƒ½ æŠŠ é¦¬æ¡¶ çµ¦ æ‘”ç¢ ã€‚
+sentiment words: ['å°å¿ƒ']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Arithmetic Average): 6.0
-sentiment words: ['Ğ¡ĞÄ']
+sentiment words: ['å°å¿ƒ']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Geometric  Average): 6.0
-Ç§Èf Ğ¡ĞÄ Ê¹ÓÃ ¡£
-sentiment words: ['Ğ¡ĞÄ']
+The true values is: 5.444444444
+åƒè¬ å°å¿ƒ ä½¿ç”¨ ã€‚
+sentiment words: ['å°å¿ƒ']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Arithmetic Average): 6.0
-sentiment words: ['Ğ¡ĞÄ']
+sentiment words: ['å°å¿ƒ']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Geometric  Average): 6.0
-úËù µÄ Î¶µÀ ‡fĞÄ ¡£
-sentiment words: ['‡fĞÄ']
+The true values is: 5.833333333
+å»æ‰€ çš„ å‘³é“ å™å¿ƒ ã€‚
+sentiment words: ['å™å¿ƒ']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Arithmetic Average): 6.8
-sentiment words: ['‡fĞÄ']
+sentiment words: ['å™å¿ƒ']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Geometric  Average): 6.8
-±ÈÆğ ÆäËü Ê¡ ÊĞ µÄ Èç ¼Ò ²î µÃ Ì« ßh ÁË ºÜ Ê§Íû ¡£
-sentiment words: ['Ê§Íû', '²î']
+The true values is: 6.833333333
+æ¯”èµ· å…¶å®ƒ çœ å¸‚ çš„ å¦‚ å®¶ å·® å¾— å¤ª é  äº† å¾ˆ å¤±æœ› ã€‚
+sentiment words: ['å¤±æœ›', 'å·®']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.6, 4.6]
 The predicted values is (using Arithmetic Average): 5.1
-sentiment words: ['Ê§Íû', '²î']
+sentiment words: ['å¤±æœ›', 'å·®']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.6, 4.6]
 The predicted values is (using Geometric  Average): 5.07543101618
-Ì« ²î ¸ù±¾ ²» ‰ò ËÄĞÇ¼‰ ¡£
-sentiment words: ['²î']
+The true values is: 4.833333333
+å¤ª å·® æ ¹æœ¬ ä¸ å¤  å››æ˜Ÿç´š ã€‚
+sentiment words: ['å·®']
+words frequent: [1]
 correpsonding sentiment values: [4.6]
 The predicted values is (using Arithmetic Average): 4.6
-sentiment words: ['²î']
+sentiment words: ['å·®']
+words frequent: [1]
 correpsonding sentiment values: [4.6]
 The predicted values is (using Geometric  Average): 4.6
-·ş„Õ†T ËØÙ| ºÜ ¸ß 292
+The true values is: 5.571428571
+æœå‹™å“¡ ç´ è³ª å¾ˆ é«˜ 292
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Arithmetic Average): 5
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Geometric  Average): 5
-×ÔÖú Ôç²Í ºÜ ØS¸» µ«ÊÇ ƒråX ±Èİ^ ÙF ¡£
-sentiment words: ['ØS¸»']
+The true values is: 4.857142857
+è‡ªåŠ© æ—©é¤ å¾ˆ è±å¯Œ ä½†æ˜¯ åƒ¹éŒ¢ æ¯”è¼ƒ è²´ ã€‚
+sentiment words: ['è±å¯Œ']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['ØS¸»']
+sentiment words: ['è±å¯Œ']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Geometric  Average): 5.6
-ß@ ´Î ÕıºÃ ÚsÉÏ ‡øëH ÈáµÀ ±ÈÙ µÄ ´ú±íˆF Èë×¡ ¾Æµê Œ¦ ÆÕÍ¨ ×¡¿Í µÄ ·ş„Õ ÓĞËù ÏÂ½µ ¡£
-sentiment words: ['Œ¦']
+The true values is: 3.375
+é€™ æ¬¡ æ­£å¥½ è¶•ä¸Š åœ‹éš› æŸ”é“ æ¯”è³½ çš„ ä»£è¡¨åœ˜ å…¥ä½ é…’åº— å° æ™®é€š ä½å®¢ çš„ æœå‹™ æœ‰æ‰€ ä¸‹é™ ã€‚
+sentiment words: ['å°']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['Œ¦']
+sentiment words: ['å°']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Geometric  Average): 4.8
-¾Æµê ´óÌÃ ÖÈĞò ±Èİ^ y ¡£
-sentiment words: ['y']
+The true values is: 4.714285714
+é…’åº— å¤§å ‚ ç§©åº æ¯”è¼ƒ äº‚ ã€‚
+sentiment words: ['äº‚']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Arithmetic Average): 5.8
-sentiment words: ['y']
+sentiment words: ['äº‚']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Geometric  Average): 5.8
-”y ³Ì¶¨ µÄ ¾Æµê ·¿ég ƒr¸ñ ±Èİ^ ÙF ÎÒ µ½ ±±¾© áá ÅóÓÑ Õf Ëû ¶¨ µÄ ƒr¸ñ ±È ÎÒ ±ãÒË 100 Ôª ¶øÇÒ ß€ º¬ Ôç²Í ¡£
-sentiment words: ['ÅóÓÑ']
+The true values is: 4.2
+æ”œ ç¨‹å®š çš„ é…’åº— æˆ¿é–“ åƒ¹æ ¼ æ¯”è¼ƒ è²´ æˆ‘ åˆ° åŒ—äº¬ å¾Œ æœ‹å‹ èªª ä»– å®š çš„ åƒ¹æ ¼ æ¯” æˆ‘ ä¾¿å®œ 100 å…ƒ è€Œä¸” é‚„ å« æ—©é¤ ã€‚
+sentiment words: ['æœ‹å‹']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Arithmetic Average): 4.2
-sentiment words: ['ÅóÓÑ']
+sentiment words: ['æœ‹å‹']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Geometric  Average): 4.2
-Ï£Íû ”y³Ì¾W ÓĞËù ¸ÄßM ¡£
-sentiment words: ['Ï£Íû', '¸ÄßM']
+The true values is: 3.555555556
+å¸Œæœ› æ”œç¨‹ç¶² æœ‰æ‰€ æ”¹é€² ã€‚
+sentiment words: ['å¸Œæœ›', 'æ”¹é€²']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.6]
 The predicted values is (using Arithmetic Average): 4.9
-sentiment words: ['Ï£Íû', '¸ÄßM']
+sentiment words: ['å¸Œæœ›', 'æ”¹é€²']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.6]
 The predicted values is (using Geometric  Average): 4.89080770425
-¼± Ús ïw™C ÉêŞq ŸoĞ§ áá ¾Í šâ‘ µÄ ¸¶åX ×ß ÁË ß@˜Ó µÄ ·ş„Õ ‘B¶È Õæ ×Œ ÈË Ê§Íû ÏÂ ´Î ÎÒ ‘ªÔ“ ²»•ş ÔÙ ßx“ñ Ëü ÁË
-sentiment words: ['Ê§Íû', 'šâ‘', 'ŸoĞ§']
+The true values is: 5.625
+æ€¥ è¶• é£›æ©Ÿ ç”³è¾¯ ç„¡æ•ˆ å¾Œ å°± æ°£æ†¤ çš„ ä»˜éŒ¢ èµ° äº† é€™æ¨£ çš„ æœå‹™ æ…‹åº¦ çœŸ è®“ äºº å¤±æœ› ä¸‹ æ¬¡ æˆ‘ æ‡‰è©² ä¸æœƒ å† é¸æ“‡ å®ƒ äº†
+sentiment words: ['å¤±æœ›', 'æ°£æ†¤', 'ç„¡æ•ˆ']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.6, 7.0, 4.4]
 The predicted values is (using Arithmetic Average): 5.66666666667
-sentiment words: ['Ê§Íû', 'šâ‘', 'ŸoĞ§']
+sentiment words: ['å¤±æœ›', 'æ°£æ†¤', 'ç„¡æ•ˆ']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.6, 7.0, 4.4]
 The predicted values is (using Geometric  Average): 5.56646626184
-²»ß^ ÔÚ ÈËĞÔ»¯ ÔOÖÃ ÉÏ Òª ÓèÒÔ ¸ÄÉÆ ¡£
-sentiment words: ['¸ÄÉÆ']
+The true values is: 6.555555556
+ä¸é åœ¨ äººæ€§åŒ– è¨­ç½® ä¸Š è¦ äºˆä»¥ æ”¹å–„ ã€‚
+sentiment words: ['æ”¹å–„']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['¸ÄÉÆ']
+sentiment words: ['æ”¹å–„']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
-¸ĞÖx Äú Èë ×¡ ÊÀ¼o ´ó ïˆµê ºÍ ½o ÎÒ‚ƒ Ìá³ö µÄ ŒšÙF ¸ÄßM ÒâÒŠ ¡£
-sentiment words: ['ŒšÙF', '¸ĞÖx', '¸ÄßM']
+The true values is: 3.666666667
+æ„Ÿè¬ æ‚¨ å…¥ ä½ ä¸–ç´€ å¤§ é£¯åº— å’Œ çµ¦ æˆ‘å€‘ æå‡º çš„ å¯¶è²´ æ”¹é€² æ„è¦‹ ã€‚
+sentiment words: ['å¯¶è²´', 'æ„Ÿè¬', 'æ”¹é€²']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.0, 5.6, 4.6]
 The predicted values is (using Arithmetic Average): 5.06666666667
-sentiment words: ['ŒšÙF', '¸ĞÖx', '¸ÄßM']
+sentiment words: ['å¯¶è²´', 'æ„Ÿè¬', 'æ”¹é€²']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.0, 5.6, 4.6]
 The predicted values is (using Geometric  Average): 5.05016174367
-ÔÚ ½ñáá µÄ ·ş„Õ ÖĞ ÎÒ‚ƒ •ş ²»”à ¸ÄßM Í¬•r á˜Œ¦ Ã¿ Î» ¿ÍÈË ½o ÎÒ‚ƒ Ìá³ö µÄ ÈËĞÔ»¯ ½¨×h ßMĞĞ ¸ÄßM ²»”à Ìá¸ß ¡£
-sentiment words: ['¸ÄßM']
+The true values is: 4.111111111
+åœ¨ ä»Šå¾Œ çš„ æœå‹™ ä¸­ æˆ‘å€‘ æœƒ ä¸æ–· æ”¹é€² åŒæ™‚ é‡å° æ¯ ä½ å®¢äºº çµ¦ æˆ‘å€‘ æå‡º çš„ äººæ€§åŒ– å»ºè­° é€²è¡Œ æ”¹é€² ä¸æ–· æé«˜ ã€‚
+sentiment words: ['æ”¹é€²']
+words frequent: [2]
 correpsonding sentiment values: [4.6]
 The predicted values is (using Arithmetic Average): 4.6
-sentiment words: ['¸ÄßM']
+sentiment words: ['æ”¹é€²']
+words frequent: [2]
 correpsonding sentiment values: [4.6]
 The predicted values is (using Geometric  Average): 4.6
-ƒüc ºÜ¶à ¾Í ²» Õf ÁË .
-sentiment words: ['ƒüc']
+The true values is: 5.0
+å„ªé» å¾ˆå¤š å°± ä¸ èªª äº† .
+sentiment words: ['å„ªé»']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['ƒüc']
+sentiment words: ['å„ªé»']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
-†Î ¾Í È±üc Á_ÁĞ ÈçÏÂ Íû ¸ÄßM : ·¿ ƒÈ Ò¹ég ÓĞ® í‘ .
-sentiment words: ['¸ÄßM', 'È±üc']
+The true values is: 5.166666667
+å–® å°± ç¼ºé» ç¾…åˆ— å¦‚ä¸‹ æœ› æ”¹é€² : æˆ¿ å…§ å¤œé–“ æœ‰ç•° éŸ¿ .
+sentiment words: ['æ”¹é€²', 'ç¼ºé»']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.6, 4.6]
 The predicted values is (using Arithmetic Average): 4.6
-sentiment words: ['¸ÄßM', 'È±üc']
+sentiment words: ['æ”¹é€²', 'ç¼ºé»']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.6, 4.6]
 The predicted values is (using Geometric  Average): 4.6
-ÎÒ ÏàĞÅ ÎÒ µÄ Í¬ÊÂ Ëı ßB Ë¯ÒÂ ·Å ÔÚ Ê²üN Î»ÖÃ ¶¼ ²» ÖªµÀ .
-sentiment words: ['ÏàĞÅ']
+The true values is: 4.75
+æˆ‘ ç›¸ä¿¡ æˆ‘ çš„ åŒäº‹ å¥¹ é€£ ç¡è¡£ æ”¾ åœ¨ ä»€éº¼ ä½ç½® éƒ½ ä¸ çŸ¥é“ .
+sentiment words: ['ç›¸ä¿¡']
+words frequent: [1]
 correpsonding sentiment values: [5.4]
 The predicted values is (using Arithmetic Average): 5.4
-sentiment words: ['ÏàĞÅ']
+sentiment words: ['ç›¸ä¿¡']
+words frequent: [1]
 correpsonding sentiment values: [5.4]
 The predicted values is (using Geometric  Average): 5.4
-Õˆ Òª Èë×¡ Ô“ ¾Æµê µÄ ÅóÓÑ ‚ƒ Èë×¡ •r Ò»¶¨ Òª Çåüc Äã ·¿ég µÄ ÏûÙM ÎïÆ· .
-sentiment words: ['ÅóÓÑ']
+The true values is: 4.777777778
+è«‹ è¦ å…¥ä½ è©² é…’åº— çš„ æœ‹å‹ å€‘ å…¥ä½ æ™‚ ä¸€å®š è¦ æ¸…é» ä½  æˆ¿é–“ çš„ æ¶ˆè²» ç‰©å“ .
+sentiment words: ['æœ‹å‹']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Arithmetic Average): 4.2
-sentiment words: ['ÅóÓÑ']
+sentiment words: ['æœ‹å‹']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Geometric  Average): 4.2
-¾Æµê Ì« Æ« ÒÑ ÔÚ ½¼Íâ ³öí ´òÜ‡ ²» Ì« ·½±ã ×¡ËŞ ¿ÍÈË Ì«ÉÙ ¸ĞÓX ÉÏ ÀäÀäÇåÇå µÄ ¿ÉÊÇ îA¶¨ µÄ •rºò ß€ ĞèÒª Ìá¹© ĞÅÓÃ¿¨ “ú±£ Õf ÊÇ ·¿ég ¾oˆ ÆäŒ ¿ÉÄÜ ÊÇ ÅÂ ¿ÍÈË ÅÜµô °É ¡£
-sentiment words: ['ÅÂ', '“ú±£', '¾oˆ']
+The true values is: 3.857142857
+é…’åº— å¤ª å å·² åœ¨ éƒŠå¤– å‡ºä¾† æ‰“è»Š ä¸ å¤ª æ–¹ä¾¿ ä½å®¿ å®¢äºº å¤ªå°‘ æ„Ÿè¦º ä¸Š å†·å†·æ¸…æ¸… çš„ å¯æ˜¯ é å®š çš„ æ™‚å€™ é‚„ éœ€è¦ æä¾› ä¿¡ç”¨å¡ æ“”ä¿ èªª æ˜¯ æˆ¿é–“ ç·Šå¼µ å…¶å¯¦ å¯èƒ½ æ˜¯ æ€• å®¢äºº è·‘æ‰ å§ ã€‚
+sentiment words: ['æ€•', 'æ“”ä¿', 'ç·Šå¼µ']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.4, 4.8, 7.0]
 The predicted values is (using Arithmetic Average): 6.06666666667
-sentiment words: ['ÅÂ', '“ú±£', '¾oˆ']
+sentiment words: ['æ€•', 'æ“”ä¿', 'ç·Šå¼µ']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.4, 4.8, 7.0]
 The predicted values is (using Geometric  Average): 5.99109790977
-²»ß^ ÙFê– Õû ‚€ ¾ÍÊÇ Ò» ‚€ óvy ²î µÄ µäĞÍ –|–| ß€ ÙF µÃ ‡˜ËÀ ÈË È¥ ÙFê– µÄ Ô’ ¾Í ²»Òª ±§ Ê²üN ÃÀºÃ µÄ îŠÍû ÁË £¡
-sentiment words: ['²î', '±§', 'ÃÀºÃ']
+The true values is: 4.857142857
+ä¸é è²´é™½ æ•´ å€‹ å°±æ˜¯ ä¸€ å€‹ é«’äº‚ å·® çš„ å…¸å‹ æ±æ± é‚„ è²´ å¾— åš‡æ­» äºº å» è²´é™½ çš„ è©± å°± ä¸è¦ æŠ± ä»€éº¼ ç¾å¥½ çš„ é¡˜æœ› äº† ï¼
+sentiment words: ['å·®', 'æŠ±', 'ç¾å¥½']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.6, 5.2, 5.6]
 The predicted values is (using Arithmetic Average): 5.13333333333
-sentiment words: ['²î', '±§', 'ÃÀºÃ']
+sentiment words: ['å·®', 'æŠ±', 'ç¾å¥½']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.6, 5.2, 5.6]
 The predicted values is (using Geometric  Average): 5.11661886141
-Ö» ÊÇ checkinandcheckout Âı Ò»Ğ© ß€Òª Ìá¸ß ¡£
-sentiment words: ['Âı']
+The true values is: 6.5
+åª æ˜¯ checkinandcheckout æ…¢ ä¸€äº› é‚„è¦ æé«˜ ã€‚
+sentiment words: ['æ…¢']
+words frequent: [1]
 correpsonding sentiment values: [2.8]
 The predicted values is (using Arithmetic Average): 2.8
-sentiment words: ['Âı']
+sentiment words: ['æ…¢']
+words frequent: [1]
 correpsonding sentiment values: [2.8]
 The predicted values is (using Geometric  Average): 2.8
-¸ĞÖx Äú Œ¦ ‡øÙe ´ó ¾Æµê µÄ ÕJ¿É ¡£
-sentiment words: ['Œ¦', '¸ĞÖx', 'ÕJ¿É']
+The true values is: 3.666666667
+æ„Ÿè¬ æ‚¨ å° åœ‹è³“ å¤§ é…’åº— çš„ èªå¯ ã€‚
+sentiment words: ['å°', 'æ„Ÿè¬', 'èªå¯']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.8, 5.6, 4.0]
 The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['Œ¦', '¸ĞÖx', 'ÕJ¿É']
+sentiment words: ['å°', 'æ„Ÿè¬', 'èªå¯']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.8, 5.6, 4.0]
 The predicted values is (using Geometric  Average): 4.75513756221
-Õı Öµ ŠWß\ ÆÚég µÇÓ› ÊÖÀm ±Èİ^ ·±æi ÎÒ‚ƒ ÕıÔÚ ÑĞ¾¿ ¹¤×÷ ¼š¹ ƒÁ¿ º†»¯ µÇÓ› ÊÖÀm ÆÚ´ı Äú ÔÙ´Î ¹âÅR K Œ¦ ÎÒ‚ƒ µÄ ¹¤×÷ Ìá³ö ŒšÙF ½¨×h £¡
-sentiment words: ['ŒšÙF', 'Œ¦', 'Õı']
+The true values is: 3.75
+æ­£ å€¼ å¥§é‹ æœŸé–“ ç™»è¨˜ æ‰‹çºŒ æ¯”è¼ƒ ç¹é– æˆ‘å€‘ æ­£åœ¨ ç ”ç©¶ å·¥ä½œ ç´°ç¯€ å„˜é‡ ç°¡åŒ– ç™»è¨˜ æ‰‹çºŒ æœŸå¾… æ‚¨ å†æ¬¡ å…‰è‡¨ ä¸¦ å° æˆ‘å€‘ çš„ å·¥ä½œ æå‡º å¯¶è²´ å»ºè­° ï¼
+sentiment words: ['å¯¶è²´', 'å°', 'æ­£']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.0, 4.8, 5.0]
 The predicted values is (using Arithmetic Average): 4.93333333333
-sentiment words: ['ŒšÙF', 'Œ¦', 'Õı']
+sentiment words: ['å¯¶è²´', 'å°', 'æ­£']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.0, 4.8, 5.0]
 The predicted values is (using Geometric  Average): 4.93242414866
-×£ Éú»î Óä¿ì Ò»ÇĞ í˜Àû £¡
-sentiment words: ['í˜Àû']
+The true values is: 4.285714286
+ç¥ ç”Ÿæ´» æ„‰å¿« ä¸€åˆ‡ é †åˆ© ï¼
+sentiment words: ['é †åˆ©']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['í˜Àû']
+sentiment words: ['é †åˆ©']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
-²Íd µÄ ·ş„Õ†T ‘B¶È ²» ÓÑºÃ ÃâÙM Ìá¹© µÄ Ôç²Í ÓĞµÄ ÔÚ ÔçÉÏ °Ë üc ¾Í ›]ÓĞ ¹©‘ª ÁË Õô ëuµ° ºÍ ³´ Ã×·Û Ğ¡ÃÃ Åc ·ş„Õ†T ½»Éæ ƒÉ ´Î Î´¹û Ôç²Í ¹©‘ª •rég ÊÇ µ½ ÉÏÎç ¾Å üc ½YÊø µÄ .
-sentiment words: ['ÃâÙM']
+The true values is: 5.166666667
+é¤å»³ çš„ æœå‹™å“¡ æ…‹åº¦ ä¸ å‹å¥½ å…è²» æä¾› çš„ æ—©é¤ æœ‰çš„ åœ¨ æ—©ä¸Š å…« é» å°± æ²’æœ‰ ä¾›æ‡‰ äº† è’¸ é›è›‹ å’Œ ç‚’ ç±³ç²‰ å°å¦¹ èˆ‡ æœå‹™å“¡ äº¤æ¶‰ å…© æ¬¡ æœªæœ æ—©é¤ ä¾›æ‡‰ æ™‚é–“ æ˜¯ åˆ° ä¸Šåˆ ä¹ é» çµæŸ çš„ .
+sentiment words: ['å…è²»']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['ÃâÙM']
+sentiment words: ['å…è²»']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Geometric  Average): 4.8
-Ï£Íû Ô“ ¾Æµê ‘ªŒ¦ Ôç²Í ¹©‘ª ÓĞËù ¸ÄÉÆ .
-sentiment words: ['Ï£Íû', '¸ÄÉÆ']
+The true values is: 4.75
+å¸Œæœ› è©² é…’åº— æ‡‰å° æ—©é¤ ä¾›æ‡‰ æœ‰æ‰€ æ”¹å–„ .
+sentiment words: ['å¸Œæœ›', 'æ”¹å–„']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.2]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['Ï£Íû', '¸ÄÉÆ']
+sentiment words: ['å¸Œæœ›', 'æ”¹å–„']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.2]
 The predicted values is (using Geometric  Average): 5.2
-Œ¦ ¿Í·¿ ·ş„Õ†T Òª ßMĞĞ ÅàÓ– ®” ¿ÍÈË ·¿éT éTæi ÉÏ ’ì ÁË " Õˆ Îğ ´ò”_ " µÄ ×Ö˜Ó Ï£Íû ²»Òª ÔÙ ÉÃ×Ô ßMÈë ¿Í·¿ ß@ ÊÇ Œ¦ ¿ÍÈË µÄ ×ğÖØ .
-sentiment words: ['×ğÖØ', 'Œ¦', 'Ï£Íû', '´ò”_']
+The true values is: 4.444444444
+å° å®¢æˆ¿ æœå‹™å“¡ è¦ é€²è¡Œ åŸ¹è¨“ ç•¶ å®¢äºº æˆ¿é–€ é–€é– ä¸Š æ› äº† " è«‹ å‹¿ æ‰“æ“¾ " çš„ å­—æ¨£ å¸Œæœ› ä¸è¦ å† æ“…è‡ª é€²å…¥ å®¢æˆ¿ é€™ æ˜¯ å° å®¢äºº çš„ å°Šé‡ .
+sentiment words: ['å°Šé‡', 'å°', 'å¸Œæœ›', 'æ‰“æ“¾']
+words frequent: [1, 2, 1, 1]
 correpsonding sentiment values: [5.2, 4.8, 5.2, 5.6]
-The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['×ğÖØ', 'Œ¦', 'Ï£Íû', '´ò”_']
+The predicted values is (using Arithmetic Average): 5.12
+sentiment words: ['å°Šé‡', 'å°', 'å¸Œæœ›', 'æ‰“æ“¾']
+words frequent: [1, 2, 1, 1]
 correpsonding sentiment values: [5.2, 4.8, 5.2, 5.6]
-The predicted values is (using Geometric  Average): 5.19229056442
-5 Ì– ˜Ç ÔÚ ×î ÑeÃæ ‘ªÔ“ ÊÇ ·¿ég ×îºÃ µÄ ¡£
-sentiment words: ['×îºÃ']
+The predicted values is (using Geometric  Average): 5.11134785199
+The true values is: 5.0
+5 è™Ÿ æ¨“ åœ¨ æœ€ è£¡é¢ æ‡‰è©² æ˜¯ æˆ¿é–“ æœ€å¥½ çš„ ã€‚
+sentiment words: ['æœ€å¥½']
+words frequent: [1]
 correpsonding sentiment values: [6.2]
 The predicted values is (using Arithmetic Average): 6.2
-sentiment words: ['×îºÃ']
+sentiment words: ['æœ€å¥½']
+words frequent: [1]
 correpsonding sentiment values: [6.2]
 The predicted values is (using Geometric  Average): 6.2
-·Ç³£ °²ìo ·¿ég ´° Íâ ¾Í ÊÇ É½ÁÖ ¿Õšâ ºÜ ÇåĞÂ ¡£
-sentiment words: ['°²ìo']
+The true values is: 4.25
+éå¸¸ å®‰éœ æˆ¿é–“ çª— å¤– å°± æ˜¯ å±±æ— ç©ºæ°£ å¾ˆ æ¸…æ–° ã€‚
+sentiment words: ['å®‰éœ']
+words frequent: [1]
 correpsonding sentiment values: [2.4]
 The predicted values is (using Arithmetic Average): 2.4
-sentiment words: ['°²ìo']
+sentiment words: ['å®‰éœ']
+words frequent: [1]
 correpsonding sentiment values: [2.4]
 The predicted values is (using Geometric  Average): 2.4
-²»×ã Ö® Ì ÊÇ ›]ÓĞ ½¡Éí·¿ ¡£
-sentiment words: ['²»×ã']
+The true values is: 3.285714286
+ä¸è¶³ ä¹‹ è™• æ˜¯ æ²’æœ‰ å¥èº«æˆ¿ ã€‚
+sentiment words: ['ä¸è¶³']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Arithmetic Average): 4.2
-sentiment words: ['²»×ã']
+sentiment words: ['ä¸è¶³']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Geometric  Average): 4.2
-ÎÒ ÊÇ µÚÈı ´Î Èë×¡ ÁË µ«ÊÇ ½o ß@ ¼Ò Ùeğ^ ÁôÑÔ ß€ÊÇ µÚÒ» ´Î ß@ ´Î Èë×¡ ÎÒ µÄ Ò» Î» ÅóÓÑ ºÈ×í ÁË ×ßµ½ ´ód ÎÒ ÅóÓÑ ¾Í " ¬Fˆö Ö±²¥ " ÁË ~ ~ ~ ~ ~ ºÇºÇ
-sentiment words: ['ºÇºÇ', 'ÅóÓÑ']
+The true values is: 3.714285714
+æˆ‘ æ˜¯ ç¬¬ä¸‰ æ¬¡ å…¥ä½ äº† ä½†æ˜¯ çµ¦ é€™ å®¶ è³“é¤¨ ç•™è¨€ é‚„æ˜¯ ç¬¬ä¸€ æ¬¡ é€™ æ¬¡ å…¥ä½ æˆ‘ çš„ ä¸€ ä½ æœ‹å‹ å–é†‰ äº† èµ°åˆ° å¤§å»³ æˆ‘ æœ‹å‹ å°± " ç¾å ´ ç›´æ’­ " äº† ~ ~ ~ ~ ~ å‘µå‘µ
+sentiment words: ['å‘µå‘µ', 'æœ‹å‹']
+words frequent: [1, 2]
 correpsonding sentiment values: [4.6, 4.2]
-The predicted values is (using Arithmetic Average): 4.4
-sentiment words: ['ºÇºÇ', 'ÅóÓÑ']
+The predicted values is (using Arithmetic Average): 4.33333333333
+sentiment words: ['å‘µå‘µ', 'æœ‹å‹']
+words frequent: [1, 2]
 correpsonding sentiment values: [4.6, 4.2]
-The predicted values is (using Geometric  Average): 4.39545219517
-ÍíÉÏ 22 : 30 ×óÓÒ Èë×¡ Ç° Å_ ½Ó´ı ºÜ Àäµ­ Ÿo Ğ¦Èİ
-sentiment words: ['Àäµ­', 'Ğ¦Èİ']
+The predicted values is (using Geometric  Average): 4.32931119225
+The true values is: 4.75
+æ™šä¸Š 22 : 30 å·¦å³ å…¥ä½ å‰ è‡º æ¥å¾… å¾ˆ å†·æ·¡ ç„¡ ç¬‘å®¹
+sentiment words: ['å†·æ·¡', 'ç¬‘å®¹']
+words frequent: [1, 1]
 correpsonding sentiment values: [3.6, 5.2]
 The predicted values is (using Arithmetic Average): 4.4
-sentiment words: ['Àäµ­', 'Ğ¦Èİ']
+sentiment words: ['å†·æ·¡', 'ç¬‘å®¹']
+words frequent: [1, 1]
 correpsonding sentiment values: [3.6, 5.2]
 The predicted values is (using Geometric  Average): 4.32666153056
-×î ¿ÉÅÂ µÄ ÊÇ ›_Ôè 3 ·ÖçŠ áá ÁÜÔ¡ ıˆî^ Í£Ë® 2·ÖçŠ ÒÔáá Ô¡¸× ıˆî^ Ò² ÍêÈ« Í£Ë® .
-sentiment words: ['¿ÉÅÂ']
+The true values is: 4.0
+æœ€ å¯æ€• çš„ æ˜¯ æ²–æ¾¡ 3 åˆ†é˜ å¾Œ æ·‹æµ´ é¾é ­ åœæ°´ 2åˆ†é˜ ä»¥å¾Œ æµ´ç¼¸ é¾é ­ ä¹Ÿ å®Œå…¨ åœæ°´ .
+sentiment words: ['å¯æ€•']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Arithmetic Average): 6.8
-sentiment words: ['¿ÉÅÂ']
+sentiment words: ['å¯æ€•']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Geometric  Average): 6.8
-¶¨ µÃ ÊÇ ºÀÈA Ì×ég µ« Ò»üc ¶¼ ²» ºÀÈA ¡£
-sentiment words: ['ºÀÈA']
+The true values is: 4.857142857
+å®š å¾— æ˜¯ è±ªè¯ å¥—é–“ ä½† ä¸€é» éƒ½ ä¸ è±ªè¯ ã€‚
+sentiment words: ['è±ªè¯']
+words frequent: [2]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Arithmetic Average): 5.8
-sentiment words: ['ºÀÈA']
+sentiment words: ['è±ªè¯']
+words frequent: [2]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Geometric  Average): 5.8
-¾Æµê µÃ Ôç²Í ±Èİ^ ²î ²Íd Ğ¡ ³Ôïˆ µÃ ÈË ¶à ³Ô µÄ –|Î÷ Ò² ºÜÉÙ ¡£
-sentiment words: ['²î']
+The true values is: 6.111111111
+é…’åº— å¾— æ—©é¤ æ¯”è¼ƒ å·® é¤å»³ å° åƒé£¯ å¾— äºº å¤š åƒ çš„ æ±è¥¿ ä¹Ÿ å¾ˆå°‘ ã€‚
+sentiment words: ['å·®']
+words frequent: [1]
 correpsonding sentiment values: [4.6]
 The predicted values is (using Arithmetic Average): 4.6
-sentiment words: ['²î']
+sentiment words: ['å·®']
+words frequent: [1]
 correpsonding sentiment values: [4.6]
 The predicted values is (using Geometric  Average): 4.6
-ÎÒ ×¡ ÁË 5 Ìì ¶øÇÒ Ä ›] Ìá ß^ ÖĞÍ¾ ÍË·¿ ×îáá ”y³Ì ¸æÔV ÎÒ ¾Æµê Õf ÎÒ Ö» ×¡ ÁË 2 Ìì ¾Í ÍË·¿ ÁË ëmÈ» ×îáá ÊÇ ½â›Q ÁË µ« ºÜ ²» Ë¬ Î¨Ò» ºÃ µÃ ¾Æµê ¹¤×÷ ÈË†T ß€ ±Èİ^ ŸáÇé
-sentiment words: ['ºÃ', 'ŸáÇé', 'Ë¬', '½â›Q']
+The true values is: 4.428571429
+æˆ‘ ä½ äº† 5 å¤© è€Œä¸” å¾ æ²’ æ é ä¸­é€” é€€æˆ¿ æœ€å¾Œ æ”œç¨‹ å‘Šè¨´ æˆ‘ é…’åº— èªª æˆ‘ åª ä½ äº† 2 å¤© å°± é€€æˆ¿ äº† é›–ç„¶ æœ€å¾Œ æ˜¯ è§£æ±º äº† ä½† å¾ˆ ä¸ çˆ½ å”¯ä¸€ å¥½ å¾— é…’åº— å·¥ä½œ äººå“¡ é‚„ æ¯”è¼ƒ ç†±æƒ…
+sentiment words: ['å¥½', 'ç†±æƒ…', 'çˆ½', 'è§£æ±º']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 6.4, 7.2, 4.8]
 The predicted values is (using Arithmetic Average): 5.9
-sentiment words: ['ºÃ', 'ŸáÇé', 'Ë¬', '½â›Q']
+sentiment words: ['å¥½', 'ç†±æƒ…', 'çˆ½', 'è§£æ±º']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 6.4, 7.2, 4.8]
 The predicted values is (using Geometric  Average): 5.82356950046
-¡° ÃÀÁÖ éw ¡± ²Íd ÔÚ ÉÏº£ Í¦ ÓĞ Ãûšâ ÌØµØ È¥ Æ·‡Ÿ ÁË Ò»ÏÂ µÄ´_ ²»åe ‘{ ·¿¿¨ ß€¿ÉÒÔ ´ò 8.8 ÕÛ ¡£
-sentiment words: ['´ò']
+The true values is: 5.625
+â€œ ç¾æ— é–£ â€ é¤å»³ åœ¨ ä¸Šæµ· æŒº æœ‰ åæ°£ ç‰¹åœ° å» å“åš äº† ä¸€ä¸‹ çš„ç¢º ä¸éŒ¯ æ†‘ æˆ¿å¡ é‚„å¯ä»¥ æ‰“ 8.8 æŠ˜ ã€‚
+sentiment words: ['æ‰“']
+words frequent: [1]
 correpsonding sentiment values: [6.6]
 The predicted values is (using Arithmetic Average): 6.6
-sentiment words: ['´ò']
+sentiment words: ['æ‰“']
+words frequent: [1]
 correpsonding sentiment values: [6.6]
 The predicted values is (using Geometric  Average): 6.6
-Ò»˜Ç ´óÌÃ Î÷‚È ÓĞ Ò» ‚€ ¾Æ°É ÍíÉÏ ºÍ × ‚€ ÅóÓÑ Ò»Æğ Ğ¡ ×ø ÁË Ò»•şƒº ÑeÃæ ­h¾³ ²»åe –|Î÷ Ò² ²» ÙF Í¬˜Ó ‘{ ·¿¿¨ ß€¿ÉÒÔ ´ò 8.8 ÕÛ ¡£
-sentiment words: ['´ò', 'ÅóÓÑ']
+The true values is: 5.777777778
+ä¸€æ¨“ å¤§å ‚ è¥¿å´ æœ‰ ä¸€ å€‹ é…’å§ æ™šä¸Š å’Œ å¹¾ å€‹ æœ‹å‹ ä¸€èµ· å° å äº† ä¸€æœƒå…’ è£¡é¢ ç’°å¢ƒ ä¸éŒ¯ æ±è¥¿ ä¹Ÿ ä¸ è²´ åŒæ¨£ æ†‘ æˆ¿å¡ é‚„å¯ä»¥ æ‰“ 8.8 æŠ˜ ã€‚
+sentiment words: ['æ‰“', 'æœ‹å‹']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.6, 4.2]
 The predicted values is (using Arithmetic Average): 5.4
-sentiment words: ['´ò', 'ÅóÓÑ']
+sentiment words: ['æ‰“', 'æœ‹å‹']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.6, 4.2]
 The predicted values is (using Geometric  Average): 5.26497863244
-ÏÂ ´Î ß€ •ş Èë×¡ ß@ ¼Ò ¾Æµê ÓĞ ÅdÈ¤ µÄ ÅóÓÑ ²»·Á Ò² È¥ Ô‡Ô‡ ¡£
-sentiment words: ['ÅóÓÑ', 'ÅdÈ¤']
+The true values is: 4.555555556
+ä¸‹ æ¬¡ é‚„ æœƒ å…¥ä½ é€™ å®¶ é…’åº— æœ‰ èˆˆè¶£ çš„ æœ‹å‹ ä¸å¦¨ ä¹Ÿ å» è©¦è©¦ ã€‚
+sentiment words: ['æœ‹å‹', 'èˆˆè¶£']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.2, 5.4]
 The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['ÅóÓÑ', 'ÅdÈ¤']
+sentiment words: ['æœ‹å‹', 'èˆˆè¶£']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.2, 5.4]
 The predicted values is (using Geometric  Average): 4.76235235992
-ÓĞÉúÒÔí Èë ×¡ ß^ µÄ ×î ¿Ö²À µÄ ¾Æµê Ö® Ò» ¿ÉÒÔ ¸ú Ó¡Äá ÑÅ¼Óß_ ½¼Íâ µÄ ¾Æµê æÇÃÀ £¨ Ğ¦ £© £¡
-sentiment words: ['¿Ö²À', 'Ğ¦']
+The true values is: 5.5
+æœ‰ç”Ÿä»¥ä¾† å…¥ ä½ é çš„ æœ€ ææ€– çš„ é…’åº— ä¹‹ ä¸€ å¯ä»¥ è·Ÿ å°å°¼ é›…åŠ é” éƒŠå¤– çš„ é…’åº— åª²ç¾ ï¼ˆ ç¬‘ ï¼‰ ï¼
+sentiment words: ['ææ€–', 'ç¬‘']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.8, 5.8]
 The predicted values is (using Arithmetic Average): 6.3
-sentiment words: ['¿Ö²À', 'Ğ¦']
+sentiment words: ['ææ€–', 'ç¬‘']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.8, 5.8]
 The predicted values is (using Geometric  Average): 6.28012738724
-·¿ég Ñe üqÎ¶ ŸŸÎ¶ “ä±Ç ›]ÓĞ ´°‘ô Í¨ïL óaóv µÄ µØÌº ÉÏ µÄ °ß°ß ücüc µÄ ÎÛÛ” Áî ÈË Ó|Ä¿ó@ĞÄ ¡£
-sentiment words: ['Ó|Ä¿ó@ĞÄ', 'óaóv']
+The true values is: 5.5
+æˆ¿é–“ è£¡ é»´å‘³ ç…™å‘³ æ’²é¼» æ²’æœ‰ çª—æˆ¶ é€šé¢¨ éª¯é«’ çš„ åœ°æ¯¯ ä¸Š çš„ æ–‘æ–‘ é»é» çš„ æ±¡è¹Ÿ ä»¤ äºº è§¸ç›®é©šå¿ƒ ã€‚
+sentiment words: ['è§¸ç›®é©šå¿ƒ', 'éª¯é«’']
+words frequent: [1, 1]
 correpsonding sentiment values: [8.0, 4.6]
 The predicted values is (using Arithmetic Average): 6.3
-sentiment words: ['Ó|Ä¿ó@ĞÄ', 'óaóv']
+sentiment words: ['è§¸ç›®é©šå¿ƒ', 'éª¯é«’']
+words frequent: [1, 1]
 correpsonding sentiment values: [8.0, 4.6]
 The predicted values is (using Geometric  Average): 6.06630035524
-úËù óaóv éLÄê ÀÛ·e µÄ ÎÛ°ß ³ôÎ¶ Áî ÈË Ÿo·¨ Èçú ¡£
-sentiment words: ['³ôÎ¶', 'óaóv']
+The true values is: 6.875
+å»æ‰€ éª¯é«’ é•·å¹´ ç´¯ç© çš„ æ±¡æ–‘ è‡­å‘³ ä»¤ äºº ç„¡æ³• å¦‚å» ã€‚
+sentiment words: ['è‡­å‘³', 'éª¯é«’']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.0, 4.6]
 The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['³ôÎ¶', 'óaóv']
+sentiment words: ['è‡­å‘³', 'éª¯é«’']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.0, 4.6]
 The predicted values is (using Geometric  Average): 4.79583152331
-ß€ Ëã ÓĞ ƒüc ¾ÍÊÇ ·ş„Õ†T µÄ ‘B¶È ²»åe ¡£
-sentiment words: ['ƒüc']
+The true values is: 6.833333333
+é‚„ ç®— æœ‰ å„ªé» å°±æ˜¯ æœå‹™å“¡ çš„ æ…‹åº¦ ä¸éŒ¯ ã€‚
+sentiment words: ['å„ªé»']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['ƒüc']
+sentiment words: ['å„ªé»']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
-ºÍ ÀÏÆÅ Ò»Æğ ÔÚ “PÖİ ¶È ÁË Èı Ìì µÄ ÃÛÔÂ ÔÚ ¾Æµê ×¡ ÁË Èı Ìì ¸ĞÓX ºÜ ²»åe ÊÇ Ä¿Ç° ÎÒ‚ƒ ×¡ ß^ µÄ ×îºÃ µÄ ÈıĞÇ¼‰ ¾Æµê ÁË ¡£
-sentiment words: ['×îºÃ']
+The true values is: 4.714285714
+å’Œ è€å©† ä¸€èµ· åœ¨ æšå· åº¦ äº† ä¸‰ å¤© çš„ èœœæœˆ åœ¨ é…’åº— ä½ äº† ä¸‰ å¤© æ„Ÿè¦º å¾ˆ ä¸éŒ¯ æ˜¯ ç›®å‰ æˆ‘å€‘ ä½ é çš„ æœ€å¥½ çš„ ä¸‰æ˜Ÿç´š é…’åº— äº† ã€‚
+sentiment words: ['æœ€å¥½']
+words frequent: [1]
 correpsonding sentiment values: [6.2]
 The predicted values is (using Arithmetic Average): 6.2
-sentiment words: ['×îºÃ']
+sentiment words: ['æœ€å¥½']
+words frequent: [1]
 correpsonding sentiment values: [6.2]
 The predicted values is (using Geometric  Average): 6.2
-³Ô µÃ ÎÒ‚ƒ “ÎËÀ ~ ¹ş¹ş µØÀí Î»ÖÃ Ò² ±Èİ^ ºÃ ¾Í ÔÚ ·±ÈA µÄ ÎÄ²ı Â· ÉÏ
-sentiment words: ['¹ş¹ş', 'ºÃ']
+The true values is: 6.285714286
+åƒ å¾— æˆ‘å€‘ æ’æ­» ~ å“ˆå“ˆ åœ°ç† ä½ç½® ä¹Ÿ æ¯”è¼ƒ å¥½ å°± åœ¨ ç¹è¯ çš„ æ–‡æ˜Œ è·¯ ä¸Š
+sentiment words: ['å“ˆå“ˆ', 'å¥½']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.0, 5.2]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['¹ş¹ş', 'ºÃ']
+sentiment words: ['å“ˆå“ˆ', 'å¥½']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.0, 5.2]
 The predicted values is (using Geometric  Average): 5.58569601751
-¿‚ Ìá ¸ĞÓX ß€ÊÇ Ïà®” ²»åe µÄ È¥ “PÖİ µÄ ÅóÓÑ ½¨×h Äã‚ƒ È¥ ×¡ Ò»ÏÂ ~ ¹ş¹ş
-sentiment words: ['¹ş¹ş', 'ÅóÓÑ']
+The true values is: 6.0
+ç¸½ æ æ„Ÿè¦º é‚„æ˜¯ ç›¸ç•¶ ä¸éŒ¯ çš„ å» æšå· çš„ æœ‹å‹ å»ºè­° ä½ å€‘ å» ä½ ä¸€ä¸‹ ~ å“ˆå“ˆ
+sentiment words: ['å“ˆå“ˆ', 'æœ‹å‹']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.0, 4.2]
 The predicted values is (using Arithmetic Average): 5.1
-sentiment words: ['¹ş¹ş', 'ÅóÓÑ']
+sentiment words: ['å“ˆå“ˆ', 'æœ‹å‹']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.0, 4.2]
 The predicted values is (using Geometric  Average): 5.0199601592
-ºÜ ²»åe µÄ Ò» ¼Ò ¾Æµê ÔÚ ®”µØ í Õf ÊÇ ×îºÃ µÄ ÁË .
-sentiment words: ['×îºÃ']
+The true values is: 5.428571429
+å¾ˆ ä¸éŒ¯ çš„ ä¸€ å®¶ é…’åº— åœ¨ ç•¶åœ° ä¾† èªª æ˜¯ æœ€å¥½ çš„ äº† .
+sentiment words: ['æœ€å¥½']
+words frequent: [1]
 correpsonding sentiment values: [6.2]
 The predicted values is (using Arithmetic Average): 6.2
-sentiment words: ['×îºÃ']
+sentiment words: ['æœ€å¥½']
+words frequent: [1]
 correpsonding sentiment values: [6.2]
 The predicted values is (using Geometric  Average): 6.2
-ºÜ ²»åe µÄ Ò» ¼Ò ¾Æµê ÔÚ ®”µØ í Õf ÊÇ ×îºÃ µÄ ÁË .
-sentiment words: ['×îºÃ']
+The true values is: 4.666666667
+å¾ˆ ä¸éŒ¯ çš„ ä¸€ å®¶ é…’åº— åœ¨ ç•¶åœ° ä¾† èªª æ˜¯ æœ€å¥½ çš„ äº† .
+sentiment words: ['æœ€å¥½']
+words frequent: [1]
 correpsonding sentiment values: [6.2]
 The predicted values is (using Arithmetic Average): 6.2
-sentiment words: ['×îºÃ']
+sentiment words: ['æœ€å¥½']
+words frequent: [1]
 correpsonding sentiment values: [6.2]
 The predicted values is (using Geometric  Average): 6.2
-ƒüc ²»ÓÃÕf ÁË Õl ×Œ ÔÛ ÊÇ ¸FÈË ƒr¸ñ ÊÇ ºÜ ÎüÒıÈË µÄ ÒòËØ ¡£
-sentiment words: ['ƒüc']
+The true values is: 6.142857143
+å„ªé» ä¸ç”¨èªª äº† èª° è®“ å’± æ˜¯ çª®äºº åƒ¹æ ¼ æ˜¯ å¾ˆ å¸å¼•äºº çš„ å› ç´  ã€‚
+sentiment words: ['å„ªé»']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['ƒüc']
+sentiment words: ['å„ªé»']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
-ÎÒ Ö» ÕfÕf È±üc ÄÃµ½ ÊÖ áá °l¬F ïLÉÈ °l³ö ºÜ ¼âäJ µÄ ¸ßîl Â•Òô °²ìo µÄ •rºò ºÜ ÊÇ ²» Ë¬ ¡£
-sentiment words: ['°²ìo', 'Ë¬', 'È±üc']
+The true values is: 5.285714286
+æˆ‘ åª èªªèªª ç¼ºé» æ‹¿åˆ° æ‰‹ å¾Œ ç™¼ç¾ é¢¨æ‰‡ ç™¼å‡º å¾ˆ å°–éŠ³ çš„ é«˜é » è²éŸ³ å®‰éœ çš„ æ™‚å€™ å¾ˆ æ˜¯ ä¸ çˆ½ ã€‚
+sentiment words: ['å®‰éœ', 'çˆ½', 'ç¼ºé»']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [2.4, 7.2, 4.6]
 The predicted values is (using Arithmetic Average): 4.73333333333
-sentiment words: ['°²ìo', 'Ë¬', 'È±üc']
+sentiment words: ['å®‰éœ', 'çˆ½', 'ç¼ºé»']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [2.4, 7.2, 4.6]
 The predicted values is (using Geometric  Average): 4.29965744522
-Ò»šâÖ®ÏÂ ÎÒ °Ñ Ëü ½o ²ğ ÁË ‘ªÔ“ ÊÇ ÑbÅä †–î} ïLÉÈ ß\ŞD ºÜ °²ìo ÊÇ ÆäËû µØ·½ ºÍ Ëü °lÉú ÁË ¹²Õñ »ò Ä¦²Á Ä ĞÂÑb ÁË Ò»±é ¬FÔÚ ºÃÁË ¡£
-sentiment words: ['°²ìo']
+The true values is: 6.375
+ä¸€æ°£ä¹‹ä¸‹ æˆ‘ æŠŠ å®ƒ çµ¦ æ‹† äº† æ‡‰è©² æ˜¯ è£é… å•é¡Œ é¢¨æ‰‡ é‹è½‰ å¾ˆ å®‰éœ æ˜¯ å…¶ä»– åœ°æ–¹ å’Œ å®ƒ ç™¼ç”Ÿ äº† å…±æŒ¯ æˆ– æ‘©æ“¦ å¾ æ–°è£ äº† ä¸€é ç¾åœ¨ å¥½äº† ã€‚
+sentiment words: ['å®‰éœ']
+words frequent: [1]
 correpsonding sentiment values: [2.4]
 The predicted values is (using Arithmetic Average): 2.4
-sentiment words: ['°²ìo']
+sentiment words: ['å®‰éœ']
+words frequent: [1]
 correpsonding sentiment values: [2.4]
 The predicted values is (using Geometric  Average): 2.4
-µÄ Â•Òô ½›ß^ ×Ğ¼š Ó^²ì ÊÇ µ×š¤ ºÍ °å×Ó ß…¾‰ ®aÉú µÄ ÉÔÎ¢ ÌÀí Ò»ÏÂ ½ÓÓ| ²¿Î» ½â›Q ¡£
-sentiment words: ['×Ğ¼š', '½â›Q']
+The true values is: 4.571428571
+çš„ è²éŸ³ ç¶“é ä»”ç´° è§€å¯Ÿ æ˜¯ åº•æ®¼ å’Œ æ¿å­ é‚Šç·£ ç”¢ç”Ÿ çš„ ç¨å¾® è™•ç† ä¸€ä¸‹ æ¥è§¸ éƒ¨ä½ è§£æ±º ã€‚
+sentiment words: ['ä»”ç´°', 'è§£æ±º']
+words frequent: [1, 1]
 correpsonding sentiment values: [3.8, 4.8]
 The predicted values is (using Arithmetic Average): 4.3
-sentiment words: ['×Ğ¼š', '½â›Q']
+sentiment words: ['ä»”ç´°', 'è§£æ±º']
+words frequent: [1, 1]
 correpsonding sentiment values: [3.8, 4.8]
 The predicted values is (using Geometric  Average): 4.27083130081
-Ç° Å_ ·ş„Õ Ì« Âı Ç° Å_ ÄĞÉú µÄ ‘B¶È ˜O ²î ˜O ²î £» ëŠÌİ ±¾í Ö»ÓĞ ƒÉ ²¿ …s Ê¼½K ¶¼ ÓĞ Ò» ‚€ ÔÚ ¾SĞŞ ÉÏÏÂ ëŠÌİ Ã¿ ŒÓ ¶¼ Í£Áô ÓĞ•r ÉõÖÁ µÈ ƒÉ ´Î ²Å ×ø µÃ ÉÏ £» ·¿ég ĞlÉú ²»ºÃ µØÃæ ºÃÏñ ²» ×ö Çå ĞlÉú ég ²» Ç¬œQ Ã«½í ºÃÏñ Ä¨²¼ Ò»˜Ó ß€ ÓĞ ¹ÖÎ¶ £» Ë® ±­ ¶¼ ÊÇ ËÜÁÏ µÄ £» ´òëŠÔ’ Òª ´µïL™C ºÍ ²å×ù ¾¹È» ×Œ ¿ÍÈË ×Ô¼º È¥ Ç° Å_ ÄÃ £» ÁÜÔ¡ ‡Šî^ Â©Ë® ‡ÀÖØ ´òëŠÔ’ ¸æÖª Ç° Å_ ¾¹È» ÅÉ ±£°² ³ä®” ¾SĞŞ¹¤ ÉÏ í ·¿ég ²ì¿´ ¡£
-sentiment words: ['‡ÀÖØ', '²î', 'Âı']
+The true values is: 4.125
+å‰ è‡º æœå‹™ å¤ª æ…¢ å‰ è‡º ç”·ç”Ÿ çš„ æ…‹åº¦ æ¥µ å·® æ¥µ å·® ï¼› é›»æ¢¯ æœ¬ä¾† åªæœ‰ å…© éƒ¨ å» å§‹çµ‚ éƒ½ æœ‰ ä¸€ å€‹ åœ¨ ç¶­ä¿® ä¸Šä¸‹ é›»æ¢¯ æ¯ å±¤ éƒ½ åœç•™ æœ‰æ™‚ ç”šè‡³ ç­‰ å…© æ¬¡ æ‰ å å¾— ä¸Š ï¼› æˆ¿é–“ è¡›ç”Ÿ ä¸å¥½ åœ°é¢ å¥½åƒ ä¸ åš æ¸…æ½” è¡›ç”Ÿ é–“ ä¸ ä¹¾æ·¨ æ¯›å·¾ å¥½åƒ æŠ¹å¸ƒ ä¸€æ¨£ é‚„ æœ‰ æ€ªå‘³ ï¼› æ°´ æ¯ éƒ½ æ˜¯ å¡‘æ–™ çš„ ï¼› æ‰“é›»è©± è¦ å¹é¢¨æ©Ÿ å’Œ æ’åº§ ç«Ÿç„¶ è®“ å®¢äºº è‡ªå·± å» å‰ è‡º æ‹¿ ï¼› æ·‹æµ´ å™´é ­ æ¼æ°´ åš´é‡ æ‰“é›»è©± å‘ŠçŸ¥ å‰ è‡º ç«Ÿç„¶ æ´¾ ä¿å®‰ å……ç•¶ ç¶­ä¿®å·¥ ä¸Š ä¾† æˆ¿é–“ å¯Ÿçœ‹ ã€‚
+sentiment words: ['åš´é‡', 'å·®', 'æ…¢']
+words frequent: [1, 2, 1]
 correpsonding sentiment values: [7.0, 4.6, 2.8]
-The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['‡ÀÖØ', '²î', 'Âı']
+The predicted values is (using Arithmetic Average): 4.75
+sentiment words: ['åš´é‡', 'å·®', 'æ…¢']
+words frequent: [1, 2, 1]
 correpsonding sentiment values: [7.0, 4.6, 2.8]
-The predicted values is (using Geometric  Average): 4.48405882165
-ß€ ºÃ ¾Æµê µÄ ‘ª¼± ·½°¸ ²»åe K ËÍ ÁË Ò» ·İ Ë®¹û ÖÂÇ¸ ×îºÃ ¸æÔV ÎÒ Õf ÊÇ ĞÂí †T¹¤ ”[õıˆ ß@ ‚€ ÀíÓÉ ÓĞüc ÃãŠ ¡£
-sentiment words: ['ÃãŠ', 'ºÃ', '×îºÃ']
+The predicted values is (using Geometric  Average): 4.51276723657
+The true values is: 7.125
+é‚„ å¥½ é…’åº— çš„ æ‡‰æ€¥ æ–¹æ¡ˆ ä¸éŒ¯ ä¸¦ é€ äº† ä¸€ ä»½ æ°´æœ è‡´æ­‰ æœ€å¥½ å‘Šè¨´ æˆ‘ èªª æ˜¯ æ–°ä¾† å“¡å·¥ æ“ºçƒé¾ é€™ å€‹ ç†ç”± æœ‰é» å‹‰å¼· ã€‚
+sentiment words: ['å‹‰å¼·', 'å¥½', 'æœ€å¥½']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.0, 5.2, 6.2]
 The predicted values is (using Arithmetic Average): 5.46666666667
-sentiment words: ['ÃãŠ', 'ºÃ', '×îºÃ']
+sentiment words: ['å‹‰å¼·', 'å¥½', 'æœ€å¥½']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.0, 5.2, 6.2]
 The predicted values is (using Geometric  Average): 5.44237353173
-¾Æµê µÄ ½Ó´ı ÈË†T ß€ÊÇ ºÜ ŸáÇé ¾ÍÊÇ ²Íd µÄ ²Í Ì« ëy³Ô ·ş„Õ ºÜ ºÃ ÖªµÀ ÎÒ‚ƒ Òª Ò»Ôç È¥ ¾ÆÈª ²Íd ß€ ÔÚ ›] é_ ²Í Ç° ½o ÎÒ‚ƒ ´ò ÁË °ü ºÜ ¸ĞÖx £¡
-sentiment words: ['ºÃ', '¸ĞÖx', '´ò', 'ŸáÇé', 'ëy³Ô']
+The true values is: 5.0
+é…’åº— çš„ æ¥å¾… äººå“¡ é‚„æ˜¯ å¾ˆ ç†±æƒ… å°±æ˜¯ é¤å»³ çš„ é¤ å¤ª é›£åƒ æœå‹™ å¾ˆ å¥½ çŸ¥é“ æˆ‘å€‘ è¦ ä¸€æ—© å» é…’æ³‰ é¤å»³ é‚„ åœ¨ æ²’ é–‹ é¤ å‰ çµ¦ æˆ‘å€‘ æ‰“ äº† åŒ… å¾ˆ æ„Ÿè¬ ï¼
+sentiment words: ['å¥½', 'æ„Ÿè¬', 'æ‰“', 'ç†±æƒ…', 'é›£åƒ']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 5.6, 6.6, 6.4, 5.8]
 The predicted values is (using Arithmetic Average): 5.92
-sentiment words: ['ºÃ', '¸ĞÖx', '´ò', 'ŸáÇé', 'ëy³Ô']
+sentiment words: ['å¥½', 'æ„Ÿè¬', 'æ‰“', 'ç†±æƒ…', 'é›£åƒ']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 5.6, 6.6, 6.4, 5.8]
 The predicted values is (using Geometric  Average): 5.89750957611
-ĞÄ ÖĞ Œ¦ ß@ ¼Ò ¾Æµê µÄ ¸ĞÓX Ò»ÏÂ ¾Í Ê®·Ö ²» ºÃ ¡£
-sentiment words: ['ºÃ', 'Œ¦']
+The true values is: 4.5
+å¿ƒ ä¸­ å° é€™ å®¶ é…’åº— çš„ æ„Ÿè¦º ä¸€ä¸‹ å°± ååˆ† ä¸ å¥½ ã€‚
+sentiment words: ['å¥½', 'å°']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.8]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['ºÃ', 'Œ¦']
+sentiment words: ['å¥½', 'å°']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.8]
 The predicted values is (using Geometric  Average): 4.99599839872
-·¿ég ·Ç³£ Ôã¸â Áãy ²»¿° …Âş Ò»ê‡ ¸¯üq šâÎ¶ ‚í¾ã ˜OÆä êÅf µØÌº óv³ô Àä ŸáË® ²»ÄÜ Õ{ ıˆî^ Â©Ë® ŸôÕÖ ²»Òí¶øïw
-sentiment words: ['Àä', 'Ôã¸â']
+The true values is: 5.166666667
+æˆ¿é–“ éå¸¸ ç³Ÿç³• é›¶äº‚ ä¸å ª ç€°æ¼« ä¸€é™£ è…é»´ æ°£å‘³ å‚¢ä¿± æ¥µå…¶ é™³èˆŠ åœ°æ¯¯ é«’è‡­ å†· ç†±æ°´ ä¸èƒ½ èª¿ é¾é ­ æ¼æ°´ ç‡ˆç½© ä¸ç¿¼è€Œé£›
+sentiment words: ['å†·', 'ç³Ÿç³•']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.4, 5.2]
 The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['Àä', 'Ôã¸â']
+sentiment words: ['å†·', 'ç³Ÿç³•']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.4, 5.2]
 The predicted values is (using Geometric  Average): 4.78330429724
-Ï£Íû ”y³Ì °Ñ ºÃ …f×h ¾Æµê µÄ êP ²»ÄÜ ×Œ ´Ë î ¾Æµê Õ`Œ§ ¿Í‘ô ¡£
-sentiment words: ['ºÃ', 'Ï£Íû']
+The true values is: 5.75
+å¸Œæœ› æ”œç¨‹ æŠŠ å¥½ å”è­° é…’åº— çš„ é—œ ä¸èƒ½ è®“ æ­¤ é¡ é…’åº— èª¤å° å®¢æˆ¶ ã€‚
+sentiment words: ['å¥½', 'å¸Œæœ›']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.2]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['ºÃ', 'Ï£Íû']
+sentiment words: ['å¥½', 'å¸Œæœ›']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.2]
 The predicted values is (using Geometric  Average): 5.2
-¿‚ów í Öv Œ¦ µÇ·â µÄ Ó¡Ïó ±Èİ^ ²î »ù±¾ ÉÏ ÊÇ óvy ²î µÄ µäĞÍ £¡
-sentiment words: ['Œ¦', '²î']
+The true values is: 5.857142857
+ç¸½é«” ä¾† è¬› å° ç™»å° çš„ å°è±¡ æ¯”è¼ƒ å·® åŸºæœ¬ ä¸Š æ˜¯ é«’äº‚ å·® çš„ å…¸å‹ ï¼
+sentiment words: ['å°', 'å·®']
+words frequent: [1, 2]
 correpsonding sentiment values: [4.8, 4.6]
-The predicted values is (using Arithmetic Average): 4.7
-sentiment words: ['Œ¦', '²î']
+The predicted values is (using Arithmetic Average): 4.66666666667
+sentiment words: ['å°', 'å·®']
+words frequent: [1, 2]
 correpsonding sentiment values: [4.8, 4.6]
-The predicted values is (using Geometric  Average): 4.69893604979
-¾Æµê µÄ ÔOÊ© ˜O¶Ë º†Âª Ï´ÊÖég Ñe ßB Ô¡ºŸ ¶¼ ›]ÓĞ Ï´ ‚€ Ôè M Îİ×Ó µÄ Ë® £¡
-sentiment words: ['˜O¶Ë']
+The predicted values is (using Geometric  Average): 4.66572316527
+The true values is: 6.555555556
+é…’åº— çš„ è¨­æ–½ æ¥µç«¯ ç°¡é™‹ æ´—æ‰‹é–“ è£¡ é€£ æµ´ç°¾ éƒ½ æ²’æœ‰ æ´— å€‹ æ¾¡ æ»¿ å±‹å­ çš„ æ°´ ï¼
+sentiment words: ['æ¥µç«¯']
+words frequent: [1]
 correpsonding sentiment values: [7.0]
 The predicted values is (using Arithmetic Average): 7.0
-sentiment words: ['˜O¶Ë']
+sentiment words: ['æ¥µç«¯']
+words frequent: [1]
 correpsonding sentiment values: [7.0]
 The predicted values is (using Geometric  Average): 7.0
-Èë ×¡ •r ¾Æµê µÄ ·ş„Õ ºÜ ºÃ ´óÌÃ ºÍ ·¿ég Ò»°ã Èë ×¡ áá °l¬F ·¿ég µÄ Ó² ¼ş İ^ ²î ±ÈÈç ¿ÕÕ{ ñRÍ° ÓÈÆä ÊÇ ëŠÒ• ßb¿ØÆ÷ ·Ç³£ ²î ×ºõ ²»ÄÜ ÓÃ ¡£
-sentiment words: ['ºÃ', '²î']
+The true values is: 6.25
+å…¥ ä½ æ™‚ é…’åº— çš„ æœå‹™ å¾ˆ å¥½ å¤§å ‚ å’Œ æˆ¿é–“ ä¸€èˆ¬ å…¥ ä½ å¾Œ ç™¼ç¾ æˆ¿é–“ çš„ ç¡¬ ä»¶ è¼ƒ å·® æ¯”å¦‚ ç©ºèª¿ é¦¬æ¡¶ å°¤å…¶ æ˜¯ é›»è¦– é™æ§å™¨ éå¸¸ å·® å¹¾ä¹ ä¸èƒ½ ç”¨ ã€‚
+sentiment words: ['å¥½', 'å·®']
+words frequent: [1, 2]
 correpsonding sentiment values: [5.2, 4.6]
-The predicted values is (using Arithmetic Average): 4.9
-sentiment words: ['ºÃ', '²î']
+The predicted values is (using Arithmetic Average): 4.8
+sentiment words: ['å¥½', 'å·®']
+words frequent: [1, 2]
 correpsonding sentiment values: [5.2, 4.6]
-The predicted values is (using Geometric  Average): 4.89080770425
-ÎÒ Ë¾ ×ğÙF ¿Í‘ô îAÓ† ßLÄ© Èë×¡ ĞĞÕş ˜ÇŒÓ 28˜Ç ĞĞÕş ˜ÇŒÓ ÂäµØ ´°‘ô ³¯ ÄÏ ·¿ég Ò•Ò° ºÜ ºÃ ¿ÉÒÔ ¸©î« ÑÓ°² Î÷Â· ¸ß¼Ü ÓÉì¶ ÊÇ í”ŒÓ ¸ß¼Ü µÄ ¸ôÒô Ò² ºÜ ºÃ £¡
-sentiment words: ['ºÃ', '×ğÙF']
+The predicted values is (using Geometric  Average): 4.79188443455
+The true values is: 4.571428571
+æˆ‘ å¸ å°Šè²´ å®¢æˆ¶ é è¨‚ é€±æœ« å…¥ä½ è¡Œæ”¿ æ¨“å±¤ 28æ¨“ è¡Œæ”¿ æ¨“å±¤ è½åœ° çª—æˆ¶ æœ å— æˆ¿é–“ è¦–é‡ å¾ˆ å¥½ å¯ä»¥ ä¿¯ç° å»¶å®‰ è¥¿è·¯ é«˜æ¶ ç”±æ–¼ æ˜¯ é ‚å±¤ é«˜æ¶ çš„ éš”éŸ³ ä¹Ÿ å¾ˆ å¥½ ï¼
+sentiment words: ['å¥½', 'å°Šè²´']
+words frequent: [2, 1]
 correpsonding sentiment values: [5.2, 5.2]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['ºÃ', '×ğÙF']
+sentiment words: ['å¥½', 'å°Šè²´']
+words frequent: [2, 1]
 correpsonding sentiment values: [5.2, 5.2]
 The predicted values is (using Geometric  Average): 5.2
-ÁíÍâ ß€ ÓĞ Ò»üc ¾ÍÊÇ ¸ôÒô ²» ÊÇ ºÜ ºÃ ÎÒ‚ƒ Èë ×¡ µÄ ¿Í‘ô ÓĞ ‡ÀÖØ Ê§Ãß ³£ ±» éT Íâ µÄ Ä_²½Â• ºÍ ĞúÖœÂ• ó@ĞÑ £¡
-sentiment words: ['‡ÀÖØ', 'Ê§Ãß', 'ºÃ']
+The true values is: 5.625
+å¦å¤– é‚„ æœ‰ ä¸€é» å°±æ˜¯ éš”éŸ³ ä¸ æ˜¯ å¾ˆ å¥½ æˆ‘å€‘ å…¥ ä½ çš„ å®¢æˆ¶ æœ‰ åš´é‡ å¤±çœ  å¸¸ è¢« é–€ å¤– çš„ è…³æ­¥è² å’Œ å–§è­è² é©šé†’ ï¼
+sentiment words: ['åš´é‡', 'å¤±çœ ', 'å¥½']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [7.0, 3.6, 5.2]
 The predicted values is (using Arithmetic Average): 5.26666666667
-sentiment words: ['‡ÀÖØ', 'Ê§Ãß', 'ºÃ']
+sentiment words: ['åš´é‡', 'å¤±çœ ', 'å¥½']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [7.0, 3.6, 5.2]
 The predicted values is (using Geometric  Average): 5.07926994696
-¿‚Ö® ·Ç³£ ÖµµÃ ÍÆË] Èë×¡ £¡
-sentiment words: ['ÖµµÃ']
+The true values is: 5.666666667
+ç¸½ä¹‹ éå¸¸ å€¼å¾— æ¨è–¦ å…¥ä½ ï¼
+sentiment words: ['å€¼å¾—']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['ÖµµÃ']
+sentiment words: ['å€¼å¾—']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Geometric  Average): 5.6
-Ò»Èç ¼È Íù µÄ Ö§³Ö ²»åe µÄ ¾Æµê ·ş„Õ ÉÏ ÔÙ ÉÏÈ¥ Ò»üc ¾Í ºÃÁË ¡£
-sentiment words: ['Ö§³Ö']
+The true values is: 6.333333333
+ä¸€å¦‚ æ—¢ å¾€ çš„ æ”¯æŒ ä¸éŒ¯ çš„ é…’åº— æœå‹™ ä¸Š å† ä¸Šå» ä¸€é» å°± å¥½äº† ã€‚
+sentiment words: ['æ”¯æŒ']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['Ö§³Ö']
+sentiment words: ['æ”¯æŒ']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
-ÖxÖx Äú éLÆÚ ÒÔí Œ¦ ÎÒ ¾Æµê µÄ êPĞÄ ºÍ Ö§³Ö ÎÒ ¾Æµê ¼´Œ¢ Éêˆó ËÄĞÇ¼‰ ¾Æµê ÎÒ‚ƒ ÔÚ Ó² ¼ş µÄ ¸ÄÔì µÄ Í¬•r Ü›¼ş ·ş„Õ ÉÏ Ò² ¼ÓŠ ºÍ ÌáÉı  È¡ ×Œ Ã¿ Ò» Î» Ùe¿Í ¶¼ MÒâ ¡£
-sentiment words: ['Œ¦', 'Ö§³Ö', 'MÒâ', 'ÖxÖx', 'êPĞÄ']
+The true values is: 3.888888889
+è¬è¬ æ‚¨ é•·æœŸ ä»¥ä¾† å° æˆ‘ é…’åº— çš„ é—œå¿ƒ å’Œ æ”¯æŒ æˆ‘ é…’åº— å³å°‡ ç”³å ± å››æ˜Ÿç´š é…’åº— æˆ‘å€‘ åœ¨ ç¡¬ ä»¶ çš„ æ”¹é€  çš„ åŒæ™‚ è»Ÿä»¶ æœå‹™ ä¸Š ä¹Ÿ åŠ å¼· å’Œ æå‡ çˆ­å– è®“ æ¯ ä¸€ ä½ è³“å®¢ éƒ½ æ»¿æ„ ã€‚
+sentiment words: ['å°', 'æ”¯æŒ', 'æ»¿æ„', 'è¬è¬', 'é—œå¿ƒ']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.8, 5.0, 5.6, 5.8, 6.0]
 The predicted values is (using Arithmetic Average): 5.44
-sentiment words: ['Œ¦', 'Ö§³Ö', 'MÒâ', 'ÖxÖx', 'êPĞÄ']
+sentiment words: ['å°', 'æ”¯æŒ', 'æ»¿æ„', 'è¬è¬', 'é—œå¿ƒ']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.8, 5.0, 5.6, 5.8, 6.0]
 The predicted values is (using Geometric  Average): 5.41995527176
-ĞÔ ƒr±È ¸ß ·ş„Õ Ò² ×ã‰ò ÖÜµ½ ×Ğ¼š ·´‘ª Ò² ºÜ ¿ì ¡£
-sentiment words: ['×Ğ¼š', 'ÖÜµ½', '×ã‰ò']
+The true values is: 4.285714286
+æ€§ åƒ¹æ¯” é«˜ æœå‹™ ä¹Ÿ è¶³å¤  å‘¨åˆ° ä»”ç´° åæ‡‰ ä¹Ÿ å¾ˆ å¿« ã€‚
+sentiment words: ['ä»”ç´°', 'å‘¨åˆ°', 'è¶³å¤ ']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [3.8, 4.4, 4.0]
 The predicted values is (using Arithmetic Average): 4.06666666667
-sentiment words: ['×Ğ¼š', 'ÖÜµ½', '×ã‰ò']
+sentiment words: ['ä»”ç´°', 'å‘¨åˆ°', 'è¶³å¤ ']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [3.8, 4.4, 4.0]
 The predicted values is (using Geometric  Average): 4.05912184652
-²»ß^ ²» ÔõüN Ï²šg Ëû‚ƒ µÄ ÖÆ·ş À² »¨»¨ µÄ ºÜ ëy¿´ ¡£
-sentiment words: ['Ï²šg']
+The true values is: 4.222222222
+ä¸é ä¸ æ€éº¼ å–œæ­¡ ä»–å€‘ çš„ åˆ¶æœ å•¦ èŠ±èŠ± çš„ å¾ˆ é›£çœ‹ ã€‚
+sentiment words: ['å–œæ­¡']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Arithmetic Average): 5.8
-sentiment words: ['Ï²šg']
+sentiment words: ['å–œæ­¡']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Geometric  Average): 5.8
-Õfåe ÁË ÊÇ »¢Çğ ¹ş¹ş ~ ~
-sentiment words: ['¹ş¹ş']
+The true values is: 4.142857143
+èªªéŒ¯ äº† æ˜¯ è™ä¸˜ å“ˆå“ˆ ~ ~
+sentiment words: ['å“ˆå“ˆ']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Arithmetic Average): 6.0
-sentiment words: ['¹ş¹ş']
+sentiment words: ['å“ˆå“ˆ']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Geometric  Average): 6.0
-·¿ég ºÜ Êæ·ş ÎÒ ‚€ÈË ·Ç³£ MÒâ Şk¹«™… ßmºÏ ÎÒ ‚€ÈË µÄ Ê¹ÓÃ Á•‘T ÇÒ ¾WËÙ ºÃ ¡£
-sentiment words: ['ºÃ', 'MÒâ', 'Êæ·ş', 'ßmºÏ']
+The true values is: 5.285714286
+æˆ¿é–“ å¾ˆ èˆ’æœ æˆ‘ å€‹äºº éå¸¸ æ»¿æ„ è¾¦å…¬æª¯ é©åˆ æˆ‘ å€‹äºº çš„ ä½¿ç”¨ ç¿’æ…£ ä¸” ç¶²é€Ÿ å¥½ ã€‚
+sentiment words: ['å¥½', 'æ»¿æ„', 'èˆ’æœ', 'é©åˆ']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 5.6, 3.6, 3.8]
 The predicted values is (using Arithmetic Average): 4.55
-sentiment words: ['ºÃ', 'MÒâ', 'Êæ·ş', 'ßmºÏ']
+sentiment words: ['å¥½', 'æ»¿æ„', 'èˆ’æœ', 'é©åˆ']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 5.6, 3.6, 3.8]
 The predicted values is (using Geometric  Average): 4.46754943687
-¸ĞÖx Äú Œ¦ ´óßB ãy·« Ùeğ^ µÄ Á¼ºÃ Ôuƒr £¡
-sentiment words: ['Œ¦', '¸ĞÖx']
+The true values is: 4.111111111
+æ„Ÿè¬ æ‚¨ å° å¤§é€£ éŠ€å¸† è³“é¤¨ çš„ è‰¯å¥½ è©•åƒ¹ ï¼
+sentiment words: ['å°', 'æ„Ÿè¬']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.6]
 The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['Œ¦', '¸ĞÖx']
+sentiment words: ['å°', 'æ„Ÿè¬']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.6]
 The predicted values is (using Geometric  Average): 5.18459255873
-½üÆÚ µÄ ÉÌ„Õ ég Éı¼‰ ÍÆV »î„Ó ÊÜµ½ ÁË ºÜ¶à ¿ÍÈË µÄ Ò»ÖÂ ºÃÔu ß@ ÊÇ Œ¦ ĞÂ ·¿ég µÄ ÕJ¿É Ò² ÊÇ Œ¦ ÎÒ‚ƒ ·¿ég ßMÒ»²½ ƒ»¯ µÄ Á¼ºÃ ÍÖú ÙYÔ´ £¡
-sentiment words: ['Œ¦', 'ÍÖú', 'ÕJ¿É']
+The true values is: 4.142857143
+è¿‘æœŸ çš„ å•†å‹™ é–“ å‡ç´š æ¨å»£ æ´»å‹• å—åˆ° äº† å¾ˆå¤š å®¢äºº çš„ ä¸€è‡´ å¥½è©• é€™ æ˜¯ å° æ–° æˆ¿é–“ çš„ èªå¯ ä¹Ÿ æ˜¯ å° æˆ‘å€‘ æˆ¿é–“ é€²ä¸€æ­¥ å„ªåŒ– çš„ è‰¯å¥½ å¹«åŠ© è³‡æº ï¼
+sentiment words: ['å°', 'å¹«åŠ©', 'èªå¯']
+words frequent: [2, 1, 1]
 correpsonding sentiment values: [4.8, 5.6, 4.0]
 The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['Œ¦', 'ÍÖú', 'ÕJ¿É']
+sentiment words: ['å°', 'å¹«åŠ©', 'èªå¯']
+words frequent: [2, 1, 1]
 correpsonding sentiment values: [4.8, 5.6, 4.0]
-The predicted values is (using Geometric  Average): 4.75513756221
-ãy ·« Ùeğ^ šgÓ­ Äú £¡
-sentiment words: ['šgÓ­']
+The predicted values is (using Geometric  Average): 4.76631370842
+The true values is: 5.666666667
+éŠ€ å¸† è³“é¤¨ æ­¡è¿ æ‚¨ ï¼
+sentiment words: ['æ­¡è¿']
+words frequent: [1]
 correpsonding sentiment values: [6.4]
 The predicted values is (using Arithmetic Average): 6.4
-sentiment words: ['šgÓ­']
+sentiment words: ['æ­¡è¿']
+words frequent: [1]
 correpsonding sentiment values: [6.4]
 The predicted values is (using Geometric  Average): 6.4
-Ê¹ÓÃ ·¿ég ëŠÄX •ş ÊÕ Ê¹ÓÃÙM ²»ß^ ÉÏ¾W ÊÇ ÃâÙM µÄ ËÙ¶È Ò² ºÜ ¿ì ¡£
-sentiment words: ['ÃâÙM']
+The true values is: 4.5
+å¸Œæœ› æ‰“æƒ è¡›ç”Ÿ çš„ æ™‚å€™ æ›´ ä»”ç´° å®Œç¾ ä¸€äº› ã€‚
+sentiment words: ['ä»”ç´°', 'å®Œç¾', 'å¸Œæœ›']
+words frequent: [1, 1, 1]
+correpsonding sentiment values: [3.8, 6.4, 5.2]
+The predicted values is (using Arithmetic Average): 5.13333333333
+sentiment words: ['ä»”ç´°', 'å®Œç¾', 'å¸Œæœ›']
+words frequent: [1, 1, 1]
+correpsonding sentiment values: [3.8, 6.4, 5.2]
+The predicted values is (using Geometric  Average): 5.01944428593
+The true values is: 5.0
+å¤§å ‚ çš„ æœå‹™å“¡ å¾ˆ ç†±æƒ… æœ‰ è³“è‡³å¦‚æ­¸ çš„ æ„Ÿè¦º ã€‚
+sentiment words: ['ç†±æƒ…']
+words frequent: [1]
+correpsonding sentiment values: [6.4]
+The predicted values is (using Arithmetic Average): 6.4
+sentiment words: ['ç†±æƒ…']
+words frequent: [1]
+correpsonding sentiment values: [6.4]
+The predicted values is (using Geometric  Average): 6.4
+The true values is: 4.0
+ä½¿ç”¨ æˆ¿é–“ é›»è…¦ æœƒ æ”¶ ä½¿ç”¨è²» ä¸é ä¸Šç¶² æ˜¯ å…è²» çš„ é€Ÿåº¦ ä¹Ÿ å¾ˆ å¿« ã€‚
+sentiment words: ['å…è²»']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['ÃâÙM']
+sentiment words: ['å…è²»']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Geometric  Average): 4.8
+The true values is: 4.428571429
+åœ°ç† ä½ç½® æ¥µå¥½ å» æœƒ å±• ä¸­å¿ƒ å¾ˆ æ–¹ä¾¿ ä¸å¿… å¤ª æ“”å¿ƒ å µè»Š ã€‚
+sentiment words: ['æ“”å¿ƒ', 'æ¥µå¥½']
+words frequent: [1, 1]
+correpsonding sentiment values: [6.6, 7.8]
+The predicted values is (using Arithmetic Average): 7.2
+sentiment words: ['æ“”å¿ƒ', 'æ¥µå¥½']
+words frequent: [1, 1]
+correpsonding sentiment values: [6.6, 7.8]
+The predicted values is (using Geometric  Average): 7.17495644586
+The true values is: 5.285714286
+æœå‹™ å¥½ å‰ è‡º æ¥å¾…å“¡ æŒº ç†±æƒ… ã€‚
+sentiment words: ['å¥½', 'ç†±æƒ…']
+words frequent: [1, 1]
+correpsonding sentiment values: [5.2, 6.4]
+The predicted values is (using Arithmetic Average): 5.8
+sentiment words: ['å¥½', 'ç†±æƒ…']
+words frequent: [1, 1]
+correpsonding sentiment values: [5.2, 6.4]
+The predicted values is (using Geometric  Average): 5.76888204074
+The true values is: 4.111111111
+MM åœ¨ åš å¥ç¾æ“ æ„å¤– æ”¶ç©« ï¼š æ—©é¤ æ¯” ä¸Š æ¬¡ å¥½ å¾ˆå¤š æ–° åŠ  çš„ ç•ªèŒ„ é›è›‹ å· å¾ˆ å¥½åƒ ã€‚
+sentiment words: ['å¥½', 'æ”¶ç©«']
+words frequent: [1, 1]
+correpsonding sentiment values: [5.2, 5.6]
+The predicted values is (using Arithmetic Average): 5.4
+sentiment words: ['å¥½', 'æ”¶ç©«']
+words frequent: [1, 1]
+correpsonding sentiment values: [5.2, 5.6]
+The predicted values is (using Geometric  Average): 5.39629502529
+The true values is: 4.333333333
+å¤ª çŸ­ æ‰“ äº† æœå‹™ é›»è©± ä¸ åˆ° å…© åˆ†é˜ ä¸€ ä½ å¸¥å“¥ æ‹¿ äº† ä¸€ æ¢ è¶…é•· çš„ ã€‚
+sentiment words: ['æ‰“']
+words frequent: [1]
+correpsonding sentiment values: [6.6]
+The predicted values is (using Arithmetic Average): 6.6
+sentiment words: ['æ‰“']
+words frequent: [1]
+correpsonding sentiment values: [6.6]
+The predicted values is (using Geometric  Average): 6.6
+The true values is: 5.142857143
+å¿ƒ ä¸­ ç«Šå–œ ï¼š ï¼› ä¸€ å€‹ å­— â€œ çˆ½ â€ ä¸‹ æ¬¡ é‚„ æœƒ ä½ ï¼
+sentiment words: ['çˆ½']
+words frequent: [1]
+correpsonding sentiment values: [7.2]
+The predicted values is (using Arithmetic Average): 7.2
+sentiment words: ['çˆ½']
+words frequent: [1]
+correpsonding sentiment values: [7.2]
+The predicted values is (using Geometric  Average): 7.2
+The true values is: 7.0
 Prediction result (arithmetic average):
 prediction result:
 MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
-1.351 0.922 0.221 -0.427 0.178 1.162
+1.373 0.931 0.217 -0.456 0.168 1.172
 Prediction result (geometric average):
 prediction result:
 MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
-1.386 0.931 0.205 -0.465 0.162 1.177
+1.405 0.939 0.203 -0.489 0.155 1.185
 
 Process finished with exit code 0

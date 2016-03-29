@@ -1,1952 +1,2597 @@
-﻿E:\Anaconda3\python.exe E:/PycharmProjects/Thesis_experiment/va_prediction_debug.py
+E:\Anaconda3\python.exe E:/PycharmProjects/Thesis_experiment/va_prediction_debug.py
 Using gpu device 0: GeForce 940M (CNMeM is enabled with initial size: 80.0% of memory, CuDNN not available)
 Arousal preddiction...
 凡 走 過必 留 痕跡 在 T 版 大聲 說 安全 才 重要 的 有 些 還不是 為了 一些 小 毛病 、 小異 音 、 小路 感 ... 等 要求 原廠 處理 如果 真 這麼 在乎 安全 又 還 必 在乎 其它 東西
 sentiment words: ['安全']
+words frequent: [2]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Arithmetic Average): 4.4
 sentiment words: ['安全']
+words frequent: [2]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Geometric  Average): 4.4
+The true values is: 6.0
 別 跟 政治 人物 一樣 為 反對 而 反對 為何 不 說 自己 經驗 而 討論 只 會 發表 自己 喜好 而 討論 就 像 很多 大大 說 的 不 喜歡 不屑 就 別 買 就 好了 呀
 sentiment words: ['不屑', '反對', '喜歡']
+words frequent: [1, 2, 1]
 correpsonding sentiment values: [6.0, 6.2, 5.8]
-The predicted values is (using Arithmetic Average): 6.0
+The predicted values is (using Arithmetic Average): 6.05
 sentiment words: ['不屑', '反對', '喜歡']
+words frequent: [1, 2, 1]
 correpsonding sentiment values: [6.0, 6.2, 5.8]
-The predicted values is (using Geometric  Average): 5.99777695422
+The predicted values is (using Geometric  Average): 6.0477057952
+The true values is: 6.222222222
 疼 老婆 是 一 件 好事 ! 很 好 .... 像 我 也 是 剛 結婚 ! ! 雖然 家 裡 有 車子 雖然 上班 公里數 差不多 要 13 k 不過 能 盡量 不 開車 還是 不 開車 ! 說真的 開車油 錢 好 貴 唷 .... 除非 天氣 真的 很 糟糕 才 會 想要 開車 ! ! 兩 個人 的 收入 差不多 不 到 六萬 不過 .... 沒 認真 算 過 不 知道 有沒有 結餘 .... 騎 機車 跟 開車 的 開銷 真的 有 差 .... 多存 一點 真的 需要 的 時候 在 買 吧 ! ! 說 是 這樣子 說 ! 我 自已 也 想 買 台 車子 給 老婆 開 ....
 sentiment words: ['好', '差', '想', '糟糕', '認真']
+words frequent: [2, 1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 4.6, 3.6, 5.2, 5.0]
-The predicted values is (using Arithmetic Average): 4.72
+The predicted values is (using Arithmetic Average): 4.8
 sentiment words: ['好', '差', '想', '糟糕', '認真']
+words frequent: [2, 1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 4.6, 3.6, 5.2, 5.0]
-The predicted values is (using Geometric  Average): 4.67743116336
+The predicted values is (using Geometric  Average): 4.76072827914
+The true values is: 5.4
 其實 看 的 影片 之後 相信 樓主 只是 想 反應 一下 原廠 處理 的 態度 及 消費者 的 無奈 。
 sentiment words: ['想', '無奈', '相信']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [3.6, 4.2, 5.4]
 The predicted values is (using Arithmetic Average): 4.4
 sentiment words: ['想', '無奈', '相信']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [3.6, 4.2, 5.4]
 The predicted values is (using Geometric  Average): 4.33825607552
+The true values is: 4.714285714
 或許 今天 當事者 並 不 是 你我 我們 無法 體會 樓主 當時 在 高速公路 上 的 心情 。
 sentiment words: ['心情', '體會']
+words frequent: [1, 1]
 correpsonding sentiment values: [3.6, 4.4]
 The predicted values is (using Arithmetic Average): 4.0
 sentiment words: ['心情', '體會']
+words frequent: [1, 1]
 correpsonding sentiment values: [3.6, 4.4]
 The predicted values is (using Geometric  Average): 3.97994974843
+The true values is: 5.285714286
 PS 相信 沒有 任何 一 家 車廠 敢 保證 自家 的 車子 出廠 都 沒 問題 。
 sentiment words: ['保證', '相信']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.2, 5.4]
 The predicted values is (using Arithmetic Average): 5.8
 sentiment words: ['保證', '相信']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.2, 5.4]
 The predicted values is (using Geometric  Average): 5.7861904566
+The true values is: 4.857142857
 相信 這 才 是 車廠 需要 思考 的 方向 。
 sentiment words: ['相信']
+words frequent: [1]
 correpsonding sentiment values: [5.4]
 The predicted values is (using Arithmetic Average): 5.4
 sentiment words: ['相信']
+words frequent: [1]
 correpsonding sentiment values: [5.4]
 The predicted values is (using Geometric  Average): 5.4
+The true values is: 4.714285714
 確實 越 改 越 難看 目前 這 一 代 還 比較 帥氣 好看 多 了 東抄西抄 快 變 四不像 了 但 反正 toyota 本來 就 不 太 會 造車 都 是 看 對手 出 什麼 車 賣 得 好 的 話 再 出 同 款 的 車 來 把 外觀 跟 設備 改良 賣 得 好 的 話 還 一 堆 擁護 車主 覺得 他們 買 的 車 是 比 別 家 還 棒 的 車 還 真 不 知道 有 啥 車 是 他們 自己 完全 設計 製造 而 不 是 拿 人家 的 車 做 範本 去 做 改良 設計 在 拿出來 賣 的
 sentiment words: ['好', '帥氣', '擁護', '棒']
+words frequent: [2, 1, 1, 1]
 correpsonding sentiment values: [5.2, 6.0, 6.0, 5.8]
-The predicted values is (using Arithmetic Average): 5.75
+The predicted values is (using Arithmetic Average): 5.64
 sentiment words: ['好', '帥氣', '擁護', '棒']
+words frequent: [2, 1, 1, 1]
 correpsonding sentiment values: [5.2, 6.0, 6.0, 5.8]
-The predicted values is (using Geometric  Average): 5.74028505587
+The predicted values is (using Geometric  Average): 5.62791379199
+The true values is: 5.875
 關於 你 的 疑問 確實 沒 人 保證 開雙 B 就 不會 死 開 T 就 穩 死 但 發生 車禍 時 的 存活率 確實 有 差 單單 為了 出門 時 可能 有 十萬分之一 發生 事故 發生 事故 時 的 存活率 差 10 % 這樣 算起來 只 增加 百萬分之一 的 存活率 有 需要 選購 較 安全 的 車款 嗎 ?
 sentiment words: ['保證', '安全', '差', '死']
+words frequent: [1, 1, 2, 2]
 correpsonding sentiment values: [6.2, 4.4, 4.6, 5.0]
-The predicted values is (using Arithmetic Average): 5.05
+The predicted values is (using Arithmetic Average): 4.96666666667
 sentiment words: ['保證', '安全', '差', '死']
+words frequent: [1, 1, 2, 2]
 correpsonding sentiment values: [6.2, 4.4, 4.6, 5.0]
-The predicted values is (using Geometric  Average): 5.00487287191
+The predicted values is (using Geometric  Average): 4.93419913713
+The true values is: 5.375
 如果 只 有 HYBRID 的 差別 動 則 數十萬 的 價差 卻 要 消費者 買單 銷售量 肯定 不會 太 好看 這 年頭 環保 跟 銀子 大概 還是 銀子 重要 些 ) HYBRID 車款 將 會 是 CAMRY 的 重要 戰略 車款 希望 借 此 再 拉大 與 同級 對手 的 差距 如果 銷量 不好 總代理 面子 肯定 掛不住 因此 在 配備 上 預留 了 一些 頂級 的 空間 讓 準 CAMRY 車主 能 多 掏 一些 銀子 購買 HYBRID 車型 。
 sentiment words: ['希望', '肯定']
+words frequent: [1, 2]
 correpsonding sentiment values: [5.2, 6.0]
-The predicted values is (using Arithmetic Average): 5.6
+The predicted values is (using Arithmetic Average): 5.73333333333
 sentiment words: ['希望', '肯定']
+words frequent: [1, 2]
 correpsonding sentiment values: [5.2, 6.0]
-The predicted values is (using Geometric  Average): 5.58569601751
+The predicted values is (using Geometric  Average): 5.72051701197
+The true values is: 2.666666667
 一 堆 豐田 的 護 衛隊 真 可怕 哪 天 死 的 是 自己 跟 家人 才 會 開始 哭 方向燈 在 行駛 中 絕對 不 是 小 問題 足以 釀成 大 事故 連 基本 的 安全 問題 都 不 注重 真的 很 可怕 車主 花 那麼多 時間 跑 原廠 是 活該 嗎 車 放 在 原廠 那麼多 天 要 另外 花 交通費 是 活該 嗎 損失 誰 來 陪 ˊ 不 尊重 生命 安全 只 會 上來 沒 理由 護衛 的 不過 是 加速 蓋 大樓 的 速度 建議 樓主 一定 要 找 消保 官
 sentiment words: ['可怕', '安全', '尊重', '損失', '死', '護']
+words frequent: [2, 2, 1, 1, 1, 1]
 correpsonding sentiment values: [6.8, 4.4, 5.2, 5.2, 5.0, 4.4]
-The predicted values is (using Arithmetic Average): 5.16666666667
+The predicted values is (using Arithmetic Average): 5.275
 sentiment words: ['可怕', '安全', '尊重', '損失', '死', '護']
+words frequent: [2, 2, 1, 1, 1, 1]
 correpsonding sentiment values: [6.8, 4.4, 5.2, 5.2, 5.0, 4.4]
-The predicted values is (using Geometric  Average): 5.10973635835
+The predicted values is (using Geometric  Average): 5.19749485756
+The true values is: 6.833333333
 原廠 導航 .. 算了 吧 .. 小偷 超 愛 的 .
 sentiment words: ['小偷', '愛']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.6, 5.4]
 The predicted values is (using Arithmetic Average): 5.5
 sentiment words: ['小偷', '愛']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.6, 5.4]
 The predicted values is (using Geometric  Average): 5.49909083395
+The true values is: 4.125
 我 比較 擔心 的 是 重機 那 天 不會 打 滑 失控 迎頭 撞上 你 至於 一般 小 汽車路 上 開 的 有 九成 以上 沒有 循跡 系統 吧 舊 車 不會 有 新車 要 高階 車款 才 有 ) 你 真的 天天 在 想 在 你 四周 那些 國產車 那 天 不會 打 滑 失控 迎頭 撞上 你 嗎 ?
 sentiment words: ['失控', '想', '打', '擔心', '高階']
+words frequent: [2, 1, 2, 1, 1]
 correpsonding sentiment values: [7.8, 3.6, 6.6, 6.6, 3.8]
-The predicted values is (using Arithmetic Average): 5.68
+The predicted values is (using Arithmetic Average): 6.11428571429
 sentiment words: ['失控', '想', '打', '擔心', '高階']
+words frequent: [2, 1, 2, 1, 1]
 correpsonding sentiment values: [7.8, 3.6, 6.6, 6.6, 3.8]
-The predicted values is (using Geometric  Average): 5.41319552637
-那 你 最好 就 不要 出門 其實 你 自己 的 車 先 要 有 循跡 系統 才 最 實在 怎麼 會 跑去 怪 車廠 某 款 車 沒 有 ?
+The predicted values is (using Geometric  Average): 5.86698936991
+The true values is: 5.625
+那 你 最好 就 不要 出門 其實 你 自己 的 車 先 要 有 循跡 系統 才 最 實在 怎麼 會 跑去 怪 車廠 某 款 車 沒有
 sentiment words: ['怪', '最好']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 6.2]
 The predicted values is (using Arithmetic Average): 5.5
 sentiment words: ['怪', '最好']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 6.2]
 The predicted values is (using Geometric  Average): 5.45527267879
+The true values is: 6.0
 您 再 算算 看 好了 .... 不 買 它
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Arithmetic Average): 5
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Geometric  Average): 5
+The true values is: 4.833333333
 臭 酸 的 話題 .... 東 想 西 想 勉強 掰出 一些 東西 來 阻礙 。
 sentiment words: ['勉強', '想', '臭', '酸']
+words frequent: [1, 2, 1, 1]
 correpsonding sentiment values: [5.0, 3.6, 4.6, 4.8]
-The predicted values is (using Arithmetic Average): 4.5
+The predicted values is (using Arithmetic Average): 4.32
 sentiment words: ['勉強', '想', '臭', '酸']
+words frequent: [1, 2, 1, 1]
 correpsonding sentiment values: [5.0, 3.6, 4.6, 4.8]
-The predicted values is (using Geometric  Average): 4.46496330007
+The predicted values is (using Geometric  Average): 4.2767593644
+The true values is: 4.166666667
 唱 衰 會 讓 人 覺得 很 好笑 耶 ...
 sentiment words: ['好笑', '耶', '衰']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.4, 7.2, 4.2]
 The predicted values is (using Arithmetic Average): 5.93333333333
 sentiment words: ['好笑', '耶', '衰']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.4, 7.2, 4.2]
 The predicted values is (using Geometric  Average): 5.78434143402
+The true values is: 4.444444444
 的確 ... 內文 最後 一 句 身為 同級車 銷售 龍頭 的 CAMRY 車系 在 推出 新一代 車型 後 再度 以 十足 地 配備 與 安全 防護 延續 著 車系 廣受 歡迎 的 最佳 地位 。
 sentiment words: ['安全', '最佳', '歡迎']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.4, 6.4, 6.4]
 The predicted values is (using Arithmetic Average): 5.73333333333
 sentiment words: ['安全', '最佳', '歡迎']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.4, 6.4, 6.4]
 The predicted values is (using Geometric  Average): 5.64855733652
+The true values is: 5.142857143
 擺明 仗著 牛頭牌 光環 仗著 銷售量 高 這樣 對 的 起 你 的 支持 著 ?
 sentiment words: ['對', '支持']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.0]
 The predicted values is (using Arithmetic Average): 4.9
 sentiment words: ['對', '支持']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.0]
 The predicted values is (using Geometric  Average): 4.89897948557
+The true values is: 6.888888889
 還可以 賣 的 那麼 心安 YO!!ALLNEWCAMRY 新款 的 喔 ! 讓 人家 感覺 新 的 一定 比較 好 如此 行銷 法手 實在 讓 人 不齒
 sentiment words: ['好']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['好']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
+The true values is: 6.0
 今天 接到 肇事者 他媽的 電話 ... 說 他們 家 經濟 不 好 ... 兒子 剛 退伍 ... 爸爸 聽 不 見 ... 聽到 這些 我 只 希望 我 的 車 趕快 修好 就 好 ... 其他 就算 自己 倒楣 了 ... 晚上 去 辦 出險 ... 一切 就 交由 車廠 跟 保險 公司 處理 吧 ... 唉 ... 開快車 真的 一點 都 不 帥 ... 看 他 小 女友 都 快 嚇 哭 了 = = 能夠 轉彎 打滑 還 撞 我 這麼 大力 想必 速度 一定 不 慢 ... 只 希望 我 的 車 車 能 快點 回復 原狀 了 ...
 sentiment words: ['他媽的', '倒楣', '嚇', '好', '希望', '帥', '慢']
+words frequent: [1, 1, 1, 2, 2, 1, 1]
 correpsonding sentiment values: [8.4, 5.4, 6.8, 5.2, 5.2, 5.2, 2.8]
-The predicted values is (using Arithmetic Average): 5.57142857143
+The predicted values is (using Arithmetic Average): 5.48888888889
 sentiment words: ['他媽的', '倒楣', '嚇', '好', '希望', '帥', '慢']
+words frequent: [1, 1, 1, 2, 2, 1, 1]
 correpsonding sentiment values: [8.4, 5.4, 6.8, 5.2, 5.2, 5.2, 2.8]
-The predicted values is (using Geometric  Average): 5.3251974732
+The predicted values is (using Geometric  Average): 5.29711783817
+The true values is: 5.0
 ALTIS 開 過 之後 覺得 還 蠻 穩定 的 一 輛 車 跟 他 牌車 的 落差 不會 太 大 但 一旦 開 過 他 牌車 再 去 開 CAMRY .... 我 覺得 好像 是 在 船 上 晃 啊 晃 啊 每每 下車 都 會 些許 頭暈 方向盤 輕
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Arithmetic Average): 5
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Geometric  Average): 5
+The true values is: 5.111111111
 沒 錯 鋁圈 能 裝 的 碟盤 尺寸 是 有限 定 的 ！
 sentiment words: ['錯']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Arithmetic Average): 4.8
 sentiment words: ['錯']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Geometric  Average): 4.8
+The true values is: 5.25
 但 想 了解 的 是 車 商 倒底 什麼 樣 牛肉 呢 ？ 17 吋 圈 ： 佛心 來 的 ： 給 到 330 mm 交差 了事 ： 只 給 303 mm 兩 者 對 制動力 有 何 影響 請 爬文 不 在 此 贅述 ！
 sentiment words: ['對', '想']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 3.6]
 The predicted values is (using Arithmetic Average): 4.2
 sentiment words: ['對', '想']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 3.6]
 The predicted values is (using Geometric  Average): 4.15692193817
+The true values is: 5.166666667
 小弟 比較 貪心 對於 安全性 配備 是 永遠 嫌 不 夠 的 ！
 sentiment words: ['嫌', '貪心']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.8, 5.6]
 The predicted values is (using Arithmetic Average): 5.7
 sentiment words: ['嫌', '貪心']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.8, 5.6]
 The predicted values is (using Geometric  Average): 5.69912273951
+The true values is: 5.777777778
 只要 能 讓 我 安全 回到 家 抱抱 小 王子 與 女王 說說 情話 ！
 sentiment words: ['安全']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Arithmetic Average): 4.4
 sentiment words: ['安全']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Geometric  Average): 4.4
+The true values is: 4.777777778
 可以 沾 點 光 來 提醒 大家 對 安全 配備 的 重視 ！
 sentiment words: ['安全', '對']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.4, 4.8]
 The predicted values is (using Arithmetic Average): 4.6
 sentiment words: ['安全', '對']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.4, 4.8]
 The predicted values is (using Geometric  Average): 4.59565011723
+The true values is: 5.5
 還 有 最 不 期望 的 就是 這 種 比爛 的 砲火 ！
 sentiment words: ['期望']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['期望']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
+The true values is: 7.5
 爛 到 最後 大家 都 一起 爛 了 ！
 sentiment words: ['爛']
+words frequent: [2]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Arithmetic Average): 5.6
 sentiment words: ['爛']
+words frequent: [2]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Geometric  Average): 5.6
+The true values is: 6.142857143
 都 只 剩下 2 SRS 這 對 消費者 來 說 是 「 福 」 還是 「 禍 」 呢 ？ 本文 的 目的 只 是 給 想要 Camry 的 準 車主 ！
 sentiment words: ['對', '禍']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 6.0]
 The predicted values is (using Arithmetic Average): 5.4
 sentiment words: ['對', '禍']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 6.0]
 The predicted values is (using Geometric  Average): 5.366563146
+The true values is: 5.166666667
 了解到 它 是 一 部 主動 安全 缺乏 的 機器 ！
 sentiment words: ['安全', '缺乏']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.4, 4.6]
 The predicted values is (using Arithmetic Average): 4.5
 sentiment words: ['安全', '缺乏']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.4, 4.6]
 The predicted values is (using Geometric  Average): 4.49888875168
+The true values is: 5.142857143
 請 注意 且 小心 的 操控 它 ！
 sentiment words: ['小心']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Arithmetic Average): 6.0
 sentiment words: ['小心']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Geometric  Average): 6.0
+The true values is: 5.375
 不要 輕易 的 挑戰 它 的 極限 ！
 sentiment words: ['挑戰']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Arithmetic Average): 6.8
 sentiment words: ['挑戰']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Geometric  Average): 6.8
+The true values is: 6.142857143
 安全 ~ 是 唯一 回家 的 路 ！
 sentiment words: ['安全']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Arithmetic Average): 4.4
 sentiment words: ['安全']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Geometric  Average): 4.4
+The true values is: 3.5
 樓 主 TOYOTA 版 的 護 衛隊 惡劣 出 了 名 對 TOYOTA 車子 上網 抱怨 瑕疵 的 就是 群起 圍剿 口誅筆伐 、 譏諷 耶瑜 建議 你 的 文章 最好 再 補 些 照片 、 工單 等 證據 貼上來 mobile 01來 大家 就 有 公評 不要 理會 toyota 護衛 隊 的 惡毒 言語 一些 拿 工讀金 還 沒 不 起車 的 人 而已 ) 可以 的 話進線 0800 記得 錄音 存證 ) 如果 它們 相應不理 接著 下來 再 找 媒體 、 消保官 協助 toyota 的 自衛隊 品行 真是 太 差 了 可憐 買 它們 家 車子 安全 配備 差價 格貴 還 得 忍受 自衛隊 的 戲弄 。 惡劣
 sentiment words: ['協助', '可憐', '品行', '安全', '對', '差', '惡劣', '惡毒', '戲弄', '抱怨', '最好', '護']
+words frequent: [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.6, 5.2, 4.6, 4.4, 4.8, 4.6, 6.8, 7.4, 6.2, 6.6, 6.2, 4.4]
-The predicted values is (using Arithmetic Average): 5.48333333333
+The predicted values is (using Arithmetic Average): 5.58461538462
 sentiment words: ['協助', '可憐', '品行', '安全', '對', '差', '惡劣', '惡毒', '戲弄', '抱怨', '最好', '護']
+words frequent: [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.6, 5.2, 4.6, 4.4, 4.8, 4.6, 6.8, 7.4, 6.2, 6.6, 6.2, 4.4]
-The predicted values is (using Geometric  Average): 5.38940657674
+The predicted values is (using Geometric  Average): 5.48665578113
+The true values is: 7.555555556
 樓 主 我 只 開 過 一 次 ToyataAltis 我 完全 無法 認同 其 造車 理念 整 個 軟角 到 不行 如 前面 有 人 說 它 是 一 台 無趣 的 車 對 許多 人 來 說 它 充其量 就 是 一 台 有 鐵殼 的 移動 工具 但 如果 這 是 你 的 人生 的 第一 台 車 長輩 有 出錢 那 就 乖乖 的 買 Altis ... 保值 好養 慢慢 開 練練 開車 技術 努力 賺錢 以後 直接 換 更 好 更 安全 的 進口車 在 台灣 只有 進口車 有 國外 公開 抽測 的 撞擊 測試 報告 國產車 都 沒有 開 Altis 有 鐵殼 包 著 遮風 避雨 至少 比 騎車 安全 多 了
 sentiment words: ['好', '安全', '對', '無趣']
+words frequent: [1, 2, 1, 1]
 correpsonding sentiment values: [5.2, 4.4, 4.8, 5.2]
-The predicted values is (using Arithmetic Average): 4.9
+The predicted values is (using Arithmetic Average): 4.8
 sentiment words: ['好', '安全', '對', '無趣']
+words frequent: [1, 2, 1, 1]
 correpsonding sentiment values: [5.2, 4.4, 4.8, 5.2]
-The predicted values is (using Geometric  Average): 4.88849471817
+The predicted values is (using Geometric  Average): 4.78663878554
+The true values is: 4.875
 舊 引擎 跟 萬 年 4 AT 的 油耗 極限 大概 就 在 那裡 這 點 你 說 的 沒 錯 但 同 一 時期 的 競爭車 端出 的 牛肉 可 不 是 萬 年 4 AT 與 那 種 油耗 不 談 冷門 競爭車 就 談 一般 認定 的 大 宗 競爭 對手 ColtPl us 也 是 約莫 06 ~ 07 年 上市 用 的 是 CVTFit 約 07 ~ 08 年 上市 用 的 是 5 AT 油耗 自然 勝過 Yaris 這 就是 他 牌 所 端出 的 牛肉 若 撇開 品牌 光環 Yaris 在 這 點 是 沒 啥 競爭力 的 Yaris 跟 這些 競爭車 在 同 一 時間 點 比拚 卻 要 消費者 去 原諒 他 那 萬 年 4 AT 所 帶來 的 不佳 油耗 這 是 沒 什麼 道理 的
 sentiment words: ['勝過', '原諒', '競爭', '錯']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.8, 4.2, 6.6, 4.8]
 The predicted values is (using Arithmetic Average): 5.35
 sentiment words: ['勝過', '原諒', '競爭', '錯']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.8, 4.2, 6.6, 4.8]
 The predicted values is (using Geometric  Average): 5.2706674345
+The true values is: 6.0
 我 是 2010年 3月 購入 的 近 一 個 月 我 的 車 也 開始 發現 有 冷氣 開啟 異味 （ 酸味 ） 問題 看來 這 問題 並 不 是 個案 和泰 應該 重視 並 給 消費者 一 個 滿意 的 說明 和 提出 積極 有效 的 解決 方式 而 不 是 任由 保養廠 以 一些 無效 作法 暫時 安撫 消費者 如 無 持續 善意 解決 恐 又 要 演成 集體 消費 糾紛 事件 了 相信 亦 非 和泰 公司 所 樂見 。
 sentiment words: ['善意', '有效', '滿意', '無效', '相信', '積極', '解決']
+words frequent: [1, 1, 1, 1, 1, 1, 2]
 correpsonding sentiment values: [5.0, 5.0, 5.6, 4.4, 5.4, 6.6, 4.8]
-The predicted values is (using Arithmetic Average): 5.25714285714
+The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['善意', '有效', '滿意', '無效', '相信', '積極', '解決']
+words frequent: [1, 1, 1, 1, 1, 1, 2]
 correpsonding sentiment values: [5.0, 5.0, 5.6, 4.4, 5.4, 6.6, 4.8]
-The predicted values is (using Geometric  Average): 5.21839671506
+The predicted values is (using Geometric  Average): 5.16416500411
+The true values is: 5.833333333
 建議 一下 目前 因為 你 都 還是 吃 住家 中 但是 我 覺得 應該 要 將 夫妻倆 的 所得 提出 一 部份 拿給 家 裡 比較 實在 畢竟 養 一 台 車 不 是 說 有 頭 款 有 能力 繳 貸款 就 可以 搞定 的 事情 事 後 的 保養費 、 保險費 、 油錢 、 稅金 都 是 一 筆 開銷 再 說 個 難聽 一點 的 話 要是 好死不死 A 到 的 話 那 筆 開銷 更 會 讓 你 頭 大 假使 不需 貸款 可以 直接 購入 的 話 當然 我 會 建議 你 可以 買 假如 要 貸款 的 話 買 台 機車 給 老婆 比 較 好 不會 騎 只好 慢慢 教 他
 sentiment words: ['好']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['好']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
+The true values is: 4.857142857
 不只 RAV 4 吧 我 朋友 的 2007 買 的 ALTIS 新車 3 個 月 不 到 ) 味道 就 很 明顯 了 因為 我 親身 體驗 過 我 覺得 ALTIS 狀況 比 我 自己 使用 的 RAV 4 還 嚴重 我 的 RAV 4 半 年 了 至少 目前 還 沒有 味道 。
 sentiment words: ['嚴重', '朋友']
+words frequent: [1, 1]
 correpsonding sentiment values: [7.0, 4.2]
 The predicted values is (using Arithmetic Average): 5.6
 sentiment words: ['嚴重', '朋友']
+words frequent: [1, 1]
 correpsonding sentiment values: [7.0, 4.2]
 The predicted values is (using Geometric  Average): 5.42217668469
+The true values is: 5.0
 不過 SUVLIFERAV 4 討論區 不少 車主 也 有 反映 這 問題 我 想 應該 是 TOYATA 通病 不過 也 有 開 1 - 2 年 也 沒有 味道 的 我 想 用 車 習慣 、 環境 也 有 差 吧 。
 sentiment words: ['差', '想']
+words frequent: [1, 2]
 correpsonding sentiment values: [4.6, 3.6]
-The predicted values is (using Arithmetic Average): 4.1
+The predicted values is (using Arithmetic Average): 3.93333333333
 sentiment words: ['差', '想']
+words frequent: [1, 2]
 correpsonding sentiment values: [4.6, 3.6]
-The predicted values is (using Geometric  Average): 4.06939798988
+The predicted values is (using Geometric  Average): 3.90649804292
+The true values is: 3.5
 不過 沒 味道 的 車友 大多 有關 A/C 後 再 送風 個 1 - 2 分鐘 的 習慣 我 就是 ) 建議 車友 可以 試試看 會不會 有 改善 。
 sentiment words: ['改善']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['改善']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
+The true values is: 3.375
 如果 我 是 你我 仍然 會 選擇 現在 你 這樣 的 生活 不 關有 多少 艱難 的 時刻 但 都 以 溫馨 的 語言 描述 過去 生活 就 好像 澳洲 的 海洋 和 陽光 美好 而 燦爛 有 安東尼 蚊子 的 陪伴 漫長 的 時光 也 不再 難熬 我 有 2 本 1 本 自己 的 一 本 送給 遠 在 日本 的 男朋友 希望 他 在 是 失望 難過 傷心 的 時候 看看 安東尼 的 字 在 這 個 世界 上 有 很多 像 他們 一樣 的 孩子 有 安東尼 有 我 陪 ?
 sentiment words: ['傷心', '失望', '希望', '溫馨', '燦爛', '美好', '艱難', '陽光', '難熬', '難過']
+words frequent: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [6.2, 5.6, 5.2, 4.0, 6.4, 5.6, 7.2, 5.0, 7.2, 5.6]
 The predicted values is (using Arithmetic Average): 5.8
 sentiment words: ['傷心', '失望', '希望', '溫馨', '燦爛', '美好', '艱難', '陽光', '難熬', '難過']
+words frequent: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [6.2, 5.6, 5.2, 4.0, 6.4, 5.6, 7.2, 5.0, 7.2, 5.6]
 The predicted values is (using Geometric  Average): 5.72115096429
+The true values is: 3.833333333
 那 為啥 國外 會 用 新 的 引擎 而 不用 舊 的 ？ 難道 外國人 比較 喜歡 嚐鮮 ？ 還是 說 比較 喜歡 解決 問題 ？ 舊 車殼 也 沒 啥 不 好 為啥 要 換 ？ 又 不 是 每 個人 都 是 大 畫家 對於 美感 都 非常 重視 ... XP 也 沒 啥 不 好 為啥 要 出 Vista ？ 說穿 了 這 就是 人性 ... 大家 都 對 新 的 事物 會 比較 好奇 ... 而且 會 推出 新 的 產品 一定 有 比 舊 的 產品 在 某些 部份 有 更 進步 的 地方 不然 就 不用 花費 大量 研發 成本 去 推出 新 產品 了 就 一直 用 舊 的 就 好 啦 廠商 也 樂 的 輕鬆 ...
 sentiment words: ['喜歡', '好', '對', '樂', '解決', '輕鬆']
+words frequent: [2, 3, 1, 1, 1, 1]
 correpsonding sentiment values: [5.8, 5.2, 4.8, 5.6, 4.8, 2.2]
-The predicted values is (using Arithmetic Average): 4.73333333333
+The predicted values is (using Arithmetic Average): 4.95555555556
 sentiment words: ['喜歡', '好', '對', '樂', '解決', '輕鬆']
+words frequent: [2, 3, 1, 1, 1, 1]
 correpsonding sentiment values: [5.8, 5.2, 4.8, 5.6, 4.8, 2.2]
-The predicted values is (using Geometric  Average): 4.52293923699
+The predicted values is (using Geometric  Average): 4.79605721732
+The true values is: 6.0
 偶像劇 ： 一定 是 醜女 配 有錢 的 帥哥 不然 就是 醜男配 美女 。
 sentiment words: ['有錢']
+words frequent: [1]
 correpsonding sentiment values: [5.4]
 The predicted values is (using Arithmetic Average): 5.4
 sentiment words: ['有錢']
+words frequent: [1]
 correpsonding sentiment values: [5.4]
 The predicted values is (using Geometric  Average): 5.4
+The true values is: 4.333333333
 這 是 為了 讓 普通 男孩 、 女孩 有 幻想 的 空間 。
 sentiment words: ['幻想']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Arithmetic Average): 4.2
 sentiment words: ['幻想']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Geometric  Average): 4.2
+The true values is: 4.571428571
 假如 拓海 的 車子 是 GTR 然後 跑贏 86 你 會 看 嗎 ？ 你 會 覺得 刺激 嗎 ？ 你 會 覺得 神勇 嗎 ？ 所以 劇情 通常 拿 不 可能 的 邏輯 去 引造 所謂 的 刺激 與 入迷 。
 sentiment words: ['刺激']
+words frequent: [2]
 correpsonding sentiment values: [8.0]
 The predicted values is (using Arithmetic Average): 8.0
 sentiment words: ['刺激']
+words frequent: [2]
 correpsonding sentiment values: [8.0]
 The predicted values is (using Geometric  Average): 8.0
+The true values is: 5.285714286
 壓縮機 使用 電子 可 變 開關 控制
 sentiment words: ['控制']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
 sentiment words: ['控制']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
+The true values is: 5.0
 光 是 那 隻 開關 就 不 太 便宜 了 一 個 壓縮機 破萬 是 正常 的 ! 不用 擔心 買到 車王
 sentiment words: ['擔心']
+words frequent: [1]
 correpsonding sentiment values: [6.6]
 The predicted values is (using Arithmetic Average): 6.6
 sentiment words: ['擔心']
+words frequent: [1]
 correpsonding sentiment values: [6.6]
 The predicted values is (using Geometric  Average): 6.6
+The true values is: 5.444444444
 不要 光 注意 它 的 好省油 、 輕便 、 便宜 、 耐用 ... ) 也 要 注意 車 商 所 不 願 告訴 你 的 真相主 被動 安全 缺乏 所以 當 這些 車 主主 被動 安全 配備 不足 ) 面對 這些 安全性 的 議題 ！
 sentiment words: ['不足', '安全', '缺乏', '願']
+words frequent: [1, 2, 1, 1]
 correpsonding sentiment values: [4.2, 4.4, 4.6, 5.0]
-The predicted values is (using Arithmetic Average): 4.55
+The predicted values is (using Arithmetic Average): 4.52
 sentiment words: ['不足', '安全', '缺乏', '願']
+words frequent: [1, 2, 1, 1]
 correpsonding sentiment values: [4.2, 4.4, 4.6, 5.0]
-The predicted values is (using Geometric  Average): 4.54053942255
+The predicted values is (using Geometric  Average): 4.51207693214
+The true values is: 4.857142857
 請 嚴肅 的 認真 的 面對 ！
 sentiment words: ['認真']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
 sentiment words: ['認真']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
+The true values is: 6.1
 這些 配備 或許 將來 可以 救 你 一 命 甚至 救 其 他人 的 命 ！
 sentiment words: ['救']
+words frequent: [2]
 correpsonding sentiment values: [6.4]
 The predicted values is (using Arithmetic Average): 6.4
 sentiment words: ['救']
+words frequent: [2]
 correpsonding sentiment values: [6.4]
 The predicted values is (using Geometric  Average): 6.4
+The true values is: 5.142857143
 看 了 太多 的 爭論 了 但 ToyotaAltis 的 銷量 真的 很 可觀 我 對 它 沒有 偏見 可惜 的 是 太多 人 開 了 幾乎 滿街 都 是 ... 如果 可以 稀有 點 也 是 台 不錯 的 靚車 ... 題外話 買賣 就 是 願 打 願 挨 所以 安全性 、 油耗 有 的 沒有 的 考量 都 在 個人 我 想 是 沒 什麼 好 爭 的 真的 要 爭取 的 是 薪水 吧 ?
 sentiment words: ['偏見', '好', '對', '想', '打', '爭論', '願']
+words frequent: [1, 1, 1, 1, 1, 1, 2]
 correpsonding sentiment values: [5.6, 5.2, 4.8, 3.6, 6.6, 6.6, 5.0]
-The predicted values is (using Arithmetic Average): 5.34285714286
+The predicted values is (using Arithmetic Average): 5.3
 sentiment words: ['偏見', '好', '對', '想', '打', '爭論', '願']
+words frequent: [1, 1, 1, 1, 1, 1, 2]
 correpsonding sentiment values: [5.6, 5.2, 4.8, 3.6, 6.6, 6.6, 5.0]
-The predicted values is (using Geometric  Average): 5.24771724216
+The predicted values is (using Geometric  Average): 5.21609357108
+The true values is: 5.375
 Toyota 賣 了 這麼多 車 是否 要 釋出 多 一點 的 利潤 給 旗下 的 員工 ?
 sentiment words: ['利潤']
+words frequent: [1]
 correpsonding sentiment values: [5.4]
 The predicted values is (using Arithmetic Average): 5.4
 sentiment words: ['利潤']
+words frequent: [1]
 correpsonding sentiment values: [5.4]
 The predicted values is (using Geometric  Average): 5.4
+The true values is: 5.75
 當然 是 包含 技師 、 業務 各 種 員工 這樣 對 台灣 的 經濟 才 有 幫助 ...
 sentiment words: ['對', '幫助']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.6]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['對', '幫助']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.8, 5.6]
 The predicted values is (using Geometric  Average): 5.18459255873
+The true values is: 5.285714286
 謝謝 熱心 朋友 你們 的 關心 與 建議 。
 sentiment words: ['朋友', '謝謝', '關心']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.2, 5.8, 6.0]
 The predicted values is (using Arithmetic Average): 5.33333333333
 sentiment words: ['朋友', '謝謝', '關心']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.2, 5.8, 6.0]
 The predicted values is (using Geometric  Average): 5.26756024646
+The true values is: 3.833333333
 大家 的 建議 與 分享 的 結論 看起來 沒 啥 問題 我 想 問題 的 解決 因 該 不會 有 問題 或 遺症 。
 sentiment words: ['分享', '想', '解決']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.6, 3.6, 4.8]
 The predicted values is (using Arithmetic Average): 4.33333333333
 sentiment words: ['分享', '想', '解決']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.6, 3.6, 4.8]
 The predicted values is (using Geometric  Average): 4.29965744522
+The true values is: 3.555555556
 我 不 是 那 台 小黃 我 想 保養廠 我 就 保留 因 使用 TOYOTA 以 10多 年 。
 sentiment words: ['想']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Arithmetic Average): 3.6
 sentiment words: ['想']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Geometric  Average): 3.6
+The true values is: 4.142857143
 也 在 原廠 保養 遇到 這 事 還 真 是 第一 次 。
 sentiment words: ['遇到']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Arithmetic Average): 4.2
 sentiment words: ['遇到']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Geometric  Average): 4.2
+The true values is: 5.444444444
 是 有 一些 不 爽 為什麼 不 撞 我 的 舊 車 卻 偏偏 撞 我 的 新車 。
 sentiment words: ['爽']
+words frequent: [1]
 correpsonding sentiment values: [7.2]
 The predicted values is (using Arithmetic Average): 7.2
 sentiment words: ['爽']
+words frequent: [1]
 correpsonding sentiment values: [7.2]
 The predicted values is (using Geometric  Average): 7.2
+The true values is: 6.375
 之所以 有 疑慮 是 因為 這些 保養 的 人 都 是 熟面孔 了 不過 今年 這些 老師 不 見 好多 沒想到 之前 私底下 爾 有 聽到 抱怨 原來 是 真的 還 走 這麼多 人 所以 我 才 有 疑慮 。
 sentiment words: ['抱怨', '疑慮']
+words frequent: [1, 2]
 correpsonding sentiment values: [6.6, 5.0]
-The predicted values is (using Arithmetic Average): 5.8
+The predicted values is (using Arithmetic Average): 5.53333333333
 sentiment words: ['抱怨', '疑慮']
+words frequent: [1, 2]
 correpsonding sentiment values: [6.6, 5.0]
-The predicted values is (using Geometric  Average): 5.74456264654
+The predicted values is (using Geometric  Average): 5.48480655243
+The true values is: 4.777777778
 這 位 大大 我 想 你 誤會 我 的 意思 了 我 原文 的 意思 是 把 護衛 隊 會 拿來 反駁 樓主 的 理由 都 列出來 我 裡面 寫 的 每 個 理由 都 是 我 在 這 個 版 看到 人家 每每 拿出 安全性 來 質疑 時 他們 提出 的 理由 你 不妨 多 在 這 個 優質 的 版 多多 閒晃 到 目前 為止 我 看到 說 某 F 牌 妥善率 很 差 、 常常 維修 的 大多 是 聽 朋友 說 、 家人 說 、 長輩 說 的 ! 希望 可以 換 點 新 花樣 例如 聽 二奶 說 、 聽 細姨 說 我 想 會 比較 新鮮 !
 sentiment words: ['反駁', '差', '希望', '想', '朋友', '誤會', '質疑']
+words frequent: [1, 1, 1, 2, 1, 1, 1]
 correpsonding sentiment values: [6.4, 4.6, 5.2, 3.6, 4.2, 5.4, 5.6]
-The predicted values is (using Arithmetic Average): 5.0
+The predicted values is (using Arithmetic Average): 4.825
 sentiment words: ['反駁', '差', '希望', '想', '朋友', '誤會', '質疑']
+words frequent: [1, 1, 1, 2, 1, 1, 1]
 correpsonding sentiment values: [6.4, 4.6, 5.2, 3.6, 4.2, 5.4, 5.6]
-The predicted values is (using Geometric  Average): 4.92213513025
+The predicted values is (using Geometric  Average): 4.733388524
+The true values is: 6.0
 可能 你 剛好 沒 遇 過 那 段 強風 吧 我 週 週 往返 新竹 - 台南 和 美 那 段 風 真的 強 但是 要 看 季節 並 不 是 每 天 都 是 這 種 大風 最近 12月 份 風 很 大 有時 還 會 被 雙面 巴來巴 去 ..... FIT 的 懸吊 與 yaris 比 差 不 到 哪 去 尤其 後懸 也 是 用 廉價 的 非 獨立式 懸吊 。
 sentiment words: ['差', '強']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.6, 5.4]
 The predicted values is (using Arithmetic Average): 5.0
 sentiment words: ['差', '強']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.6, 5.4]
 The predicted values is (using Geometric  Average): 4.98397431775
+The true values is: 4.0
 你 要 說 FIT 超控 好 嘛 就 是 跟 yaris 一樣 好
 sentiment words: ['好']
+words frequent: [2]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['好']
+words frequent: [2]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
+The true values is: 3.625
 目前 新一代 CAMRY 的 旗艦 定位 車款 就 只有 2.5 G 車型 可以 擔任 了 ... 搭載 於 CAMRY 上 的 足踏式駐 煞車 是 機械式 的 踩 第一 次 鎖定 踩 第二 次 就 能 釋放 駐 煞車 了 非常 感謝 大家 的 熱烈 回應 小 編 必須 要 做 的 是 盡量 將 新車 的 細節 分享 給 大家 當然 每 個人 都 有所 偏好 有 些 人 若是 不 喜歡 送 他 也 不 願 開 ... 買車 是 看 需求 各 種 級距 車型 鎖定 的 客層 與 定位 也 不盡 相同 尤其 現在 安全 防護 意識 抬頭 CAMRY 此 次 改款 能否 持續 擄獲 人心 ？ 相信 之後 的 銷售量 會 給 大家 答案 的 ∼
 sentiment words: ['偏好', '分享', '喜歡', '安全', '感謝', '熱烈', '相信', '願']
+words frequent: [1, 1, 1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.0, 4.6, 5.8, 4.4, 5.6, 7.6, 5.4, 5.0]
 The predicted values is (using Arithmetic Average): 5.3
 sentiment words: ['偏好', '分享', '喜歡', '安全', '感謝', '熱烈', '相信', '願']
+words frequent: [1, 1, 1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.0, 4.6, 5.8, 4.4, 5.6, 7.6, 5.4, 5.0]
 The predicted values is (using Geometric  Average): 5.206045801
+The true values is: 5.0
 如 題 小弟 國中 時 腳踏車 曾 被 偷到 現在 買 了 人生 的 第一 台 車 altis 也 還是 有 陰影 週遭 的 親戚 朋友 都 說 我 太 誇張 就 只 因為 原廠 的 中控鎖 個人 認為 這 個 沒用 防 君子 ) 、 原廠 終級 排檔 鎖外 小弟 另外 裝 了 鋼甲 武士 10 代扣鎖 、 神眼 傳訊 鎖 及 車輪 鎖 若要 開 這 台 車 總共 要 開 5 道 鎖 要 開車 是 麻煩 了 點 但是 反之 要 偷 這 台 車 也 要 開 5 道 鎖 除非 整 台 車 拖走 ... 請問 各 位 大 大都 是 如 何 保護 愛車 呢 ?
 sentiment words: ['保護', '偷', '朋友', '麻煩']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [6.8, 5.0, 4.2, 5.0]
 The predicted values is (using Arithmetic Average): 5.25
 sentiment words: ['保護', '偷', '朋友', '麻煩']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [6.8, 5.0, 4.2, 5.0]
 The predicted values is (using Geometric  Average): 5.16921448885
+The true values is: 5.0
 大哥 ∼ ∼ 有空 直接 開過去 吧 ..... 明顯 就 是 在 拖時間 ∼ 你 確定 你 的 維修 更換 沒 時間 限制 ？ 直接 殺到 他們 營業所 比較 快 ∼ 最好 還是 在 他 說 高雄 交 車 時 ！
 sentiment words: ['最好', '確定']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.2, 5.2]
 The predicted values is (using Arithmetic Average): 5.7
 sentiment words: ['最好', '確定']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.2, 5.2]
 The predicted values is (using Geometric  Average): 5.67802782663
+The true values is: 5.571428571
 偷 裝備 ~ ~ 我 覺得 大大 你 搞錯 了 吧 ! ! 和泰 怎麼 偷 ?
 sentiment words: ['偷']
+words frequent: [2]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
 sentiment words: ['偷']
+words frequent: [2]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
+The true values is: 5.714285714
 是 日本 要 我們 怎麼 裝 裝 多少 的 不 是 和泰 決定 的 豐田 占 了 國瑞 跟 和泰 百 分 六十 的 股份 決定 全 都 由 日本人 決定 ~ ~ 想要 好 的 內裝 好 的 配備 好 的 東西 請 不要 跟 和泰 講 也 不要 跟 國瑞 講 在 01 上 講 也 沒有用 ~ ~ 請 跟 日本人 講 謝謝 ! !
 sentiment words: ['好', '決定', '謝謝']
+words frequent: [3, 3, 1]
 correpsonding sentiment values: [5.2, 7.0, 5.8]
-The predicted values is (using Arithmetic Average): 6.0
+The predicted values is (using Arithmetic Average): 6.05714285714
 sentiment words: ['好', '決定', '謝謝']
+words frequent: [3, 3, 1]
 correpsonding sentiment values: [5.2, 7.0, 5.8]
-The predicted values is (using Geometric  Average): 5.95447019486
+The predicted values is (using Geometric  Average): 5.99935542624
+The true values is: 4.375
 很多 車主 抱怨 新車 怠速 抖動 嚴重 ---- 冷 車 時 更 嚴重 。
 sentiment words: ['冷', '嚴重', '抱怨']
+words frequent: [1, 2, 1]
 correpsonding sentiment values: [4.4, 7.0, 6.6]
-The predicted values is (using Arithmetic Average): 6.0
+The predicted values is (using Arithmetic Average): 6.25
 sentiment words: ['冷', '嚴重', '抱怨']
+words frequent: [1, 2, 1]
 correpsonding sentiment values: [4.4, 7.0, 6.6]
-The predicted values is (using Geometric  Average): 5.87983154684
+The predicted values is (using Geometric  Average): 6.14183539659
+The true values is: 5.666666667
 很多 車主 抱怨 冷氣 空調 有 很 重 的 酸臭味 --- 新車 時 卻 時有 很 嚴重 .
 sentiment words: ['嚴重', '抱怨']
+words frequent: [1, 1]
 correpsonding sentiment values: [7.0, 6.6]
 The predicted values is (using Arithmetic Average): 6.8
 sentiment words: ['嚴重', '抱怨']
+words frequent: [1, 1]
 correpsonding sentiment values: [7.0, 6.6]
 The predicted values is (using Geometric  Average): 6.79705818719
+The true values is: 4.875
 而是 要 買 有 NCAP 5 顆 星 的 認證 車種 .... 你 說 的 話 好像 國產 T 撞到 會 死人 的 如果 多 花 10 ~ 20萬 的 其他 車種 就 不會 死 了 我 這樣 解讀 你 的 話 ~ 對 嗎 ?
 sentiment words: ['對', '死', '死人']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.8, 5.0, 7.0]
 The predicted values is (using Arithmetic Average): 5.6
 sentiment words: ['對', '死', '死人']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.8, 5.0, 7.0]
 The predicted values is (using Geometric  Average): 5.51784835276
+The true values is: 4.5
 其中 矛盾 大家 都 懂 .... 有錢 大家 都 買 雙 B 了 誰 要 國產 ?
 sentiment words: ['有錢', '矛盾']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.4, 4.6]
 The predicted values is (using Arithmetic Average): 5.0
 sentiment words: ['有錢', '矛盾']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.4, 4.6]
 The predicted values is (using Geometric  Average): 4.98397431775
+The true values is: 6.125
 似乎 很多 人 開車 整 天 怕 車禍 。
 sentiment words: ['怕']
+words frequent: [1]
 correpsonding sentiment values: [6.4]
 The predicted values is (using Arithmetic Average): 6.4
 sentiment words: ['怕']
+words frequent: [1]
 correpsonding sentiment values: [6.4]
 The predicted values is (using Geometric  Average): 6.4
+The true values is: 4.0
 呵呵 ~ 傻眼 了 阿 ~ ! ! 如果 整 天 要 怕死 的 怕 自己 開車 去 撞人 的 可以 考慮 前面 幾 位 大大 所 推 的 ! ! 本人 只 怕 別人 來 撞 我 ! ! 我 希望 前面 某些 人 出 車禍 時 .
 sentiment words: ['呵呵', '希望', '怕']
+words frequent: [1, 1, 2]
 correpsonding sentiment values: [4.6, 5.2, 6.4]
-The predicted values is (using Arithmetic Average): 5.4
+The predicted values is (using Arithmetic Average): 5.65
 sentiment words: ['呵呵', '希望', '怕']
+words frequent: [1, 1, 2]
 correpsonding sentiment values: [4.6, 5.2, 6.4]
-The predicted values is (using Geometric  Average): 5.34950646159
+The predicted values is (using Geometric  Average): 5.59474479375
+The true values is: 5.333333333
 您 喜愛 的 配備 要 炸出 來 喔 ~ 哈哈 不要 最後 在 某些 地方 時 才 反應 ..... 喜歡 就 喜歡 不 喜歡 就 不 喜歡 只 會 說 這些 廢話 ~ ! ! 如果 只是 要 廢話 就 閃 一 邊 吧 ~ ! ! 論 油耗 ... 1.8 F 排 應該 算 他 最 耗油 ~ 我 還要 補充 一點 ... 有 人 喊 A 沒 內鐵 ! ! 過 那麼 久 還是 不 知道 有沒有 內鐵 去 爬 一 下文 吧
 sentiment words: ['哈哈', '喜愛', '喜歡']
+words frequent: [1, 1, 4]
 correpsonding sentiment values: [6.0, 6.2, 5.8]
-The predicted values is (using Arithmetic Average): 6.0
+The predicted values is (using Arithmetic Average): 5.9
 sentiment words: ['哈哈', '喜愛', '喜歡']
+words frequent: [1, 1, 4]
 correpsonding sentiment values: [6.0, 6.2, 5.8]
-The predicted values is (using Geometric  Average): 5.99777695422
+The predicted values is (using Geometric  Average): 5.89805953976
+The true values is: 6.625
 隨 你 高興
 sentiment words: ['高興']
+words frequent: [1]
 correpsonding sentiment values: [6.6]
 The predicted values is (using Arithmetic Average): 6.6
 sentiment words: ['高興']
+words frequent: [1]
 correpsonding sentiment values: [6.6]
 The predicted values is (using Geometric  Average): 6.6
-馬2長 3.9 米 也 才 1039 上 一 代 國產 SWIFT 頂級版 也 只有 1045 還 有 其他 我 就 懶得 找 了 認真 說來 yaris 重量 算 中間 範圍 .. 另外 .. 得了 吧 ! 還 什麼 對號 入座 ?
+The true values is: 5.5
+馬2長 3.9 米 也 才 1039 上 一 代 國產 SWIFT 頂級版 也 只有 1045 還 有 其他 我 就 懶得 找 了 認真 說來 yaris 重量 算 中間 範圍 .. 另外 .. 得了 吧 ! 還 什麼 對號 入座
 sentiment words: ['認真']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
 sentiment words: ['認真']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
+The true values is: 6.0
 這 版 開口 就 說 yaris 太 輕 了 的
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Arithmetic Average): 5
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Geometric  Average): 5
-這 種 車重 比較 是 給 那些 喜歡 論斤秤 兩 評論 車子 好壞 的 人 看 你 如果 沒 這 種 重量 迷思 又 何必 堅持 yaris 比較 輕 ?
+The true values is: 4.333333333
+這 種 車重 比較 是 給 那些 喜歡 論斤秤 兩 評論 車子 好壞 的 人 看 你 如果 沒 這 種 重量 迷思 又 何必 堅持 yaris 比較 輕
 sentiment words: ['喜歡']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Arithmetic Average): 5.8
 sentiment words: ['喜歡']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Geometric  Average): 5.8
+The true values is: 5.333333333
 當 你 沉浸 在 你 無敵 好 正確 的 商業 邏輯 的 時候 有沒有 轉過來 認真 思考 一下 工程 邏輯 是 什麼 ？ 你 有沒有 認真 正視 過 工程 專業 的 堅持 豐田戰 本田 網路 大戰 至少 戰 了 20 年 為什麼 戰 個 不停 沒有 結論 交集 豐田 管理 出 幾 本 書 本田 管理 出 幾 本 書 豐田 成功 或者 本田 成功 或者 說 誰 信仰 豐田 的 成功 誰 信仰 本田 的 成功 學 而 不 思 則 罔
 sentiment words: ['好', '思', '成功', '認真']
+words frequent: [1, 1, 4, 2]
 correpsonding sentiment values: [5.2, 4.8, 6.6, 5.0]
-The predicted values is (using Arithmetic Average): 5.4
+The predicted values is (using Arithmetic Average): 5.8
 sentiment words: ['好', '思', '成功', '認真']
+words frequent: [1, 1, 4, 2]
 correpsonding sentiment values: [5.2, 4.8, 6.6, 5.0]
-The predicted values is (using Geometric  Average): 5.35722183444
+The predicted values is (using Geometric  Average): 5.74341292896
+The true values is: 4.142857143
 不然 怎會 滿街 都 是 你們 所謂 的 垃圾 ?
 sentiment words: ['垃圾']
+words frequent: [1]
 correpsonding sentiment values: [7.4]
 The predicted values is (using Arithmetic Average): 7.4
 sentiment words: ['垃圾']
+words frequent: [1]
 correpsonding sentiment values: [7.4]
 The predicted values is (using Geometric  Average): 7.4
+The true values is: 6.375
 我 很 喜歡 老 的 206 / 306 / 505 ... 只是 我 比較 想 開車 而 不 是 跟修 車廠 的 技師 成為 好朋友 。
 sentiment words: ['喜歡', '想']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.8, 3.6]
 The predicted values is (using Arithmetic Average): 4.7
 sentiment words: ['喜歡', '想']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.8, 3.6]
 The predicted values is (using Geometric  Average): 4.56946386352
+The true values is: 4.375
 沒有 嘛 所以 第三 排 本來 就是 有時候 遇到 應急 用 的 不 是 日常 都 要 坐 人 的 嘛 那 你 嫌 他 難 坐 幹嘛 ?
 sentiment words: ['嫌', '遇到']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.8, 4.2]
 The predicted values is (using Arithmetic Average): 5.0
 sentiment words: ['嫌', '遇到']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.8, 4.2]
 The predicted values is (using Geometric  Average): 4.9355850717
+The true values is: 5.222222222
 雞肋 沒 錯 啊 但 有時 有 好過 沒 有 有時 遇到 就 是 要 用 就 知道 他 好用 至少 RAV 4 遇到 那 種 狀況 你 連 第三 排 好不好 坐 都 不用 討論 了 而且 樓主 已經 說 他們 一 家 四 口 了 不 曉得 第三 排 好不好 坐 有 啥 討論 的 必要
 sentiment words: ['遇到', '錯']
+words frequent: [2, 1]
 correpsonding sentiment values: [4.2, 4.8]
-The predicted values is (using Arithmetic Average): 4.5
+The predicted values is (using Arithmetic Average): 4.4
 sentiment words: ['遇到', '錯']
+words frequent: [2, 1]
 correpsonding sentiment values: [4.2, 4.8]
-The predicted values is (using Geometric  Average): 4.48998886413
+The predicted values is (using Geometric  Average): 4.39116685203
+The true values is: 5.666666667
 也 不 喜歡 Toyota 的 設計 和 調性 ... 所以 我 並 不 覺得 Toyota 很 強大 !
 sentiment words: ['喜歡']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Arithmetic Average): 5.8
 sentiment words: ['喜歡']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Geometric  Average): 5.8
+The true values is: 5.75
 說 實在 的 這 一 代 的 camryG 款 比 我 的 03 年 的 還 差 缺乏 TRC 與 VSC 主動 安全 配備 就 不 說 了 而 這些 03 年 的 都 有 我 不 滿意 換掉 的 1 .
 sentiment words: ['安全', '差', '滿意', '缺乏']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [4.4, 4.6, 5.6, 4.6]
 The predicted values is (using Arithmetic Average): 4.8
 sentiment words: ['安全', '差', '滿意', '缺乏']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [4.4, 4.6, 5.6, 4.6]
 The predicted values is (using Geometric  Average): 4.77847250789
+The true values is: 3.666666667
 影音 設備 ... 這 個 部分 有 改善 。
 sentiment words: ['改善']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['改善']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
+The true values is: 2.888888889
 喇叭 這 一 代 還是 差勁 透 了 。
 sentiment words: ['差勁']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Arithmetic Average): 6.8
 sentiment words: ['差勁']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Geometric  Average): 6.8
+The true values is: 6.142857143
 電子 花車 轉阿轉燈亮刺人 也 刺 己 車 飄 軟腳 晃阿晃 遇 水 則 亂甩阿甩 邊 開邊 看 大 螢幕 好 威 好 猛 沒 在 怕 省 油 就 是 第一 名 其實 也 沒 省 多少 一 條 命 多 付 點油省 來 省去 只 剩 油 不 是 說 他 很 不 好 只是 需 要 被 探討 造車 邏輯 要 改進 不要 狂賺 台灣 錢 然後 不 負 些 責任 人家 改 款式 進步 你 屌 改款 偷 拿掉 不要 唬弄 台灣人 無敵 話術騙 騙去 因為 只要 開 慢慢 一切 都 不會 發生 啦 ！
 sentiment words: ['偷', '好', '怕', '改進']
+words frequent: [1, 3, 1, 1]
 correpsonding sentiment values: [5.0, 5.2, 6.4, 4.6]
-The predicted values is (using Arithmetic Average): 5.3
+The predicted values is (using Arithmetic Average): 5.26666666667
 sentiment words: ['偷', '好', '怕', '改進']
+words frequent: [1, 3, 1, 1]
 correpsonding sentiment values: [5.0, 5.2, 6.4, 4.6]
-The predicted values is (using Geometric  Average): 5.2599036441
+The predicted values is (using Geometric  Average): 5.23985947649
+The true values is: 7.25
 請 注意 是 定期 運轉 而 非 每 日 運轉 其實 只要 下雨天 就 必須 開 冷氣 來 除 玻璃 起霧 就 可以 了 或是 每週 開 一 次 冷氣 冷 天 開 冷氣 一樣 會 增加 油耗 而且 是 脫 褲子 放屁 多此一舉 先 把 空氣 經過 冷氣 風箱 把 空氣 變 冷 再 經過 暖氣 風箱 把 冷 空氣 加熱 吹 出來 是 暖氣 所以 除了 因 下雨 需 第一 段 把 空氣 變 冷 加 除濕 外 其他 時候 無須 用 壓縮機 去 做 空氣 變 冷 的 動作 。
 sentiment words: ['冷', '放屁']
+words frequent: [5, 1]
 correpsonding sentiment values: [4.4, 7.0]
-The predicted values is (using Arithmetic Average): 5.7
+The predicted values is (using Arithmetic Average): 4.83333333333
 sentiment words: ['冷', '放屁']
+words frequent: [5, 1]
 correpsonding sentiment values: [4.4, 7.0]
-The predicted values is (using Geometric  Average): 5.5497747702
+The predicted values is (using Geometric  Average): 4.75401159981
+The true values is: 5.285714286
 靠 政府 保護 與 善良 勤奮 的 中產 百姓 來 賺錢 。
 sentiment words: ['保護', '善良']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.8, 4.4]
 The predicted values is (using Arithmetic Average): 5.6
 sentiment words: ['保護', '善良']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.8, 4.4]
 The predicted values is (using Geometric  Average): 5.46991773247
+The true values is: 4.222222222
 你 果然 沒 常 上 01 做 功課 之前 才 有 一 篇 專門 討論 天窗 的 優缺點 的 文章 其實 車子 這 種 東西 要 買 之前 我 都 會 考慮 配備 未來 的 加裝 性 ... 比如說 假設 今天 我 不 確定 要不要 買 有 天窗 的 車 那 我 會 先 加 錢 先 買 有 天窗 的 車 原因 很 簡單 萬一 買 了 車 後 想要 有 天窗 我 也 不會 後悔 但是 萬一 我 沒 買 有 天窗 的 車 以後 有錢 也 加裝 不 了 但是 萬一 我 不 喜歡 天窗 那 也 沒 差 反正 就 把 天窗 隔板 拉上 在 車內 看起來 一樣 跟 沒 天窗 的 車 一樣 ...
 sentiment words: ['喜歡', '差', '後悔', '有錢', '確定']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.8, 4.6, 4.2, 5.4, 5.2]
 The predicted values is (using Arithmetic Average): 5.04
 sentiment words: ['喜歡', '差', '後悔', '有錢', '確定']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.8, 4.6, 4.2, 5.4, 5.2]
 The predicted values is (using Geometric  Average): 5.00687148073
-常常 覺得 聰明 和 智慧 相比 我 更 喜歡 智慧 。
-sentiment words: ['喜歡', '智慧', '聰明']
-correpsonding sentiment values: [5.8, 4.0, 4.8]
-The predicted values is (using Arithmetic Average): 4.86666666667
-sentiment words: ['喜歡', '智慧', '聰明']
-correpsonding sentiment values: [5.8, 4.0, 4.8]
-The predicted values is (using Geometric  Average): 4.81108548972
-擔 是 看 了 拉拉 之後 我 覺得 聰明 的 女子 更 讓 人心 生 憐惜 。
-sentiment words: ['憐惜', '聰明']
-correpsonding sentiment values: [4.8, 4.8]
-The predicted values is (using Arithmetic Average): 4.8
-sentiment words: ['憐惜', '聰明']
-correpsonding sentiment values: [4.8, 4.8]
-The predicted values is (using Geometric  Average): 4.8
-不可 否認 這 是 一 本 好 書 。
-sentiment words: ['否認', '好']
-correpsonding sentiment values: [5.2, 5.2]
-The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['否認', '好']
-correpsonding sentiment values: [5.2, 5.2]
-The predicted values is (using Geometric  Average): 5.2
-一 年 前 一 個 很 好 的 朋友 發 了 我 一 本 電子檔 的 沒有 看下去 這 次 在 當當 上 買 了 之後 用 了 兩 天 看完 。
-sentiment words: ['好', '朋友']
-correpsonding sentiment values: [5.2, 4.2]
-The predicted values is (using Arithmetic Average): 4.7
-sentiment words: ['好', '朋友']
-correpsonding sentiment values: [5.2, 4.2]
-The predicted values is (using Geometric  Average): 4.67332857822
-對於 那些 聰明 的 女子 來 說 更 是 一 個 完美 的 人生 嚮導 適合 珍藏 及 細讀 的 一 本 書 ! 推薦
-sentiment words: ['完美', '珍藏', '聰明', '適合']
-correpsonding sentiment values: [6.4, 5.4, 4.8, 3.8]
-The predicted values is (using Arithmetic Average): 5.1
-sentiment words: ['完美', '珍藏', '聰明', '適合']
-correpsonding sentiment values: [6.4, 5.4, 4.8, 3.8]
-The predicted values is (using Geometric  Average): 5.01071431183
-一旦 你 發現 什麼 事情 好像 很 完美 了 其實 它 就 哪 哪 都 是 漏洞 。
-sentiment words: ['完美']
-correpsonding sentiment values: [6.4]
-The predicted values is (using Arithmetic Average): 6.4
-sentiment words: ['完美']
-correpsonding sentiment values: [6.4]
-The predicted values is (using Geometric  Average): 6.4
-現在 也 覺得 收穫 挺 大 。
-sentiment words: ['收穫']
-correpsonding sentiment values: [5.6]
-The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['收穫']
-correpsonding sentiment values: [5.6]
-The predicted values is (using Geometric  Average): 5.6
-並 不 後悔 當初 的 選擇 。
-sentiment words: ['後悔']
-correpsonding sentiment values: [4.2]
-The predicted values is (using Arithmetic Average): 4.2
-sentiment words: ['後悔']
-correpsonding sentiment values: [4.2]
-The predicted values is (using Geometric  Average): 4.2
-對於 學習 者 來 說 真正 的 樂趣 在於 學習 本身 。
-sentiment words: ['樂趣']
-correpsonding sentiment values: [5.0]
-The predicted values is (using Arithmetic Average): 5.0
-sentiment words: ['樂趣']
-correpsonding sentiment values: [5.0]
-The predicted values is (using Geometric  Average): 5.0
+The true values is: 5.625
 我 覺得 你們 這些 再 說 人家 派 工讀生 也 很 好笑 ... 哪 一點 讓 你 知道 他 是 工讀生 ?
 sentiment words: ['好笑']
+words frequent: [1]
 correpsonding sentiment values: [6.4]
 The predicted values is (using Arithmetic Average): 6.4
 sentiment words: ['好笑']
+words frequent: [1]
 correpsonding sentiment values: [6.4]
 The predicted values is (using Geometric  Average): 6.4
+The true values is: 6.571428571
 不 知道 就 別 在 這 唬爛 了 ~ 這 跟 那些 說 網路 慢 然後 說 甚麼 美國 速度 慢 歐洲 速度 慢 澳洲 速度 慢 ... 沒 根據 就 說 結果 被 住 在 國外 的 說 你 真的 出 過 國 嗎 ?
 sentiment words: ['慢']
+words frequent: [4]
 correpsonding sentiment values: [2.8]
 The predicted values is (using Arithmetic Average): 2.8
 sentiment words: ['慢']
+words frequent: [4]
 correpsonding sentiment values: [2.8]
 The predicted values is (using Geometric  Average): 2.8
+The true values is: 6.444444444
 拜託 一下 人家 只是 比較 喜歡 T 牌 ... 你 也 不用 這樣子 說 而且 ... 如果 要 說 ESP 跟 氣囊 ... ACCORD 跟 TEANA 這 幾 台 ~ 都 是 要 最 高階 的 車子 才 有的 ~ 想 問 一下 這 幾 台 是否 也 差 不 多 ?
 sentiment words: ['喜歡', '差', '想', '高階']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.8, 4.6, 3.6, 3.8]
 The predicted values is (using Arithmetic Average): 4.45
 sentiment words: ['喜歡', '差', '想', '高階']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.8, 4.6, 3.6, 3.8]
 The predicted values is (using Geometric  Average): 4.37087091504
+The true values is: 5.428571429
 無知 吧 ! 怎麼 會 有 人 說 Altis 好 ?
 sentiment words: ['好', '無知']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.4]
 The predicted values is (using Arithmetic Average): 4.8
 sentiment words: ['好', '無知']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.4]
 The predicted values is (using Geometric  Average): 4.78330429724
+The true values is: 6.666666667
 不過 Camry 或是 以前 進口 的 Coronalla 及 純 進口 的 都 還 算 不錯
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Arithmetic Average): 5
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Geometric  Average): 5
+The true values is: 5.0
 一 年 要 多 花 20萬 養車 我 也 願意 因為 我 的 命 超過 了 這 個 價位
 sentiment words: ['願意']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
 sentiment words: ['願意']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
+The true values is: 6.0
 小弟 趁 今天 去 保養 車子 時 順便 跟 原廠 員工 聊天 小弟 想 了解 一 件 事 ALLnewCamry 的 配備 這 次 這麼 差 倒底 是 日本 原廠 的 意思 還是 台灣 總代理 的 意思 員工 也 很 誠實 的 說 是 台灣 總代理 的 意思 所以 小弟 差點 誤會 日本 原廠 和泰 啊 台灣 人民 的 生命 這麼 不 值錢 嗎 不值 到 連 安全 配備 也 要 拿掉 嗎 還 不能 選配連 原廠 員工 都 很 失望
 sentiment words: ['值錢', '失望', '安全', '差', '想', '誠實', '誤會']
+words frequent: [1, 1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.6, 5.6, 4.4, 4.6, 3.6, 4.8, 5.4]
 The predicted values is (using Arithmetic Average): 4.85714285714
 sentiment words: ['值錢', '失望', '安全', '差', '想', '誠實', '誤會']
+words frequent: [1, 1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.6, 5.6, 4.4, 4.6, 3.6, 4.8, 5.4]
 The predicted values is (using Geometric  Average): 4.80605959178
-依照 你 的 停車 照片 看來 加上 你 又 強調 沒有 逆向 停車 所以 你 被 撞擊點 應該 是 在 牆壁 這邊 既然 是 牆壁 這邊 理應 遭 撞擊 應該 是 另 一 邊 才 對 怎麼 會 是 牆壁 這 一 邊 在 怎樣 都 不可能 會 有 這樣 的 撞擊 才 對 樓主 是否 形容 錯誤 ?
+The true values is: 6.333333333
+依照 你 的 停車 照片 看來 加上 你 又 強調 沒有 逆向 停車 所以 你 被 撞擊點 應該 是 在 牆壁 這邊 既然 是 牆壁 這邊 理應 遭 撞擊 應該 是 另 一 邊 才 對 怎麼 會 是 牆壁 這 一 邊 在 怎樣 都 不可能 會 有 這樣 的 撞擊 才 對 樓主 是否 形容 錯誤
 sentiment words: ['對', '逆向', '錯誤']
+words frequent: [2, 1, 1]
 correpsonding sentiment values: [4.8, 4.4, 5.6]
-The predicted values is (using Arithmetic Average): 4.93333333333
+The predicted values is (using Arithmetic Average): 4.9
 sentiment words: ['對', '逆向', '錯誤']
+words frequent: [2, 1, 1]
 correpsonding sentiment values: [4.8, 4.4, 5.6]
-The predicted values is (using Geometric  Average): 4.90863395173
+The predicted values is (using Geometric  Average): 4.88124711527
+The true values is: 5.428571429
 你 不會 看 嗎 我 是 積極 想 看 啊 你 看 不 懂 嗎 樓主 比 我 忙 很多 要 上班 要 客戶 要 妻小 我 也 沒 挑釁 啊 挑釁 是 說 我 油耗 比 他 強 才 叫 挑釁 好 嗎 我 是 想 改 買 T 牌 才 想 看 啊 你 沒 看 我 貼出 一 堆 好 康 的 喔 我 百 分 之 一萬 要 測試 的 啊 你 那麼 挺 樓主 那 你 請 他 出來 或 你 有 加入 贏 了 你 也 有的 分 如何 我 找 臺階 下咧 你 要不要 也 來 參 一 腳 一起 看看 休旅車 最 強 境界 啊
 sentiment words: ['好', '強', '想', '挑釁', '積極', '贏']
+words frequent: [2, 2, 3, 3, 1, 1]
 correpsonding sentiment values: [5.2, 5.4, 3.6, 6.8, 6.6, 7.0]
-The predicted values is (using Arithmetic Average): 5.76666666667
+The predicted values is (using Arithmetic Average): 5.5
 sentiment words: ['好', '強', '想', '挑釁', '積極', '贏']
+words frequent: [2, 2, 3, 3, 1, 1]
 correpsonding sentiment values: [5.2, 5.4, 3.6, 6.8, 6.6, 7.0]
-The predicted values is (using Geometric  Average): 5.62740815254
+The predicted values is (using Geometric  Average): 5.33731131678
+The true values is: 7.0
 我 想 明眼人 都 知道 就 當 廣告 來 看 ！
 sentiment words: ['想']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Arithmetic Average): 3.6
 sentiment words: ['想']
+words frequent: [1]
 correpsonding sentiment values: [3.6]
 The predicted values is (using Geometric  Average): 3.6
+The true values is: 5.428571429
 其實 大 蟒 也 並 非 這麼 完美 還是 有 很多 缺點 的 ！
 sentiment words: ['完美', '缺點']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.4, 4.6]
 The predicted values is (using Arithmetic Average): 5.5
 sentiment words: ['完美', '缺點']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.4, 4.6]
 The predicted values is (using Geometric  Average): 5.4258639865
+The true values is: 4.375
 所以 沒 任何 東西 是 完美 的 勇於 面對 自己 的 缺點 不要 老 想 操縱 這些 媒體 來 欺騙 這些 消費者 ！
 sentiment words: ['完美', '想', '缺點']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.4, 3.6, 4.6]
 The predicted values is (using Arithmetic Average): 4.86666666667
 sentiment words: ['完美', '想', '缺點']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.4, 3.6, 4.6]
 The predicted values is (using Geometric  Average): 4.73238535976
+The true values is: 6.428571429
 當然 只 能 靠 私下 的 交情 多 交 些 汽修科 的 朋友 只 有 好處 不會 有 壞處 啦 汽修科 在 汽車版 上 應該 要 得到 相當 程度 的 尊重 才 對 哪 天 台灣 尊重 高職 畢業 的 技術 人員 可以 像 尊重 大學 裡 的 博士 一樣 那 我們 的 工業 水準 就 可以 跟 歐美 媲美 了
 sentiment words: ['壞處', '好處', '尊重', '對', '朋友']
+words frequent: [1, 1, 3, 1, 1]
 correpsonding sentiment values: [5.0, 5.0, 5.2, 4.8, 4.2]
-The predicted values is (using Arithmetic Average): 4.84
+The predicted values is (using Arithmetic Average): 4.94285714286
 sentiment words: ['壞處', '好處', '尊重', '對', '朋友']
+words frequent: [1, 1, 3, 1, 1]
 correpsonding sentiment values: [5.0, 5.0, 5.2, 4.8, 4.2]
-The predicted values is (using Geometric  Average): 4.8271053362
+The predicted values is (using Geometric  Average): 4.93083058371
+The true values is: 6.166666667
 正面 對撞 結果 現代車 引擎蓋 只 凹 一半 駕駛 幾乎 沒 受傷 vios 好像 連 駕駛艙 都 完全 潰縮 駕駛 就 夾死 在 裡面 你 看看 你 看看 假如 低於 標準 的 安全性 還可以 販售 有 可能 就是 一 個 車廠 是否 尊重 生命 的 表現
 sentiment words: ['受傷', '尊重', '正面']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.4, 5.2, 4.6]
 The predicted values is (using Arithmetic Average): 5.06666666667
 sentiment words: ['受傷', '尊重', '正面']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.4, 5.2, 4.6]
 The predicted values is (using Geometric  Average): 5.05496684813
+The true values is: 6.25
 如果 立法 強制 規定 要 有 ESP 跟 氣囊 各 數 要求 那些 賣 不 好 的 車廠 會 死 得 更 慘 ..... 換 個 角度 想 如果 F 牌 國產 也 只有 兩 氣球 無 ESP .... 那會 賣 得 更 好 還是 更 壞 ?
 sentiment words: ['好', '想', '慘', '死']
+words frequent: [2, 1, 1, 1]
 correpsonding sentiment values: [5.2, 3.6, 5.0, 5.0]
-The predicted values is (using Arithmetic Average): 4.7
+The predicted values is (using Arithmetic Average): 4.8
 sentiment words: ['好', '想', '慘', '死']
+words frequent: [2, 1, 1, 1]
 correpsonding sentiment values: [5.2, 3.6, 5.0, 5.0]
-The predicted values is (using Geometric  Average): 4.65116196802
+The predicted values is (using Geometric  Average): 4.75608753723
+The true values is: 5.428571429
 而 我 純粹 以 一 個 看不慣 的 路人 的 角色 在 發言 我 不 認識 樓主 但 願意 幫 他 說 句 公道話 。
 sentiment words: ['願意']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
 sentiment words: ['願意']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
+The true values is: 5.142857143
 因為 業代 希望 我 都 打 10 分 他 說 9 分 以上 才 能 拿 績效 獎金 。
 sentiment words: ['希望', '打', '獎金']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.2, 6.6, 5.6]
 The predicted values is (using Arithmetic Average): 5.8
 sentiment words: ['希望', '打', '獎金']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.2, 6.6, 5.6]
 The predicted values is (using Geometric  Average): 5.77092064001
+The true values is: 3.714285714
 可是 交車 時 的確 有的 地方 有待 改善 我 想 打 7 分 或 8 分 。
 sentiment words: ['想', '打', '改善']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [3.6, 6.6, 5.2]
 The predicted values is (using Arithmetic Average): 5.13333333333
 sentiment words: ['想', '打', '改善']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [3.6, 6.6, 5.2]
 The predicted values is (using Geometric  Average): 4.98061830035
+The true values is: 4.375
 又 怕 意見欄 打 太多 以後 回去 保養 會 被 車廠 貼上 標籤 真 為難 阿 ..
 sentiment words: ['怕', '打', '為難']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.4, 6.6, 4.8]
 The predicted values is (using Arithmetic Average): 5.93333333333
 sentiment words: ['怕', '打', '為難']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.4, 6.6, 4.8]
 The predicted values is (using Geometric  Average): 5.87473636964
+The true values is: 4.125
 到時 又 被 罵 到 臭 頭 說 騙錢 我 知道 VQ 35 的 引擎 蠻 好 的 但是 有 錢 買 嗎 ?
 sentiment words: ['好', '臭']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.6]
 The predicted values is (using Arithmetic Average): 4.9
 sentiment words: ['好', '臭']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.6]
 The predicted values is (using Geometric  Average): 4.89080770425
+The true values is: 5.857142857
 請 先 準備 200萬 HONDA 的 引擎 好 ~ 說真的 沒 開 過 ~ 有 機會 真 想 試 看看 我 想 主要 還 是 口袋 深度 才 是 決定 一切 吧 NEWALTIS 個人 覺得 還 不錯 ~ 雙安 四 碟 ABS 動力 足夠 日常 使 用 ~ 保養 也 不錯 ~
 sentiment words: ['好', '想', '決定', '足夠']
+words frequent: [1, 2, 1, 1]
 correpsonding sentiment values: [5.2, 3.6, 7.0, 4.0]
-The predicted values is (using Arithmetic Average): 4.95
+The predicted values is (using Arithmetic Average): 4.68
 sentiment words: ['好', '想', '決定', '足夠']
+words frequent: [1, 2, 1, 1]
 correpsonding sentiment values: [5.2, 3.6, 7.0, 4.0]
-The predicted values is (using Geometric  Average): 4.78482401286
-不 懂 為什麼 這 種 安全 配備 的 車 這麼多 人 想 買單 ?
+The predicted values is (using Geometric  Average): 4.52015445779
+The true values is: 6.0
+不 懂 為什麼 這 種 安全 配備 的 車 這麼多 人 想 買單
 sentiment words: ['安全', '想']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.4, 3.6]
 The predicted values is (using Arithmetic Average): 4.0
 sentiment words: ['安全', '想']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.4, 3.6]
 The predicted values is (using Geometric  Average): 3.97994974843
+The true values is: 5.777777778
 油耗 比 安全 配備 還要 更 吸引人 更 重要 ?
 sentiment words: ['安全']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Arithmetic Average): 4.4
 sentiment words: ['安全']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Geometric  Average): 4.4
+The true values is: 5.444444444
 一 個 車廠 把 安全 配配省成 這樣 還 有 人客 要 捧場 ?
 sentiment words: ['安全']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Arithmetic Average): 4.4
 sentiment words: ['安全']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Geometric  Average): 4.4
+The true values is: 6.166666667
 建議 是 ~ 又 不 是 沒有 其他 更 好 的 選擇 .... 只 能 祝福 各 位 購入 的 車主 以上 沒有 別的 不 好 的 意思 單 存 個 人 意見 一 個 看不慣 這樣 欺負 台灣 消費 著 的 人
 sentiment words: ['好', '祝福']
+words frequent: [2, 1]
 correpsonding sentiment values: [5.2, 5.8]
-The predicted values is (using Arithmetic Average): 5.5
+The predicted values is (using Arithmetic Average): 5.4
 sentiment words: ['好', '祝福']
+words frequent: [2, 1]
 correpsonding sentiment values: [5.2, 5.8]
-The predicted values is (using Geometric  Average): 5.4918120871
+The predicted values is (using Geometric  Average): 5.39276580446
+The true values is: 4.428571429
 小弟 的 RAV 4 是 2009年 6月 交車 未 開 A/C 開關 前 只有 送風 一樣 酸 到 不行 的 臭味 ...... 後來 索性 把 冷氣 空氣 過濾 網 拿掉 在 試 ~ ~ ~ 結果 還是 一樣 ... 到達 目的地 之前 開 送風 把 風箱 吹乾
 sentiment words: ['臭味', '酸']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.0, 4.8]
 The predicted values is (using Arithmetic Average): 4.9
 sentiment words: ['臭味', '酸']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.0, 4.8]
 The predicted values is (using Geometric  Average): 4.89897948557
+The true values is: 4.857142857
 altis 的 天窗 似乎 問題 不少 甚至 有 網友 回報 會 漏水 所以 我 和 樓主 相反 當初 就是 不 想要 天窗 所以 才 選 E 款 而 不 是 G 款 至於 16 吋 鋁圈 建議 直接 先 換上 16 吋 原來 的 15 吋 再 便宜 賣掉 就 好 不過 16 吋 鋁圈 只是 好看 並 稍微 增 一點 穩定性 卻 換來 較 高 的 音噪 、 較 不 舒適 的 乘坐感 也 比較 耗油 所以 建議 先 仔細 想想 再 做 決定 好些
 sentiment words: ['仔細', '好', '決定', '舒適']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [3.8, 5.2, 7.0, 3.6]
 The predicted values is (using Arithmetic Average): 4.9
 sentiment words: ['仔細', '好', '決定', '舒適']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [3.8, 5.2, 7.0, 3.6]
 The predicted values is (using Geometric  Average): 4.72385839254
+The true values is: 4.375
 這 篇 文章 跟 福特 有 關係 嗎 ？ 孤鴻 海 上 來 你 真的 很 會 硬 凹 捏 各 國 強制 安裝 的 安全 配備 如同 安全帶 一般 只有 台灣 政商 牛步 還是 說 你 跟 他們 有 一 腿 ？ 擁護 T 牌 到 這 種 程度 也 真 有 你 的 畢竟 花錢 買 Toyota 的 是 別人 也 不 是 你 對 吧 ？ 別人 家 的 小孩 死 不 完 如果 因為 你 一 句 話 讓 其他 消費者 對 安全性 有 了 錯誤 的 決定 甚至 間接 導致 未來 事故 的 發生 那 業報 是 一輩子 都 還 不 完 的
 sentiment words: ['安全', '對', '擁護', '死', '決定', '錯誤']
+words frequent: [1, 2, 1, 1, 1, 1]
 correpsonding sentiment values: [4.4, 4.8, 6.0, 5.0, 7.0, 5.6]
-The predicted values is (using Arithmetic Average): 5.46666666667
+The predicted values is (using Arithmetic Average): 5.37142857143
 sentiment words: ['安全', '對', '擁護', '死', '決定', '錯誤']
+words frequent: [1, 2, 1, 1, 1, 1]
 correpsonding sentiment values: [4.4, 4.8, 6.0, 5.0, 7.0, 5.6]
-The predicted values is (using Geometric  Average): 5.40153099628
+The predicted values is (using Geometric  Average): 5.31118931407
+The true values is: 6.444444444
 話 說 Camry 、 Teana 、 Accocd 這 種 大型 房車 要 搭 17 吋 以上 的 車身 比例 比較 好看 16 吋 以下 有點 頭重腳輕 的 感覺 ! 要是 我 不會 為了 省 油 把 18 吋 、 17 吋 換成 16 、 15 吋 輪圈 ! 說真的 買純 汽油 的 大型 房車 不要 把 省 油 考慮 在 裡面 不然 你 會 開 的 很 痛苦 坐 在 車 室 內 很 舒服 但是 一直 注意 油耗 心理 很 痛苦 XD ) ! 因為 計較 那 一 公升 差 1 ~ 2 km 是 沒 什麼 差別 的 !
 sentiment words: ['差', '痛苦', '舒服']
+words frequent: [1, 2, 1]
 correpsonding sentiment values: [4.6, 6.8, 3.6]
-The predicted values is (using Arithmetic Average): 5.0
+The predicted values is (using Arithmetic Average): 5.45
 sentiment words: ['差', '痛苦', '舒服']
+words frequent: [1, 2, 1]
 correpsonding sentiment values: [4.6, 6.8, 3.6]
-The predicted values is (using Geometric  Average): 4.82899121198
+The predicted values is (using Geometric  Average): 5.26040933114
+The true values is: 5.875
 更 別 說 出差 了 一 天 300 公里 也 不 以為 奇 相對 的 引擎 保持 在 工作 溫度 區間 油耗 自然 就 會 好 一些 。
 sentiment words: ['好']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['好']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
+The true values is: 4.8
 這 安全 問題 很 像 騎 機車 裡 也 常 發生 ~ 安全帽 與 護具 問題 ~ 戴全罩 好 還 是 瓜皮 好 ~ 要 穿 護具 不 穿 護具 每 個人 都 有 自己 答案 ~ 之前 朋友 也 是 大概 這樣 講 ~ 我 慢慢 騎 就 好 沒 必要 戴全罩 穿 什護 具 笑死 人 ~ 反正 每 人 注重 的 點 不 一樣 ~ 有 人 會 買 就 是 會 買 ~ 就 顧好 自己 就 好 ~ 重點 只要 遇 過 一 次 就 知道 有 那些 安全 配備 的 好 反正 很多 都 是 要 花錢 買 經驗 體驗 就 知道 ~
 sentiment words: ['好', '安全', '朋友', '笑死']
+words frequent: [5, 2, 1, 1]
 correpsonding sentiment values: [5.2, 4.4, 4.2, 7.0]
-The predicted values is (using Arithmetic Average): 5.2
+The predicted values is (using Arithmetic Average): 5.11111111111
 sentiment words: ['好', '安全', '朋友', '笑死']
+words frequent: [5, 2, 1, 1]
 correpsonding sentiment values: [5.2, 4.4, 4.2, 7.0]
-The predicted values is (using Geometric  Average): 5.09273217795
+The predicted values is (using Geometric  Average): 5.05730122932
+The true values is: 4.142857143
 九成 以上 可能 是 假 車禍 詐騙 ! ! 一般 汽車 跟 機車 擦撞
 sentiment words: ['詐騙']
+words frequent: [1]
 correpsonding sentiment values: [7.0]
 The predicted values is (using Arithmetic Average): 7.0
 sentiment words: ['詐騙']
+words frequent: [1]
 correpsonding sentiment values: [7.0]
 The predicted values is (using Geometric  Average): 7.0
+The true values is: 5.857142857
 還 價錢 都 訂好 了 咧 ... 雖然 還 算是 行情價 ! 但 可能 就 是 抓住 價錢 不 算 貴 怕 麻煩 的 心理 詐騙 ! ! 建議 一定 要 找 警察 ! ! 不一定 是 機車 要 賠 汽車 ! ! 雖然 你們 沒 犁田 人 也 沒 事 ! 突然 想到 : 叫 警察 來 先 開 牠 一 張 亂改 大 燈 HID ) 應該 比 2500 貴 很多 ! 還 要 驗車 ! ! 可能 牠 會 倒 給 你 一千 抱 著 牠 的 下巴 落荒而逃 !
 sentiment words: ['怕', '抱', '詐騙', '麻煩']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [6.4, 5.2, 7.0, 5.0]
 The predicted values is (using Arithmetic Average): 5.9
 sentiment words: ['怕', '抱', '詐騙', '麻煩']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [6.4, 5.2, 7.0, 5.0]
 The predicted values is (using Geometric  Average): 5.84201732386
+The true values is: 6.125
 安全 配備 很 重要 但 駕駛 方式 行為 也 同樣 重要 影片 中 那 位 車主 完全 沒 注意 前方 路況 幾乎 快 撞到 了 才 踩 煞車 切 到 右線 還好 當時 右線 沒有 車 不然 被 他 撞到 還 真 衰 安全 配備 是 輔助 不要 以為 防彈車 多 安全 它 只 能 讓 你 躲過 前 波 攻擊 你 還 得 想 辦法 駛離 現場 否則 一樣 掛點 懂 嗎 ?
 sentiment words: ['安全', '想', '攻擊', '衰']
+words frequent: [3, 1, 1, 1]
 correpsonding sentiment values: [4.4, 3.6, 7.4, 4.2]
-The predicted values is (using Arithmetic Average): 4.9
+The predicted values is (using Arithmetic Average): 4.73333333333
 sentiment words: ['安全', '想', '攻擊', '衰']
+words frequent: [3, 1, 1, 1]
 correpsonding sentiment values: [4.4, 3.6, 7.4, 4.2]
-The predicted values is (using Geometric  Average): 4.7104136501
-我 看 這 本 書 覺得 情節 不錯 很 好 的 寫出 了 祈然 對 冰 依 的 愛 尤其 是 冰依 死去 的 那 一 刻 我 覺得 有點 感傷 。
-sentiment words: ['好', '對', '愛', '感傷']
-correpsonding sentiment values: [5.2, 4.8, 5.4, 5.4]
-The predicted values is (using Arithmetic Average): 5.2
-sentiment words: ['好', '對', '愛', '感傷']
-correpsonding sentiment values: [5.2, 4.8, 5.4, 5.4]
-The predicted values is (using Geometric  Average): 5.1940727135
-番 外篇 更 是 絕 啊 ~ ~ 最愛 看 冰 依 跟 衛 在一起 （ 雖然 好像 有點 對不起 祈 然 ） 看到 他們 都 有 自己 的 幸福 是 很 好 的 ~ ~ 不過 作者 怎麼 就 不 讓步 殺 也 幸福 呢 ~ 雖然 現在 看來 也 不錯 但是 還是 想 看看 步 的 愛情 使 ~ ~ * _ *
-sentiment words: ['好', '幸福', '想', '愛情', '殺']
-correpsonding sentiment values: [5.2, 4.0, 3.6, 5.8, 7.8]
-The predicted values is (using Arithmetic Average): 5.28
-sentiment words: ['好', '幸福', '想', '愛情', '殺']
-correpsonding sentiment values: [5.2, 4.0, 3.6, 5.8, 7.8]
-The predicted values is (using Geometric  Average): 5.08133334522
-riverbobwrote : 「 真 奇怪 明明 就 是 有 很多 人 有 這 個 問題 卻 還是 有 人 要 護航 」 你 也 真 奇怪 我 的 RAV 4 就 真的 沒 問題 啥 護航 不 護航 ！
+The predicted values is (using Geometric  Average): 4.60458248012
+The true values is: 5.714285714
+「 真 奇怪 明明 就 是 有 很多 人 有 這 個 問題 卻 還是 有 人 要 護航 」 你 也 真 奇怪 我 的 RAV 4 就 真的 沒 問題 啥 護航 不 護航 ！
 sentiment words: ['奇怪']
+words frequent: [2]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['奇怪']
+words frequent: [2]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
+The true values is: 6.111111111
 謝謝 樓上 兩 位 大哥 的 熱心 回覆 我 已經 去 原廠 詢問 了 原因 就是 戶外 溫度 低 所以 空調 會 自動 調節 車內 溫度 後來 今天 開 回家 時 戶外 21 度 我 冷氣 23 度 我 把 後座 出風口 關掉 結果 前面 冷氣 竟然 不 夠 冷 有點 溫 我 馬上 把 後座 出風口 打開 竟然 吹 冷氣 想 說 這麼 奇怪 前後 竟然 顛倒 馬上 把 溫度 調低 前面 的 出風口 就 吹出 冷氣 了 今天 去 原廠 就 檢查 而已 還 幫 我 洗 車 算是 賺到
 sentiment words: ['冷', '奇怪', '想', '謝謝']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [4.4, 5.2, 3.6, 5.8]
 The predicted values is (using Arithmetic Average): 4.75
 sentiment words: ['冷', '奇怪', '想', '謝謝']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [4.4, 5.2, 3.6, 5.8]
 The predicted values is (using Geometric  Average): 4.67516161586
+The true values is: 6.0
 照片 很 難 嗎 跑 一段 定速 或 下坡 隨便 都 二三十 油耗 市區 油耗 13多 是 根本 連 踩 都 沒 踩 吧 還 是 超扯 的 九二 無 鉛 這樣 好了 樓主 來 打 個 賭 我 跟 朋友 上 台北 去 油 錢 我們 出 依 你 前面 多 次 油耗 文章路 面 來 開 如果 市區 高速 平均 破 13多 我們 馬上 包 一萬 紅包 如果 沒有 只要 上 本 版 說明 真相 就 好 休旅車載人 還 有 市區 我 真的 很 想 親眼 看看 是 怎樣 厲害 的 駕駛 方式 九二 無 鉛 油耗 13多 不 是 不 相 信 我們 願意 花錢 親眼 看
 sentiment words: ['好', '想', '打', '朋友', '真相', '隨便', '願意']
+words frequent: [1, 1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 3.6, 6.6, 4.2, 5.4, 5.2, 5.0]
 The predicted values is (using Arithmetic Average): 5.02857142857
 sentiment words: ['好', '想', '打', '朋友', '真相', '隨便', '願意']
+words frequent: [1, 1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 3.6, 6.6, 4.2, 5.4, 5.2, 5.0]
 The predicted values is (using Geometric  Average): 4.95037416406
-優點 是 地理 位置 不錯 朝 南 的 房間 可以 看 富春 江 可惜 給 我 的 所謂 高級房 是 朝 北 的 怪不得 人家 說 攜程 的 客人 比較 受 歧視 。
-sentiment words: ['優點', '歧視']
-correpsonding sentiment values: [5.0, 6.8]
-The predicted values is (using Arithmetic Average): 5.9
-sentiment words: ['優點', '歧視']
-correpsonding sentiment values: [5.0, 6.8]
-The predicted values is (using Geometric  Average): 5.83095189485
+The true values is: 5.875
 MATRIX 真的 是 一 部 好 車 2004年 我 還 在 美國 念書 時 這 車 剛 推出 我 就 二話不說 把 我 的 beetle 3 年租 約 到 了 換成 黑色 的 MATRIX .... 這 車 的 好處 是 便宜 又 大 碗 非常 適合 美國 的 路況 又 省油 又 能 載 東西 外型 也好 ... 真 是 居家 旅遊 必備 好 車 呀 .... 最 記得 有 一 次 紐約 下 大風雪 回 叔叔家 時 要 經過 一段 高底 起伏 很 大 的 公園路 只 有 大車 還 有 MATRIX 4 輪 驅動 通行無阻 一路 平安 到達 所以 下 在 大 的 雪 他 都 保護 我 ..... 到 現在 我 回國 後 還是 想 著 我 的 MATRIX ....
 sentiment words: ['保護', '好', '好處', '平安', '想', '適合']
+words frequent: [1, 2, 1, 1, 1, 1]
 correpsonding sentiment values: [6.8, 5.2, 5.0, 3.4, 3.6, 3.8]
-The predicted values is (using Arithmetic Average): 4.63333333333
+The predicted values is (using Arithmetic Average): 4.71428571429
 sentiment words: ['保護', '好', '好處', '平安', '想', '適合']
+words frequent: [1, 2, 1, 1, 1, 1]
 correpsonding sentiment values: [6.8, 5.2, 5.0, 3.4, 3.6, 3.8]
-The predicted values is (using Geometric  Average): 4.49270475482
+The predicted values is (using Geometric  Average): 4.58752727994
+The true values is: 5.555555556
 同學 你 說話 好 激動 充滿 了 驚嘆號 比 我 還 像 被 撞 的 受害者 哦 我 也 強調 我 寧願 相信 我 也 沒 針對 台本 也許 是 日本 本田 本身 決定 不 需要 內鐵 的 有 正當 理由 的 COSTDOWN 是 很 合理 的 ) 為 什 麼 沒有 後 內鐵 .. 這 問題 就 留給 日本 本田 去 回答 吧 還 有 ~ 這裡 是 牛 頭版 討論 太多 H 的 車子 有點 喧賓奪主 了 版友們 單純 把 這 案例 當成 笑話 笑笑 就 好了 嘛
 sentiment words: ['好', '決定', '激動', '相信', '笑話']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 7.0, 7.8, 5.4, 4.8]
 The predicted values is (using Arithmetic Average): 6.04
 sentiment words: ['好', '決定', '激動', '相信', '笑話']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 7.0, 7.8, 5.4, 4.8]
 The predicted values is (using Geometric  Average): 5.93425489508
+The true values is: 5.571428571
 市場 領先 的 品牌 享有 發球權 高興 怎麼 定價 就 怎麼 定 如果 這 個 品牌 願意 在 安全 配備 上 大放送 那 所有 的 車廠 就 會 被 強迫 跟進 市場 落後 的 品牌 為了 突顯 差異化 只 能 不斷 強化 配備 、 降低 價格 但 不會 改變 市場 的 口味 現在 可以 讓 台灣 汽車 消費者 在 安全 配備 上 更 進化 的 角色 有 兩 個 一 個 是 政府 一 個 是 Toyota .... 前 一 個 我 不 敢 奢望 後 一 個 讓 我 失望 就 這樣
 sentiment words: ['失望', '安全', '強迫', '願意', '高興']
+words frequent: [1, 2, 1, 1, 1]
 correpsonding sentiment values: [5.6, 4.4, 7.4, 5.0, 6.6]
-The predicted values is (using Arithmetic Average): 5.8
+The predicted values is (using Arithmetic Average): 5.56666666667
 sentiment words: ['失望', '安全', '強迫', '願意', '高興']
+words frequent: [1, 2, 1, 1, 1]
 correpsonding sentiment values: [5.6, 4.4, 7.4, 5.0, 6.6]
-The predicted values is (using Geometric  Average): 5.70003172189
+The predicted values is (using Geometric  Average): 5.45933619783
+The true values is: 4.5
 被 側風 推 或 打到 大家 多少 都 有 經驗 與 車身 流線 程度 車重 車 高 輪 寬 動力 避震器 方向盤 智慧 重力 回饋 設定 都 有 相關 。
 sentiment words: ['智慧']
+words frequent: [1]
 correpsonding sentiment values: [4.0]
 The predicted values is (using Arithmetic Average): 4.0
 sentiment words: ['智慧']
+words frequent: [1]
 correpsonding sentiment values: [4.0]
 The predicted values is (using Geometric  Average): 4.0
+The true values is: 3.857142857
 個人 偏好 3 或 5 門 車 風 壓 抵抗 會 有 較 佳 表現 呢 ~ 不過 適當 駕駛 很 重要 減速 些 是 應當 的 握 好 方向盤 也 是 應該 的 一般 言 歐系車 多 較 穩定性 高 日系 多 重視 都市 輕鬆 操控 設定 取向 不 太 相同 大多數 啦 。
 sentiment words: ['佳', '偏好', '好', '輕鬆', '適當']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.6, 4.0, 5.2, 2.2, 4.6]
 The predicted values is (using Arithmetic Average): 4.12
 sentiment words: ['佳', '偏好', '好', '輕鬆', '適當']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.6, 4.0, 5.2, 2.2, 4.6]
 The predicted values is (using Geometric  Average): 3.95549040924
+The true values is: 4.5
 原廠 要 有 能力 及 意願 來 主動 研究 及 保修 它 車主 遇到 這 個 問題 已經 很 不 舒服 了 請 原廠 用 最 大 的 熱忱 來 處理 。
 sentiment words: ['舒服', '遇到']
+words frequent: [1, 1]
 correpsonding sentiment values: [3.6, 4.2]
 The predicted values is (using Arithmetic Average): 3.9
 sentiment words: ['舒服', '遇到']
+words frequent: [1, 1]
 correpsonding sentiment values: [3.6, 4.2]
 The predicted values is (using Geometric  Average): 3.88844441904
+The true values is: 6.333333333
 這 ... 這 讓 我 覺得 我 的 家人 真是 偉大 。
 sentiment words: ['偉大']
+words frequent: [1]
 correpsonding sentiment values: [6.6]
 The predicted values is (using Arithmetic Average): 6.6
 sentiment words: ['偉大']
+words frequent: [1]
 correpsonding sentiment values: [6.6]
 The predicted values is (using Geometric  Average): 6.6
+The true values is: 4.833333333
 如果 是 因為 偷掉 安全 配備 安全 氣囊 VSC 盲點 偵測 系統 來 壓低 價格 那 這 種 CAMRY 不要 也罷 。
 sentiment words: ['安全']
+words frequent: [2]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Arithmetic Average): 4.4
 sentiment words: ['安全']
+words frequent: [2]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Geometric  Average): 4.4
+The true values is: 5.0
 但是 人家 國外 安全 氣囊 都 9 到 10 顆 了 和泰 如果 真的 最多 只 有 4 顆 那 我 真的 會 很 鄙視 決定 把 氣囊 拿掉 的 和泰 高層 。
 sentiment words: ['安全', '決定']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.4, 7.0]
 The predicted values is (using Arithmetic Average): 5.7
 sentiment words: ['安全', '決定']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.4, 7.0]
 The predicted values is (using Geometric  Average): 5.5497747702
+The true values is: 6.375
 車子 的 安全 是 很 重要 的 這些 人 等於 是 用 無形 的 力量 在 殺 人 新一代 CAMRY 一定 會 大賣 的 但 和泰 卻 可能 讓 台灣 的 消費者 只 能 買到 不 安全 的 電子 花車 CAMRY 。
 sentiment words: ['安全', '殺']
+words frequent: [2, 1]
 correpsonding sentiment values: [4.4, 7.8]
-The predicted values is (using Arithmetic Average): 6.1
+The predicted values is (using Arithmetic Average): 5.53333333333
 sentiment words: ['安全', '殺']
+words frequent: [2, 1]
 correpsonding sentiment values: [4.4, 7.8]
-The predicted values is (using Geometric  Average): 5.85832740635
+The predicted values is (using Geometric  Average): 5.325168061
+The true values is: 5.5
 因為 稅制 的 關係 我 覺得 新一代 CAMRY 在 台灣 最 不 討喜 的 反而 是 2.5 L 的 引擎 ...
 sentiment words: ['討喜']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Arithmetic Average): 6.0
 sentiment words: ['討喜']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Geometric  Average): 6.0
+The true values is: 4.428571429
 那 請問 你 為什麼 我 朋友 開車場 的 ~ 也 都 是 在 開 T 牌 ... 真的 好 怪異 = = 他 不 懂 車 ~ 卻 可以 開 車行 ~ 呵呵 ~ 雖然 你 說 的 是 很多 T 牌 車主 但是 我 想 理性 的 跟 你 說 ... 如果 要 喊 安全性 跟 穩定度 ... 好多 銷售 前 幾 名 的 車子 穩定度 跟 操控度 跟 安全度 都 特 爛 ~ ! ! 我 問 一下 ~ ! ! 如果 今天 你 沒有 甚麼 錢 ~ 你 會 買 啥 ?
 sentiment words: ['呵呵', '好', '怪異', '想', '朋友', '爛']
+words frequent: [1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.6, 5.2, 5.0, 3.6, 4.2, 5.6]
 The predicted values is (using Arithmetic Average): 4.7
 sentiment words: ['呵呵', '好', '怪異', '想', '朋友', '爛']
+words frequent: [1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.6, 5.2, 5.0, 3.6, 4.2, 5.6]
 The predicted values is (using Geometric  Average): 4.65134442594
+The true values is: 5.875
 討厭 Toyota 五 年 前 開 Altis 我 後悔 為何 十 年 前 要 熱血 買 四 安 保養 嚇死 人 的 進口車 。
 sentiment words: ['後悔', '討厭']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.2, 6.6]
 The predicted values is (using Arithmetic Average): 5.4
 sentiment words: ['後悔', '討厭']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.2, 6.6]
 The predicted values is (using Geometric  Average): 5.26497863244
+The true values is: 5.333333333
 在 台灣 選 Toyota 不會 後悔 。
 sentiment words: ['後悔']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Arithmetic Average): 4.2
 sentiment words: ['後悔']
+words frequent: [1]
 correpsonding sentiment values: [4.2]
 The predicted values is (using Geometric  Average): 4.2
+The true values is: 4.125
 平常 都 停 路 邊 半年 換 一 次 機油 也 沒 甚麼 地方 故障 我 從 以前 K6.K8.K9.VIOS 都 沒 它 好 開 K 9 是 98 年 出廠 朋友 家 有 賓士車 他 坐 後座 之後 就 說 坐起來 的 感覺 像 賓士 這 怎麼說 其它 車 都 要 拿去 填 海 了 。
 sentiment words: ['好', '朋友']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.2]
 The predicted values is (using Arithmetic Average): 4.7
 sentiment words: ['好', '朋友']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 4.2]
 The predicted values is (using Geometric  Average): 4.67332857822
+The true values is: 5.0
 我 在 奧地利 坐 朋友 出廠 四 年 的 賓士 柴油車 。 距離 五十 公尺 。 還 沒 看到 車 就 聽到 柴油 引擎聲 。 不 知 是 不 是 歐洲 賓士 都 比較 爛 。 賓士車 或許 比較 安全 。 但 不見得 好開 舒適 故障率 低 。
 sentiment words: ['安全', '朋友', '爛', '舒適']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [4.4, 4.2, 5.6, 3.6]
 The predicted values is (using Arithmetic Average): 4.45
 sentiment words: ['安全', '朋友', '爛', '舒適']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [4.4, 4.2, 5.6, 3.6]
 The predicted values is (using Geometric  Average): 4.39337347517
+The true values is: 4.0
 三 O 幾 年 前 爛 車頂 事件 是 一 大 敗筆 連 我 爸 都 受驚 了 ! 品質 不良 又 不 負責任 但 它 實在 好 開 ~ T 的 話 .. 行銷 大過 一切 歌 后 或 七 速 完完全全 適合 多數 國人 買車 的 特性 ； 但 撇開 一些 該 有的 安全 科技 不 談 至少 在 設計 上 使得 維修 容易 又 可以 少 花錢 問題 少 ~ 希望 台灣 將來 會 有 個 真正 競爭 的 市場 ! 目前 消費者 真的 很 吃虧 。
 sentiment words: ['好', '安全', '希望', '爛', '競爭', '適合']
+words frequent: [1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 4.4, 5.2, 5.6, 6.6, 3.8]
 The predicted values is (using Arithmetic Average): 5.13333333333
 sentiment words: ['好', '安全', '希望', '爛', '競爭', '適合']
+words frequent: [1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 4.4, 5.2, 5.6, 6.6, 3.8]
 The predicted values is (using Geometric  Average): 5.05625715852
+The true values is: 5.625
 這樣 講 就 會 有 人 說 命 只有 一 條 要 買 就 要 多 花 點 錢 買 安全 的 車 如果 有錢 可以 買好 一點 的 進口車 開起來 操控 好 爽 度 又 夠 又 拉風 誰 願意 開 國產車 ?
 sentiment words: ['好', '安全', '有錢', '爽', '願意']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 4.4, 5.4, 7.2, 5.0]
 The predicted values is (using Arithmetic Average): 5.44
 sentiment words: ['好', '安全', '有錢', '爽', '願意']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 4.4, 5.4, 7.2, 5.0]
 The predicted values is (using Geometric  Average): 5.36575027058
+The true values is: 6.666666667
 有 些 小 毛病 之 完 因為 小弟 之前 在 驗 車場 打工 過 大部份 的 2.2 的 車 EGR ; 廢氣 在 尋環 ; 引擎 燈會 亮 這 都 很 容易 壞 也 糟糕 ! 原 場 報價 2 棵 小 飛碟 要 10 張 小朋友 XD 反正 技師 建議 還是 不要 換好 了 其他 應該 沒 什麼 大 問題 了 請問 小弟 最近 想 自己 更換 發電機 皮帶 請問 好 換 嗎 ?
 sentiment words: ['好', '想', '糟糕']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.2, 3.6, 5.2]
 The predicted values is (using Arithmetic Average): 4.66666666667
 sentiment words: ['好', '想', '糟糕']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.2, 3.6, 5.2]
 The predicted values is (using Geometric  Average): 4.60012602049
+The true values is: 4.142857143
 這 就是 有 潰縮 和 沒有 潰縮 的 差別 也 可以 說 是 「 內傷 和 外傷 」 的 差別 ！
 sentiment words: ['外傷']
+words frequent: [1]
 correpsonding sentiment values: [6.2]
 The predicted values is (using Arithmetic Average): 6.2
 sentiment words: ['外傷']
+words frequent: [1]
 correpsonding sentiment values: [6.2]
 The predicted values is (using Geometric  Average): 6.2
+The true values is: 5.142857143
 如果 高速 撞擊 下 可能 我 說 可能 哦 想 証明 反對 的 請 自行 測試 ) 會 讓 車室 中 的 人 比較 不用 承受 撞擊 時 的 衝擊 力道 也 增加 存活 機率 ！
 sentiment words: ['反對', '想', '衝擊']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.2, 3.6, 7.2]
 The predicted values is (using Arithmetic Average): 5.66666666667
 sentiment words: ['反對', '想', '衝擊']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.2, 3.6, 7.2]
 The predicted values is (using Geometric  Average): 5.4367858753
+The true values is: 5.875
 打 一下 那 種 的 感覺 會 覺得 全 身 都 麻 了 的 如果 大多 的 話 可能 會 震 死 吧 ！
 sentiment words: ['打', '死']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.6, 5.0]
 The predicted values is (using Arithmetic Average): 5.8
 sentiment words: ['打', '死']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.6, 5.0]
 The predicted values is (using Geometric  Average): 5.74456264654
+The true values is: 5.5
 不 知 對 不 對 有 錯 請 指出 謝謝 ^ ^
 sentiment words: ['對', '謝謝', '錯']
+words frequent: [2, 1, 1]
 correpsonding sentiment values: [4.8, 5.8, 4.8]
-The predicted values is (using Arithmetic Average): 5.13333333333
+The predicted values is (using Arithmetic Average): 5.05
 sentiment words: ['對', '謝謝', '錯']
+words frequent: [2, 1, 1]
 correpsonding sentiment values: [4.8, 5.8, 4.8]
-The predicted values is (using Geometric  Average): 5.11254122272
+The predicted values is (using Geometric  Average): 5.03254800671
+The true values is: 4.375
 希望 藉 此 文章 來 喚醒 和泰 高層 的 良心 。
 sentiment words: ['希望']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['希望']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
+The true values is: 6.125
 你們 可是 成 了 潛在 的 傷人 / 殺人犯 。
 sentiment words: ['傷人']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Arithmetic Average): 6.8
 sentiment words: ['傷人']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Geometric  Average): 6.8
+The true values is: 5.857142857
 因為 CAMRY 沒有 EPS 台灣 一 年 會 有 多少 人 因此 受傷 / 死亡 。
 sentiment words: ['受傷', '死亡']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.4, 6.8]
 The predicted values is (using Arithmetic Average): 6.1
 sentiment words: ['受傷', '死亡']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.4, 6.8]
 The predicted values is (using Geometric  Average): 6.05970296302
+The true values is: 5.5
 也 希望 政府 拿出 魄力 6 SRS+ESP 也 該 成為 台灣 的 標準 配備 。
 sentiment words: ['希望', '魄力']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 6.2]
 The predicted values is (using Arithmetic Average): 5.7
 sentiment words: ['希望', '魄力']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 6.2]
 The predicted values is (using Geometric  Average): 5.67802782663
+The true values is: 6.285714286
 難道 台灣人 的 命 不 值錢 嗎 ?
 sentiment words: ['值錢']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Arithmetic Average): 5.6
 sentiment words: ['值錢']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Geometric  Average): 5.6
+The true values is: 7.25
 和泰 今年 EPS 應該 超過 13 元
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Arithmetic Average): 5
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Geometric  Average): 5
+The true values is: 5.555555556
 哈 ~ ~ ~ ~ 想到 一 個 原因 了 因為 我們 都 只 重 外表 不 重 內涵
 sentiment words: ['哈']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['哈']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
+The true values is: 4.375
 首先 謝謝 大家 的 回覆 讓 我 多 了 一 項 的 知識 起初 我 也 想 回 toyota 廠 更換 不過 報價 真的 太 貴 了 。
 sentiment words: ['想', '知識', '謝謝']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [3.6, 3.4, 5.8]
 The predicted values is (using Arithmetic Average): 4.26666666667
 sentiment words: ['想', '知識', '謝謝']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [3.6, 3.4, 5.8]
 The predicted values is (using Geometric  Average): 4.14066221991
+The true values is: 5.75
 或許 外面 的 不 是 正 廠 零件 。
 sentiment words: ['正']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
 sentiment words: ['正']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
+The true values is: 4.2
 總之 ..... 再次 謝謝 大家
 sentiment words: ['謝謝']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Arithmetic Average): 5.8
 sentiment words: ['謝謝']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Geometric  Average): 5.8
+The true values is: 3.625
 不會 吧 ! ! ! 我 也 是 讀 清華 高中 耶 ! 更 巧 的 是 我 也 是 高榮線 我 都 是 坐 這 台 好幾百萬 的 車 上下課 喔 哈 哈哈 車子 很 新 司機 態度 很 好 喔 ! 是 妳 爸爸 喔 重點 是 坐起來 好 舒服 喔 ... 每 次要 上課 一 上車 挑好 自己 想要 的 位子 舒服 的 坐 著 。
 sentiment words: ['哈', '哈哈', '好', '次要', '耶', '舒服']
+words frequent: [1, 1, 2, 1, 1, 2]
 correpsonding sentiment values: [5.2, 6.0, 5.2, 5.0, 7.2, 3.6]
-The predicted values is (using Arithmetic Average): 5.36666666667
+The predicted values is (using Arithmetic Average): 5.125
 sentiment words: ['哈', '哈哈', '好', '次要', '耶', '舒服']
+words frequent: [1, 1, 2, 1, 1, 2]
 correpsonding sentiment values: [5.2, 6.0, 5.2, 5.0, 7.2, 3.6]
-The predicted values is (using Geometric  Average): 5.2536421769
+The predicted values is (using Geometric  Average): 5.00476394051
+The true values is: 6.571428571
 放學 也 一樣 不過 下雨 的 時候 比較 不好意思 因為 都 會把車 是 用 的 溼溼 的 在 這裡 我 代表 各 位 清華 高中 高榮線 的 同學 說 聲 抱歉 因為 我 也 很 愛 車 喔 !
 sentiment words: ['愛', '抱歉']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.4, 3.8]
 The predicted values is (using Arithmetic Average): 4.6
 sentiment words: ['愛', '抱歉']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.4, 3.8]
 The predicted values is (using Geometric  Average): 4.52990066116
+The true values is: 4.75
 油耗 的 問題 有點 老生常談 管 好 黃金 右腳 胎壓 要 足 我 是 36 PSI ) 機油 不要 太 濃 或 過量 。
 sentiment words: ['好']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['好']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
+The true values is: 4.25
 這 次 終於 安全 配備 大 升級 頂級 兩 顆 變 四 顆 那些 老是 看 不 懂 的 英文 縮寫 至少 還 有 保留 ABS .
 sentiment words: ['安全']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Arithmetic Average): 4.4
 sentiment words: ['安全']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Geometric  Average): 4.4
+The true values is: 4.0
 色溫 ： 鎢絲燈 泡 最 燙 也 最 耗 電 .... LED 比較 省電 .. 色澤 ： 黃色 較 清晰 雨天 或 濃霧 ) 、 白色 較 透亮 適合 黑暗 ) 、 藍色 或 紫色 就 是 氣氛 和 炫 了 .. 紅色 是 警示 作用 .. 黃色 是 注意 號誌 用 .. 所以 要 清晰 又 要 透亮 就 是 黃金光 + 超 白 光 吧 ... 但是 若是 用 HID 就 得 小心 對焦 問題 ... 燈 不 是 爆亮爆閃 自己 爽 就 好 .. 避免 刺瞎 對 向 車子 .. 造成 不 必要 車禍 .
 sentiment words: ['好', '對', '小心', '爽', '適合']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 4.8, 6.0, 7.2, 3.8]
 The predicted values is (using Arithmetic Average): 5.4
 sentiment words: ['好', '對', '小心', '爽', '適合']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 4.8, 6.0, 7.2, 3.8]
 The predicted values is (using Geometric  Average): 5.27840105359
+The true values is: 5.625
 有 很多 人 改燈 就 是 改 亮 到 別人 眼睛 刺眼 和 痛 也 不管 .. 那 種 就是 沒 車品 的 ... 真正 會 玩 改車 的 人 沒 那麼 笨 .. 只 顧 自我 感覺 良好 .. ^ _ _ _ _ _ _ ^
 sentiment words: ['刺眼', '玩', '痛', '笨']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.6, 5.8, 6.2, 5.4]
 The predicted values is (using Arithmetic Average): 5.75
 sentiment words: ['刺眼', '玩', '痛', '笨']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.6, 5.8, 6.2, 5.4]
 The predicted values is (using Geometric  Average): 5.74249158522
+The true values is: 6.125
 安全 與否 眾說紛紜 你 之所以 提出 TOYOTA 不 安全 的 疑慮 就 要 給 個 建議性 的 解答 回文 沒有 必要 避重就輕 不然 你 提出 的 疑慮 就 白費 了 .... 你 跟 我 說 等 有 一 天 你 能 買 車 時 我 真的 笑 了 .. 小弟 很 早 就 買 車 了 開 的 車 也 不 怕 你 知道 九 年 前 買 的 TOYOTAVX - 4
 sentiment words: ['安全', '怕', '疑慮', '笑']
+words frequent: [2, 1, 2, 1]
 correpsonding sentiment values: [4.4, 6.4, 5.0, 5.8]
-The predicted values is (using Arithmetic Average): 5.4
+The predicted values is (using Arithmetic Average): 5.16666666667
 sentiment words: ['安全', '怕', '疑慮', '笑']
+words frequent: [2, 1, 2, 1]
 correpsonding sentiment values: [4.4, 6.4, 5.0, 5.8]
-The predicted values is (using Geometric  Average): 5.34573790596
+The predicted values is (using Geometric  Average): 5.11770861344
+The true values is: 4.571428571
 不過 國內 遊覽車 用 的 都 是 PVC 仿 皮 悶熱 又 不 透氣 長途 搭乘 的 舒適性 較 差 版大 父親 添購 新車 時 不妨 考慮 和 噶瑪蘭 客運 一樣 的 平 織布椅 吧 客機 、 高鐵 等 長途 運輸 也 都 採用 平 織布椅 除了 視覺 較 有 質感 舒適性 也 比 PVC 優 清理 方面 也 不 像 早期 常用 的 絨布 悶熱 難 清理 還 容易卡 灰塵 佳 豐 現在 好像 做 軌道車 的 座椅 比較 多 ？
 sentiment words: ['佳', '優', '差']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.6, 5.4, 4.6]
 The predicted values is (using Arithmetic Average): 4.86666666667
 sentiment words: ['佳', '優', '差']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.6, 5.4, 4.6]
 The predicted values is (using Geometric  Average): 4.85254763945
+The true values is: 4.5
 我 鄰居 買 了 一 台 U 7 我 問 他 使用 經驗 他 是 說 配備 豐富 但是 如果 要 買 建議 我 再 等 個 兩三 年 等 這 款 車 的 問題 修正 後 再 買 不然 ....... 。
 sentiment words: ['豐富']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Arithmetic Average): 5.6
 sentiment words: ['豐富']
+words frequent: [1]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Geometric  Average): 5.6
+The true values is: 4.285714286
 Toyota 剛好 相反 第一 批 一定 用料 最好 後來 才 會 慢慢 Costdown 。
 sentiment words: ['最好']
+words frequent: [1]
 correpsonding sentiment values: [6.2]
 The predicted values is (using Arithmetic Average): 6.2
 sentiment words: ['最好']
+words frequent: [1]
 correpsonding sentiment values: [6.2]
 The predicted values is (using Geometric  Average): 6.2
+The true values is: 4.0
 以前 不 也 有 很多 車 發生 失速 、 火燒車 狀況 所以 在 一味 強調 安全 時 難 到 動力 或 機電 品質 就 無需 安全 檢視 當然 啦 ~ 暴衝 一 詞 T 牌 也 是 無可 推托 。
 sentiment words: ['安全']
+words frequent: [2]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Arithmetic Average): 4.4
 sentiment words: ['安全']
+words frequent: [2]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Geometric  Average): 4.4
+The true values is: 5.428571429
 司機 也 是 人 沒 人 願意 拿 自己 生命 開玩笑 司機 道德 早 就 被 景氣 給 幹掉 了 這兒 的 官員 有 幾 個 是 司機 出身 的 法規 多 且 很多 是 很 不 合理 罰金 又 高 一般人 出事 了 大多 同情 小車 這兒 不 講 道理 只 講 大 小 偏偏 做 大車 司機 也 要 養家 收入 一 年 不如 一 年 下 延長 工時 是 必要 的 累 錢 又 少 又 有 表哥 整天 拿 法規 找麻煩 是 問 道德 是 ... .......
 sentiment words: ['同情', '累', '開玩笑', '願意']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [4.2, 4.6, 5.2, 5.0]
 The predicted values is (using Arithmetic Average): 4.75
 sentiment words: ['同情', '累', '開玩笑', '願意']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [4.2, 4.6, 5.2, 5.0]
 The predicted values is (using Geometric  Average): 4.73418382768
+The true values is: 6.333333333
 幾 年 前 剛 遷 新車 不久 在 南二高 關廟 路段 也 因為 壓到 不明 的 東西 左 後輪 爆胎 還好 當時 沒有 急 剎 也 有 抓穩 方向盤 慢慢 滑行 到 路肩 有驚無險 不然 時速 110 翻車 可 不 是 好玩 的 。
 sentiment words: ['好玩']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Arithmetic Average): 5.8
 sentiment words: ['好玩']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Geometric  Average): 5.8
+The true values is: 5.285714286
 車 是 新 的 胎 也 是 新 的 真是 嚇死 了 還好 後來 買車 的 業務 免費 幫 我 換 了 一 條 。
 sentiment words: ['免費']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Arithmetic Average): 4.8
 sentiment words: ['免費']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Geometric  Average): 4.8
+The true values is: 6.125
 camry 本來 就是 同級 車得 標竿 在 這 級距 本來 他 的 對手 就 只有 他 自己 說 哪 台 車好 哪 台 車不 好 說 實在 的 ~ ~ 只 有 銷售 數字 不會 騙人 產品 好 沒道理 賣 不 出去 東西 賣 不 出去 不 去 找 原因 反而 在 這邊 取笑 別人 我 是 覺 的 很 可憐 啦 ~ ~ ACCORD 跟 Ecoboost 為何 不 75萬 起跳 回饋 消費者 也好 阿 有 人 買 才 有 機會 淘汰 大家 口 中 爛 產品 不 願 在 價格 上 做 讓步 只 想 請 些 人 在 網路 上 打嘴炮 ~ ~ 怪不得 東西 賣 不 出去
 sentiment words: ['取笑', '可憐', '好', '想', '爛', '願']
+words frequent: [1, 1, 2, 1, 1, 1]
 correpsonding sentiment values: [6.2, 5.2, 5.2, 3.6, 5.6, 5.0]
-The predicted values is (using Arithmetic Average): 5.13333333333
+The predicted values is (using Arithmetic Average): 5.14285714286
 sentiment words: ['取笑', '可憐', '好', '想', '爛', '願']
+words frequent: [1, 1, 2, 1, 1, 1]
 correpsonding sentiment values: [6.2, 5.2, 5.2, 3.6, 5.6, 5.0]
-The predicted values is (using Geometric  Average): 5.06574298249
+The predicted values is (using Geometric  Average): 5.08470821505
+The true values is: 6.666666667
 請問 ALTIS 10.5 冷 車 啟動 轉速 2000 RPM 是否 有 問題 新車 時 還 不會 第一 次 保養 完 有 換 自排油 ) 就 這樣 了 問 計 師 又 說 正常 但 公司 裡 5 台 ALTIS 都 沒 我 這樣 高 開 我 朋友 的 冷 車 發動 也 才 一千多 引擎 安靜 不 吵雜 不 像 我 的 非常 的 大聲 雜音 很多 我 在 想 是 不 是 常常 高 轉速 熱車 有 傷到 一 點 PS 機油 使用 5 W 50 原廠油 發車 必 熱車 不 開快車 10.9 兩千 轉 維持 幾 秒 鐘 而已 後面 會 慢慢 的 掉回 一千 出頭 我 的 疑問 是 為何 朋友 的 車 不會 這樣 而 我 的 會 是否 有 辦法 調整
 sentiment words: ['冷', '安靜', '想', '朋友']
+words frequent: [2, 1, 1, 2]
 correpsonding sentiment values: [4.4, 2.4, 3.6, 4.2]
-The predicted values is (using Arithmetic Average): 3.65
+The predicted values is (using Arithmetic Average): 3.86666666667
 sentiment words: ['冷', '安靜', '想', '朋友']
+words frequent: [2, 1, 1, 2]
 correpsonding sentiment values: [4.4, 2.4, 3.6, 4.2]
-The predicted values is (using Geometric  Average): 3.5547079652
+The predicted values is (using Geometric  Average): 3.78721196541
+The true values is: 5.428571429
+如果 坦克 真的 那麼 便宜 又 那麼 好 為何 多數 人 都 不 敢 用 。
+sentiment words: ['好']
+words frequent: [1]
+correpsonding sentiment values: [5.2]
+The predicted values is (using Arithmetic Average): 5.2
+sentiment words: ['好']
+words frequent: [1]
+correpsonding sentiment values: [5.2]
+The predicted values is (using Geometric  Average): 5.2
+The true values is: 4.333333333
 呵 .. 老實說 一 堆 開 著 T 牌 的 說 要 用 好 輪胎 比較 重要 結果 還是 爆爛 輪胎 .. 不然 就是 一 台 便宜 的 車 改 的 亂七八糟 排氣聲 又 大 ... 不 重視 安全性 的 亂鑽 結果 跑起來 比 人家 富豪 .. S 60 沒 改 的 車 還 慢 我 相信 消費者 都 是 明眼 的 只有 些 業務 和 網軍 是 喇叭 嘴 的 所以 那些 傢伙 我 想 大概 塑化 劑 當 水 喝 .. 因為 對 他們 來 說 .. 沒 差 ..... 所以 .
 sentiment words: ['好', '對', '差', '想', '慢', '相信']
+words frequent: [1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 4.8, 4.6, 3.6, 2.8, 5.4]
 The predicted values is (using Arithmetic Average): 4.4
 sentiment words: ['好', '對', '差', '想', '慢', '相信']
+words frequent: [1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 4.8, 4.6, 3.6, 2.8, 5.4]
 The predicted values is (using Geometric  Average): 4.29183269724
+The true values is: 5.8
 塑化劑 喝 多 了 結果 是 .. 相信 大家 都 知道 沒關係 沒關係 技術 補足 一切
 sentiment words: ['相信']
+words frequent: [1]
 correpsonding sentiment values: [5.4]
 The predicted values is (using Arithmetic Average): 5.4
 sentiment words: ['相信']
+words frequent: [1]
 correpsonding sentiment values: [5.4]
 The predicted values is (using Geometric  Average): 5.4
+The true values is: 5.75
 今天 下午 去 朋友 車廠 突然 看到 一 台 車 跑來 仔細 一 看 這 不 是 準備 要 國產 化 的 CAMRY 嘛 ! 而且 還是 HYBIRD 版 趕快 跑去 對面 拍 幾 張 照片 至於 車 裡面 的 人 不 知 跑去 哪 了 呵呵 ... 看 到 有 人 說 原來 是 舊 款 的 CAMRY 難怪 覺得 怪怪 的 無所謂 囉 ! 反正 本來 就 沒 再 注意 TOYOTA 的 車認 不 出來 是 正常 的 囉 ! 所以 大家 就 看看 照片 就 好了
 sentiment words: ['仔細', '呵呵', '朋友']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [3.8, 4.6, 4.2]
 The predicted values is (using Arithmetic Average): 4.2
 sentiment words: ['仔細', '呵呵', '朋友']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [3.8, 4.6, 4.2]
 The predicted values is (using Geometric  Average): 4.18726299988
+The true values is: 4.0
 誰 友善 誰 不 友善 大家 都 看 得 很 清楚 每 次 講到 油電 總是 會 有 很 奇怪 的 批評 priusc 沒 開 過 不過 個人 經驗 會 覺得 油 電車 力量 不 夠
 sentiment words: ['奇怪', '批評', '清楚']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.2, 7.6, 3.8]
 The predicted values is (using Arithmetic Average): 5.53333333333
 sentiment words: ['奇怪', '批評', '清楚']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [5.2, 7.6, 3.8]
 The predicted values is (using Geometric  Average): 5.31537012155
+The true values is: 5.875
 說真的 買到 最 便宜 的 我 真的 會 很 開心 買到 很 貴 的 會 嘔 個 老半天 可能 是 我 比較 不同 吧 ! ! 我 買 東西 都 希望 買到 便宜 的 不 想 買 貴 被 當 盤子 敲耶 ~ 回想 起來 家 中 從 以前 到 現在 已經 買入 1 X 台 車子 只要 交完車 付完 錢 後 再 也 不 見 業代 蹤影 .. 屢試不爽 喔 ! 幾乎 各 大 汽車 品牌 都 有 過 經驗 所以 從此 再 也 不 相信 業代 口 中 的 服務 價格 便宜 給 我 對 我 來 說 才 是 最好 的 服務 ~ ~
 sentiment words: ['對', '希望', '想', '最好', '相信', '開心']
+words frequent: [1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.8, 5.2, 3.6, 6.2, 5.4, 6.6]
 The predicted values is (using Arithmetic Average): 5.3
 sentiment words: ['對', '希望', '想', '最好', '相信', '開心']
+words frequent: [1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.8, 5.2, 3.6, 6.2, 5.4, 6.6]
 The predicted values is (using Geometric  Average): 5.20370591268
+The true values is: 5.222222222
 以 數落 豐田 的 不足 來 突顯 你 開 福斯 的 優越 只 會 搞臭 福斯 車主 的 名聲 擁有 如此 極端 偏頗 的 觀念 沒有 資格 駕駛 福斯 批評 豐田 車主 格局 小 自己 卻 是 自我 感覺 良好 的 井底之蛙 不 尊重 豐田 車主 你 也 該 自愛 保障 一下 福斯 車主 的 尊嚴 吧 補充 說明 : 你 朋友 照 品牌 車主 僱人 的 方式 絕對 做 不久 因為 比 豐田 車主 更 沒 格局
 sentiment words: ['不足', '尊嚴', '尊重', '批評', '朋友', '極端']
+words frequent: [1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.2, 5.2, 5.2, 7.6, 4.2, 7.0]
 The predicted values is (using Arithmetic Average): 5.56666666667
 sentiment words: ['不足', '尊嚴', '尊重', '批評', '朋友', '極端']
+words frequent: [1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.2, 5.2, 5.2, 7.6, 4.2, 7.0]
 The predicted values is (using Geometric  Average): 5.42087612834
+The true values is: 6.285714286
 我 原本 前 一 台 車 也 是 小 鴨 你 所 描述 的 狀況 我 都 知道 也 經歷 過
 sentiment words: ['經歷']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Arithmetic Average): 4.8
 sentiment words: ['經歷']
+words frequent: [1]
 correpsonding sentiment values: [4.8]
 The predicted values is (using Geometric  Average): 4.8
+The true values is: 4.0
 我 也 從 沒 買 過 toyota 的 車 不 是 toyota 不 好 純粹 是 預算 剛好 不 在 那 個 階層 ; 除了 老婆 曾 在 加拿大 買 了 一 台 yaris ; 但 我 從不 認為 別人 買 toyota 就 是 不 懂 車 或 啥 的 青菜 蘿波 各 有 所好 如果 你 的 車 被 說成 是 垃圾 / 會 撞 死人 的 車 .
 sentiment words: ['垃圾', '好', '死人']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [7.4, 5.2, 7.0]
 The predicted values is (using Arithmetic Average): 6.53333333333
 sentiment words: ['垃圾', '好', '死人']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [7.4, 5.2, 7.0]
 The predicted values is (using Geometric  Average): 6.45819322161
+The true values is: 6.375
 你 會 很 開心 嗎 ?
 sentiment words: ['開心']
+words frequent: [1]
 correpsonding sentiment values: [6.6]
 The predicted values is (using Arithmetic Average): 6.6
 sentiment words: ['開心']
+words frequent: [1]
 correpsonding sentiment values: [6.6]
 The predicted values is (using Geometric  Average): 6.6
+The true values is: 5.75
 換 個 角度 看 有 些 冷門車 的 車主 自 以為 很 有 品味 很 懂 車 那些 人 的 車 在 別人 眼 裡 可能 比 toyota 更 像 垃圾
 sentiment words: ['垃圾']
+words frequent: [1]
 correpsonding sentiment values: [7.4]
 The predicted values is (using Arithmetic Average): 7.4
 sentiment words: ['垃圾']
+words frequent: [1]
 correpsonding sentiment values: [7.4]
 The predicted values is (using Geometric  Average): 7.4
+The true values is: 6.25
 大部份 人 用 車 多 是 在 市區 走 走軟 懸吊 適合 台灣 爛路 。
 sentiment words: ['適合']
+words frequent: [1]
 correpsonding sentiment values: [3.8]
 The predicted values is (using Arithmetic Average): 3.8
 sentiment words: ['適合']
+words frequent: [1]
 correpsonding sentiment values: [3.8]
 The predicted values is (using Geometric  Average): 3.8
+The true values is: 4.428571429
 豐田 車子 很 大眾化 符合 最多人 的 選擇 但 缺乏 個性化 不過 台灣人 很 愛 跟 風潮 的 這 在 台灣 變成 不 是 缺點 第三 點 很 忠肯 歐系車 遇到 爛路 真的 會 抖出 一 大 碗
 sentiment words: ['愛', '缺乏', '缺點', '遇到']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.4, 4.6, 4.6, 4.2]
 The predicted values is (using Arithmetic Average): 4.7
 sentiment words: ['愛', '缺乏', '缺點', '遇到']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.4, 4.6, 4.6, 4.2]
 The predicted values is (using Geometric  Average): 4.6804722898
+The true values is: 4.75
 我 猜 應該 60 - 95 km/h 以下 我 開 小 v 快 二 年 了 當初 是 因為 想 省點 油 錢 ... 小 v 在 100 km/h 大概 2800 - 2900 轉 左右 110 km/h 大概 3000 轉 起步 大約 30 00 轉 就 會 換檔 拉回 了 市區 一般 行駛 時 大概 都 在 2000 轉 上下 建議 不要 跑 太 快 耗油 加上 不 安全 .... 尤其 下雨天 高速公路 有 積水 的 話超 刺激 100 km/h 過 小 水波 區會 瞬間 空轉 降 速 到 快 90 km/h 說 另外 個人 平均 油耗 冬天 不 開 冷氣 ) 13.5 - 14 左右 夏天 開 冷氣 12.5 - 13 左右 結論 是 台 外型 還 不錯 的 省 油小車 優點 ) 隔音 差 到 爆 是 我 覺得 最 討厭 的 缺 點 )
 sentiment words: ['優點', '刺激', '安全', '差', '想', '討厭']
+words frequent: [1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.0, 8.0, 4.4, 4.6, 3.6, 6.6]
 The predicted values is (using Arithmetic Average): 5.36666666667
 sentiment words: ['優點', '刺激', '安全', '差', '想', '討厭']
+words frequent: [1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.0, 8.0, 4.4, 4.6, 3.6, 6.6]
 The predicted values is (using Geometric  Average): 5.17630060479
+The true values is: 4.857142857
 你 可能 會 得到 新人獎 其實 你 說 的 沒 錯 不過 這 必須 運用到 你 的 智慧 與 眼光 做出 你 的 風格 應該 會 有 收入 我 有 認識 2 種 業務 一樣 100 俱樂部 一 個 能 折 就 折連 年終 都 折 下去 苦哈哈 一 個 一 台 車 都 有 辦法 留 2 w 笑哈哈 2 w 那 個 長 的 很 老實 說 話穩 有 內容 不單 只是 賣 車 是 假 專業 汽車 顧問 這 是 他 的 本錢 不過 事實 它 是 個 很 會 包裝 的 人 ~ 我 發現 上面 有 人 說 訊息 月曆 電話 送 禮 蠻 會 談判 還 能 留 錢 ) 不 做 徒勞無功 事情 ps 不會 買 的 客人 ) 祝 大家 民國 100 邁向 100
 sentiment words: ['徒勞無功', '智慧', '錯']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.4, 4.0, 4.8]
 The predicted values is (using Arithmetic Average): 4.4
 sentiment words: ['徒勞無功', '智慧', '錯']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.4, 4.0, 4.8]
 The predicted values is (using Geometric  Average): 4.38784524195
+The true values is: 4.142857143
 整天 想 護衛 隊 也 不 知道 是 無聊 然後 幻想 的 還是 怎樣 ?
 sentiment words: ['幻想', '想', '無聊']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.2, 3.6, 3.4]
 The predicted values is (using Arithmetic Average): 3.73333333333
 sentiment words: ['幻想', '想', '無聊']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.2, 3.6, 3.4]
 The predicted values is (using Geometric  Average): 3.71829266084
-Powerkk 兄 請 看清楚 我 的 回文 好 嗎 ？ 動不動 就 罵人 我 是 請 部份 說 camry 很 不 安全 的 朋友 提出 比較 明確 的 証據 這樣子 也 會 被 您 說 強迫症 您 是 精神科 的 醫師 嗎 ？ 樓上 有 位 朋友 批評 我 不一定 懂 相機 我 查 了 一下 這 位 仁兄 在 攝影版 的 發言 要是 我 像 這 位 仁兄 一樣 討論 類似 的 主題 我 一定 不 敢 說 誰 懂 或 誰 不 懂 因為 還 沒 到 那樣 的 level 啦 一 位 現任 ca mry 車主 留
+The true values is: 4.888888889
+請 看清楚 我 的 回文 好 嗎 ？ 動不動 就 罵人 我 是 請 部份 說 camry 很 不 安全 的 朋友 提出 比較 明確 的 証據 這樣子 也 會 被 您 說 強迫症 您 是 精神科 的 醫師 嗎 ？ 樓上 有 位 朋友 批評 我 不一定 懂 相機 我 查 了 一下 這 位 仁兄 在 攝影版 的 發言 要是 我 像 這 位 仁兄 一樣 討論 類似 的 主題 我 一定 不 敢 說 誰 懂 或 誰 不 懂 因為 還 沒 到 那樣 的 level 啦 一 位 現任 ca mry 車主 留
 sentiment words: ['好', '安全', '批評', '朋友']
+words frequent: [1, 1, 1, 2]
 correpsonding sentiment values: [5.2, 4.4, 7.6, 4.2]
-The predicted values is (using Arithmetic Average): 5.35
+The predicted values is (using Arithmetic Average): 5.12
 sentiment words: ['好', '安全', '批評', '朋友']
+words frequent: [1, 1, 1, 2]
 correpsonding sentiment values: [5.2, 4.4, 7.6, 4.2]
-The predicted values is (using Geometric  Average): 5.1985200784
+The predicted values is (using Geometric  Average): 4.98142548914
+The true values is: 6.777777778
 其實 就 樓主 描述 及 照片 看起來 也 不能 全 怪 是 神車不 好 ! 彎道 中 時速 70 已經 不 慢 ! 再 加上 是 爆 後輪 肯定 會 有 甩尾 的 現象 ! 再 加上 路面 品質 不 好 的 時候 翻車 應 是 不 意外 每 個人 對 車子 的 敏感度 不一 反應度 也 不一 ! 照 當時 情況 能 救回來 的 ! 應該 是 經驗 老到 有 不錯 反應 能力 的 人 ! ..... 總之 人 安全 就 好 車 再 買 就 有 ! 去 收 個 驚 改 改運 好了 !
 sentiment words: ['好', '安全', '對', '怪', '慢', '肯定', '驚']
+words frequent: [3, 1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 4.4, 4.8, 4.8, 2.8, 6.0, 7.0]
-The predicted values is (using Arithmetic Average): 5.0
+The predicted values is (using Arithmetic Average): 5.04444444444
 sentiment words: ['好', '安全', '對', '怪', '慢', '肯定', '驚']
+words frequent: [3, 1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 4.4, 4.8, 4.8, 2.8, 6.0, 7.0]
-The predicted values is (using Geometric  Average): 4.83749836169
+The predicted values is (using Geometric  Average): 4.9158058566
+The true values is: 5.875
 有 ESP 一定 可以 增加 失控 後 的 恢復 或是 阻止 失控 至於 能 恢復 多少 要 看 當時 的 環境 但 沒有 ESP 就是 看 自己 的 運氣 了 好笑 的 是 有 失控 經驗 並 存活下來 的 人 的 人 不見得 能 體認到 車子 需要 ESP 這 類 系統 這 種 人 就是 我 老婆 上 次 他們 家 老 可 在 高速公路 上 打轉 轉 天氣 晴朗
 sentiment words: ['失控', '好笑']
+words frequent: [3, 1]
 correpsonding sentiment values: [7.8, 6.4]
-The predicted values is (using Arithmetic Average): 7.1
+The predicted values is (using Arithmetic Average): 7.45
 sentiment words: ['失控', '好笑']
+words frequent: [3, 1]
 correpsonding sentiment values: [7.8, 6.4]
-The predicted values is (using Geometric  Average): 7.06540869306
+The predicted values is (using Geometric  Average): 7.4236236304
+The true values is: 3.714285714
 國外 之前 就 作 過 測試 了 找 一 堆 自認為 反應 一流 、 技術 不錯 的 一般 駕駛人 來 開 結果 ESPOFF 的 情況 就 是 打 滑 失控 ..... ESPON 則 好 很多 我 發現 01 版 上 神人 很多 老是 嗆 別人 不會 開車 自己 最 會 開 我 在 想 這 究竟 是 自我 感覺 良好 或是 自我 安慰 ?
 sentiment words: ['失控', '好', '想', '打']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [7.8, 5.2, 3.6, 6.6]
 The predicted values is (using Arithmetic Average): 5.8
 sentiment words: ['失控', '好', '想', '打']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [7.8, 5.2, 3.6, 6.6]
 The predicted values is (using Geometric  Average): 5.57167910398
+The true values is: 5.75
 買 TOYOTA 就 好像 娶 老婆 便宜 不用 太多 聘金 就 可以 入手 外型 又 很 好看 只是 沒有 精品 名牌 LV 加持 平常 都 不會 鬧脾氣 5000 公里 花 一點 小錢 他 就 爽 了 不用 常常 花 各 4千 弄 頭髮 一萬 買 保養品 3萬 買 LV 10萬 買 鑽戒 的 使用 它 的 時候 舒服 就 好了 不 需要 太多 的 技巧 能 達到 目的地 就 好了 不 需要 一直 大 馬力 衝刺 重點 是 等 你 想 換掉 他 一 堆 人 願意 出高價 去 接收 咧 一般 的 男人 甚至 女人 需要 的 不 就是 這 種 車 當然 想要 的 都 是 林志玲名模 等級 的 那 種 歐洲車 跑車
 sentiment words: ['想', '爽', '舒服', '願意']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [3.6, 7.2, 3.6, 5.0]
 The predicted values is (using Arithmetic Average): 4.85
 sentiment words: ['想', '爽', '舒服', '願意']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [3.6, 7.2, 3.6, 5.0]
 The predicted values is (using Geometric  Average): 4.64758001545
+The true values is: 5.142857143
 說真的 新舊 引擎 又 如何 看上 眼 的 還是 一 堆 你 跟 他 講 新舊 引擎 的 差異 可能 也 只 會 回答 差不多 啦 能 開 就 好 但是 你 跟 他 說 這 個 新 的 走 DVD 瑩幕 + 衛星 導航 啥 咪 5.1 環繞 音效 不用 加 錢 一 堆 阿薩布魯 的 配備 這 套 對 很多 人 都 是 一 大 吸引力 畢竟 引擎 看 不 到 DVD 可以 在 車 上 爽 這 就是 車商 把 台灣人 的 胃口 養大 了 沒有 6 個 安全 氣囊 沒關係 就 是 不能 沒有 DVD 螢幕 沒有 ABSTC SVSD 一 堆 電子 配備 也 沒關係 反正 開出去 自 爽 就 好
 sentiment words: ['好', '安全', '對', '爽']
+words frequent: [2, 1, 1, 2]
 correpsonding sentiment values: [5.2, 4.4, 4.8, 7.2]
-The predicted values is (using Arithmetic Average): 5.4
+The predicted values is (using Arithmetic Average): 5.66666666667
 sentiment words: ['好', '安全', '對', '爽']
+words frequent: [2, 1, 1, 2]
 correpsonding sentiment values: [5.2, 4.4, 4.8, 7.2]
-The predicted values is (using Geometric  Average): 5.30282675094
+The predicted values is (using Geometric  Average): 5.56195664177
+The true values is: 5.444444444
 當然 .. 你 可以 正名 但 也 請 不要 一 竿子 打翻 一 艘 船 會 選 TOYOTA 的 人 並 不 是 無知 或是 沒 做 功課 只 不過 每 個人 需求 不同 罷了 其他 車廠 有 TOYOTA 所 沒有 的 優點 有 更 好 的 超控 底盤 動力 安全 但是 TOYOTA 也 是 有 他 所有 而 其他 廠 比不上 的 優點 所以 請 不要 說 選 TOYOTA 的 人 就是 沒 做 功課 誰 買 國產車 是 像 選 衣服 一樣 隨便 買 的 ?
 sentiment words: ['優點', '好', '安全', '無知', '隨便']
+words frequent: [2, 1, 1, 1, 1]
 correpsonding sentiment values: [5.0, 5.2, 4.4, 4.4, 5.2]
-The predicted values is (using Arithmetic Average): 4.84
+The predicted values is (using Arithmetic Average): 4.86666666667
 sentiment words: ['優點', '好', '安全', '無知', '隨便']
+words frequent: [2, 1, 1, 1, 1]
 correpsonding sentiment values: [5.0, 5.2, 4.4, 4.4, 5.2]
-The predicted values is (using Geometric  Average): 4.82587878152
+The predicted values is (using Geometric  Average): 4.85447208583
+The true values is: 5.888888889
 說 白 了 只是 各 取 最 適合 自己 的 車 罷了 我 這樣 也 算 正名 嗎 ?
 sentiment words: ['適合']
+words frequent: [1]
 correpsonding sentiment values: [3.8]
 The predicted values is (using Arithmetic Average): 3.8
 sentiment words: ['適合']
+words frequent: [1]
 correpsonding sentiment values: [3.8]
 The predicted values is (using Geometric  Average): 3.8
+The true values is: 4.888888889
 有錢 歸 有錢 ... 可是 我 實在 不 懂 有錢 然後 拿 Camry 來 這樣 玩 有 什麼 意義 ?
 sentiment words: ['有錢', '玩']
+words frequent: [3, 1]
 correpsonding sentiment values: [5.4, 5.8]
-The predicted values is (using Arithmetic Average): 5.6
+The predicted values is (using Arithmetic Average): 5.5
 sentiment words: ['有錢', '玩']
+words frequent: [3, 1]
 correpsonding sentiment values: [5.4, 5.8]
-The predicted values is (using Geometric  Average): 5.59642743185
+The predicted values is (using Geometric  Average): 5.49733645796
+The true values is: 5.857142857
 有錢 為什麼 要 買 Camry ?
 sentiment words: ['有錢']
+words frequent: [1]
 correpsonding sentiment values: [5.4]
 The predicted values is (using Arithmetic Average): 5.4
 sentiment words: ['有錢']
+words frequent: [1]
 correpsonding sentiment values: [5.4]
 The predicted values is (using Geometric  Average): 5.4
+The true values is: 5.571428571
 平常 熱血 的 我 看到 跑車 玩 drift 或 powerslide 偶爾 也 會 覺得 挖 ~ 好 酷 ! ! .. 我 也 要 努力 賺錢 ! ! 可是 這 次 看完 影片 我 個人 只 覺得 . .......
 sentiment words: ['好', '玩']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.8]
 The predicted values is (using Arithmetic Average): 5.5
 sentiment words: ['好', '玩']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.8]
 The predicted values is (using Geometric  Average): 5.4918120871
+The true values is: 4.888888889
 有 更多 的 車子 更 好玩 為什麼 都 是 這 種 中大型 經濟 房車 ?
 sentiment words: ['好玩']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Arithmetic Average): 5.8
 sentiment words: ['好玩']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Geometric  Average): 5.8
+The true values is: 4.571428571
 保養 買車 容易 養車 難 ... 騎 機車 很 方便油 錢 保養 都 便宜 停車 也 不用 收錢 只是 辛苦 了 點 下雨天 麻煩 天氣 太 冷 或 天氣 太 熱 都 不 方便 那 又 怎樣 反正 只 是 上下班 而已 忍耐 一下 嚕 ! 幹嘛 為了 那 一點 爽度 而 去 浪費 辛苦 賺來 的 錢 呢 ! ! ! 體諒 老婆 是 好 男人 的 行為 ! ! ! 但是 請 量力而為 吧 !
 sentiment words: ['冷', '好', '體諒', '麻煩']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [4.4, 5.2, 4.8, 5.0]
 The predicted values is (using Arithmetic Average): 4.85
 sentiment words: ['冷', '好', '體諒', '麻煩']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [4.4, 5.2, 4.8, 5.0]
 The predicted values is (using Geometric  Average): 4.84079638339
+The true values is: 5.142857143
 不一定 看 內鐵 或 欲 裝內鐵處 ) 後 的 車架 結構 沒 比 內 鐵強 衝擊 就 傳 過 內鐵 傷 車架 反之 就 由 內 鐵 吃下 衝擊 這 就 跟 轎旅 或 SUV 前後 白鐵 硬質保稈 外 掛 別 亂裝 是 一樣 意思 原先 好好 的 塑質保桿 .
 sentiment words: ['傷', '衝擊']
+words frequent: [1, 2]
 correpsonding sentiment values: [5.2, 7.2]
-The predicted values is (using Arithmetic Average): 6.2
+The predicted values is (using Arithmetic Average): 6.53333333333
 sentiment words: ['傷', '衝擊']
+words frequent: [1, 2]
 correpsonding sentiment values: [5.2, 7.2]
-The predicted values is (using Geometric  Average): 6.11882341631
+The predicted values is (using Geometric  Average): 6.4598551345
+The true values is: 5.0
 發泡體 吃 的 下 的 衝擊 非得 直接 讓 硬質 白鐵 保桿傳 去 給 車架 硬 吃 傷到 車架 這樣 裝 外 掛 就 沒 意義 了 所以 一切 都 看 原始 設計 ...
 sentiment words: ['衝擊']
+words frequent: [1]
 correpsonding sentiment values: [7.2]
 The predicted values is (using Arithmetic Average): 7.2
 sentiment words: ['衝擊']
+words frequent: [1]
 correpsonding sentiment values: [7.2]
 The predicted values is (using Geometric  Average): 7.2
+The true values is: 4.75
 恰巧 剛 入手 CT 不久 ... 首先 我 覺得 油 電車 不好 開 但 好玩 ！
 sentiment words: ['好玩']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Arithmetic Average): 5.8
 sentiment words: ['好玩']
+words frequent: [1]
 correpsonding sentiment values: [5.8]
 The predicted values is (using Geometric  Average): 5.8
+The true values is: 5.666666667
 別有 一 番 駕駛 樂趣 。
 sentiment words: ['樂趣']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Arithmetic Average): 5.0
 sentiment words: ['樂趣']
+words frequent: [1]
 correpsonding sentiment values: [5.0]
 The predicted values is (using Geometric  Average): 5.0
+The true values is: 5.111111111
 如果 要 off-road 該 擔心 的 不只 是 動力 來源 了 至於 環不 環保 、 省 不 省錢 ？ 抱歉 我 幾乎 沒 考慮 過 這些 問題 ！
 sentiment words: ['抱歉', '擔心']
+words frequent: [1, 1]
 correpsonding sentiment values: [3.8, 6.6]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['抱歉', '擔心']
+words frequent: [1, 1]
 correpsonding sentiment values: [3.8, 6.6]
 The predicted values is (using Geometric  Average): 5.00799361022
+The true values is: 5.875
 小弟 今年 農曆年 前 剛 牽 的 RAV 4 最近 兩 周 早上 發車 後 開 冷氣 時 會 聞到 很 重 的 異味 味道 酸酸 的 非常 難 聞 前 兩 天 送回 原廠 檢查 技師 居然 跟 我 牽 拖東 牽拖 西 的 還 說 這 是 正常 的 這 兩 天 我 將 內 部 整理 乾淨 後 再 測試 發現到 單純 送風 時 的 異味感 還是 很 重 不過 開 了 A/C 後 有 好轉 請問 大家 有 何 建議 新車 就 如何 那 以後 還 得了 我 希望 能 有 好 方法 來 讓 原廠 重視 我 的 問題
 sentiment words: ['好', '希望']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.2]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['好', '希望']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.2, 5.2]
 The predicted values is (using Geometric  Average): 5.2
+The true values is: 5.0
 我 也 覺得 有 ESP 固然 很 好 但 絕對 不 是 萬能 一 台 車 失控 若 沒 ESP 鄉民 就 說 因 沒 ESP
 sentiment words: ['失控', '好']
+words frequent: [1, 1]
 correpsonding sentiment values: [7.8, 5.2]
 The predicted values is (using Arithmetic Average): 6.5
 sentiment words: ['失控', '好']
+words frequent: [1, 1]
 correpsonding sentiment values: [7.8, 5.2]
 The predicted values is (using Geometric  Average): 6.36867333124
-一 拿到 《 好 媽媽 勝過 好 老師 》 就 欲罷不能 好 書 啊 ！
-sentiment words: ['勝過', '好']
-correpsonding sentiment values: [5.8, 5.2]
-The predicted values is (using Arithmetic Average): 5.5
-sentiment words: ['勝過', '好']
-correpsonding sentiment values: [5.8, 5.2]
-The predicted values is (using Geometric  Average): 5.4918120871
-它 喚醒 了 我 心靈 深處 的 記憶 讓 再一次 體會 學習 和 成長 的 快樂 。
-sentiment words: ['快樂', '體會']
-correpsonding sentiment values: [6.4, 4.4]
-The predicted values is (using Arithmetic Average): 5.4
-sentiment words: ['快樂', '體會']
-correpsonding sentiment values: [6.4, 4.4]
-The predicted values is (using Geometric  Average): 5.30659966457
-讀 《 好 媽媽 勝過 好 老師 》 後 最 大 的 感受 是 我 知道 自己 錯 了 。
-sentiment words: ['勝過', '好', '錯']
-correpsonding sentiment values: [5.8, 5.2, 4.8]
-The predicted values is (using Arithmetic Average): 5.26666666667
-sentiment words: ['勝過', '好', '錯']
-correpsonding sentiment values: [5.8, 5.2, 4.8]
-The predicted values is (using Geometric  Average): 5.25078446328
-改正 錯誤 從 現在 做 起 。
-sentiment words: ['錯誤']
-correpsonding sentiment values: [5.6]
-The predicted values is (using Arithmetic Average): 5.6
-sentiment words: ['錯誤']
-correpsonding sentiment values: [5.6]
-The predicted values is (using Geometric  Average): 5.6
-哈哈 這 跟 這 主題 有關 嗎 ?
-sentiment words: ['哈哈']
-correpsonding sentiment values: [6.0]
-The predicted values is (using Arithmetic Average): 6.0
-sentiment words: ['哈哈']
-correpsonding sentiment values: [6.0]
-The predicted values is (using Geometric  Average): 6.0
+The true values is: 3.75
 好 吧 講 其中 一 個 理由 我 認為 一 台 1.6 噸 的 車子 油耗 只 有 14 KM/L
 sentiment words: ['好']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['好']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
+The true values is: 5.142857143
 請 恕 小弟 無知 問 一 個 疑惑 已 久 的 問題 ... 既然 GTR 那麼 厲害 為何 中里毅會 輕易 的 被 帝王隊 的 板凳 球員 清次 打敗 ?
 sentiment words: ['打敗', '無知', '疑惑']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.0, 4.4, 4.8]
 The predicted values is (using Arithmetic Average): 5.06666666667
 sentiment words: ['打敗', '無知', '疑惑']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [6.0, 4.4, 4.8]
 The predicted values is (using Geometric  Average): 5.02282894258
+The true values is: 5.666666667
 京 一 才 是 帝王隊 的 王牌 都 不用 他 出場 了 我 看 不 出中里毅 是 因為 技不如人 才 輸 了 那 場 看起來 像 是 車子 性能 遠 不如 對手 ... 意思 是 EVO 4 比 GTRR 32 強 ?
 sentiment words: ['強', '輸']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.4, 4.4]
 The predicted values is (using Arithmetic Average): 4.9
 sentiment words: ['強', '輸']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.4, 4.4]
 The predicted values is (using Geometric  Average): 4.87442304278
+The true values is: 5.875
 就算 質疑 中里 的 技術 神 之 腳 在 下坡 也 徹底 輸給 了 啟介 神 之 腳 的 技術 沒 人 質疑 吧 ?
 sentiment words: ['質疑']
+words frequent: [2]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Arithmetic Average): 5.6
 sentiment words: ['質疑']
+words frequent: [2]
 correpsonding sentiment values: [5.6]
 The predicted values is (using Geometric  Average): 5.6
+The true values is: 5.0
 唉 往事 不堪回首 何必 再 提 我 就是 那 位 幸運 的 civic 車主 啦 不過 就 是 有沒有 後 保險桿 內 鐵 的 差別 罷了 沒 必要 扯到 品牌 耐撞 與否 的 問題 civic 是 台 跨 時代 的 好 車 Altis 的 好
 sentiment words: ['好', '幸運']
+words frequent: [2, 1]
 correpsonding sentiment values: [5.2, 5.4]
-The predicted values is (using Arithmetic Average): 5.3
+The predicted values is (using Arithmetic Average): 5.26666666667
 sentiment words: ['好', '幸運']
+words frequent: [2, 1]
 correpsonding sentiment values: [5.2, 5.4]
-The predicted values is (using Geometric  Average): 5.2990565198
+The predicted values is (using Geometric  Average): 5.2658297732
+The true values is: 5.375
 事 後 我 已經 去 裝 原廠 後內鐵 了 拍賣 店家 有 進 HONDA 原廠 後內鐵 裝到 好 大約 10 張 小朋友 有 找 ) Altis 放馬 過來 吧 當然 是 說說 而已 .. 希望 所有 車主 小心 開車 ~ 安全 第一 啦 ! ) 我 在 VtecSpirit 的 ID 跟 這裡 的 一樣 啦 ~ 請 多多 指教 )
 sentiment words: ['好', '安全', '小心', '希望']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 4.4, 6.0, 5.2]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['好', '安全', '小心', '希望']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.2, 4.4, 6.0, 5.2]
 The predicted values is (using Geometric  Average): 5.16895383648
+The true values is: 4.0
 每 天 發 類似 的 抱怨 ... 不 累 嗎 ?
 sentiment words: ['抱怨', '累']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.6, 4.6]
 The predicted values is (using Arithmetic Average): 5.6
 sentiment words: ['抱怨', '累']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.6, 4.6]
 The predicted values is (using Geometric  Average): 5.50999092558
+The true values is: 5.125
 假如 他 不 安全 買 你 覺得 安全 的 車 啊 ! 假如 開起來 不 像 跑車 ... 那 就 去 買 跑車 啊 ! ! 配備 不 夠 沒有 足夠 的 安全 氣囊 。
 sentiment words: ['安全', '足夠']
+words frequent: [3, 1]
 correpsonding sentiment values: [4.4, 4.0]
-The predicted values is (using Arithmetic Average): 4.2
+The predicted values is (using Arithmetic Average): 4.3
 sentiment words: ['安全', '足夠']
+words frequent: [3, 1]
 correpsonding sentiment values: [4.4, 4.0]
-The predicted values is (using Geometric  Average): 4.19523539268
+The predicted values is (using Geometric  Average): 4.29639799458
+The true values is: 5.625
 藉 此 分享 一下 人人 喊 打 的 鉛酸 電池 情況 一般人 對 車 用 鉛酸 電池 直覺 就 是 高 污染 的 毒物 鉛 本身 的確 毒性 很 高 但是 回收 容易 又 有利可圖 無須 任何 補助 回收 鉛 本身 就 有 利潤 只要 收回 廠 的 防汙 設備 做好 就 行 以 美國 來 說 車 用 鉛酸 電池 回收率 達到 99 % 老化 鉛酸 電池 一般 狀況 下 也 不會 被 棄置 拿去 家 裡 附近 的 電池 行都 可以 收 個 150 - 300 台幣 間 視 鉛 價 而 定 鉛酸 電池 的 回收 循 環 中 只要 管制 好 非法 黑心 不裝 設防 汙 設備 的 回收 業者 污染 事實 上 很 小
 sentiment words: ['分享', '利潤', '好', '對', '打', '設防']
+words frequent: [1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.6, 5.4, 5.2, 4.8, 6.6, 4.8]
 The predicted values is (using Arithmetic Average): 5.23333333333
 sentiment words: ['分享', '利潤', '好', '對', '打', '設防']
+words frequent: [1, 1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.6, 5.4, 5.2, 4.8, 6.6, 4.8]
 The predicted values is (using Geometric  Average): 5.19433821665
+The true values is: 5.142857143
 我 開 什麼 車 不 重要 但 重點 是 絕對 比 國產 的 Camry 安全 相對 比較 下 Camry 對 我 來 說 不 安全 ) 還 有 作 啥 工作 跟 車子 有 啥 關係 ?
 sentiment words: ['安全', '對']
+words frequent: [2, 1]
 correpsonding sentiment values: [4.4, 4.8]
-The predicted values is (using Arithmetic Average): 4.6
+The predicted values is (using Arithmetic Average): 4.53333333333
 sentiment words: ['安全', '對']
+words frequent: [2, 1]
 correpsonding sentiment values: [4.4, 4.8]
-The predicted values is (using Geometric  Average): 4.59565011723
+The predicted values is (using Geometric  Average): 4.52948539296
+The true values is: 5.625
 殊不知 路 邊 伸手 乞討 的 有 可能 是 開 大賓士 呢 ... 至於 反駁 您 的 論點 也 是 您 提出 的 論點 實在 過於 荒繆路 上 常 見到 的 車 只 不過 是 符合 大多數 人 購 車 的 需求 省 油 妥善 率高 並 非 啥 安全性 非常 好 的 車款 尤其 是 偷 過 安全 配備 的 車款 而 小弟 的 目前 的 所 開 的 爛車 等級 也 只 比 國產 的 Camry 再 高 一點 而已 不 是 多 好 的 車子 所以 就 不 拿出來 說嘴 了
 sentiment words: ['偷', '反駁', '好', '安全']
+words frequent: [1, 1, 2, 1]
 correpsonding sentiment values: [5.0, 6.4, 5.2, 4.4]
-The predicted values is (using Arithmetic Average): 5.25
+The predicted values is (using Arithmetic Average): 5.24
 sentiment words: ['偷', '反駁', '好', '安全']
+words frequent: [1, 1, 2, 1]
 correpsonding sentiment values: [5.0, 6.4, 5.2, 4.4]
-The predicted values is (using Geometric  Average): 5.20177423967
+The predicted values is (using Geometric  Average): 5.20141934331
+The true values is: 6.0
 你 就 像 是 禿頭 男 罵 頭髮 多 人 的 髮型 很 醜 一樣 自己 的 車 明明 就 是 不 到 十萬 的 破爛 喜美 不僅 沒 VSC 也 沒 6 氣囊 甚至 連 BAS 。 EBD 甚至 又 是 十多 年 前 喜美 的 爛 車體 沒 頭髮 的 人 卻 罵 有 頭髮 的 人 髮型 很 醜 真是 好笑 ! 勸 你 開 過 三 台 以上 的 車 每 一 台 都 開 過半年 以上 再 來 發表 高論 學生 不要 整 天 打線 上 遊戲 又 跑來 汽車 版裝 專家 會 被 人 看破 手腳 的
 sentiment words: ['好笑', '爛', '遊戲', '醜']
+words frequent: [1, 1, 1, 2]
 correpsonding sentiment values: [6.4, 5.6, 4.8, 3.8]
-The predicted values is (using Arithmetic Average): 5.15
+The predicted values is (using Arithmetic Average): 4.88
 sentiment words: ['好笑', '爛', '遊戲', '醜']
+words frequent: [1, 1, 1, 2]
 correpsonding sentiment values: [6.4, 5.6, 4.8, 3.8]
-The predicted values is (using Geometric  Average): 5.05647900964
+The predicted values is (using Geometric  Average): 4.7756807437
+The true values is: 6.444444444
 不 扯 太 遠 現在 長輩 還是 認為 國產車 買 TOYOTA 手機 門號 用 中華 電信光 這 2 樣 就 有夠 糟糕 不 是 T 牌 不 好 而是 代理商 的 心態 很 糟糕 反正 : 買 T 牌 的 不會 開快車 然後 台灣 的 國慘車 基本 上 配備 都 是 不 夠 的 電信 公司 更 .... 網路 還是 不 對稱 的 ADSL 速度 更 ... 但是 長輩 們 還是 這麼 認為 不過 等 我們 這些 青少年 變成 所謂 的 老一輩 的 時候 我 不 相信 還 能 再 賺到 我們 的 錢
 sentiment words: ['好', '相信', '糟糕']
+words frequent: [1, 1, 2]
 correpsonding sentiment values: [5.2, 5.4, 5.2]
-The predicted values is (using Arithmetic Average): 5.26666666667
+The predicted values is (using Arithmetic Average): 5.25
 sentiment words: ['好', '相信', '糟糕']
+words frequent: [1, 1, 2]
 correpsonding sentiment values: [5.2, 5.4, 5.2]
-The predicted values is (using Geometric  Average): 5.2658297732
+The predicted values is (using Geometric  Average): 5.24929461004
+The true values is: 4.428571429
 偷 很多 不 是 只有 這 部 就 開始 了 但是 還是 很多 人 買 甚至 更多 人 討論 T 牌 的 安全性 不足 的 問題 不過 買 的 人 就 是 多 你 放心 ！
 sentiment words: ['不足', '偷', '放心']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.2, 5.0, 3.2]
 The predicted values is (using Arithmetic Average): 4.13333333333
 sentiment words: ['不足', '偷', '放心']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.2, 5.0, 3.2]
 The predicted values is (using Geometric  Average): 4.06558542726
+The true values is: 5.75
 真的 ! ! 不 怕死 的 就 買 TOYOTA ; 安全 配備 極 差 開 船 上路 還 亂開 的 不少 要 小心 被 撞 ~ 怕死 的 就 買 FOCUS ; 版 金好
 sentiment words: ['安全', '小心', '差']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.4, 6.0, 4.6]
 The predicted values is (using Arithmetic Average): 5.0
 sentiment words: ['安全', '小心', '差']
+words frequent: [1, 1, 1]
 correpsonding sentiment values: [4.4, 6.0, 4.6]
 The predicted values is (using Geometric  Average): 4.95207544842
+The true values is: 5.333333333
 之前 在 汽車 百貨 看到 這 隻 司柏奈 ) 德國油 在 台 分裝 在 特價 188 想 說 俗俗 買來 用用 看 ~ 起步 輕快 引擎聲 變小 但 太 黏 尾 速縮掉 了 還 有 清潔性 不佳 聽 朋友 介紹 下 ~ 用 了 力豹仕 ~ 真的 好用 ~ 拉轉 力道 猛爆 ~ 可惜 油耗 差 了 些 跟 其它 牌 10 w 40 的 機油 比 ) 後來 看到 倉庫 賣 的 agip5w 40 ~ 忍不住 又 想 買來 玩玩 看 ~ 還 蠻 省 油 的 ~ 倉庫 賣 的 比 汽車 百貨 便宜 好多 ~ 好 賣家 ^ ^ 這 幾 隻 油 是 我 用 過 還 不錯 的 ~ 貼上來 讓 大家 看 一下
 sentiment words: ['好', '差', '想', '朋友', '輕快']
+words frequent: [1, 1, 2, 1, 1]
 correpsonding sentiment values: [5.2, 4.6, 3.6, 4.2, 4.8]
-The predicted values is (using Arithmetic Average): 4.48
+The predicted values is (using Arithmetic Average): 4.33333333333
 sentiment words: ['好', '差', '想', '朋友', '輕快']
+words frequent: [1, 1, 2, 1, 1]
 correpsonding sentiment values: [5.2, 4.6, 3.6, 4.2, 4.8]
-The predicted values is (using Geometric  Average): 4.44539995502
+The predicted values is (using Geometric  Average): 4.29183269724
+The true values is: 5.625
 個人 認為 會 買 toyota 的 客戶 大都 不會 做 買 車 前 的 安全 比較 有 可能 是 老一輩 口 耳 相傳 或 厝 邊 朋友 的 意見 。
 sentiment words: ['安全', '朋友']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.4, 4.2]
 The predicted values is (using Arithmetic Average): 4.3
 sentiment words: ['安全', '朋友']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.4, 4.2]
 The predicted values is (using Geometric  Average): 4.29883705204
+The true values is: 3.875
 但 品質 品牌 或 省 油 的 優勢 是 不 是 真的 一直 維持 2.5 的 銷量 很 快 就 能 反映出來
 sentiment words: ['優勢']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Arithmetic Average): 6.0
 sentiment words: ['優勢']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Geometric  Average): 6.0
+The true values is: 5.625
 如果 因為 2.5 的 稅金 還 有 一些 優勢 不 存 再 加上 很多 安全 配備 被 削減 而 導致 銷量 驟 減 。
 sentiment words: ['優勢', '安全']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.0, 4.4]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['優勢', '安全']
+words frequent: [1, 1]
 correpsonding sentiment values: [6.0, 4.4]
 The predicted values is (using Geometric  Average): 5.13809303147
+The true values is: 4.571428571
 其實 討論 就 好 也 別 針鋒相對 ... 唉 說 太多 等等 我 也 會 冠上 護衛 之 名 .
 sentiment words: ['好']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['好']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
+The true values is: 5.125
 真的 主 、 被動 再 強 還是 駕駛人 的 觀念 最 重要 不然 也 不會 有 名人 的 高級車 或 超 跑 ... 等 的 撞車 新聞 了 雖然 都 沒 大礙 但 開 T 牌 的 撞車 就 一定 會 死人 是 嗎 ?
 sentiment words: ['強', '死人']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.4, 7.0]
 The predicted values is (using Arithmetic Average): 6.2
 sentiment words: ['強', '死人']
+words frequent: [1, 1]
 correpsonding sentiment values: [5.4, 7.0]
 The predicted values is (using Geometric  Average): 6.14817045958
+The true values is: 6.0
 深感 不以為然 才 發 文 的 另一方面 某 種 程度 上 我 也 給 了 樓主 一些 建議 那 就是 TOYOTA 的 車 要 操 壞 沒 那麼 容易 沒 想到 幾 天 沒 上 來 看 結果 這 整 棟 樓歪掉 了 對 此 對 樓主致上 歉意 小弟 真的 沒 想到 會 如此 樓主 有 問題 上網 尋求 幫助 和 經驗 分享 請 各 位 高手 先進 們 回復到 樓主 的 議題 並 祝 新年 快樂 謝謝
 sentiment words: ['分享', '對', '幫助', '快樂', '操', '謝謝']
+words frequent: [1, 2, 1, 1, 1, 1]
 correpsonding sentiment values: [4.6, 4.8, 5.6, 6.4, 8.0, 5.8]
-The predicted values is (using Arithmetic Average): 5.86666666667
+The predicted values is (using Arithmetic Average): 5.71428571429
 sentiment words: ['分享', '對', '幫助', '快樂', '操', '謝謝']
+words frequent: [1, 2, 1, 1, 1, 1]
 correpsonding sentiment values: [4.6, 4.8, 5.6, 6.4, 8.0, 5.8]
-The predicted values is (using Geometric  Average): 5.76519730706
+The predicted values is (using Geometric  Average): 5.61625234025
+The true values is: 3.4
 如果 不 常 跑 高速公路 比方說 小黃 如果 後 做 不 常 帶 小孩 或是 只 有 偶爾 載 不 熟 的 朋友 那 安全 配備 低 一點 無所謂 可以 省 很多 錢 台灣 人命 的 值錢 程度 隨著 國力 不振 早 就 成長 有限 只 能 說 不同 產品 有 鎖定 不同 客層 想要 強調 安全 的 自然 會 去 買 其他 車廠 的 或是 進口車 不然 去 買 Lexus 啊 .... 安全 氣囊 或是 ESP 都 少不了 的 便宜 就是 有 便宜 的 做法 有錢 能 買 汽車 誰 想要 騎 機車 去 肉包 鐵 呢 ?
 sentiment words: ['值錢', '安全', '有錢', '朋友']
+words frequent: [1, 3, 1, 1]
 correpsonding sentiment values: [5.6, 4.4, 5.4, 4.2]
-The predicted values is (using Arithmetic Average): 4.9
+The predicted values is (using Arithmetic Average): 4.73333333333
 sentiment words: ['值錢', '安全', '有錢', '朋友']
+words frequent: [1, 3, 1, 1]
 correpsonding sentiment values: [5.6, 4.4, 5.4, 4.2]
-The predicted values is (using Geometric  Average): 4.86206699147
+The predicted values is (using Geometric  Average): 4.70289032857
+The true values is: 5.428571429
 這 你 就 錯 了 ! 懂 車 的 人 注重 車 的 人 真的 不會 去 開 TOYOTA 這 你 慢慢 去 外面 觀察 跟 多 交 交 有 開車 的 朋友 就 知道 了 ! ! 另外 你 說 : 有 些 冷門車 的 車主 自 以為 很 有 品味 很 懂 車 那些 人 的 車 在 別人 眼 裡 可能 比 toyota 更 像 垃圾 你 得 這 段 話 真 得 很 可笑 ! 還 挺 想 聽聽 看 哪些 是 你 認為 冷門 的 垃圾車 ?
 sentiment words: ['可笑', '垃圾', '想', '朋友', '錯']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [6.6, 7.4, 3.6, 4.2, 4.8]
 The predicted values is (using Arithmetic Average): 5.32
 sentiment words: ['可笑', '垃圾', '想', '朋友', '錯']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [6.6, 7.4, 3.6, 4.2, 4.8]
 The predicted values is (using Geometric  Average): 5.12759525249
+The true values is: 7.166666667
 這 種 狀況 我 最近 也 遇到 一 位 長輩 在 借 開 IS 250 上 武嶺 後 直接 說 買 這 種 車 真 不 值得 倒不如 買 Camry 還 比較 舒適 他 介紹 好幾 個 朋友 買 camry 每 個 開 過 都 讚不絕口
 sentiment words: ['值得', '朋友', '舒適', '讚不絕口', '遇到']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.6, 4.2, 3.6, 8.0, 4.2]
 The predicted values is (using Arithmetic Average): 5.12
 sentiment words: ['值得', '朋友', '舒適', '讚不絕口', '遇到']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [5.6, 4.2, 3.6, 8.0, 4.2]
 The predicted values is (using Geometric  Average): 4.90699730107
+The true values is: 5.5
 唉 ~ 又 是 一 篇 無聊 的 酸文 ！
 sentiment words: ['無聊']
+words frequent: [1]
 correpsonding sentiment values: [3.4]
 The predicted values is (using Arithmetic Average): 3.4
 sentiment words: ['無聊']
+words frequent: [1]
 correpsonding sentiment values: [3.4]
 The predicted values is (using Geometric  Average): 3.4
+The true values is: 5.5
 自己 的 神主牌 被 說到 缺點 就 一定 得 如此 酸 嗎 ？ 成熟 點 吧 ！
 sentiment words: ['缺點', '酸']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.6, 4.8]
 The predicted values is (using Arithmetic Average): 4.7
 sentiment words: ['缺點', '酸']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.6, 4.8]
 The predicted values is (using Geometric  Average): 4.69893604979
+The true values is: 6.666666667
 了解到 它 是 一 部 主動 安全 缺乏 的 機器 ！
 sentiment words: ['安全', '缺乏']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.4, 4.6]
 The predicted values is (using Arithmetic Average): 4.5
 sentiment words: ['安全', '缺乏']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.4, 4.6]
 The predicted values is (using Geometric  Average): 4.49888875168
+The true values is: 6.166666667
 請 注意 且 小心 的 操控 它 ！
 sentiment words: ['小心']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Arithmetic Average): 6.0
 sentiment words: ['小心']
+words frequent: [1]
 correpsonding sentiment values: [6.0]
 The predicted values is (using Geometric  Average): 6.0
+The true values is: 5.555555556
 不要 輕易 的 挑戰 它 的 極限 ！
 sentiment words: ['挑戰']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Arithmetic Average): 6.8
 sentiment words: ['挑戰']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Geometric  Average): 6.8
+The true values is: 5.571428571
 安全 ~ 是 唯一 回家 的 路 ！
 sentiment words: ['安全']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Arithmetic Average): 4.4
 sentiment words: ['安全']
+words frequent: [1]
 correpsonding sentiment values: [4.4]
 The predicted values is (using Geometric  Average): 4.4
+The true values is: 4.0
 ok ~ 了解 嗎 ？ 只是 希望 你 認清 事 而己 ！
 sentiment words: ['希望']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['希望']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
+The true values is: 4.875
 此 道路 為 單 線道 但是 道路 上 並 不 有 話 單向 或是 行駛 路線 路 邊 無 話 黃色 線道 也 無 紅色線 在 整 個 過程 中 對方 撞到 我 之後 變成 靜止 狀態 以 機車量 的 距離 與 寬度 大約 是 1.5 臺 車 也就是說 機車 改 4 輪 以 人 的 話 可以 至少 佔 4 個 人 所以 你 說 你們 說 我 氣憤 不 氣憤 重點 是 看 他 服務 那麼多 年 的 環保局 垃圾車 既然 會 撞 我 車子 會不會 太 誇張 了 再 稍微 些 10 ~ 15 角度 轉彎處 太 誇張 了 只 能 說 只 想 回 他 幾 句 髒話 哈哈
 sentiment words: ['哈哈', '想', '氣憤']
+words frequent: [1, 1, 2]
 correpsonding sentiment values: [6.0, 3.6, 7.0]
-The predicted values is (using Arithmetic Average): 5.53333333333
+The predicted values is (using Arithmetic Average): 5.9
 sentiment words: ['哈哈', '想', '氣憤']
+words frequent: [1, 1, 2]
 correpsonding sentiment values: [6.0, 3.6, 7.0]
-The predicted values is (using Geometric  Average): 5.32742401046
+The predicted values is (using Geometric  Average): 5.70377595178
+The true values is: 6.875
 我 個人 是 換 KYB 黑筒 避震器 覺得 比 原廠 還好 多 了 而且 又 不會 太 軟 覺得 可以 接受 但 我 看 網友 都 說 Toms 不錯 也 可以 給 版主 參考 我 覺得 每 台 車子 都 有 優缺點 改善 缺點 即可 至於 版主 提到 何時 更換 我 也 有 想 過 此 問題 最後 我 認為 越 早 越 好 不要 開 了 四 年 保固 後 才 換 避震器 我 個人 覺得 失去 更換 意義 給 您 參考 ~ ~
 sentiment words: ['失去', '好', '想', '改善', '缺點']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [6.4, 5.2, 3.6, 5.2, 4.6]
 The predicted values is (using Arithmetic Average): 5.0
 sentiment words: ['失去', '好', '想', '改善', '缺點']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [6.4, 5.2, 3.6, 5.2, 4.6]
 The predicted values is (using Geometric  Average): 4.9141612015
+The true values is: 3.0
 安全線 已 到 -- 我 見 過 開 到 鋼絲 外漏 還 不 願意 換 的 車主 卡車 這 種 人 最 可惡 沒 錢 換 胎 開 什麼 車 走路 就 好了 不要 害人 。
 sentiment words: ['可惡', '願意']
+words frequent: [1, 1]
 correpsonding sentiment values: [7.2, 5.0]
 The predicted values is (using Arithmetic Average): 6.1
 sentiment words: ['可惡', '願意']
+words frequent: [1, 1]
 correpsonding sentiment values: [7.2, 5.0]
 The predicted values is (using Geometric  Average): 6.0
+The true values is: 6.714285714
 爆胎 就 是 鬆 油門 鬆 煞車 全心 對付 方向盤
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Arithmetic Average): 5
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Geometric  Average): 5
+The true values is: 5.0
 如果 是 直線 因 該 會 比較 好 一點 .
 sentiment words: ['好']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Arithmetic Average): 5.2
 sentiment words: ['好']
+words frequent: [1]
 correpsonding sentiment values: [5.2]
 The predicted values is (using Geometric  Average): 5.2
+The true values is: 4.625
 我 在 高速公路 上 看 過 一 台 箱型車 爆胎 還可以 平穩 慢慢 的 開 到 路肩 真的 很 冷靜 .
 sentiment words: ['冷靜', '平穩']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.4, 3.4]
 The predicted values is (using Arithmetic Average): 3.9
 sentiment words: ['冷靜', '平穩']
+words frequent: [1, 1]
 correpsonding sentiment values: [4.4, 3.4]
 The predicted values is (using Geometric  Average): 3.86781592116
+The true values is: 4.5
 前年 是 我 老婆 嫌 她 手 邊 錢 太多 想 換車 見 鬼 了 我 窮 得 很 她 卻 有錢 ?
 sentiment words: ['嫌', '想', '有錢', '窮']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.8, 3.6, 5.4, 4.0]
 The predicted values is (using Arithmetic Average): 4.7
 sentiment words: ['嫌', '想', '有錢', '窮']
+words frequent: [1, 1, 1, 1]
 correpsonding sentiment values: [5.8, 3.6, 5.4, 4.0]
 The predicted values is (using Geometric  Average): 4.6083564243
+The true values is: 7.125
 所以 陪 她 去 看 這 兩 年 發現 老 福特 tierra 真的 是 比 小孩 喝 汽水 喝 得 快 每 周 都 在 加油 我 不 是 計程車 司機 喔 ! 所以 決定 要 換車 但 跟 女王 的 suv 款 拉鋸 上 月 初 她 才 同意 我 買 Prius 我 太 寵 她 太 順 她 結果 她 意見 挺 多 所以 奉勸 未婚 的 朋友 要 man 一點 先 以免 跟 我 一樣 變成 ) 偏偏 碰上 這 尷尬 的 年份 車款 切換 時期 真 無奈
 sentiment words: ['同意', '尷尬', '朋友', '決定', '無奈']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.4, 4.6, 4.2, 7.0, 4.2]
 The predicted values is (using Arithmetic Average): 4.88
 sentiment words: ['同意', '尷尬', '朋友', '決定', '無奈']
+words frequent: [1, 1, 1, 1, 1]
 correpsonding sentiment values: [4.4, 4.6, 4.2, 7.0, 4.2]
 The predicted values is (using Geometric  Average): 4.78146989579
+The true values is: 4.0
 小弟 只是 將 龍捲風 與 之前 討論 沸沸 揚揚 的 事件 提出來 而已 並 沒有 批判 任何 車 .
 sentiment words: ['批判']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Arithmetic Average): 6.8
 sentiment words: ['批判']
+words frequent: [1]
 correpsonding sentiment values: [6.8]
 The predicted values is (using Geometric  Average): 6.8
+The true values is: 4.5
 煙灰 ... 等等 ) 你 母親 就 一定 會 要求 將 椅套 拿去 送 洗 在 洗 的 期間 可以 跟 母親 說 : 沒 椅套 也 蠻 整體性
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Arithmetic Average): 5
 sentiment words: []
+words frequent: []
 correpsonding sentiment values: []
 No sentiment words found in this sentence!
 The predicted values is (using Geometric  Average): 5
-如果 是 第一 次 養育 寶寶 會 有 意想不到 的 收穫 重要 的 是 教會 你 注重 寶寶 的 個性 保護 寶寶 的 個性 如何 避開 護理 的 誤區 如何 第一 時候 掌握 病情 如何 第一 時間 解決 問題 如何 預見 和 防護 寶寶 的 安全 。
-sentiment words: ['保護', '安全', '收穫', '解決', '養育']
-correpsonding sentiment values: [6.8, 4.4, 5.6, 4.8, 4.0]
-The predicted values is (using Arithmetic Average): 5.12
-sentiment words: ['保護', '安全', '收穫', '解決', '養育']
-correpsonding sentiment values: [6.8, 4.4, 5.6, 4.8, 4.0]
-The predicted values is (using Geometric  Average): 5.02909881472
-如果 你 是 自己 帶 寶寶 就 會 覺得 有 信心 處理好 在 你 看來 意想不到 但 對於 寶寶 來 說 卻 是 非常 自然 的 生理 情況 。
-sentiment words: ['信心']
-correpsonding sentiment values: [5.4]
-The predicted values is (using Arithmetic Average): 5.4
-sentiment words: ['信心']
-correpsonding sentiment values: [5.4]
-The predicted values is (using Geometric  Average): 5.4
+The true values is: 4.5
 Prediction result (arithmetic average):
 prediction result:
 MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
-1.252 0.898 0.1 -0.518 0.095 1.119
+1.29 0.907 0.094 -0.566 0.097 1.136
 Prediction result (geometric average):
 prediction result:
 MSE, MAE, Pearson_r, R2, Spearman_r, MSE_sqrt
-1.269 0.905 0.088 -0.539 0.085 1.127
+1.311 0.916 0.083 -0.591 0.085 1.145
 
 Process finished with exit code 0

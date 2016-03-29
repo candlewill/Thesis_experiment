@@ -52,7 +52,7 @@ def va_prediction(sentences, lexicon, true_values):
 if __name__ == '__main__':
     ########################################### Hyper-parameters ###########################################
     target = 'arousal' # values: "valence", "arousal"
-    categorical = 'all'  # values: 'all', "book", "car", "laptop", "hotel", "news", "political"
+    categorical = 'political'  # values: 'all', "book", "car", "laptop", "hotel", "news", "political"
     ########################################################################################################
     # texts, valence, arousal = read_mix_data(categorical)
     from load_data import load_CVAT_3
